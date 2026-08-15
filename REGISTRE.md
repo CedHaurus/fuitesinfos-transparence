@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**134** entrées ajoutées · **0** retirées · **49** corrections individuelles · **3** révisions groupées (174 fiches)
+**134** entrées ajoutées · **0** retirées · **73** corrections individuelles · **3** révisions groupées (174 fiches)
 
-Empreinte de tête : `c6ac459652df5a133088b09731e6a11050b5eace36c32a4476d329cfb265db54`
+Empreinte de tête : `2e58d0a1ad50e33bb635b73ee3b8b58d5160ff6b6e7cf490d908ac5f900753c9`
 
 > **À ce jour, aucune entrée n'a jamais été retirée du catalogue.**
 > Ni à la demande d'une entreprise, ni sur décision de justice, ni pour aucun autre motif. Les 580 fiches publiques existant au début de cette période et les 134 ajoutées depuis sont toutes encore en ligne.
@@ -15,6 +15,30 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Août 2026
 
+- `2026-08-15 (constaté)` — **Réseau National des Juniors Associations** (fiche du 2026-06-13) · Statut : Revendiquée → Confirmée
+- `2026-08-15 (constaté)` — **Réseau National des Juniors Associations** (fiche du 2026-06-13) · Description publique réécrite — texte non reproduit (empreinte eb75b950e5fbedf2 → 25e96511cf393fa5)
+- `2026-08-15 (constaté)` — **Rennes Métropole** (fiche du 2026-06-09) · Statut : Revendiquée → Confirmée
+- `2026-08-15 (constaté)` — **Rennes Métropole** (fiche du 2026-06-09) · Description publique réécrite — texte non reproduit (empreinte d0bc0ba0f11d9e05 → c59f8f3d70f652d6)
+- `2026-08-15 (constaté)` — **Philharmonie de Paris (PAD)** (fiche du 2026-01-06) · Statut : Revendiquée → Confirmée
+- `2026-08-15 (constaté)` — **Philharmonie de Paris (PAD)** (fiche du 2026-01-06) · Description publique réécrite — texte non reproduit (empreinte b7c6a99279cf142b → f7386d4effd3f83a)
+- `2026-08-15 (constaté)` — **Nosho** (fiche du 2026-04-05) · Statut : Revendiquée → Confirmée
+- `2026-08-15 (constaté)` — **Nosho** (fiche du 2026-04-05) · Description publique réécrite — texte non reproduit (empreinte 8e1a38751f70ce5d → ef0cc4c777f56510)
+- `2026-08-15 (constaté)` — **JeVeuxAider.gouv.fr** (fiche du 2026-06-15) · Statut : Revendiquée → Confirmée
+- `2026-08-15 (constaté)` — **JeVeuxAider.gouv.fr** (fiche du 2026-06-15) · Description publique réécrite — texte non reproduit (empreinte 69af56618a0b3225 → cbf67c33f7e15158)
+- `2026-08-15 (constaté)` — **HPA Guide** (fiche du 2026-05-26) · Statut : Revendiquée → Confirmée
+- `2026-08-15 (constaté)` — **HPA Guide** (fiche du 2026-05-26) · Description publique réécrite — texte non reproduit (empreinte 42c608cfedda2fb3 → 22df09da594ae832)
+- `2026-08-15 (constaté)` — **Fédération française de voitures radio commandées (FFVRC)** (fiche du 2026-02-14) · Statut : Revendiquée → Confirmée
+- `2026-08-15 (constaté)` — **Fédération française de voitures radio commandées (FFVRC)** (fiche du 2026-02-14) · Description publique réécrite — texte non reproduit (empreinte 487f1ae24efab090 → 167599adc2da9a64)
+- `2026-08-15 (constaté)` — **Fédération Française d’ULM (FFPLUM)** (fiche du 2026-01-06) · Statut : Revendiquée → Confirmée
+- `2026-08-15 (constaté)` — **Fédération Française d’ULM (FFPLUM)** (fiche du 2026-01-06) · Description publique réécrite — texte non reproduit (empreinte 57a356adcc83bfa5 → 7b4de45425eea681)
+- `2026-08-15 (constaté)` — **Fédération Française de Ski** (fiche du 2026-02-27) · Statut : Revendiquée → Confirmée
+- `2026-08-15 (constaté)` — **Fédération Française de Ski** (fiche du 2026-02-27) · Description publique réécrite — texte non reproduit (empreinte 2cc4b406b0f24535 → 452cadd587bfe811)
+- `2026-08-15 (constaté)` — **Conservatoire de Bobigny** (fiche du 2026-06-09) · Statut : Revendiquée → Confirmée
+- `2026-08-15 (constaté)` — **Conservatoire de Bobigny** (fiche du 2026-06-09) · Description publique réécrite — texte non reproduit (empreinte af9b8a9bad75d9c7 → b94d5251a34c6c49)
+- `2026-08-15 (constaté)` — **Asten Santé** (fiche du 2026-02-05) · Statut : Revendiquée → Confirmée
+- `2026-08-15 (constaté)` — **Asten Santé** (fiche du 2026-02-05) · Description publique réécrite — texte non reproduit (empreinte fc770c013cf6c024 → 6bb8cb7d72828b25)
+- `2026-08-15 (constaté)` — **Accor** (fiche du 2026-07-16) · Statut : Revendiquée → Confirmée
+- `2026-08-15 (constaté)` — **Accor** (fiche du 2026-07-16) · Description publique réécrite — texte non reproduit (empreinte d50ece30513b2fa5 → 33cad5682d38a9b2)
 - `2026-08-14 (constaté)` — **Fédération Française de Handball (FFHandball)** (fiche du 2026-08-10) · Statut : Revendiquée → Confirmée
 - `2026-08-14 (constaté)` — **Fédération Française de Handball (FFHandball)** (fiche du 2026-08-10) · Description publique réécrite — texte non reproduit (empreinte c26538fd5365bbc3 → 67aca8c4a00b17a0)
 - `2026-08-14` — **Le Bon Matériel** (fiche du 2026-08-14) · **entrée ajoutée**
