@@ -2,12 +2,12 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**134** entrées ajoutées · **0** retirées · **73** corrections individuelles · **3** révisions groupées (174 fiches)
+**134** entrées ajoutées · **1** retirées · **82** corrections individuelles · **3** révisions groupées (174 fiches)
 
-Empreinte de tête : `2e58d0a1ad50e33bb635b73ee3b8b58d5160ff6b6e7cf490d908ac5f900753c9`
+Empreinte de tête : `4edf8c04efa0ecd8be7fb3ca69c7b273a913c4a40fb70d1a865213a3d66d0289`
 
-> **À ce jour, aucune entrée n'a jamais été retirée du catalogue.**
-> Ni à la demande d'une entreprise, ni sur décision de justice, ni pour aucun autre motif. Les 580 fiches publiques existant au début de cette période et les 134 ajoutées depuis sont toutes encore en ligne.
+> **1 entrée(s) retirée(s) depuis le début de cette période.**
+> Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
 
 Les changements sont classés du plus récent au plus ancien. La portée exacte de ce registre et ses limites sont décrites dans le [README](README.md).
 
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Août 2026
 
+- `2026-08-15 (constaté)` — **Association.fr** (fiche du 2026-07-09) · **ENTRÉE RETIRÉE** — motif : Erreur de notre part (L'entité désignée par cette fiche l'avait été sur la seule foi du nom que l'auteur de la revendication avait donné au fichier mis en vente. Le propriétaire du nom de domaine a publiquement indiqué, le 16 juillet 2026, n'avoir subi aucune intrusion et ne pas héberger de données personnelles sur ce site, qu'il décrit comme une vitrine d'information. Le réexamen conduit à rattacher l'ensemble décrit dans la revendication à un téléservice public de gestion des demandes de subvention associatives, dont une compromission distincte a été notifiée aux personnes concernées le 26 juin 2026 et figure séparément au catalogue ; la revendication qui la visait, publiée le 20 juin, décrivait le même périmètre de données, coordonnées bancaires comprises. Ce rattachement repose sur un faisceau d'indices concordants et non sur une preuve formelle. L'attribution initiale n'étant plus soutenable, la fiche est retirée de l'accès public afin que le nom de l'entité initialement désignée cesse d'être associé à cet incident.)
 - `2026-08-15 (constaté)` — **Réseau National des Juniors Associations** (fiche du 2026-06-13) · Statut : Revendiquée → Confirmée
 - `2026-08-15 (constaté)` — **Réseau National des Juniors Associations** (fiche du 2026-06-13) · Description publique réécrite — texte non reproduit (empreinte eb75b950e5fbedf2 → 25e96511cf393fa5)
 - `2026-08-15 (constaté)` — **Rennes Métropole** (fiche du 2026-06-09) · Statut : Revendiquée → Confirmée
@@ -31,12 +32,21 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 - `2026-08-15 (constaté)` — **Fédération française de voitures radio commandées (FFVRC)** (fiche du 2026-02-14) · Description publique réécrite — texte non reproduit (empreinte 487f1ae24efab090 → 167599adc2da9a64)
 - `2026-08-15 (constaté)` — **Fédération Française d’ULM (FFPLUM)** (fiche du 2026-01-06) · Statut : Revendiquée → Confirmée
 - `2026-08-15 (constaté)` — **Fédération Française d’ULM (FFPLUM)** (fiche du 2026-01-06) · Description publique réécrite — texte non reproduit (empreinte 57a356adcc83bfa5 → 7b4de45425eea681)
+- `2026-08-15 (constaté)` — **Fédération Française d’Aïkido, Aïkibudo et Associées (FFAAA)** (fiche du 2026-02-25) · Statut : Revendiquée → Confirmée
+- `2026-08-15 (constaté)` — **Fédération Française d’Aïkido, Aïkibudo et Associées (FFAAA)** (fiche du 2026-02-25) · Volume concerné : 352 502 → 75 000
+- `2026-08-15 (constaté)` — **Fédération Française d’Aïkido, Aïkibudo et Associées (FFAAA)** (fiche du 2026-02-25) · Description publique réécrite — texte non reproduit (empreinte 692b2e538e9f5333 → 3d006219ac324e38)
 - `2026-08-15 (constaté)` — **Fédération Française de Ski** (fiche du 2026-02-27) · Statut : Revendiquée → Confirmée
 - `2026-08-15 (constaté)` — **Fédération Française de Ski** (fiche du 2026-02-27) · Description publique réécrite — texte non reproduit (empreinte 2cc4b406b0f24535 → 452cadd587bfe811)
+- `2026-08-15 (constaté)` — **Fédération Française de Karaté** (fiche du 2026-02-26) · Description publique réécrite — texte non reproduit (empreinte 84ad6183becd8d98 → b178e48987da0f82)
+- `2026-08-15 (constaté)` — **Fédération Française de Karaté** (fiche du 2026-02-26) · Nature des données : retiré Montant
+- `2026-08-15 (constaté)` — **Fédération Française de Football Américain (FFFA)** (fiche du 2026-01-08) · Statut : Revendiquée → Confirmée
+- `2026-08-15 (constaté)` — **Fédération Française de Football Américain (FFFA)** (fiche du 2026-01-08) · Description publique réécrite — texte non reproduit (empreinte c0713682d5b6365c → bad12547cf474388)
 - `2026-08-15 (constaté)` — **Conservatoire de Bobigny** (fiche du 2026-06-09) · Statut : Revendiquée → Confirmée
 - `2026-08-15 (constaté)` — **Conservatoire de Bobigny** (fiche du 2026-06-09) · Description publique réécrite — texte non reproduit (empreinte af9b8a9bad75d9c7 → b94d5251a34c6c49)
 - `2026-08-15 (constaté)` — **Asten Santé** (fiche du 2026-02-05) · Statut : Revendiquée → Confirmée
 - `2026-08-15 (constaté)` — **Asten Santé** (fiche du 2026-02-05) · Description publique réécrite — texte non reproduit (empreinte fc770c013cf6c024 → 6bb8cb7d72828b25)
+- `2026-08-15 (constaté)` — **Agence Nationale de la Cohésion des Territoires (ANCT)** (fiche du 2026-03-04) · Statut : Revendiquée → Confirmée
+- `2026-08-15 (constaté)` — **Agence Nationale de la Cohésion des Territoires (ANCT)** (fiche du 2026-03-04) · Description publique réécrite — texte non reproduit (empreinte 36195deceeeea897 → 90802dc138df7f2f)
 - `2026-08-15 (constaté)` — **Accor** (fiche du 2026-07-16) · Statut : Revendiquée → Confirmée
 - `2026-08-15 (constaté)` — **Accor** (fiche du 2026-07-16) · Description publique réécrite — texte non reproduit (empreinte d50ece30513b2fa5 → 33cad5682d38a9b2)
 - `2026-08-14 (constaté)` — **Fédération Française de Handball (FFHandball)** (fiche du 2026-08-10) · Statut : Revendiquée → Confirmée
