@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**134** entrées ajoutées · **1** retirées · **87** corrections individuelles · **3** révisions groupées (174 fiches)
+**134** entrées ajoutées · **1** retirées · **89** corrections individuelles · **3** révisions groupées (174 fiches)
 
-Empreinte de tête : `16149ea2a7e35f671154d151623d8e0d5813e49aad201cb683f53593e69ec4d7`
+Empreinte de tête : `5dbe7cb894fb0d383d1c701f599e41b37ef4b4cbe7cc923e2ec0d98315ca1ffc`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -44,7 +44,9 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 - `2026-08-15 (constaté)` — **DGFiP (Direction Générale des Finances Publiques)** (fiche du 2026-08-13) · Statut : Revendiquée → Confirmée
 - `2026-08-15 (constaté)` — **DGFiP (Direction Générale des Finances Publiques)** (fiche du 2026-08-12) · Volume concerné : (vide) → 678 000
 - `2026-08-15 (constaté)` — **DGFiP (Direction Générale des Finances Publiques)** (fiche du 2026-08-13) · Volume concerné : (vide) → 200 000
+- `2026-08-15 (constaté)` — **DGFiP (Direction Générale des Finances Publiques)** (fiche du 2026-08-12) · Description publique réécrite — texte non reproduit (empreinte 47590f8cfe4036c8 → 3413697e81b0022c)
 - `2026-08-15 (constaté)` — **DGFiP (Direction Générale des Finances Publiques)** (fiche du 2026-08-12) · Description publique réécrite — texte non reproduit (empreinte 50d20ceac3a6f42e → 47590f8cfe4036c8)
+- `2026-08-15 (constaté)` — **DGFiP (Direction Générale des Finances Publiques)** (fiche du 2026-08-13) · Description publique réécrite — texte non reproduit (empreinte f6f95054c079b683 → 7690d4d2b216283a)
 - `2026-08-15 (constaté)` — **DGFiP (Direction Générale des Finances Publiques)** (fiche du 2026-08-13) · Description publique réécrite — texte non reproduit (empreinte 164bd4b205169bed → f6f95054c079b683)
 - `2026-08-15 (constaté)` — **Conservatoire de Bobigny** (fiche du 2026-06-09) · Statut : Revendiquée → Confirmée
 - `2026-08-15 (constaté)` — **Conservatoire de Bobigny** (fiche du 2026-06-09) · Description publique réécrite — texte non reproduit (empreinte af9b8a9bad75d9c7 → b94d5251a34c6c49)
