@@ -1,5 +1,7 @@
 # Fuites Infos
 
+[![Vérification du registre](https://github.com/CedHaurus/fuitesinfos-transparence/actions/workflows/verify-registry.yml/badge.svg?branch=main)](https://github.com/CedHaurus/fuitesinfos-transparence/actions/workflows/verify-registry.yml)
+
 **Le site de recensement des fuites de données impactant la France** —
 [fuitesinfos.fr](https://fuitesinfos.fr)
 
