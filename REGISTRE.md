@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**134** entrées ajoutées · **1** retirées · **82** corrections individuelles · **3** révisions groupées (174 fiches)
+**134** entrées ajoutées · **1** retirées · **87** corrections individuelles · **3** révisions groupées (174 fiches)
 
-Empreinte de tête : `4edf8c04efa0ecd8be7fb3ca69c7b273a913c4a40fb70d1a865213a3d66d0289`
+Empreinte de tête : `16149ea2a7e35f671154d151623d8e0d5813e49aad201cb683f53593e69ec4d7`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -41,6 +41,11 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 - `2026-08-15 (constaté)` — **Fédération Française de Karaté** (fiche du 2026-02-26) · Nature des données : retiré Montant
 - `2026-08-15 (constaté)` — **Fédération Française de Football Américain (FFFA)** (fiche du 2026-01-08) · Statut : Revendiquée → Confirmée
 - `2026-08-15 (constaté)` — **Fédération Française de Football Américain (FFFA)** (fiche du 2026-01-08) · Description publique réécrite — texte non reproduit (empreinte c0713682d5b6365c → bad12547cf474388)
+- `2026-08-15 (constaté)` — **DGFiP (Direction Générale des Finances Publiques)** (fiche du 2026-08-13) · Statut : Revendiquée → Confirmée
+- `2026-08-15 (constaté)` — **DGFiP (Direction Générale des Finances Publiques)** (fiche du 2026-08-12) · Volume concerné : (vide) → 678 000
+- `2026-08-15 (constaté)` — **DGFiP (Direction Générale des Finances Publiques)** (fiche du 2026-08-13) · Volume concerné : (vide) → 200 000
+- `2026-08-15 (constaté)` — **DGFiP (Direction Générale des Finances Publiques)** (fiche du 2026-08-12) · Description publique réécrite — texte non reproduit (empreinte 50d20ceac3a6f42e → 47590f8cfe4036c8)
+- `2026-08-15 (constaté)` — **DGFiP (Direction Générale des Finances Publiques)** (fiche du 2026-08-13) · Description publique réécrite — texte non reproduit (empreinte 164bd4b205169bed → f6f95054c079b683)
 - `2026-08-15 (constaté)` — **Conservatoire de Bobigny** (fiche du 2026-06-09) · Statut : Revendiquée → Confirmée
 - `2026-08-15 (constaté)` — **Conservatoire de Bobigny** (fiche du 2026-06-09) · Description publique réécrite — texte non reproduit (empreinte af9b8a9bad75d9c7 → b94d5251a34c6c49)
 - `2026-08-15 (constaté)` — **Asten Santé** (fiche du 2026-02-05) · Statut : Revendiquée → Confirmée
