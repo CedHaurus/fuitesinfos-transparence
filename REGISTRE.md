@@ -1,0 +1,206 @@
+# Registre des changements
+
+Période couverte : du 2026-07-05 à aujourd'hui.
+
+**134** entrées ajoutées · **0** retirées · **49** corrections individuelles · **3** révisions groupées (174 fiches)
+
+Empreinte de tête : `c6ac459652df5a133088b09731e6a11050b5eace36c32a4476d329cfb265db54`
+
+> **À ce jour, aucune entrée n'a jamais été retirée du catalogue.**
+> Ni à la demande d'une entreprise, ni sur décision de justice, ni pour aucun autre motif. Les 580 fiches publiques existant au début de cette période et les 134 ajoutées depuis sont toutes encore en ligne.
+
+Les changements sont classés du plus récent au plus ancien. La portée exacte de ce registre et ses limites sont décrites dans le [README](README.md).
+
+---
+
+## Août 2026
+
+- `2026-08-14 (constaté)` — **Fédération Française de Handball (FFHandball)** (fiche du 2026-08-10) · Statut : Revendiquée → Confirmée
+- `2026-08-14 (constaté)` — **Fédération Française de Handball (FFHandball)** (fiche du 2026-08-10) · Description publique réécrite — texte non reproduit (empreinte c26538fd5365bbc3 → 67aca8c4a00b17a0)
+- `2026-08-14` — **Le Bon Matériel** (fiche du 2026-08-14) · **entrée ajoutée**
+- `2026-08-13` — **Santé publique France** (fiche du 2026-08-11) · Statut : Revendiquée → Confirmée
+- `2026-08-13` — **Santé publique France** (fiche du 2026-08-11) · Description publique réécrite — texte non reproduit (empreinte d47121f8831ffed9 → 712f15d54bd742e4)
+- `2026-08-13` — **Scalingo** (fiche du 2026-08-12) · **entrée ajoutée**
+- `2026-08-13` — **SARL Chupin** (fiche du 2026-08-13) · **entrée ajoutée**
+- `2026-08-13` — **France VAE** (fiche du 2026-08-13) · **entrée ajoutée**
+- `2026-08-13` — **EVA** (fiche du 2026-08-13) · **entrée ajoutée**
+- `2026-08-13` — **DGFiP (Direction Générale des Finances Publiques)** (fiche du 2026-08-13) · **entrée ajoutée**
+- `2026-08-12` — **Vitacology** (fiche du 2026-08-12) · **entrée ajoutée**
+- `2026-08-12` — **Public.A** (fiche du 2026-08-12) · **entrée ajoutée**
+- `2026-08-12` — **Perlefinance.fr** (fiche du 2026-08-12) · **entrée ajoutée**
+- `2026-08-12` — **Minutesports.fr** (fiche du 2026-08-12) · **entrée ajoutée**
+- `2026-08-12` — **Miala** (fiche du 2026-08-12) · **entrée ajoutée**
+- `2026-08-12` — **Maintenance WP** (fiche du 2026-08-12) · **entrée ajoutée**
+- `2026-08-12` — **Ligne Sud** (fiche du 2026-08-12) · **entrée ajoutée**
+- `2026-08-12` — **Ici Laos Cambodge** (fiche du 2026-08-12) · **entrée ajoutée**
+- `2026-08-12` — **Gedimat** (fiche du 2026-08-11) · **entrée ajoutée**
+- `2026-08-12` — **Fédération française du Droit Humain** (fiche du 2026-07-25) · **entrée ajoutée**
+- `2026-08-12` — **For Intérieur** (fiche du 2026-08-12) · **entrée ajoutée**
+- `2026-08-12` — **EVV** (fiche du 2026-08-12) · **entrée ajoutée**
+- `2026-08-12` — **DGFiP (Direction Générale des Finances Publiques)** (fiche du 2026-08-12) · **entrée ajoutée**
+- `2026-08-12` — **CREDEF** (fiche du 2026-08-12) · **entrée ajoutée**
+- `2026-08-12` — **Better Human Cie** (fiche du 2026-08-12) · **entrée ajoutée**
+- `2026-08-12` — **Atlantic Café** (fiche du 2026-08-12) · **entrée ajoutée**
+- `2026-08-12` — **Loutz** (fiche du 2026-08-11) · **entrée ajoutée**
+- `2026-08-12` — **Leroch Distribution** (fiche du 2026-08-11) · **entrée ajoutée**
+- `2026-08-11` — **Steam (via CEVA Logistics)** (fiche du 2026-08-10) · **entrée ajoutée**
+- `2026-08-11` — **Santé publique France** (fiche du 2026-08-11) · **entrée ajoutée**
+- `2026-08-11` — **LaSante.net** (fiche du 2026-08-12) · **entrée ajoutée**
+- `2026-08-11` — **I-CAD** (fiche du 2026-08-11) · **entrée ajoutée**
+- `2026-08-11` — **HeyPulse** (fiche du 2026-08-11) · **entrée ajoutée**
+- `2026-08-11` — **Groupe Cloué** (fiche du 2026-08-10) · **entrée ajoutée**
+- `2026-08-11` — **Fédération Française de Handball (FFHandball)** (fiche du 2026-08-10) · **entrée ajoutée**
+- `2026-08-11` — **Duvignau** (fiche du 2026-08-09) · **entrée ajoutée**
+- `2026-08-11` — **AEFE** (fiche du 2026-08-11) · **entrée ajoutée**
+- `2026-08-11` — **Allo.Solar** (fiche du 2026-07-27) · Statut : Revendiquée → Confirmée
+- `2026-08-11` — **Allo.Solar** (fiche du 2026-07-27) · Description publique réécrite — texte non reproduit (empreinte 3f9c534534f3ffc0 → 294974849d6ac902)
+- `2026-08-10` — **Bureau Vallée** (fiche du 2026-08-09) · **entrée ajoutée**
+- `2026-08-09` — **Roussel Agri 62** (fiche du 2026-08-08) · **entrée ajoutée**
+- `2026-08-09` — **MUC 72 / Le Mans FC** (fiche du 2026-08-08) · **entrée ajoutée**
+- `2026-08-09` — **Consommation Logement et Cadre de Vie (CLCV)** (fiche du 2026-08-08) · **entrée ajoutée**
+- `2026-08-09` — **BLG** (fiche du 2026-08-08) · **entrée ajoutée**
+- `2026-08-08` — **Prelys Courtage** (fiche du 2026-08-08) · **entrée ajoutée**
+- `2026-08-07` — **Ressource'brie** (fiche du 2026-08-07) · **entrée ajoutée**
+- `2026-08-07` — **Petit Gramme** (fiche du 2026-08-07) · **entrée ajoutée**
+- `2026-08-07` — **Mutuelle Générale de Prévoyance** (fiche du 2026-08-07) · **entrée ajoutée**
+- `2026-08-07` — **Fondation Pomme (EHPAD)** (fiche du 2026-08-07) · **entrée ajoutée**
+- `2026-08-07` — **AFPA** (fiche du 2026-08-07) · **entrée ajoutée**
+- `2026-08-06 (constaté)` — **Intermarché** (fiche du 2026-08-03) · Description publique réécrite — texte non reproduit (empreinte bab7ca2c029a8441 → 8a3147366ad8ee13)
+- `2026-08-06 (constaté)` — **Intermarché** (fiche du 2026-08-03) · Nature des données : ajouté Champs libres, Données professionnelles, Fiche client, Identifiant interne
+- `2026-08-06 (constaté)` — **Fédération Française de Savate** (fiche du 2026-03-30) · Statut : Revendiquée → Confirmée
+- `2026-08-06 (constaté)` — **Fédération Française de Savate** (fiche du 2026-03-30) · Description publique réécrite — texte non reproduit (empreinte 00976da42a62b3b2 → e105120817cbb7dd)
+- `2026-08-06` — **MVision** (fiche du 2026-08-06) · **entrée ajoutée**
+- `2026-08-06` — **Hospices Civils de Lyon** (fiche du 2026-08-06) · **entrée ajoutée**
+- `2026-08-06` — **Bloctel** (fiche du 2026-08-06) · **entrée ajoutée**
+- `2026-08-06` — **BIOSYNEX** (fiche du 2026-08-06) · **entrée ajoutée**
+- `2026-08-06` — **Armurerie Lavaux** (fiche du 2026-08-01) · **entrée ajoutée**
+- `2026-08-05` — **Boutiq Chalets** (fiche du 2026-08-03) · **entrée ajoutée**
+- `2026-08-05 (constaté)` — **Révision groupée** · champ « Description publique » : 68 fiches modifiées dans le même lot. Réécriture groupée des descriptions publiques dans un même lot éditorial. L'empreinte avant et après de chaque fiche concernée figure dans le fichier machine. (détail par fiche dans `registre.jsonl`)
+- `2026-08-04` — **École nationale supérieure d’arts et métiers (ENSAM)** (fiche du 2026-01-21) · Statut : Revendiquée → Confirmée
+- `2026-08-04 (constaté)` — **Synagogue de Levallois** (fiche du 2026-06-26) · Description publique réécrite — texte non reproduit (empreinte c076005c9362c38a → df0a2e2762b31937)
+- `2026-08-04 (constaté)` — **Synagogue de Levallois** (fiche du 2026-06-26) · Description publique réécrite — texte non reproduit (empreinte df0a2e2762b31937 → c076005c9362c38a)
+- `2026-08-04 (constaté)` — **Synagogue de Levallois** (fiche du 2026-06-26) · Description publique réécrite — texte non reproduit (empreinte 74fbde1f65be098a → df0a2e2762b31937)
+- `2026-08-04 (constaté)` — **Synagogue de Levallois** (fiche du 2026-06-26) · Description publique réécrite — texte non reproduit (empreinte c076005c9362c38a → 74fbde1f65be098a)
+- `2026-08-04 (constaté)` — **INSEE** (fiche du 2026-06-24) · Description publique réécrite — texte non reproduit (empreinte 6b282e6f606ead98 → fcdccbd0af045f96)
+- `2026-08-04 (constaté)` — **INSEE** (fiche du 2026-06-24) · Description publique réécrite — texte non reproduit (empreinte fcdccbd0af045f96 → 6b282e6f606ead98)
+- `2026-08-04 (constaté)` — **INSEE** (fiche du 2026-06-24) · Description publique réécrite — texte non reproduit (empreinte 6b282e6f606ead98 → fcdccbd0af045f96)
+- `2026-08-04 (constaté)` — **IFprofs** (fiche du 2026-04-25) · Description publique réécrite — texte non reproduit (empreinte 02259e94a0cae748 → 6f78b1fa5a30f822)
+- `2026-08-04 (constaté)` — **IFprofs** (fiche du 2026-04-25) · Description publique réécrite — texte non reproduit (empreinte 6f78b1fa5a30f822 → 02259e94a0cae748)
+- `2026-08-04 (constaté)` — **IFprofs** (fiche du 2026-04-25) · Description publique réécrite — texte non reproduit (empreinte 02259e94a0cae748 → 6f78b1fa5a30f822)
+- `2026-08-04` — **IAD Group** (fiche du 2026-07-03) · Statut : Revendiquée → Confirmée
+- `2026-08-04 (constaté)` — **Fédération Française d’Athlétisme** (fiche du 2026-02-14) · Description publique réécrite — texte non reproduit (empreinte 2a5ca7fc89fa703b → 970618d36161d127)
+- `2026-08-04 (constaté)` — **Fédération Française d’Athlétisme** (fiche du 2026-02-14) · Description publique réécrite — texte non reproduit (empreinte 970618d36161d127 → 2a5ca7fc89fa703b)
+- `2026-08-04 (constaté)` — **Fédération Française d’Athlétisme** (fiche du 2026-02-14) · Description publique réécrite — texte non reproduit (empreinte 2a5ca7fc89fa703b → 970618d36161d127)
+- `2026-08-04` — **Delko** (fiche du 2026-01-20) · Statut : Revendiquée → Confirmée
+- `2026-08-04 (constaté)` — **Apimo** (fiche du 2026-06-25) · Description publique réécrite — texte non reproduit (empreinte 18d86e882879ce6d → 439bdb858533d7ac)
+- `2026-08-04 (constaté)` — **Apimo** (fiche du 2026-06-25) · Description publique réécrite — texte non reproduit (empreinte 439bdb858533d7ac → 18d86e882879ce6d)
+- `2026-08-04 (constaté)` — **Apimo** (fiche du 2026-06-25) · Description publique réécrite — texte non reproduit (empreinte 18d86e882879ce6d → 439bdb858533d7ac)
+- `2026-08-04 (constaté)` — **AKAOLIFE** (fiche du 2026-06-24) · Description publique réécrite — texte non reproduit (empreinte 72f6c41964105bb4 → e5e0d06398fe7115)
+- `2026-08-04 (constaté)` — **AKAOLIFE** (fiche du 2026-06-24) · Description publique réécrite — texte non reproduit (empreinte e5e0d06398fe7115 → 72f6c41964105bb4)
+- `2026-08-04 (constaté)` — **AKAOLIFE** (fiche du 2026-06-24) · Description publique réécrite — texte non reproduit (empreinte 72f6c41964105bb4 → e5e0d06398fe7115)
+- `2026-08-04 (constaté)` — **Révision groupée** · champ « Description publique » : 76 fiches modifiées dans le même lot. Réécriture groupée des descriptions publiques dans un même lot éditorial. L'empreinte avant et après de chaque fiche concernée figure dans le fichier machine. (détail par fiche dans `registre.jsonl`)
+- `2026-08-03` — **Voxaly** (fiche du 2026-08-03) · **entrée ajoutée**
+- `2026-08-03` — **Intermarché** (fiche du 2026-08-03) · **entrée ajoutée**
+- `2026-08-03` — **Inserm** (fiche du 2026-08-03) · **entrée ajoutée**
+- `2026-08-03` — **Chat Coco** (fiche du 2026-08-02) · **entrée ajoutée**
+- `2026-08-02` — **Terveo** (fiche du 2026-07-30) · **entrée ajoutée**
+- `2026-08-02` — **Groupe T2MC** (fiche du 2026-08-01) · **entrée ajoutée**
+- `2026-08-01` — **Xplor Resamania** (fiche du 2026-08-01) · **entrée ajoutée**
+- `2026-08-01` — **Ministère de l'Éducation nationale** (fiche du 2026-07-31) · **entrée ajoutée**
+- `2026-08-01` — **CY Cergy Paris Université** (fiche du 2026-07-31) · **entrée ajoutée**
+
+## Juillet 2026
+
+- `2026-07-30` — **Les Amis de la Gendarmerie** (fiche du 2026-07-30) · **entrée ajoutée**
+- `2026-07-30` — **ENGIE Green** (fiche du 2026-07-30) · **entrée ajoutée**
+- `2026-07-29` — **Planity** (fiche du 2026-07-28) · **entrée ajoutée**
+- `2026-07-28` — **Mairie d'Injoux-Génissiat** (fiche du 2026-07-28) · **entrée ajoutée**
+- `2026-07-28` — **Lire Demain** (fiche du 2026-07-28) · **entrée ajoutée**
+- `2026-07-28` — **Kaffir** (fiche du 2026-07-28) · **entrée ajoutée**
+- `2026-07-28` — **ERDIL** (fiche du 2026-07-28) · **entrée ajoutée**
+- `2026-07-27` — **Resaclick** (fiche du 2026-07-27) · **entrée ajoutée**
+- `2026-07-27` — **Location-etudiant.fr** (fiche du 2026-07-27) · **entrée ajoutée**
+- `2026-07-27` — **Allo.Solar** (fiche du 2026-07-27) · **entrée ajoutée**
+- `2026-07-26` — **BatiPro33** (fiche du 2026-07-26) · **entrée ajoutée**
+- `2026-07-26` — **Ministère de l'Intérieur (agents)** (fiche du 2026-07-26) · **entrée ajoutée**
+- `2026-07-26` — **Cartogip (GIP ATGeRi)** (fiche du 2026-07-26) · **entrée ajoutée**
+- `2026-07-25` — **Productly** (fiche du 2026-07-25) · **entrée ajoutée**
+- `2026-07-25` — **Driveco** (fiche du 2026-07-25) · **entrée ajoutée**
+- `2026-07-24 (constaté)` — **Aide à Dom 74** (fiche du 2026-07-22) · Volume concerné : (vide) → 92
+- `2026-07-24 (constaté)` — **Aide à Dom 74** (fiche du 2026-07-22) · Description publique réécrite — texte non reproduit (empreinte 88b3b1fea5a93415 → 2a3b87871de8d22a)
+- `2026-07-24 (constaté)` — **Aide à Dom 74** (fiche du 2026-07-22) · Nature des données : ajouté Adresse IP, Identifiant de connexion, Mot de passe (haché)
+- `2026-07-24` — **Skolae** (fiche du 2026-07-24) · **entrée ajoutée**
+- `2026-07-24` — **SDIS 51** (fiche du 2026-07-24) · **entrée ajoutée**
+- `2026-07-24` — **SDIS 40** (fiche du 2026-07-24) · **entrée ajoutée**
+- `2026-07-24` — **SDIS 06** (fiche du 2026-07-24) · **entrée ajoutée**
+- `2026-07-24` — **SDIS 04** (fiche du 2026-07-24) · **entrée ajoutée**
+- `2026-07-24` — **FranceCasse.fr** (fiche du 2026-07-22) · **entrée ajoutée**
+- `2026-07-24` — **Alpissimmo** (fiche du 2026-07-24) · **entrée ajoutée**
+- `2026-07-23` — **Immobilière Tariot** (fiche du 2026-07-22) · **entrée ajoutée**
+- `2026-07-23` — **Aide à Dom 74** (fiche du 2026-07-22) · **entrée ajoutée**
+- `2026-07-22` — **Be-bunk** (fiche du 2026-03-03) · Volume concerné : 13 000 → 12 134
+- `2026-07-22` — **Be-bunk** (fiche du 2026-03-03) · Description publique réécrite — texte non reproduit (empreinte d3946ddd8ebc8bed → c60bb26bc1e61257)
+- `2026-07-21` — **BANATIC (Ministère de l'Intérieur)** (fiche du 2026-07-20) · **entrée ajoutée**
+- `2026-07-20` — **Rassemblement National** (fiche du 2026-07-20) · **entrée ajoutée**
+- `2026-07-20` — **Lycée Jeanne Delanoue** (fiche du 2026-07-20) · **entrée ajoutée**
+- `2026-07-19` — **Centre Hospitalier de Perpignan** (fiche du 2026-07-19) · **entrée ajoutée**
+- `2026-07-18` — **PSB Paris School of Business** (fiche du 2026-07-18) · **entrée ajoutée**
+- `2026-07-18 (constaté)` — **Révision groupée** · champ « Nature des données » : 30 fiches modifiées dans le même lot. Catégories de données complétées : des natures de données qui n'avaient pas été déclarées sur ces fiches y ont été ajoutées. Aucune catégorie n'a été retirée sur aucune des fiches concernées. (détail par fiche dans `registre.jsonl`)
+- `2026-07-18` — **Ville de Saint-Herblain** (fiche du 2026-07-18) · **entrée ajoutée**
+- `2026-07-17` — **SFR** (fiche du 2026-07-17) · **entrée ajoutée**
+- `2026-07-16` — **VetoAvenue (Aureliot)** (fiche du 2026-07-13) · **entrée ajoutée**
+- `2026-07-16` — **Pompiers.fr (FNSPF)** (fiche du 2026-07-16) · **entrée ajoutée**
+- `2026-07-16` — **Hôtel de la Bourse (Mulhouse)** (fiche du 2026-07-16) · **entrée ajoutée**
+- `2026-07-16` — **Fédération Nationale des Sapeurs-Pompiers de France (FNSPF)** (fiche du 2026-07-16) · **entrée ajoutée**
+- `2026-07-16` — **Europ-Camera (Europcam)** (fiche du 2026-07-17) · **entrée ajoutée**
+- `2026-07-16` — **EVA** (fiche du 2026-07-16) · **entrée ajoutée**
+- `2026-07-16` — **Accor** (fiche du 2026-07-16) · **entrée ajoutée**
+- `2026-07-16` — **FCSF (Fédération des Centres Sociaux et Socioculturels de France)** (fiche du 2026-07-16) · **entrée ajoutée**
+- `2026-07-15` — **Croq' Vacances** (fiche du 2026-07-15) · **entrée ajoutée**
+- `2026-07-15` — **Actiale** (fiche du 2026-07-15) · **entrée ajoutée**
+- `2026-07-15` — **Fédération Française Handisport** (fiche du 2026-03-28) · Description publique réécrite — texte non reproduit (empreinte 0d598a164fd57d3d → 54f9a778b3b16ecd)
+- `2026-07-15` — **Batigam** (fiche du 2026-06-28) · Description publique réécrite — texte non reproduit (empreinte 4e3930a4c6891c25 → 4b879fc8e32dc74a)
+- `2026-07-14` — **Kosc Telecom** (fiche du 2026-07-14) · **entrée ajoutée**
+- `2026-07-14` — **Doinsport** (fiche du 2026-07-14) · **entrée ajoutée**
+- `2026-07-13` — **Litige.fr** (fiche du 2026-07-10) · Volume concerné : (vide) → 594 407
+- `2026-07-13` — **Litige.fr** (fiche du 2026-07-10) · Description publique réécrite — texte non reproduit (empreinte 90c5a47c181300f3 → bb27fa0d85296a10)
+- `2026-07-13` — **Litige.fr** (fiche du 2026-07-10) · Nature des données : ajouté Adresse IP, Documents, Données d'appareil, Montant
+- `2026-07-13` — **Tech In Order** (fiche du 2026-07-13) · **entrée ajoutée**
+- `2026-07-13` — **France Pare-Brise** (fiche du 2026-07-13) · **entrée ajoutée**
+- `2026-07-13` — **Betrail** (fiche du 2026-07-13) · **entrée ajoutée**
+- `2026-07-12` — **e-Benefits Prévoyance** (fiche du 2026-07-12) · **entrée ajoutée**
+- `2026-07-12` — **Lidl** (fiche du 2026-07-10) · **entrée ajoutée**
+- `2026-07-12` — **ESGI (École Supérieure de Génie Informatique)** (fiche du 2026-07-08) · Statut : Revendiquée → Confirmée
+- `2026-07-12` — **ESGI (École Supérieure de Génie Informatique)** (fiche du 2026-07-08) · Description publique réécrite — texte non reproduit (empreinte f7aa3d4f5e99a7fd → dac35fbf03c824f8)
+- `2026-07-12` — **EIML (École Internationale de Marketing du Luxe)** (fiche du 2026-07-12) · **entrée ajoutée**
+- `2026-07-11` — **Fédération Française d'Équitation** (fiche du 2026-07-08) · Statut : Revendiquée → Confirmée
+- `2026-07-11` — **Fédération Française d'Équitation** (fiche du 2026-07-08) · Description publique réécrite — texte non reproduit (empreinte 459eb92bcd0ba5c3 → 72ec03242571300b)
+- `2026-07-11` — **KeepCool** (fiche du 2026-07-11) · **entrée ajoutée**
+- `2026-07-11` — **EFAB (École Supérieure des Métiers de l'Immobilier)** (fiche du 2026-07-11) · **entrée ajoutée**
+- `2026-07-10` — **PPA Business School** (fiche du 2026-07-10) · **entrée ajoutée**
+- `2026-07-10` — **Litige.fr** (fiche du 2026-07-10) · **entrée ajoutée**
+- `2026-07-10` — **Bebeboutik** (fiche du 2026-07-10) · **entrée ajoutée**
+- `2026-07-09` — **Système national d'observation de la sécurité en montagne (SNOSM)** (fiche du 2026-07-09) · **entrée ajoutée**
+- `2026-07-09` — **Syadem** (fiche du 2026-07-08) · **entrée ajoutée**
+- `2026-07-09` — **Moove** (fiche du 2026-07-09) · **entrée ajoutée**
+- `2026-07-09` — **Fédération Française Handisport** (fiche du 2026-07-09) · **entrée ajoutée**
+- `2026-07-09` — **Association.fr** (fiche du 2026-07-09) · **entrée ajoutée**
+- `2026-07-08` — **Police municipale de Joinville-le-Pont** (fiche du 2026-06-27) · Statut : Revendiquée → Confirmée
+- `2026-07-08` — **Police municipale de Joinville-le-Pont** (fiche du 2026-06-27) · Volume concerné : (vide) → 10 000
+- `2026-07-08` — **Police municipale de Joinville-le-Pont** (fiche du 2026-06-27) · Description publique réécrite — texte non reproduit (empreinte 3411a6087a80991b → c1a56f0891eb8f0a)
+- `2026-07-08` — **Spiko** (fiche du 2026-07-08) · **entrée ajoutée**
+- `2026-07-08` — **SDAG Adhésifs** (fiche du 2026-07-08) · **entrée ajoutée**
+- `2026-07-08` — **Fédération Française d'Équitation** (fiche du 2026-07-08) · **entrée ajoutée**
+- `2026-07-08` — **ESGI (École Supérieure de Génie Informatique)** (fiche du 2026-07-08) · **entrée ajoutée**
+- `2026-07-08` — **Atout France** (fiche du 2026-07-08) · **entrée ajoutée**
+- `2026-07-07` — **Télécom Saint-Étienne** (fiche du 2026-07-07) · **entrée ajoutée**
+- `2026-07-07` — **Pixartprinting** (fiche du 2026-07-07) · **entrée ajoutée**
+- `2026-07-07` — **Mille et une listes** (fiche du 2026-07-07) · **entrée ajoutée**
+- `2026-07-07` — **Mifarma (Atida)** (fiche du 2026-07-07) · **entrée ajoutée**
+- `2026-07-07` — **Fonds de Dotation pour l'Enfance** (fiche du 2026-07-07) · **entrée ajoutée**
+- `2026-07-07` — **Follow Health** (fiche du 2026-07-07) · **entrée ajoutée**
+- `2026-07-06` — **Nemea Appart'Etud** (fiche du 2026-07-06) · **entrée ajoutée**
+- `2026-07-06` — **1001coques.fr** (fiche du 2026-07-06) · **entrée ajoutée**
+- `2026-07-06` — **Ministère de la Culture** (fiche du 2026-07-05) · **entrée ajoutée**
+- `2026-07-05` — **The Burning Descent** (fiche du 2026-07-05) · **entrée ajoutée**
+- `2026-07-05` — **Terr'Alta Immobilier** (fiche du 2026-07-05) · **entrée ajoutée**
