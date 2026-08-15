@@ -15,7 +15,23 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Août 2026
 
+- `2026-08-15 (constaté)` — **DGFiP (Direction Générale des Finances Publiques)** (fiche du 2026-08-12) · Description publique réécrite — texte non reproduit (empreinte 47590f8cfe4036c8 → 3413697e81b0022c)
+- `2026-08-15 (constaté)` — **DGFiP (Direction Générale des Finances Publiques)** (fiche du 2026-08-13) · Description publique réécrite — texte non reproduit (empreinte f6f95054c079b683 → 7690d4d2b216283a)
+- `2026-08-15 (constaté)` — **DGFiP (Direction Générale des Finances Publiques)** (fiche du 2026-08-13) · Statut : Revendiquée → Confirmée
+- `2026-08-15 (constaté)` — **DGFiP (Direction Générale des Finances Publiques)** (fiche du 2026-08-12) · Volume concerné : (vide) → 678 000
+- `2026-08-15 (constaté)` — **DGFiP (Direction Générale des Finances Publiques)** (fiche du 2026-08-13) · Volume concerné : (vide) → 200 000
+- `2026-08-15 (constaté)` — **DGFiP (Direction Générale des Finances Publiques)** (fiche du 2026-08-12) · Description publique réécrite — texte non reproduit (empreinte 50d20ceac3a6f42e → 47590f8cfe4036c8)
+- `2026-08-15 (constaté)` — **DGFiP (Direction Générale des Finances Publiques)** (fiche du 2026-08-13) · Description publique réécrite — texte non reproduit (empreinte 164bd4b205169bed → f6f95054c079b683)
 - `2026-08-15 (constaté)` — **Association.fr** (fiche du 2026-07-09) · **ENTRÉE RETIRÉE** — motif : Erreur de notre part (L'entité désignée par cette fiche l'avait été sur la seule foi du nom que l'auteur de la revendication avait donné au fichier mis en vente. Le propriétaire du nom de domaine a publiquement indiqué, le 16 juillet 2026, n'avoir subi aucune intrusion et ne pas héberger de données personnelles sur ce site, qu'il décrit comme une vitrine d'information. Le réexamen conduit à rattacher l'ensemble décrit dans la revendication à un téléservice public de gestion des demandes de subvention associatives, dont une compromission distincte a été notifiée aux personnes concernées le 26 juin 2026 et figure séparément au catalogue ; la revendication qui la visait, publiée le 20 juin, décrivait le même périmètre de données, coordonnées bancaires comprises. Ce rattachement repose sur un faisceau d'indices concordants et non sur une preuve formelle. L'attribution initiale n'étant plus soutenable, la fiche est retirée de l'accès public afin que le nom de l'entité initialement désignée cesse d'être associé à cet incident.)
+- `2026-08-15 (constaté)` — **Fédération Française d’Aïkido, Aïkibudo et Associées (FFAAA)** (fiche du 2026-02-25) · Statut : Revendiquée → Confirmée
+- `2026-08-15 (constaté)` — **Fédération Française d’Aïkido, Aïkibudo et Associées (FFAAA)** (fiche du 2026-02-25) · Volume concerné : 352 502 → 75 000
+- `2026-08-15 (constaté)` — **Fédération Française d’Aïkido, Aïkibudo et Associées (FFAAA)** (fiche du 2026-02-25) · Description publique réécrite — texte non reproduit (empreinte 692b2e538e9f5333 → 3d006219ac324e38)
+- `2026-08-15 (constaté)` — **Fédération Française de Karaté** (fiche du 2026-02-26) · Description publique réécrite — texte non reproduit (empreinte 84ad6183becd8d98 → b178e48987da0f82)
+- `2026-08-15 (constaté)` — **Fédération Française de Karaté** (fiche du 2026-02-26) · Nature des données : retiré Montant
+- `2026-08-15 (constaté)` — **Fédération Française de Football Américain (FFFA)** (fiche du 2026-01-08) · Statut : Revendiquée → Confirmée
+- `2026-08-15 (constaté)` — **Fédération Française de Football Américain (FFFA)** (fiche du 2026-01-08) · Description publique réécrite — texte non reproduit (empreinte c0713682d5b6365c → bad12547cf474388)
+- `2026-08-15 (constaté)` — **Agence Nationale de la Cohésion des Territoires (ANCT)** (fiche du 2026-03-04) · Statut : Revendiquée → Confirmée
+- `2026-08-15 (constaté)` — **Agence Nationale de la Cohésion des Territoires (ANCT)** (fiche du 2026-03-04) · Description publique réécrite — texte non reproduit (empreinte 36195deceeeea897 → 90802dc138df7f2f)
 - `2026-08-15 (constaté)` — **Réseau National des Juniors Associations** (fiche du 2026-06-13) · Statut : Revendiquée → Confirmée
 - `2026-08-15 (constaté)` — **Réseau National des Juniors Associations** (fiche du 2026-06-13) · Description publique réécrite — texte non reproduit (empreinte eb75b950e5fbedf2 → 25e96511cf393fa5)
 - `2026-08-15 (constaté)` — **Rennes Métropole** (fiche du 2026-06-09) · Statut : Revendiquée → Confirmée
@@ -32,28 +48,12 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 - `2026-08-15 (constaté)` — **Fédération française de voitures radio commandées (FFVRC)** (fiche du 2026-02-14) · Description publique réécrite — texte non reproduit (empreinte 487f1ae24efab090 → 167599adc2da9a64)
 - `2026-08-15 (constaté)` — **Fédération Française d’ULM (FFPLUM)** (fiche du 2026-01-06) · Statut : Revendiquée → Confirmée
 - `2026-08-15 (constaté)` — **Fédération Française d’ULM (FFPLUM)** (fiche du 2026-01-06) · Description publique réécrite — texte non reproduit (empreinte 57a356adcc83bfa5 → 7b4de45425eea681)
-- `2026-08-15 (constaté)` — **Fédération Française d’Aïkido, Aïkibudo et Associées (FFAAA)** (fiche du 2026-02-25) · Statut : Revendiquée → Confirmée
-- `2026-08-15 (constaté)` — **Fédération Française d’Aïkido, Aïkibudo et Associées (FFAAA)** (fiche du 2026-02-25) · Volume concerné : 352 502 → 75 000
-- `2026-08-15 (constaté)` — **Fédération Française d’Aïkido, Aïkibudo et Associées (FFAAA)** (fiche du 2026-02-25) · Description publique réécrite — texte non reproduit (empreinte 692b2e538e9f5333 → 3d006219ac324e38)
 - `2026-08-15 (constaté)` — **Fédération Française de Ski** (fiche du 2026-02-27) · Statut : Revendiquée → Confirmée
 - `2026-08-15 (constaté)` — **Fédération Française de Ski** (fiche du 2026-02-27) · Description publique réécrite — texte non reproduit (empreinte 2cc4b406b0f24535 → 452cadd587bfe811)
-- `2026-08-15 (constaté)` — **Fédération Française de Karaté** (fiche du 2026-02-26) · Description publique réécrite — texte non reproduit (empreinte 84ad6183becd8d98 → b178e48987da0f82)
-- `2026-08-15 (constaté)` — **Fédération Française de Karaté** (fiche du 2026-02-26) · Nature des données : retiré Montant
-- `2026-08-15 (constaté)` — **Fédération Française de Football Américain (FFFA)** (fiche du 2026-01-08) · Statut : Revendiquée → Confirmée
-- `2026-08-15 (constaté)` — **Fédération Française de Football Américain (FFFA)** (fiche du 2026-01-08) · Description publique réécrite — texte non reproduit (empreinte c0713682d5b6365c → bad12547cf474388)
-- `2026-08-15 (constaté)` — **DGFiP (Direction Générale des Finances Publiques)** (fiche du 2026-08-13) · Statut : Revendiquée → Confirmée
-- `2026-08-15 (constaté)` — **DGFiP (Direction Générale des Finances Publiques)** (fiche du 2026-08-12) · Volume concerné : (vide) → 678 000
-- `2026-08-15 (constaté)` — **DGFiP (Direction Générale des Finances Publiques)** (fiche du 2026-08-13) · Volume concerné : (vide) → 200 000
-- `2026-08-15 (constaté)` — **DGFiP (Direction Générale des Finances Publiques)** (fiche du 2026-08-12) · Description publique réécrite — texte non reproduit (empreinte 47590f8cfe4036c8 → 3413697e81b0022c)
-- `2026-08-15 (constaté)` — **DGFiP (Direction Générale des Finances Publiques)** (fiche du 2026-08-12) · Description publique réécrite — texte non reproduit (empreinte 50d20ceac3a6f42e → 47590f8cfe4036c8)
-- `2026-08-15 (constaté)` — **DGFiP (Direction Générale des Finances Publiques)** (fiche du 2026-08-13) · Description publique réécrite — texte non reproduit (empreinte f6f95054c079b683 → 7690d4d2b216283a)
-- `2026-08-15 (constaté)` — **DGFiP (Direction Générale des Finances Publiques)** (fiche du 2026-08-13) · Description publique réécrite — texte non reproduit (empreinte 164bd4b205169bed → f6f95054c079b683)
 - `2026-08-15 (constaté)` — **Conservatoire de Bobigny** (fiche du 2026-06-09) · Statut : Revendiquée → Confirmée
 - `2026-08-15 (constaté)` — **Conservatoire de Bobigny** (fiche du 2026-06-09) · Description publique réécrite — texte non reproduit (empreinte af9b8a9bad75d9c7 → b94d5251a34c6c49)
 - `2026-08-15 (constaté)` — **Asten Santé** (fiche du 2026-02-05) · Statut : Revendiquée → Confirmée
 - `2026-08-15 (constaté)` — **Asten Santé** (fiche du 2026-02-05) · Description publique réécrite — texte non reproduit (empreinte fc770c013cf6c024 → 6bb8cb7d72828b25)
-- `2026-08-15 (constaté)` — **Agence Nationale de la Cohésion des Territoires (ANCT)** (fiche du 2026-03-04) · Statut : Revendiquée → Confirmée
-- `2026-08-15 (constaté)` — **Agence Nationale de la Cohésion des Territoires (ANCT)** (fiche du 2026-03-04) · Description publique réécrite — texte non reproduit (empreinte 36195deceeeea897 → 90802dc138df7f2f)
 - `2026-08-15 (constaté)` — **Accor** (fiche du 2026-07-16) · Statut : Revendiquée → Confirmée
 - `2026-08-15 (constaté)` — **Accor** (fiche du 2026-07-16) · Description publique réécrite — texte non reproduit (empreinte d50ece30513b2fa5 → 33cad5682d38a9b2)
 - `2026-08-14 (constaté)` — **Fédération Française de Handball (FFHandball)** (fiche du 2026-08-10) · Statut : Revendiquée → Confirmée
@@ -106,39 +106,39 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 - `2026-08-07` — **Mutuelle Générale de Prévoyance** (fiche du 2026-08-07) · **entrée ajoutée**
 - `2026-08-07` — **Fondation Pomme (EHPAD)** (fiche du 2026-08-07) · **entrée ajoutée**
 - `2026-08-07` — **AFPA** (fiche du 2026-08-07) · **entrée ajoutée**
+- `2026-08-06` — **Bloctel** (fiche du 2026-08-06) · **entrée ajoutée**
+- `2026-08-06` — **BIOSYNEX** (fiche du 2026-08-06) · **entrée ajoutée**
+- `2026-08-06` — **Armurerie Lavaux** (fiche du 2026-08-01) · **entrée ajoutée**
+- `2026-08-06` — **MVision** (fiche du 2026-08-06) · **entrée ajoutée**
+- `2026-08-06` — **Hospices Civils de Lyon** (fiche du 2026-08-06) · **entrée ajoutée**
 - `2026-08-06 (constaté)` — **Intermarché** (fiche du 2026-08-03) · Description publique réécrite — texte non reproduit (empreinte bab7ca2c029a8441 → 8a3147366ad8ee13)
 - `2026-08-06 (constaté)` — **Intermarché** (fiche du 2026-08-03) · Nature des données : ajouté Champs libres, Données professionnelles, Fiche client, Identifiant interne
 - `2026-08-06 (constaté)` — **Fédération Française de Savate** (fiche du 2026-03-30) · Statut : Revendiquée → Confirmée
 - `2026-08-06 (constaté)` — **Fédération Française de Savate** (fiche du 2026-03-30) · Description publique réécrite — texte non reproduit (empreinte 00976da42a62b3b2 → e105120817cbb7dd)
-- `2026-08-06` — **MVision** (fiche du 2026-08-06) · **entrée ajoutée**
-- `2026-08-06` — **Hospices Civils de Lyon** (fiche du 2026-08-06) · **entrée ajoutée**
-- `2026-08-06` — **Bloctel** (fiche du 2026-08-06) · **entrée ajoutée**
-- `2026-08-06` — **BIOSYNEX** (fiche du 2026-08-06) · **entrée ajoutée**
-- `2026-08-06` — **Armurerie Lavaux** (fiche du 2026-08-01) · **entrée ajoutée**
 - `2026-08-05` — **Boutiq Chalets** (fiche du 2026-08-03) · **entrée ajoutée**
 - `2026-08-05 (constaté)` — **Révision groupée** · champ « Description publique » : 68 fiches modifiées dans le même lot. Réécriture groupée des descriptions publiques dans un même lot éditorial. L'empreinte avant et après de chaque fiche concernée figure dans le fichier machine. (détail par fiche dans `registre.jsonl`)
-- `2026-08-04` — **École nationale supérieure d’arts et métiers (ENSAM)** (fiche du 2026-01-21) · Statut : Revendiquée → Confirmée
 - `2026-08-04 (constaté)` — **Synagogue de Levallois** (fiche du 2026-06-26) · Description publique réécrite — texte non reproduit (empreinte c076005c9362c38a → df0a2e2762b31937)
+- `2026-08-04 (constaté)` — **INSEE** (fiche du 2026-06-24) · Description publique réécrite — texte non reproduit (empreinte 6b282e6f606ead98 → fcdccbd0af045f96)
+- `2026-08-04 (constaté)` — **IFprofs** (fiche du 2026-04-25) · Description publique réécrite — texte non reproduit (empreinte 02259e94a0cae748 → 6f78b1fa5a30f822)
+- `2026-08-04 (constaté)` — **Fédération Française d’Athlétisme** (fiche du 2026-02-14) · Description publique réécrite — texte non reproduit (empreinte 2a5ca7fc89fa703b → 970618d36161d127)
+- `2026-08-04 (constaté)` — **Apimo** (fiche du 2026-06-25) · Description publique réécrite — texte non reproduit (empreinte 18d86e882879ce6d → 439bdb858533d7ac)
+- `2026-08-04 (constaté)` — **AKAOLIFE** (fiche du 2026-06-24) · Description publique réécrite — texte non reproduit (empreinte 72f6c41964105bb4 → e5e0d06398fe7115)
 - `2026-08-04 (constaté)` — **Synagogue de Levallois** (fiche du 2026-06-26) · Description publique réécrite — texte non reproduit (empreinte df0a2e2762b31937 → c076005c9362c38a)
+- `2026-08-04 (constaté)` — **INSEE** (fiche du 2026-06-24) · Description publique réécrite — texte non reproduit (empreinte fcdccbd0af045f96 → 6b282e6f606ead98)
+- `2026-08-04 (constaté)` — **IFprofs** (fiche du 2026-04-25) · Description publique réécrite — texte non reproduit (empreinte 6f78b1fa5a30f822 → 02259e94a0cae748)
+- `2026-08-04 (constaté)` — **Fédération Française d’Athlétisme** (fiche du 2026-02-14) · Description publique réécrite — texte non reproduit (empreinte 970618d36161d127 → 2a5ca7fc89fa703b)
+- `2026-08-04 (constaté)` — **Apimo** (fiche du 2026-06-25) · Description publique réécrite — texte non reproduit (empreinte 439bdb858533d7ac → 18d86e882879ce6d)
+- `2026-08-04 (constaté)` — **AKAOLIFE** (fiche du 2026-06-24) · Description publique réécrite — texte non reproduit (empreinte e5e0d06398fe7115 → 72f6c41964105bb4)
 - `2026-08-04 (constaté)` — **Synagogue de Levallois** (fiche du 2026-06-26) · Description publique réécrite — texte non reproduit (empreinte 74fbde1f65be098a → df0a2e2762b31937)
+- `2026-08-04 (constaté)` — **Apimo** (fiche du 2026-06-25) · Description publique réécrite — texte non reproduit (empreinte 18d86e882879ce6d → 439bdb858533d7ac)
 - `2026-08-04 (constaté)` — **Synagogue de Levallois** (fiche du 2026-06-26) · Description publique réécrite — texte non reproduit (empreinte c076005c9362c38a → 74fbde1f65be098a)
 - `2026-08-04 (constaté)` — **INSEE** (fiche du 2026-06-24) · Description publique réécrite — texte non reproduit (empreinte 6b282e6f606ead98 → fcdccbd0af045f96)
-- `2026-08-04 (constaté)` — **INSEE** (fiche du 2026-06-24) · Description publique réécrite — texte non reproduit (empreinte fcdccbd0af045f96 → 6b282e6f606ead98)
-- `2026-08-04 (constaté)` — **INSEE** (fiche du 2026-06-24) · Description publique réécrite — texte non reproduit (empreinte 6b282e6f606ead98 → fcdccbd0af045f96)
 - `2026-08-04 (constaté)` — **IFprofs** (fiche du 2026-04-25) · Description publique réécrite — texte non reproduit (empreinte 02259e94a0cae748 → 6f78b1fa5a30f822)
-- `2026-08-04 (constaté)` — **IFprofs** (fiche du 2026-04-25) · Description publique réécrite — texte non reproduit (empreinte 6f78b1fa5a30f822 → 02259e94a0cae748)
-- `2026-08-04 (constaté)` — **IFprofs** (fiche du 2026-04-25) · Description publique réécrite — texte non reproduit (empreinte 02259e94a0cae748 → 6f78b1fa5a30f822)
+- `2026-08-04 (constaté)` — **Fédération Française d’Athlétisme** (fiche du 2026-02-14) · Description publique réécrite — texte non reproduit (empreinte 2a5ca7fc89fa703b → 970618d36161d127)
+- `2026-08-04 (constaté)` — **AKAOLIFE** (fiche du 2026-06-24) · Description publique réécrite — texte non reproduit (empreinte 72f6c41964105bb4 → e5e0d06398fe7115)
+- `2026-08-04` — **École nationale supérieure d’arts et métiers (ENSAM)** (fiche du 2026-01-21) · Statut : Revendiquée → Confirmée
 - `2026-08-04` — **IAD Group** (fiche du 2026-07-03) · Statut : Revendiquée → Confirmée
-- `2026-08-04 (constaté)` — **Fédération Française d’Athlétisme** (fiche du 2026-02-14) · Description publique réécrite — texte non reproduit (empreinte 2a5ca7fc89fa703b → 970618d36161d127)
-- `2026-08-04 (constaté)` — **Fédération Française d’Athlétisme** (fiche du 2026-02-14) · Description publique réécrite — texte non reproduit (empreinte 970618d36161d127 → 2a5ca7fc89fa703b)
-- `2026-08-04 (constaté)` — **Fédération Française d’Athlétisme** (fiche du 2026-02-14) · Description publique réécrite — texte non reproduit (empreinte 2a5ca7fc89fa703b → 970618d36161d127)
 - `2026-08-04` — **Delko** (fiche du 2026-01-20) · Statut : Revendiquée → Confirmée
-- `2026-08-04 (constaté)` — **Apimo** (fiche du 2026-06-25) · Description publique réécrite — texte non reproduit (empreinte 18d86e882879ce6d → 439bdb858533d7ac)
-- `2026-08-04 (constaté)` — **Apimo** (fiche du 2026-06-25) · Description publique réécrite — texte non reproduit (empreinte 439bdb858533d7ac → 18d86e882879ce6d)
-- `2026-08-04 (constaté)` — **Apimo** (fiche du 2026-06-25) · Description publique réécrite — texte non reproduit (empreinte 18d86e882879ce6d → 439bdb858533d7ac)
-- `2026-08-04 (constaté)` — **AKAOLIFE** (fiche du 2026-06-24) · Description publique réécrite — texte non reproduit (empreinte 72f6c41964105bb4 → e5e0d06398fe7115)
-- `2026-08-04 (constaté)` — **AKAOLIFE** (fiche du 2026-06-24) · Description publique réécrite — texte non reproduit (empreinte e5e0d06398fe7115 → 72f6c41964105bb4)
-- `2026-08-04 (constaté)` — **AKAOLIFE** (fiche du 2026-06-24) · Description publique réécrite — texte non reproduit (empreinte 72f6c41964105bb4 → e5e0d06398fe7115)
 - `2026-08-04 (constaté)` — **Révision groupée** · champ « Description publique » : 76 fiches modifiées dans le même lot. Réécriture groupée des descriptions publiques dans un même lot éditorial. L'empreinte avant et après de chaque fiche concernée figure dans le fichier machine. (détail par fiche dans `registre.jsonl`)
 - `2026-08-03` — **Voxaly** (fiche du 2026-08-03) · **entrée ajoutée**
 - `2026-08-03` — **Intermarché** (fiche du 2026-08-03) · **entrée ajoutée**
