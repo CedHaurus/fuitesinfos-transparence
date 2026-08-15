@@ -1,2 +1,11 @@
 .DS_Store
 __pycache__/
+
+# Sauvegardes et fichiers de travail : ce dépôt est publié, rien d'autre que le
+# registre et sa documentation ne doit y apparaître. publier.py fait un
+# `git add -A` : un fichier déposé ici part sur GitHub au tour suivant.
+*.bak
+*.bak-*
+*.orig
+*.tmp
+*~

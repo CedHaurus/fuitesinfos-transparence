@@ -104,15 +104,12 @@ le registre republie ce qui a été retiré ou réécrit.
 d'un accord amiable. Ce point n'est pas négociable et il est annoncé d'avance :
 une demande de retrait peut être acceptée, elle ne peut pas être discrète.
 
-Au 15 août 2026, **une entrée a été retirée du catalogue**, pour erreur de
-notre part : la fiche désignait la mauvaise entité. Aucun retrait n'est à ce
-jour intervenu à la demande d'une entreprise, ni sur décision de justice, ni
-sur aucun autre motif.
+À ce jour, **une entrée a été retirée du catalogue**. Aucun retrait n'est
+intervenu à la demande d'une entreprise, ni sur décision de justice.
 
 Ce décompte n'est pas une déclaration d'intention : le compteur en tête de
 [REGISTRE.md](REGISTRE.md) est recalculé à chaque mise à jour, et chaque
-retrait y figure avec sa date, l'entité concernée, son motif et la précision
-qui l'accompagne.
+retrait y figure avec sa date, l'entité concernée et son motif.
 
 Chaque retrait porte l'un de ces motifs, et un seul :
 
