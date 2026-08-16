@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**137** entrées ajoutées · **1** retirées · **92** corrections individuelles · **3** révisions groupées (174 fiches)
+**138** entrées ajoutées · **1** retirées · **93** corrections individuelles · **3** révisions groupées (174 fiches)
 
-Empreinte de tête : `9d671d572f87e0e3d234c154d1d096713264bbd3c7d49bd05eca2ba6fe53a6fd`
+Empreinte de tête : `aba86ff1a1836ab08703b9344bdc8f3ffba06c3811b5f770e28606b2f86fa513`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Août 2026
 
+- `2026-08-16 (constaté)` — **Fédération Française de Karaté** (fiche du 2026-02-26) · Description publique réécrite — texte non reproduit (empreinte 101fa080c213adf9 → bb7857600e113894)
+- `2026-08-16` — **Groupe Lenormant** (fiche du 2026-08-16) · **entrée ajoutée**
 - `2026-08-16 (constaté)` — **Fédération Française de Karaté** (fiche du 2026-02-26) · Volume concerné : (vide) → 2 757 786
 - `2026-08-16 (constaté)` — **Fédération Française de Karaté** (fiche du 2026-02-26) · Description publique réécrite — texte non reproduit (empreinte b178e48987da0f82 → 101fa080c213adf9)
 - `2026-08-16 (constaté)` — **Fédération Française de Karaté** (fiche du 2026-02-26) · Nature des données : retiré Données professionnelles
