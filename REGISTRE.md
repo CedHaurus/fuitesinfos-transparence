@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**135** entrées ajoutées · **1** retirées · **89** corrections individuelles · **3** révisions groupées (174 fiches)
+**137** entrées ajoutées · **1** retirées · **89** corrections individuelles · **3** révisions groupées (174 fiches)
 
-Empreinte de tête : `b5af3e6f2bf6dbf2ebf0b77334bb13768d2f614a26842a927692c2cf26760293`
+Empreinte de tête : `7511b87c95ee433ce215efb0f05b246fff612de74b6428135e44efe7e6397321`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Août 2026
 
+- `2026-08-16` — **FranceCasse.fr** (fiche du 2026-08-15) · **entrée ajoutée**
+- `2026-08-16` — **Cravero Motoculture** (fiche du 2026-08-15) · **entrée ajoutée**
 - `2026-08-16` — **Phone Privé** (fiche du 2026-08-15) · **entrée ajoutée**
 - `2026-08-15 (constaté)` — **DGFiP (Direction Générale des Finances Publiques)** (fiche du 2026-08-12) · Description publique réécrite — texte non reproduit (empreinte 47590f8cfe4036c8 → 3413697e81b0022c)
 - `2026-08-15 (constaté)` — **DGFiP (Direction Générale des Finances Publiques)** (fiche du 2026-08-13) · Description publique réécrite — texte non reproduit (empreinte f6f95054c079b683 → 7690d4d2b216283a)
