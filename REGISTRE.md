@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**142** entrées ajoutées · **1** retirées · **97** corrections individuelles · **3** révisions groupées (174 fiches)
+**142** entrées ajoutées · **1** retirées · **97** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `990e616fefaa00c89c3eb5a4be85e9fe5ad805d95f825283124641569c6a3283`
+Empreinte de tête : `c46e48bd3ed2d1409c77c5e8b77a0f66c91e8a9f9b35bef01b5b19face5660a6`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Août 2026
 
+- `2026-08-18 (constaté)` — **Révision groupée** · champ « Description publique » : 62 fiches modifiées dans le même lot (détail par fiche dans `registre.jsonl`)
 - `2026-08-18` — **SamBoat** (fiche du 2026-08-16) · **entrée ajoutée**
 - `2026-08-18` — **Foodtrack** (fiche du 2026-08-18) · **entrée ajoutée**
 - `2026-08-18` — **Ministère de l'Éducation nationale** (fiche du 2026-08-17) · **entrée ajoutée**
