@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**139** entrées ajoutées · **1** retirées · **97** corrections individuelles · **3** révisions groupées (174 fiches)
+**140** entrées ajoutées · **1** retirées · **97** corrections individuelles · **3** révisions groupées (174 fiches)
 
-Empreinte de tête : `b62913141c7a40111e2dacbb4280fff4cc8e617fb777e8e5aa3fd9d465dde14a`
+Empreinte de tête : `5363c345c1b795ea8be6708d44ef7d0faffb3bb4e11e9f2e81a29809d31ac770`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Août 2026
 
+- `2026-08-18` — **Ministère de l'Éducation nationale** (fiche du 2026-08-17) · **entrée ajoutée**
 - `2026-08-16 (constaté)` — **EVA Nantes Sud** (fiche du 2026-08-13) · Nom de l'entité : EVA → EVA Nantes Sud
 - `2026-08-16 (constaté)` — **EVA Beauchamp** (fiche du 2026-07-16) · Nom de l'entité : EVA → EVA Beauchamp
 - `2026-08-16` — **EVA Charleroi** (fiche du 2026-08-16) · **entrée ajoutée**
