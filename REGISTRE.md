@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**140** entrées ajoutées · **1** retirées · **97** corrections individuelles · **3** révisions groupées (174 fiches)
+**142** entrées ajoutées · **1** retirées · **97** corrections individuelles · **3** révisions groupées (174 fiches)
 
-Empreinte de tête : `5363c345c1b795ea8be6708d44ef7d0faffb3bb4e11e9f2e81a29809d31ac770`
+Empreinte de tête : `990e616fefaa00c89c3eb5a4be85e9fe5ad805d95f825283124641569c6a3283`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Août 2026
 
+- `2026-08-18` — **SamBoat** (fiche du 2026-08-16) · **entrée ajoutée**
+- `2026-08-18` — **Foodtrack** (fiche du 2026-08-18) · **entrée ajoutée**
 - `2026-08-18` — **Ministère de l'Éducation nationale** (fiche du 2026-08-17) · **entrée ajoutée**
 - `2026-08-16 (constaté)` — **EVA Nantes Sud** (fiche du 2026-08-13) · Nom de l'entité : EVA → EVA Nantes Sud
 - `2026-08-16 (constaté)` — **EVA Beauchamp** (fiche du 2026-07-16) · Nom de l'entité : EVA → EVA Beauchamp
