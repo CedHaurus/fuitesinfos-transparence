@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**147** entrées ajoutées · **1** retirées · **99** corrections individuelles · **4** révisions groupées (236 fiches)
+**148** entrées ajoutées · **1** retirées · **101** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `b488074e52ea0b0db34fce8a3d4042bb8afd28ba2b00f627f40c5f5ee7ac20a0`
+Empreinte de tête : `7a51307ab80d1af40450b8a4e76f9d20c41e826304fae5b6848de0f581df682d`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,9 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Août 2026
 
+- `2026-08-18 (constaté)` — **Mutuelle Générale de Prévoyance** (fiche du 2026-08-07) · Statut : Revendiquée → Confirmée
+- `2026-08-18 (constaté)` — **Mutuelle Générale de Prévoyance** (fiche du 2026-08-07) · Description publique réécrite — texte non reproduit (empreinte 5398e026a6ebfeee → b0d9b4678fd940fd)
+- `2026-08-18` — **Terra Incognita** (fiche du 2026-08-18) · **entrée ajoutée**
 - `2026-08-18 (constaté)` — **Bloctel** (fiche du 2026-08-06) · Statut : Revendiquée → Confirmée
 - `2026-08-18 (constaté)` — **Bloctel** (fiche du 2026-08-06) · Description publique réécrite — texte non reproduit (empreinte 22e9f9af60911086 → 102db39803d1f415)
 - `2026-08-18` — **K par K** (fiche du 2026-08-18) · **entrée ajoutée**
