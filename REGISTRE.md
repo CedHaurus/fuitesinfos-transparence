@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**151** entrées ajoutées · **1** retirées · **101** corrections individuelles · **4** révisions groupées (236 fiches)
+**152** entrées ajoutées · **1** retirées · **101** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `69e47374546ccb163adac855f3189391e12b72c563b409db4f978aaeb66a7047`
+Empreinte de tête : `72d477fc382d316aa71b9584f80f89ec20956bd9281b08abd71e78528117edf0`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Août 2026
 
+- `2026-08-19` — **Sport 2000** (fiche du 2026-08-19) · **entrée ajoutée**
 - `2026-08-19` — **WiziShop** (fiche du 2026-08-19) · **entrée ajoutée**
 - `2026-08-19` — **Université de Technologie de Tarbes (UTTOP)** (fiche du 2026-08-19) · **entrée ajoutée**
 - `2026-08-18` — **Cleantuesdayparis** (fiche du 2026-08-18) · **entrée ajoutée**
