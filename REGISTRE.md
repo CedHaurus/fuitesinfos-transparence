@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**153** entrées ajoutées · **1** retirées · **101** corrections individuelles · **4** révisions groupées (236 fiches)
+**154** entrées ajoutées · **1** retirées · **101** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `f6d8189e13660e2b38254404dc56cb94b899e1c58acd17e76c6cd5433dcf9d0d`
+Empreinte de tête : `ec8c150c7bd6fe310b5d087e6f4dd627af0588543b7c71ba9b76208a97bcd31e`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Août 2026
 
+- `2026-08-19` — **Alaxione** (fiche du 2026-08-19) · **entrée ajoutée**
 - `2026-08-19` — **Reserver.fr** (fiche du 2026-08-19) · **entrée ajoutée**
 - `2026-08-19` — **Sport 2000** (fiche du 2026-08-19) · **entrée ajoutée**
 - `2026-08-19` — **WiziShop** (fiche du 2026-08-19) · **entrée ajoutée**
