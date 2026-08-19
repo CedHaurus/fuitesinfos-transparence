@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**148** entrées ajoutées · **1** retirées · **101** corrections individuelles · **4** révisions groupées (236 fiches)
+**149** entrées ajoutées · **1** retirées · **101** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `7a51307ab80d1af40450b8a4e76f9d20c41e826304fae5b6848de0f581df682d`
+Empreinte de tête : `c970acacebbf03b23fd7c62451f693f14359996ac0616161ee776345acdde6e8`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Août 2026
 
+- `2026-08-18` — **Cleantuesdayparis** (fiche du 2026-08-18) · **entrée ajoutée**
 - `2026-08-18 (constaté)` — **Mutuelle Générale de Prévoyance** (fiche du 2026-08-07) · Statut : Revendiquée → Confirmée
 - `2026-08-18 (constaté)` — **Mutuelle Générale de Prévoyance** (fiche du 2026-08-07) · Description publique réécrite — texte non reproduit (empreinte 5398e026a6ebfeee → b0d9b4678fd940fd)
 - `2026-08-18` — **Terra Incognita** (fiche du 2026-08-18) · **entrée ajoutée**
