@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**155** entrées ajoutées · **1** retirées · **101** corrections individuelles · **4** révisions groupées (236 fiches)
+**155** entrées ajoutées · **1** retirées · **103** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `bc4721fa0983bb9c337a48ffd05ce21c69f9f1a695c4ad6436c81e32ca2e1b4f`
+Empreinte de tête : `6508eaa82d0218cbf4769c5a73db1d89c5bb4836f4b837ae2018c01c7083d79a`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Août 2026
 
+- `2026-08-20` — **SFR** (fiche du 2026-07-17) · Statut : Revendiquée → Confirmée
+- `2026-08-20` — **SFR** (fiche du 2026-07-17) · Description publique réécrite — texte non reproduit (empreinte 6561f050945a308d → fd26bf472ec88fb1)
 - `2026-08-19` — **IRD (Institut de Recherche pour le Développement)** (fiche du 2026-08-17) · **entrée ajoutée**
 - `2026-08-19` — **Alaxione** (fiche du 2026-08-19) · **entrée ajoutée**
 - `2026-08-19` — **Reserver.fr** (fiche du 2026-08-19) · **entrée ajoutée**
