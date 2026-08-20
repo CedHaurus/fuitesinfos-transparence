@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**155** entrées ajoutées · **1** retirées · **103** corrections individuelles · **4** révisions groupées (236 fiches)
+**158** entrées ajoutées · **1** retirées · **103** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `6508eaa82d0218cbf4769c5a73db1d89c5bb4836f4b837ae2018c01c7083d79a`
+Empreinte de tête : `5ef0ac688d7cd3917b544405e3d0a69014dc7eb70e84fc11265071de2ce0c132`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,9 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Août 2026
 
+- `2026-08-20` — **SUEZ Eau France** (fiche du 2026-08-20) · **entrée ajoutée**
+- `2026-08-20` — **FrenchInnov** (fiche du 2026-08-20) · **entrée ajoutée**
+- `2026-08-20` — **Bergerat RENT** (fiche du 2026-08-20) · **entrée ajoutée**
 - `2026-08-20` — **SFR** (fiche du 2026-07-17) · Statut : Revendiquée → Confirmée
 - `2026-08-20` — **SFR** (fiche du 2026-07-17) · Description publique réécrite — texte non reproduit (empreinte 6561f050945a308d → fd26bf472ec88fb1)
 - `2026-08-19` — **IRD (Institut de Recherche pour le Développement)** (fiche du 2026-08-17) · **entrée ajoutée**
