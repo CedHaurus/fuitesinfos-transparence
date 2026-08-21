@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**162** entrées ajoutées · **1** retirées · **103** corrections individuelles · **4** révisions groupées (236 fiches)
+**163** entrées ajoutées · **1** retirées · **103** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `399843581c766921bf89f1090d5c92680894aedb28b2139ddcd3a7745a898a81`
+Empreinte de tête : `232e2fdf0a862e94895db3c09015d22666738acc316825eaf26f42dbb3296444`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Août 2026
 
+- `2026-08-21` — **Made in Bébé** (fiche du 2026-08-21) · **entrée ajoutée**
 - `2026-08-21` — **Fédération Nationale de Protection Civile** (fiche du 2026-08-21) · **entrée ajoutée**
 - `2026-08-21` — **Beauty Success** (fiche du 2026-08-21) · **entrée ajoutée**
 - `2026-08-21` — **Allobébé** (fiche du 2026-08-21) · **entrée ajoutée**
