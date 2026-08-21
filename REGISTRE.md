@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**164** entrées ajoutées · **1** retirées · **103** corrections individuelles · **4** révisions groupées (236 fiches)
+**165** entrées ajoutées · **1** retirées · **103** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `bcdef5d8674ac183d9a362d88932636ebd27545f1023443c123589b053170b89`
+Empreinte de tête : `205e6f0aa85351a90a817415a9b35aeb935d62082427473ddbd469cea66997a4`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Août 2026
 
+- `2026-08-21` — **Stripe** (fiche du 2026-08-18) · **entrée ajoutée**
 - `2026-08-21` — **Groupe Géotec** (fiche du 2026-08-19) · **entrée ajoutée**
 - `2026-08-21` — **Made in Bébé** (fiche du 2026-08-21) · **entrée ajoutée**
 - `2026-08-21` — **Fédération Nationale de Protection Civile** (fiche du 2026-08-21) · **entrée ajoutée**
@@ -26,8 +27,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 - `2026-08-20` — **Bergerat RENT** (fiche du 2026-08-20) · **entrée ajoutée**
 - `2026-08-20` — **SFR** (fiche du 2026-07-17) · Statut : Revendiquée → Confirmée
 - `2026-08-20` — **SFR** (fiche du 2026-07-17) · Description publique réécrite — texte non reproduit (empreinte 6561f050945a308d → fd26bf472ec88fb1)
+- `2026-08-20` — **Alaxione** (fiche du 2026-08-19) · **entrée ajoutée**
 - `2026-08-19` — **IRD (Institut de Recherche pour le Développement)** (fiche du 2026-08-17) · **entrée ajoutée**
-- `2026-08-19` — **Alaxione** (fiche du 2026-08-19) · **entrée ajoutée**
 - `2026-08-19` — **Reserver.fr** (fiche du 2026-08-19) · **entrée ajoutée**
 - `2026-08-19` — **Sport 2000** (fiche du 2026-08-19) · **entrée ajoutée**
 - `2026-08-19` — **WiziShop** (fiche du 2026-08-19) · **entrée ajoutée**
