@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**158** entrées ajoutées · **1** retirées · **103** corrections individuelles · **4** révisions groupées (236 fiches)
+**159** entrées ajoutées · **1** retirées · **103** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `5ef0ac688d7cd3917b544405e3d0a69014dc7eb70e84fc11265071de2ce0c132`
+Empreinte de tête : `0064a81e62ab192241154d04e30bcef23ddb6388562cad706ba1bc57f733830a`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Août 2026
 
+- `2026-08-21` — **EEVA Club Évasion** (fiche du 2026-08-21) · **entrée ajoutée**
 - `2026-08-20` — **SUEZ Eau France** (fiche du 2026-08-20) · **entrée ajoutée**
 - `2026-08-20` — **FrenchInnov** (fiche du 2026-08-20) · **entrée ajoutée**
 - `2026-08-20` — **Bergerat RENT** (fiche du 2026-08-20) · **entrée ajoutée**
