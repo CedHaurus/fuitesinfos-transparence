@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**167** entrées ajoutées · **1** retirées · **103** corrections individuelles · **4** révisions groupées (236 fiches)
+**168** entrées ajoutées · **1** retirées · **103** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `cd23d2ca3778c1b4c2b75219844e650a9d4f766a63dd16ff4ee35685ab807f91`
+Empreinte de tête : `d7c929dea3b1251f9b65ba2bcfb8c498df01f772cbd23887965d251b36efe54c`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Août 2026
 
+- `2026-08-22` — **DINUM (portail Cloud de l'État)** (fiche du 2026-08-22) · **entrée ajoutée**
 - `2026-08-22` — **DRON** (fiche du 2026-08-22) · **entrée ajoutée**
 - `2026-08-22` — **Bureau Vallée** (fiche du 2026-08-21) · **entrée ajoutée**
 - `2026-08-21` — **Stripe** (fiche du 2026-08-18) · **entrée ajoutée**
