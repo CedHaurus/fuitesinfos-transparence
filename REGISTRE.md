@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**169** entrées ajoutées · **1** retirées · **103** corrections individuelles · **4** révisions groupées (236 fiches)
+**171** entrées ajoutées · **1** retirées · **103** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `c55a35644978707f063b7ea0394ff13ff9db62983e22138cc04ba262ae835b6b`
+Empreinte de tête : `8944e5f3850cf6f2c66488e77ee6021284ac2fc69724b6d44d3f17d012bab644`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Août 2026
 
+- `2026-08-23` — **Solimut Mutuelle de France** (fiche du 2026-08-23) · **entrée ajoutée**
+- `2026-08-23` — **Déclic Services** (fiche du 2026-08-22) · **entrée ajoutée**
 - `2026-08-22` — **iMapper** (fiche du 2026-08-22) · **entrée ajoutée**
 - `2026-08-22` — **DINUM (portail Cloud de l'État)** (fiche du 2026-08-22) · **entrée ajoutée**
 - `2026-08-22` — **DRON** (fiche du 2026-08-22) · **entrée ajoutée**
