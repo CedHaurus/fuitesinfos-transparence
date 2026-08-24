@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**172** entrées ajoutées · **1** retirées · **103** corrections individuelles · **4** révisions groupées (236 fiches)
+**173** entrées ajoutées · **1** retirées · **103** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `6337708b47b95dc2156d709f0ea689a15c32cfe3f8030e2156740fabac286762`
+Empreinte de tête : `504178fc4c7cccb246db2328c3e823bba201c13c5d24dabba7ce2fa10687c577`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Août 2026
 
+- `2026-08-24` — **YouFid** (fiche du 2026-08-24) · **entrée ajoutée**
 - `2026-08-24` — **Klark** (fiche du 2026-08-23) · **entrée ajoutée**
 - `2026-08-23` — **Solimut Mutuelle de France** (fiche du 2026-08-23) · **entrée ajoutée**
 - `2026-08-23` — **Déclic Services** (fiche du 2026-08-22) · **entrée ajoutée**
