@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**174** entrées ajoutées · **1** retirées · **103** corrections individuelles · **4** révisions groupées (236 fiches)
+**175** entrées ajoutées · **1** retirées · **105** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `82df1f91517d585d2cbaf4c9b11dd393325510d0fb26d3edb32640989acec5f7`
+Empreinte de tête : `e9edd04445b5b77f4ce772cd6d26db9919b2c9a78d45ab9f7e09454c2b476993`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,9 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Août 2026
 
+- `2026-08-25` — **Solimut Mutuelle de France** (fiche du 2026-08-23) · Statut : Revendiquée → Confirmée
+- `2026-08-25` — **Solimut Mutuelle de France** (fiche du 2026-08-23) · Description publique réécrite — texte non reproduit (empreinte ff33946cff3d54dc → 3d57cc86a7a24441)
+- `2026-08-25` — **Emil Frey France** (fiche du 2026-08-25) · **entrée ajoutée**
 - `2026-08-24` — **Croix-Rouge française (unité locale de Strasbourg)** (fiche du 2026-08-24) · **entrée ajoutée**
 - `2026-08-24` — **YouFid** (fiche du 2026-08-24) · **entrée ajoutée**
 - `2026-08-24` — **Klark** (fiche du 2026-08-23) · **entrée ajoutée**
