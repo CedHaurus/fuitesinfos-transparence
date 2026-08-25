@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**175** entrées ajoutées · **1** retirées · **105** corrections individuelles · **4** révisions groupées (236 fiches)
+**179** entrées ajoutées · **1** retirées · **106** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `e9edd04445b5b77f4ce772cd6d26db9919b2c9a78d45ab9f7e09454c2b476993`
+Empreinte de tête : `a7a2c501663368cf755b14a96556270982c35b2824929fae508f79882b3f9360`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,11 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Août 2026
 
+- `2026-08-25 (constaté)` — **Emil Frey France** (fiche du 2026-08-25) · Description publique réécrite — texte non reproduit (empreinte db3e71450d18f4bf → 6559beeac0c09d5a)
+- `2026-08-25` — **TimeTonic** (fiche du 2026-08-25) · **entrée ajoutée**
+- `2026-08-25` — **Groupe Bernard** (fiche du 2026-08-24) · **entrée ajoutée**
+- `2026-08-25` — **Docurba** (fiche du 2026-08-25) · **entrée ajoutée**
+- `2026-08-25` — **Dipeeo** (fiche du 2026-08-25) · **entrée ajoutée**
 - `2026-08-25` — **Solimut Mutuelle de France** (fiche du 2026-08-23) · Statut : Revendiquée → Confirmée
 - `2026-08-25` — **Solimut Mutuelle de France** (fiche du 2026-08-23) · Description publique réécrite — texte non reproduit (empreinte ff33946cff3d54dc → 3d57cc86a7a24441)
 - `2026-08-25` — **Emil Frey France** (fiche du 2026-08-25) · **entrée ajoutée**
