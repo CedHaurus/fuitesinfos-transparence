@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**179** entrées ajoutées · **1** retirées · **106** corrections individuelles · **4** révisions groupées (236 fiches)
+**182** entrées ajoutées · **1** retirées · **108** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `a7a2c501663368cf755b14a96556270982c35b2824929fae508f79882b3f9360`
+Empreinte de tête : `8a33de19dd1d6f1dec2d6c2d7094aa30f1ee25d41838ac2e464a05ff3185d479`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,11 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Août 2026
 
+- `2026-08-25 (constaté)` — **Sport 2000** (fiche du 2026-08-19) · Statut : Revendiquée → Confirmée
+- `2026-08-25 (constaté)` — **Sport 2000** (fiche du 2026-08-19) · Description publique réécrite — texte non reproduit (empreinte 9c59318c7c0d9957 → 4e808a39a491b414)
+- `2026-08-25` — **TeleCoop** (fiche du 2026-08-25) · **entrée ajoutée**
+- `2026-08-25` — **Nanar iCloud** (fiche du 2026-06-10) · **entrée ajoutée**
+- `2026-08-25` — **Innersense** (fiche du 2026-07-23) · **entrée ajoutée**
 - `2026-08-25 (constaté)` — **Emil Frey France** (fiche du 2026-08-25) · Description publique réécrite — texte non reproduit (empreinte db3e71450d18f4bf → 6559beeac0c09d5a)
 - `2026-08-25` — **TimeTonic** (fiche du 2026-08-25) · **entrée ajoutée**
 - `2026-08-25` — **Groupe Bernard** (fiche du 2026-08-24) · **entrée ajoutée**
