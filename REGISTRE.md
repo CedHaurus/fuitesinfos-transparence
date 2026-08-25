@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**182** entrées ajoutées · **1** retirées · **108** corrections individuelles · **4** révisions groupées (236 fiches)
+**182** entrées ajoutées · **1** retirées · **109** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `8a33de19dd1d6f1dec2d6c2d7094aa30f1ee25d41838ac2e464a05ff3185d479`
+Empreinte de tête : `973afdc4eb0a7bb3a49d86c2aa280a346aab848e4214b4db4940179def17e18a`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Août 2026
 
+- `2026-08-25 (constaté)` — **Sport 2000** (fiche du 2026-08-19) · Description publique réécrite — texte non reproduit (empreinte 4e808a39a491b414 → 37168c42d691dd43)
 - `2026-08-25 (constaté)` — **Sport 2000** (fiche du 2026-08-19) · Statut : Revendiquée → Confirmée
 - `2026-08-25 (constaté)` — **Sport 2000** (fiche du 2026-08-19) · Description publique réécrite — texte non reproduit (empreinte 9c59318c7c0d9957 → 4e808a39a491b414)
 - `2026-08-25` — **TeleCoop** (fiche du 2026-08-25) · **entrée ajoutée**
