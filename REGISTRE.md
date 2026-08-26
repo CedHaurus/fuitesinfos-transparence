@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**182** entrées ajoutées · **1** retirées · **123** corrections individuelles · **4** révisions groupées (236 fiches)
+**182** entrées ajoutées · **1** retirées · **132** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `76b1294c013e526dec4a902e7fda2458b21700373d2ecab8bca736edc3962d13`
+Empreinte de tête : `cebdb957276ae6b6976d0c412981564afa18f31de8fddc3e1eac239f69ff5735`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,15 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Août 2026
 
+- `2026-08-26 (constaté)` — **Terra Incognita** (fiche du 2026-08-18) · Volume concerné : (vide) → 2
+- `2026-08-26 (constaté)` — **Perlefinance.fr** (fiche du 2026-08-12) · Volume concerné : (vide) → 1
+- `2026-08-26 (constaté)` — **Orisha** (fiche du 2026-05-29) · Volume concerné : (vide) → 136 000
+- `2026-08-26 (constaté)` — **Made in Bébé** (fiche du 2026-08-21) · Volume concerné : (vide) → 700 000
+- `2026-08-26 (constaté)` — **Loutz** (fiche du 2026-08-11) · Volume concerné : (vide) → 15 803
+- `2026-08-26 (constaté)` — **Location-etudiant.fr** (fiche du 2026-07-27) · Volume concerné : (vide) → 12
+- `2026-08-26 (constaté)` — **Le Petit Vapoteur** (fiche du 2026-03-28) · Description publique réécrite — texte non reproduit (empreinte 0311e134189d0d76 → 69f22da618151870)
+- `2026-08-26 (constaté)` — **Carvivo** (fiche du 2026-06-03) · Volume concerné : (vide) → 19 442
+- `2026-08-26 (constaté)` — **Areli** (fiche du 2026-04-29) · Description publique réécrite — texte non reproduit (empreinte 410714fc83730eec → 0eadc11b0df8fc44)
 - `2026-08-26 (constaté)` — **Secours populaire français - Fédération du Nord** (fiche du 2026-06-25) · Statut : Revendiquée → Confirmée
 - `2026-08-26 (constaté)` — **Secours populaire français - Fédération du Nord** (fiche du 2026-06-25) · Description publique réécrite — texte non reproduit (empreinte 854be5ed5fca6ca5 → 5ef2daf93858de8c)
 - `2026-08-26 (constaté)` — **SDIS 51** (fiche du 2026-07-24) · Statut : Revendiquée → Confirmée
