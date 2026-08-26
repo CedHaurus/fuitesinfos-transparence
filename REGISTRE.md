@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**182** entrées ajoutées · **1** retirées · **132** corrections individuelles · **4** révisions groupées (236 fiches)
+**182** entrées ajoutées · **1** retirées · **133** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `cebdb957276ae6b6976d0c412981564afa18f31de8fddc3e1eac239f69ff5735`
+Empreinte de tête : `77bb07daa090258f3b131fef1ea1e0cf1a03abc97c71a223c52f24fe640f5b74`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Août 2026
 
+- `2026-08-26 (constaté)` — **Roussel Agri 62** (fiche du 2026-08-08) · Volume concerné : (vide) → 11 930
 - `2026-08-26 (constaté)` — **Terra Incognita** (fiche du 2026-08-18) · Volume concerné : (vide) → 2
 - `2026-08-26 (constaté)` — **Perlefinance.fr** (fiche du 2026-08-12) · Volume concerné : (vide) → 1
 - `2026-08-26 (constaté)` — **Orisha** (fiche du 2026-05-29) · Volume concerné : (vide) → 136 000
