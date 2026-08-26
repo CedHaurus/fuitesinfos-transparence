@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**182** entrées ajoutées · **1** retirées · **109** corrections individuelles · **4** révisions groupées (236 fiches)
+**182** entrées ajoutées · **1** retirées · **121** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `973afdc4eb0a7bb3a49d86c2aa280a346aab848e4214b4db4940179def17e18a`
+Empreinte de tête : `201c15e0dac957a317d5523ec8948359f01eacbdb6a687852d158f81a9000255`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,18 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Août 2026
 
+- `2026-08-26 (constaté)` — **SDIS 51** (fiche du 2026-07-24) · Statut : Revendiquée → Confirmée
+- `2026-08-26 (constaté)` — **SDIS 51** (fiche du 2026-07-24) · Description publique réécrite — texte non reproduit (empreinte 4a5af8492b83b9e7 → 3c92dcd26362bec9)
+- `2026-08-26 (constaté)` — **SDIS 40** (fiche du 2026-07-24) · Statut : Revendiquée → Confirmée
+- `2026-08-26 (constaté)` — **SDIS 40** (fiche du 2026-07-24) · Description publique réécrite — texte non reproduit (empreinte fdcef238b8a19004 → 41fb84fad780a156)
+- `2026-08-26 (constaté)` — **SDIS 06** (fiche du 2026-07-24) · Statut : Revendiquée → Confirmée
+- `2026-08-26 (constaté)` — **SDIS 06** (fiche du 2026-07-24) · Description publique réécrite — texte non reproduit (empreinte ba8e04c9a6298237 → fb71e21e6fba8179)
+- `2026-08-26 (constaté)` — **SDIS 04** (fiche du 2026-07-24) · Statut : Revendiquée → Confirmée
+- `2026-08-26 (constaté)` — **SDIS 04** (fiche du 2026-07-24) · Description publique réécrite — texte non reproduit (empreinte e8a58d7421e97262 → 4b864b52657ae0ec)
+- `2026-08-26 (constaté)` — **Police municipale du Pontet** (fiche du 2026-06-30) · Statut : Revendiquée → Confirmée
+- `2026-08-26 (constaté)` — **Police municipale du Pontet** (fiche du 2026-06-30) · Description publique réécrite — texte non reproduit (empreinte 46f2157de372d04e → 21f681b0dbaedf3e)
+- `2026-08-26 (constaté)` — **Imagerie Clinique Yvette** (fiche du 2026-04-16) · Statut : Revendiquée → Confirmée
+- `2026-08-26 (constaté)` — **Imagerie Clinique Yvette** (fiche du 2026-04-16) · Description publique réécrite — texte non reproduit (empreinte ecc50405455c23f5 → e85a4a5470fa2f8e)
 - `2026-08-25 (constaté)` — **Sport 2000** (fiche du 2026-08-19) · Description publique réécrite — texte non reproduit (empreinte 4e808a39a491b414 → 37168c42d691dd43)
 - `2026-08-25 (constaté)` — **Sport 2000** (fiche du 2026-08-19) · Statut : Revendiquée → Confirmée
 - `2026-08-25 (constaté)` — **Sport 2000** (fiche du 2026-08-19) · Description publique réécrite — texte non reproduit (empreinte 9c59318c7c0d9957 → 4e808a39a491b414)
