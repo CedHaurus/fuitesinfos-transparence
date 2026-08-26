@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**182** entrées ajoutées · **1** retirées · **121** corrections individuelles · **4** révisions groupées (236 fiches)
+**182** entrées ajoutées · **1** retirées · **123** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `201c15e0dac957a317d5523ec8948359f01eacbdb6a687852d158f81a9000255`
+Empreinte de tête : `76b1294c013e526dec4a902e7fda2458b21700373d2ecab8bca736edc3962d13`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Août 2026
 
+- `2026-08-26 (constaté)` — **Secours populaire français - Fédération du Nord** (fiche du 2026-06-25) · Statut : Revendiquée → Confirmée
+- `2026-08-26 (constaté)` — **Secours populaire français - Fédération du Nord** (fiche du 2026-06-25) · Description publique réécrite — texte non reproduit (empreinte 854be5ed5fca6ca5 → 5ef2daf93858de8c)
 - `2026-08-26 (constaté)` — **SDIS 51** (fiche du 2026-07-24) · Statut : Revendiquée → Confirmée
 - `2026-08-26 (constaté)` — **SDIS 51** (fiche du 2026-07-24) · Description publique réécrite — texte non reproduit (empreinte 4a5af8492b83b9e7 → 3c92dcd26362bec9)
 - `2026-08-26 (constaté)` — **SDIS 40** (fiche du 2026-07-24) · Statut : Revendiquée → Confirmée
