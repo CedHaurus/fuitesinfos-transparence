@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**183** entrées ajoutées · **1** retirées · **133** corrections individuelles · **4** révisions groupées (236 fiches)
+**184** entrées ajoutées · **1** retirées · **133** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `445c4ccc8f832867e5ff4582149c33754f1393d09f9dde10358a1fca285e77c7`
+Empreinte de tête : `91cb347f319d73916c4dbf66447540edc2de4cc4ac2d7d31538e65d51fd9c557`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Août 2026
 
+- `2026-08-26` — **Comptoir de location (CDL)** (fiche du 2026-08-26) · **entrée ajoutée**
 - `2026-08-26` — **WeshBien** (fiche du 2026-08-25) · **entrée ajoutée**
 - `2026-08-26 (constaté)` — **Roussel Agri 62** (fiche du 2026-08-08) · Volume concerné : (vide) → 11 930
 - `2026-08-26 (constaté)` — **Terra Incognita** (fiche du 2026-08-18) · Volume concerné : (vide) → 2
