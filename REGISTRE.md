@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**185** entrées ajoutées · **1** retirées · **137** corrections individuelles · **4** révisions groupées (236 fiches)
+**186** entrées ajoutées · **1** retirées · **137** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `bdd13b04e0abc84c477d965574f7149640daa427b8e26c78002fb82758078d94`
+Empreinte de tête : `77e87e03eec1b4d858b24e40701a42c6abf9b1b84c76eb68da58e374c7bf47ea`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Août 2026
 
+- `2026-08-27` — **Journaux.fr** (fiche du 2026-08-27) · **entrée ajoutée**
 - `2026-08-27 (constaté)` — **Dipeeo** (fiche du 2026-08-25) · Statut : Revendiquée → Confirmée
 - `2026-08-27 (constaté)` — **Dipeeo** (fiche du 2026-08-25) · Description publique réécrite — texte non reproduit (empreinte cd884223edf52e3b → 3dc6092eaafea22b)
 - `2026-08-27` — **L Commerce (E.Leclerc)** (fiche du 2026-08-27) · **entrée ajoutée**
