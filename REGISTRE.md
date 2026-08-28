@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**191** entrées ajoutées · **1** retirées · **143** corrections individuelles · **4** révisions groupées (236 fiches)
+**192** entrées ajoutées · **1** retirées · **143** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `61282e5cdc2f18501e61ce9b01195283b29eddebac4b717c58ab40f7c4c0d5ef`
+Empreinte de tête : `2506c288bb518cd344218ee8b113cbfbcf90878736c2dabd2d1f2dca106fc1f5`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Août 2026
 
+- `2026-08-28` — **Zéro Logement Vacant** (fiche du 2026-08-28) · **entrée ajoutée**
 - `2026-08-28` — **Minea** (fiche du 2026-08-28) · **entrée ajoutée**
 - `2026-08-28` — **Ultra Premium Direct** (fiche du 2026-08-28) · **entrée ajoutée**
 - `2026-08-28 (constaté)` — **CLENET** (fiche du 2026-08-18) · Volume concerné : (vide) → 5 289
