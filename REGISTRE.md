@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**189** entrées ajoutées · **1** retirées · **137** corrections individuelles · **4** révisions groupées (236 fiches)
+**189** entrées ajoutées · **1** retirées · **143** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `aa5dcb4b67367ccb8597cbefb21d1840d46dc7cb53732e30cb3418401d316c8d`
+Empreinte de tête : `42aa49b45955051dc6034f0e11106df130a3f72b0d41f080296f48b01080c583`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,12 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Août 2026
 
+- `2026-08-28 (constaté)` — **CLENET** (fiche du 2026-08-18) · Volume concerné : (vide) → 5 289
+- `2026-08-28 (constaté)` — **CLENET** (fiche du 2026-08-18) · Description publique réécrite — texte non reproduit (empreinte 6f679619e8a8ce98 → b51143df3641ad2f)
+- `2026-08-28 (constaté)` — **CLENET** (fiche du 2026-08-18) · Nature des données : ajouté Adresse postale, Champs libres, Données professionnelles, Facture, Fiche client, Montant, SIRET
+- `2026-08-28 (constaté)` — **Actis Location** (fiche du 2026-08-18) · Volume concerné : (vide) → 83 504
+- `2026-08-28 (constaté)` — **Actis Location** (fiche du 2026-08-18) · Description publique réécrite — texte non reproduit (empreinte 0e51abe5ada96af7 → 0c170640ed618c4f)
+- `2026-08-28 (constaté)` — **Actis Location** (fiche du 2026-08-18) · Nature des données : ajouté Adresse postale, Données professionnelles, Fiche client, Géolocalisation, Identifiant fiscal, Montant, SIRET
 - `2026-08-28` — **Lingor** (fiche du 2026-08-27) · **entrée ajoutée**
 - `2026-08-28` — **Chess.com** (fiche du 2026-08-28) · **entrée ajoutée**
 - `2026-08-27` — **Mistertemp' group** (fiche du 2026-08-26) · **entrée ajoutée**
