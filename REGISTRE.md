@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**187** entrées ajoutées · **1** retirées · **137** corrections individuelles · **4** révisions groupées (236 fiches)
+**188** entrées ajoutées · **1** retirées · **137** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `1d702a937cbc4b3fa4cc81c582256adca044fccebe2049ca230180aff6a99abe`
+Empreinte de tête : `9ac54ebb02ea216492a6725ed0b81ee8052f8e76e912ebd3ed5a3308a2d72443`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Août 2026
 
+- `2026-08-28` — **Chess.com** (fiche du 2026-08-28) · **entrée ajoutée**
 - `2026-08-27` — **Mistertemp' group** (fiche du 2026-08-26) · **entrée ajoutée**
 - `2026-08-27` — **Journaux.fr** (fiche du 2026-08-27) · **entrée ajoutée**
 - `2026-08-27 (constaté)` — **Dipeeo** (fiche du 2026-08-25) · Statut : Revendiquée → Confirmée
