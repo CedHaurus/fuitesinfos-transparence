@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**193** entrées ajoutées · **1** retirées · **143** corrections individuelles · **4** révisions groupées (236 fiches)
+**195** entrées ajoutées · **1** retirées · **143** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `befbfa5362f988b1b1ba2cfedca852e4a1cf762541442112886f9c1960ebfc69`
+Empreinte de tête : `7561a6beabca8a808d6eea0b4e1f378b0ea528887df3363b02fb43c7c2f50c59`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Août 2026
 
+- `2026-08-29` — **Frères Toque** (fiche du 2026-08-29) · **entrée ajoutée**
+- `2026-08-29` — **Easypara** (fiche du 2026-08-29) · **entrée ajoutée**
 - `2026-08-29` — **HD Soudage** (fiche du 2026-08-28) · **entrée ajoutée**
 - `2026-08-28` — **Zéro Logement Vacant** (fiche du 2026-08-28) · **entrée ajoutée**
 - `2026-08-28` — **Minea** (fiche du 2026-08-28) · **entrée ajoutée**
