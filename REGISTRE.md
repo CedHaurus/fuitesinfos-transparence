@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**192** entrées ajoutées · **1** retirées · **143** corrections individuelles · **4** révisions groupées (236 fiches)
+**193** entrées ajoutées · **1** retirées · **143** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `2506c288bb518cd344218ee8b113cbfbcf90878736c2dabd2d1f2dca106fc1f5`
+Empreinte de tête : `befbfa5362f988b1b1ba2cfedca852e4a1cf762541442112886f9c1960ebfc69`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Août 2026
 
+- `2026-08-29` — **HD Soudage** (fiche du 2026-08-28) · **entrée ajoutée**
 - `2026-08-28` — **Zéro Logement Vacant** (fiche du 2026-08-28) · **entrée ajoutée**
 - `2026-08-28` — **Minea** (fiche du 2026-08-28) · **entrée ajoutée**
 - `2026-08-28` — **Ultra Premium Direct** (fiche du 2026-08-28) · **entrée ajoutée**
