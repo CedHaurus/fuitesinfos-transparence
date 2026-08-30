@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**199** entrées ajoutées · **1** retirées · **143** corrections individuelles · **4** révisions groupées (236 fiches)
+**200** entrées ajoutées · **1** retirées · **145** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `138da1b8fbc662ec719ad7abd1ca2345d40fe5e790b2da6fb292d7869b8cc207`
+Empreinte de tête : `ec511ea73fbbec0aa253fccf87dd5b23bccdccbcee527a48e82394f8bce1b7e0`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,9 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Août 2026
 
+- `2026-08-30 (constaté)` — **Cartedepeche.fr (FNPF)** (fiche du 2026-08-30) · Statut : Confirmée → Revendiquée
+- `2026-08-30 (constaté)` — **Cartedepeche.fr (FNPF)** (fiche du 2026-08-30) · Description publique réécrite — texte non reproduit (empreinte c6708a23a2e4e3a5 → 3a37ef53728557ba)
+- `2026-08-30` — **Cartedepeche.fr (FNPF)** (fiche du 2026-08-30) · **entrée ajoutée**
 - `2026-08-29` — **Service d'Incendie et de Secours du Bas-Rhin (SIS 67)** (fiche du 2026-08-29) · **entrée ajoutée**
 - `2026-08-29` — **SDIS 88** (fiche du 2026-08-29) · **entrée ajoutée**
 - `2026-08-29` — **SDIS 30** (fiche du 2026-08-29) · **entrée ajoutée**
