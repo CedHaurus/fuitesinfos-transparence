@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**195** entrées ajoutées · **1** retirées · **143** corrections individuelles · **4** révisions groupées (236 fiches)
+**199** entrées ajoutées · **1** retirées · **143** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `7561a6beabca8a808d6eea0b4e1f378b0ea528887df3363b02fb43c7c2f50c59`
+Empreinte de tête : `138da1b8fbc662ec719ad7abd1ca2345d40fe5e790b2da6fb292d7869b8cc207`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,10 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Août 2026
 
+- `2026-08-29` — **Service d'Incendie et de Secours du Bas-Rhin (SIS 67)** (fiche du 2026-08-29) · **entrée ajoutée**
+- `2026-08-29` — **SDIS 88** (fiche du 2026-08-29) · **entrée ajoutée**
+- `2026-08-29` — **SDIS 30** (fiche du 2026-08-29) · **entrée ajoutée**
+- `2026-08-29` — **SDIS 13** (fiche du 2026-08-29) · **entrée ajoutée**
 - `2026-08-29` — **Frères Toque** (fiche du 2026-08-29) · **entrée ajoutée**
 - `2026-08-29` — **Easypara** (fiche du 2026-08-29) · **entrée ajoutée**
 - `2026-08-29` — **HD Soudage** (fiche du 2026-08-28) · **entrée ajoutée**
