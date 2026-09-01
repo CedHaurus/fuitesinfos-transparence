@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**201** entrées ajoutées · **1** retirées · **148** corrections individuelles · **4** révisions groupées (236 fiches)
+**201** entrées ajoutées · **1** retirées · **149** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `a9b7daba05b0c2a91dcbd2a95f21b1bc8357aed61b7ead4093cd72db5e85d35d`
+Empreinte de tête : `a50c6d231dc8eb350f18bf1ebab51007615d756184c34cb849f200543bed9575`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-01 (constaté)` — **Herbiolys Laboratoire** (fiche du 2026-08-31) · Description publique réécrite — texte non reproduit (empreinte e82073396b7101f9 → e2392dc91d8e9b4c)
 - `2026-09-01` — **Service d'Incendie et de Secours du Bas-Rhin (SIS 67)** (fiche du 2026-08-29) · Description publique réécrite — texte non reproduit (empreinte 8d835a5076a2428a → 44743166aafc3f9a)
 - `2026-09-01` — **SDIS 88** (fiche du 2026-08-29) · Description publique réécrite — texte non reproduit (empreinte d2c5b243d63a4d16 → ab561dba87618a8f)
 - `2026-09-01` — **Herbiolys Laboratoire** (fiche du 2026-08-31) · Description publique réécrite — texte non reproduit (empreinte 5eff7d0e57fa32e2 → e82073396b7101f9)
