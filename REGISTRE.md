@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**202** entrées ajoutées · **1** retirées · **158** corrections individuelles · **4** révisions groupées (236 fiches)
+**204** entrées ajoutées · **1** retirées · **158** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `cf738afdc37d26f6166a878493c005cc1adc7a2e8bd3bf22f5da63deb91d788b`
+Empreinte de tête : `477ee7e1b531b5ce8faa6bf4d6ac9233443755dbb5ae3f36ca122c20ab0d4787`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-01` — **Le Bon Siège (MB2)** (fiche du 2026-08-31) · **entrée ajoutée**
+- `2026-09-01` — **Bio en Hauts-de-France** (fiche du 2026-09-01) · **entrée ajoutée**
 - `2026-09-01 (constaté)` — **Made in Bébé** (fiche du 2026-08-21) · Description publique réécrite — texte non reproduit (empreinte 363c9ed08a638fc1 → f9a4fed106afd254)
 - `2026-09-01` — **SDIS 57** (fiche du 2026-08-29) · **entrée ajoutée**
 - `2026-09-01 (constaté)` — **Service d'Incendie et de Secours du Bas-Rhin (SIS 67)** (fiche du 2026-08-29) · Description publique réécrite — texte non reproduit (empreinte 44743166aafc3f9a → 2e46baabbf0800c7)
