@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**201** entrées ajoutées · **1** retirées · **157** corrections individuelles · **4** révisions groupées (236 fiches)
+**202** entrées ajoutées · **1** retirées · **157** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `b3b91c35935a2bd00336b10a506ae2ef9befb949d1922e277bd3bb5f3132a29d`
+Empreinte de tête : `104f67e1be96fcb75c2380767283c25f43ef21f0c5d0bb708163388808b698cf`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-01` — **SDIS 57** (fiche du 2026-08-29) · **entrée ajoutée**
 - `2026-09-01 (constaté)` — **Service d'Incendie et de Secours du Bas-Rhin (SIS 67)** (fiche du 2026-08-29) · Description publique réécrite — texte non reproduit (empreinte 44743166aafc3f9a → 2e46baabbf0800c7)
 - `2026-09-01 (constaté)` — **SDIS 88** (fiche du 2026-08-29) · Description publique réécrite — texte non reproduit (empreinte ab561dba87618a8f → 485e4f203868d485)
 - `2026-09-01 (constaté)` — **SDIS 13** (fiche du 2026-08-29) · Description publique réécrite — texte non reproduit (empreinte aef76f347457b825 → 58cdbce4c41f64ca)
