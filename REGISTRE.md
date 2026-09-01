@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**201** entrées ajoutées · **1** retirées · **154** corrections individuelles · **4** révisions groupées (236 fiches)
+**201** entrées ajoutées · **1** retirées · **157** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `4531c1ba422ab7a3f89ae905d0454c8c1a755700e70f42ea6fbbf17f4e79e45b`
+Empreinte de tête : `b3b91c35935a2bd00336b10a506ae2ef9befb949d1922e277bd3bb5f3132a29d`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,9 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-01 (constaté)` — **Service d'Incendie et de Secours du Bas-Rhin (SIS 67)** (fiche du 2026-08-29) · Description publique réécrite — texte non reproduit (empreinte 44743166aafc3f9a → 2e46baabbf0800c7)
+- `2026-09-01 (constaté)` — **SDIS 88** (fiche du 2026-08-29) · Description publique réécrite — texte non reproduit (empreinte ab561dba87618a8f → 485e4f203868d485)
+- `2026-09-01 (constaté)` — **SDIS 13** (fiche du 2026-08-29) · Description publique réécrite — texte non reproduit (empreinte aef76f347457b825 → 58cdbce4c41f64ca)
 - `2026-09-01 (constaté)` — **Spyic** (fiche du 2025-02-14) · Description publique réécrite — texte non reproduit (empreinte 996cd4cb59204b5a → df689c1f868dd367)
 - `2026-09-01 (constaté)` — **SDIS 30** (fiche du 2026-08-29) · Statut : Revendiquée → Confirmée
 - `2026-09-01 (constaté)` — **SDIS 30** (fiche du 2026-08-29) · Description publique réécrite — texte non reproduit (empreinte e05ed25fb5a0ee54 → d78fb754ed7225d1)
