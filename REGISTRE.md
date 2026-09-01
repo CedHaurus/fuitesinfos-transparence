@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**205** entrées ajoutées · **1** retirées · **158** corrections individuelles · **4** révisions groupées (236 fiches)
+**205** entrées ajoutées · **1** retirées · **159** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `26ece6d659e7e694a2b1dfe5b41e94341f26cb6dede51ddd9f98a81a07450d47`
+Empreinte de tête : `ed90fe90c726f5fbdb3ee4f9767d45278afa64d4410ec83c0587c28030140e69`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-01 (constaté)` — **Géofoncier** (fiche du 2026-09-01) · Description publique réécrite — texte non reproduit (empreinte 01bce50890654152 → f42edaadcdaf3149)
 - `2026-09-01` — **Géofoncier** (fiche du 2026-09-01) · **entrée ajoutée**
 - `2026-09-01` — **Le Bon Siège (MB2)** (fiche du 2026-08-31) · **entrée ajoutée**
 - `2026-09-01` — **Bio en Hauts-de-France** (fiche du 2026-09-01) · **entrée ajoutée**
