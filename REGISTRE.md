@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**201** entrées ajoutées · **1** retirées · **149** corrections individuelles · **4** révisions groupées (236 fiches)
+**201** entrées ajoutées · **1** retirées · **154** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `a50c6d231dc8eb350f18bf1ebab51007615d756184c34cb849f200543bed9575`
+Empreinte de tête : `4531c1ba422ab7a3f89ae905d0454c8c1a755700e70f42ea6fbbf17f4e79e45b`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,11 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-01 (constaté)` — **Spyic** (fiche du 2025-02-14) · Description publique réécrite — texte non reproduit (empreinte 996cd4cb59204b5a → df689c1f868dd367)
+- `2026-09-01 (constaté)` — **SDIS 30** (fiche du 2026-08-29) · Statut : Revendiquée → Confirmée
+- `2026-09-01 (constaté)` — **SDIS 30** (fiche du 2026-08-29) · Description publique réécrite — texte non reproduit (empreinte e05ed25fb5a0ee54 → d78fb754ed7225d1)
+- `2026-09-01 (constaté)` — **Cocospy** (fiche du 2025-02-14) · Description publique réécrite — texte non reproduit (empreinte 8f999abaf5bc4699 → 853b0d648b5aef59)
+- `2026-09-01 (constaté)` — **Artists&Clients** (fiche du 2025-08-31) · Description publique réécrite — texte non reproduit (empreinte 9fdcabc6c4c59577 → 5990c8abdb9dda55)
 - `2026-09-01 (constaté)` — **Herbiolys Laboratoire** (fiche du 2026-08-31) · Description publique réécrite — texte non reproduit (empreinte e82073396b7101f9 → e2392dc91d8e9b4c)
 - `2026-09-01` — **Service d'Incendie et de Secours du Bas-Rhin (SIS 67)** (fiche du 2026-08-29) · Description publique réécrite — texte non reproduit (empreinte 8d835a5076a2428a → 44743166aafc3f9a)
 - `2026-09-01` — **SDIS 88** (fiche du 2026-08-29) · Description publique réécrite — texte non reproduit (empreinte d2c5b243d63a4d16 → ab561dba87618a8f)
