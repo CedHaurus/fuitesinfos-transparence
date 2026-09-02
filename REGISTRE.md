@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**209** entrées ajoutées · **1** retirées · **159** corrections individuelles · **4** révisions groupées (236 fiches)
+**210** entrées ajoutées · **1** retirées · **161** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `c7226d4e05c92679f6844941b871a9084e17aa656169b22b6d63c4b0afff87ea`
+Empreinte de tête : `7721da85067213e26cfca7ff345932877df9c6fc29f26675b9085085eed152e5`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,9 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-02 (constaté)` — **Ministère de la Transition écologique** (fiche du 2026-09-02) · Statut : Revendiquée → Confirmée
+- `2026-09-02 (constaté)` — **Ministère de la Transition écologique** (fiche du 2026-09-02) · Description publique réécrite — texte non reproduit (empreinte f683cfe949f499d7 → 4c22cf8fd36f51f8)
+- `2026-09-02` — **Micromania** (fiche du 2026-09-02) · **entrée ajoutée**
 - `2026-09-02` — **La Boutique du Volet** (fiche du 2026-09-02) · **entrée ajoutée**
 - `2026-09-02` — **Ministère de la Transition écologique** (fiche du 2026-09-02) · **entrée ajoutée**
 - `2026-09-02` — **FNIM (Fédération Nationale Indépendante des Mutuelles)** (fiche du 2026-09-02) · **entrée ajoutée**
