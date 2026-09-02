@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**208** entrées ajoutées · **1** retirées · **159** corrections individuelles · **4** révisions groupées (236 fiches)
+**209** entrées ajoutées · **1** retirées · **159** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `c32c71b2981360e4265ff757b2e0cbaacef378ca7cd5e0b47c7a5060cdd38288`
+Empreinte de tête : `c7226d4e05c92679f6844941b871a9084e17aa656169b22b6d63c4b0afff87ea`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-02` — **La Boutique du Volet** (fiche du 2026-09-02) · **entrée ajoutée**
 - `2026-09-02` — **Ministère de la Transition écologique** (fiche du 2026-09-02) · **entrée ajoutée**
 - `2026-09-02` — **FNIM (Fédération Nationale Indépendante des Mutuelles)** (fiche du 2026-09-02) · **entrée ajoutée**
 - `2026-09-02` — **LiveTrail** (fiche du 2026-09-02) · **entrée ajoutée**
