@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**206** entrées ajoutées · **1** retirées · **159** corrections individuelles · **4** révisions groupées (236 fiches)
+**207** entrées ajoutées · **1** retirées · **159** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `e04e44a122afb421b380e113b0faf8dbebde3beb35224b67e36d3f1edf99e767`
+Empreinte de tête : `9890efb196e23eebf9fed00395c490564db065f6e7090314c1e1cda62bdf11b8`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-02` — **FNIM (Fédération Nationale Indépendante des Mutuelles)** (fiche du 2026-09-02) · **entrée ajoutée**
 - `2026-09-02` — **LiveTrail** (fiche du 2026-09-02) · **entrée ajoutée**
 - `2026-09-01 (constaté)` — **Géofoncier** (fiche du 2026-09-01) · Description publique réécrite — texte non reproduit (empreinte 01bce50890654152 → f42edaadcdaf3149)
 - `2026-09-01` — **Géofoncier** (fiche du 2026-09-01) · **entrée ajoutée**
