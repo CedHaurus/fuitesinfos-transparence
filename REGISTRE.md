@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**214** entrées ajoutées · **1** retirées · **162** corrections individuelles · **4** révisions groupées (236 fiches)
+**214** entrées ajoutées · **1** retirées · **170** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `b952a98ab54b93cc2d2f0ce8ce9e1cb9fd44f072637ae669eb96f131e4c3b7cf`
+Empreinte de tête : `129075337cd14692c9125c41eed1acf262d320c07df9e688b2bd5bfaa5bc7750`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,14 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-03 (constaté)` — **Xplor Resamania** (fiche du 2026-08-01) · Statut : Revendiquée → Confirmée
+- `2026-09-03 (constaté)` — **Xplor Resamania** (fiche du 2026-08-01) · Description publique réécrite — texte non reproduit (empreinte 8cc1d84ba9749185 → 2e96ac6c35a54a93)
+- `2026-09-03 (constaté)` — **WHISE** (fiche du 2026-06-22) · Statut : Revendiquée → Confirmée
+- `2026-09-03 (constaté)` — **WHISE** (fiche du 2026-06-22) · Description publique réécrite — texte non reproduit (empreinte 84f2068d8acbf38c → e6e4bf29bbc5df87)
+- `2026-09-03 (constaté)` — **Rassemblement National** (fiche du 2026-07-20) · Statut : Revendiquée → Confirmée
+- `2026-09-03 (constaté)` — **Rassemblement National** (fiche du 2026-07-20) · Description publique réécrite — texte non reproduit (empreinte c00f14f474b1ccdf → 6be917015da5ecde)
+- `2026-09-03 (constaté)` — **Pulsy** (fiche du 2026-06-21) · Statut : Revendiquée → Confirmée
+- `2026-09-03 (constaté)` — **Pulsy** (fiche du 2026-06-21) · Description publique réécrite — texte non reproduit (empreinte 6bb6ae7b35c47168 → 09d79e0a8ca082e4)
 - `2026-09-03` — **Batigam** (fiche du 2026-06-28) · Description publique réécrite — texte non reproduit (empreinte 4b879fc8e32dc74a → fd260b1dcbf0ba66)
 - `2026-09-03` — **Tisséo Voyageurs** (fiche du 2026-09-03) · **entrée ajoutée**
 - `2026-09-03` — **Charbonneaux Brabant** (fiche du 2026-09-03) · **entrée ajoutée**
