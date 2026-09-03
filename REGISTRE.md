@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**210** entrées ajoutées · **1** retirées · **161** corrections individuelles · **4** révisions groupées (236 fiches)
+**214** entrées ajoutées · **1** retirées · **162** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `7721da85067213e26cfca7ff345932877df9c6fc29f26675b9085085eed152e5`
+Empreinte de tête : `b952a98ab54b93cc2d2f0ce8ce9e1cb9fd44f072637ae669eb96f131e4c3b7cf`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,11 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-03` — **Batigam** (fiche du 2026-06-28) · Description publique réécrite — texte non reproduit (empreinte 4b879fc8e32dc74a → fd260b1dcbf0ba66)
+- `2026-09-03` — **Tisséo Voyageurs** (fiche du 2026-09-03) · **entrée ajoutée**
+- `2026-09-03` — **Charbonneaux Brabant** (fiche du 2026-09-03) · **entrée ajoutée**
+- `2026-09-03` — **Chambre de Métiers et de l'Artisanat Occitanie** (fiche du 2026-09-03) · **entrée ajoutée**
+- `2026-09-03` — **BCTI** (fiche du 2026-09-03) · **entrée ajoutée**
 - `2026-09-02 (constaté)` — **Ministère de la Transition écologique** (fiche du 2026-09-02) · Statut : Revendiquée → Confirmée
 - `2026-09-02 (constaté)` — **Ministère de la Transition écologique** (fiche du 2026-09-02) · Description publique réécrite — texte non reproduit (empreinte f683cfe949f499d7 → 4c22cf8fd36f51f8)
 - `2026-09-02` — **Micromania** (fiche du 2026-09-02) · **entrée ajoutée**
