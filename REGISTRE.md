@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**216** entrées ajoutées · **1** retirées · **170** corrections individuelles · **4** révisions groupées (236 fiches)
+**216** entrées ajoutées · **1** retirées · **171** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `34d54afd561e52f654406b31e149023a851745a37479202115a0570b2c0428e6`
+Empreinte de tête : `fb0d3ba62c44aafc483c16611a0f0fb03dc4852269e2597dac6782820e056d7a`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-03 (constaté)` — **ColisExpat** (fiche du 2026-09-03) · Description publique réécrite — texte non reproduit (empreinte 0a3a85d8b5ae82f0 → e8ce564c65c2f225)
 - `2026-09-03` — **Delicity** (fiche du 2026-09-02) · **entrée ajoutée**
 - `2026-09-03` — **ColisExpat** (fiche du 2026-09-03) · **entrée ajoutée**
 - `2026-09-03 (constaté)` — **Xplor Resamania** (fiche du 2026-08-01) · Statut : Revendiquée → Confirmée
