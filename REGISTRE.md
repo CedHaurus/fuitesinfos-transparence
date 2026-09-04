@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**221** entrées ajoutées · **1** retirées · **171** corrections individuelles · **4** révisions groupées (236 fiches)
+**221** entrées ajoutées · **1** retirées · **173** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `9a4bf136d4a8f668ca18cfaecde2015e84ef877e1d2601f61961fcc8cd30611b`
+Empreinte de tête : `fc7eb3a52eb0bc0552e68ec6b751cd6e4d1ee6cdbf999b11970510a63ff33a2e`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-04 (constaté)` — **Association des Maires de France** (fiche du 2026-09-04) · Statut : Revendiquée → Confirmée
+- `2026-09-04 (constaté)` — **Association des Maires de France** (fiche du 2026-09-04) · Description publique réécrite — texte non reproduit (empreinte 83d8038483945f12 → 213242877554b532)
 - `2026-09-04` — **Association des Maires de France** (fiche du 2026-09-04) · **entrée ajoutée**
 - `2026-09-04` — **Préférence Formations** (fiche du 2026-09-03) · **entrée ajoutée**
 - `2026-09-04` — **Inicea** (fiche du 2026-09-03) · **entrée ajoutée**
