@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**218** entrées ajoutées · **1** retirées · **171** corrections individuelles · **4** révisions groupées (236 fiches)
+**220** entrées ajoutées · **1** retirées · **171** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `994ecb84a853cd4eb973d090ed3cd101a3e7e5051348d1eabc4b113ec80fee34`
+Empreinte de tête : `7f3745e94ab974daa362386deda161ff7fe596613a9a3ab28de1f87b246da5ab`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-04` — **Préférence Formations** (fiche du 2026-09-03) · **entrée ajoutée**
+- `2026-09-04` — **Inicea** (fiche du 2026-09-03) · **entrée ajoutée**
 - `2026-09-03` — **Réso** (fiche du 2026-09-03) · **entrée ajoutée**
 - `2026-09-03` — **ZeroGaspi** (fiche du 2026-09-02) · **entrée ajoutée**
 - `2026-09-03 (constaté)` — **ColisExpat** (fiche du 2026-09-03) · Description publique réécrite — texte non reproduit (empreinte 0a3a85d8b5ae82f0 → e8ce564c65c2f225)
