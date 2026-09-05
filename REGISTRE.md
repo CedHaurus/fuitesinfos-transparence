@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**224** entrées ajoutées · **1** retirées · **183** corrections individuelles · **4** révisions groupées (236 fiches)
+**227** entrées ajoutées · **1** retirées · **183** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `b5133187b4d17993daa9f4a2090583639bf897160db4e2b88a126d5139212046`
+Empreinte de tête : `0864a180a86d08a59a27185c248b0c73e4165946d058d7e9a6e897cb59dc757f`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,9 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-05` — **YouFid** (fiche du 2026-09-05) · **entrée ajoutée**
+- `2026-09-05` — **Pass Pass** (fiche du 2026-09-05) · **entrée ajoutée**
+- `2026-09-05` — **La Maison Pour Tous** (fiche du 2026-09-05) · **entrée ajoutée**
 - `2026-09-05 (constaté)` — **FNIM (Fédération Nationale Indépendante des Mutuelles)** (fiche du 2026-09-02) · Statut : Revendiquée → Confirmée
 - `2026-09-05 (constaté)` — **FNIM (Fédération Nationale Indépendante des Mutuelles)** (fiche du 2026-09-02) · Description publique réécrite — texte non reproduit (empreinte 114b40b388f88b8b → 4fa6e924e6662dff)
 - `2026-09-05` — **Storia Mundi** (fiche du 2026-09-04) · **entrée ajoutée**
