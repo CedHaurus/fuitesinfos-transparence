@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**223** entrées ajoutées · **1** retirées · **175** corrections individuelles · **4** révisions groupées (236 fiches)
+**223** entrées ajoutées · **1** retirées · **181** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `310b51d77f4e503ffdb6b8cc610dbf556596db7eec8755be1c5e16748ba84089`
+Empreinte de tête : `66fc3595e8681c747a6cfb6489993ff694bd6d7f769a14cc46556cfbb3d0cd5c`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,12 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-05 (constaté)` — **Ministère de l'Éducation nationale** (fiche du 2026-08-17) · Statut : Revendiquée → Confirmée
+- `2026-09-05 (constaté)` — **Ministère de l'Éducation nationale** (fiche du 2026-08-17) · Description publique réécrite — texte non reproduit (empreinte 81b7dd936ac43e24 → f092fff12c9c02c3)
+- `2026-09-05 (constaté)` — **Alaxione** (fiche du 2026-08-19) · Statut : Revendiquée → Confirmée
+- `2026-09-05 (constaté)` — **Alaxione** (fiche du 2026-08-19) · Description publique réécrite — texte non reproduit (empreinte 56fda1c27dc57d96 → bf5bd64956d052e6)
+- `2026-09-05 (constaté)` — **AKAOLIFE** (fiche du 2026-06-24) · Statut : Revendiquée → Confirmée
+- `2026-09-05 (constaté)` — **AKAOLIFE** (fiche du 2026-06-24) · Description publique réécrite — texte non reproduit (empreinte e5e0d06398fe7115 → 386df245e59d9172)
 - `2026-09-05` — **Accent Rouge** (fiche du 2026-09-04) · **entrée ajoutée**
 - `2026-09-05` — **Tisséo Voyageurs** (fiche du 2026-09-03) · Statut : Revendiquée → Confirmée
 - `2026-09-05` — **Tisséo Voyageurs** (fiche du 2026-09-03) · Description publique réécrite — texte non reproduit (empreinte 84bb2867dcba857a → 0b28f38a4883b43f)
