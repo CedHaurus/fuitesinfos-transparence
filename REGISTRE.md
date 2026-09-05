@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**223** entrées ajoutées · **1** retirées · **181** corrections individuelles · **4** révisions groupées (236 fiches)
+**224** entrées ajoutées · **1** retirées · **183** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `66fc3595e8681c747a6cfb6489993ff694bd6d7f769a14cc46556cfbb3d0cd5c`
+Empreinte de tête : `b5133187b4d17993daa9f4a2090583639bf897160db4e2b88a126d5139212046`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,9 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-05 (constaté)` — **FNIM (Fédération Nationale Indépendante des Mutuelles)** (fiche du 2026-09-02) · Statut : Revendiquée → Confirmée
+- `2026-09-05 (constaté)` — **FNIM (Fédération Nationale Indépendante des Mutuelles)** (fiche du 2026-09-02) · Description publique réécrite — texte non reproduit (empreinte 114b40b388f88b8b → 4fa6e924e6662dff)
+- `2026-09-05` — **Storia Mundi** (fiche du 2026-09-04) · **entrée ajoutée**
 - `2026-09-05 (constaté)` — **Ministère de l'Éducation nationale** (fiche du 2026-08-17) · Statut : Revendiquée → Confirmée
 - `2026-09-05 (constaté)` — **Ministère de l'Éducation nationale** (fiche du 2026-08-17) · Description publique réécrite — texte non reproduit (empreinte 81b7dd936ac43e24 → f092fff12c9c02c3)
 - `2026-09-05 (constaté)` — **Alaxione** (fiche du 2026-08-19) · Statut : Revendiquée → Confirmée
