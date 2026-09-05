@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**222** entrées ajoutées · **1** retirées · **175** corrections individuelles · **4** révisions groupées (236 fiches)
+**223** entrées ajoutées · **1** retirées · **175** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `4619163912a1d325026d9dca304633525862185c1f8c1c22dfadeafbba2121ea`
+Empreinte de tête : `310b51d77f4e503ffdb6b8cc610dbf556596db7eec8755be1c5e16748ba84089`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-05` — **Accent Rouge** (fiche du 2026-09-04) · **entrée ajoutée**
 - `2026-09-05` — **Tisséo Voyageurs** (fiche du 2026-09-03) · Statut : Revendiquée → Confirmée
 - `2026-09-05` — **Tisséo Voyageurs** (fiche du 2026-09-03) · Description publique réécrite — texte non reproduit (empreinte 84bb2867dcba857a → 0b28f38a4883b43f)
 - `2026-09-04` — **Répar'stores** (fiche du 2026-09-04) · **entrée ajoutée**
