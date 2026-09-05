@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**227** entrées ajoutées · **1** retirées · **183** corrections individuelles · **4** révisions groupées (236 fiches)
+**227** entrées ajoutées · **1** retirées · **186** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `0864a180a86d08a59a27185c248b0c73e4165946d058d7e9a6e897cb59dc757f`
+Empreinte de tête : `a62ed9c97a3fbd5bb262c64f27d2563140d962ba2874eec7f33484ad40cd7313`
 
 > **1 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,9 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-05 (constaté)` — **Atout France** (fiche du 2026-07-08) · Volume concerné : (vide) → 5 051
+- `2026-09-05 (constaté)` — **Atout France** (fiche du 2026-07-08) · Description publique réécrite — texte non reproduit (empreinte e6ac6aa9d04577cf → eb551e90406e1070)
+- `2026-09-05 (constaté)` — **Atout France** (fiche du 2026-07-08) · Nature des données : retiré Adresses web, Données d'adhésion, SIRET
 - `2026-09-05` — **YouFid** (fiche du 2026-09-05) · **entrée ajoutée**
 - `2026-09-05` — **Pass Pass** (fiche du 2026-09-05) · **entrée ajoutée**
 - `2026-09-05` — **La Maison Pour Tous** (fiche du 2026-09-05) · **entrée ajoutée**
