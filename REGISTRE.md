@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**229** entrées ajoutées · **2** retirées · **225** corrections individuelles · **4** révisions groupées (236 fiches)
+**229** entrées ajoutées · **2** retirées · **227** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `bb8122b33bb4be80f79d9299a1e54648d433bf43c82f80941a32cf2747087431`
+Empreinte de tête : `0e2de2ecd60929a45e64ecdc9e1e0b003b9966e74c180b9caa276c0b0c7758c2`
 
 > **2 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part · 1 doublon ou regroupement de fiches. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-06 (constaté)` — **Dream Up (LAPSUS$) 40go multi sites** (fiche du 2026-01-04) · Nature des données : retiré IBAN
+- `2026-09-06 (constaté)` — **ACRV.FR (Agence web)** (fiche du 2026-01-10) · Nature des données : retiré IBAN
 - `2026-09-06 (constaté)` — **France Éducation international (DELF/DALF)** (fiche du 2026-01-12) · Description publique réécrite — texte non reproduit (empreinte 229f7616c51d8076 → 8d779933f4570311)
 - `2026-09-06 (constaté)` — **Adecco** (fiche du 2026-01-04) · **ENTRÉE RETIRÉE** — motif : Doublon ou regroupement de fiches (Le catalogue portait deux fiches pour le même incident Adecco : celle-ci, datée du 4 janvier 2026, et adecco-france-2025-12-24. Les deux annonçaient les mêmes 800 000 lignes dont environ 750 000 CV, la même fenêtre d'infiltration alléguée du 20 au 22 décembre 2025, et aucune n'avait donné lieu à l'analyse d'un corpus permettant de les distinguer. Les 800 000 personnes étaient donc comptées deux fois dans les totaux publiés. La revue du catalogue 2026 l'a établi le 6 septembre 2026. Les deux fiches sont regroupées au profit de celle du 24 décembre 2025, qui porte la date de l'intrusion revendiquée et reste publique avec le volume ; celle-ci sort de l'accès public, son volume est retiré pour ne plus être compté, et sa description indique qu'elle est une republication du même incident. Aucune information n'est démentie : c'est un regroupement, pas une rétractation.)
 - `2026-09-06 (constaté)` — **École nationale supérieure d’arts et métiers (ENSAM)** (fiche du 2026-01-21) · Nature des données : retiré IBAN
