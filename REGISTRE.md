@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**229** entrées ajoutées · **2** retirées · **227** corrections individuelles · **4** révisions groupées (236 fiches)
+**230** entrées ajoutées · **2** retirées · **229** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `0e2de2ecd60929a45e64ecdc9e1e0b003b9966e74c180b9caa276c0b0c7758c2`
+Empreinte de tête : `e4c5f286f8c793d21996f45387a0f5a3bcd03f2158a4aef55051baf1b5db934e`
 
 > **2 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part · 1 doublon ou regroupement de fiches. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,9 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-06 (constaté)` — **Dream Up (LAPSUS$) 40go multi sites** (fiche du 2026-01-04) · Description publique réécrite — texte non reproduit (empreinte acbdb91cf2b13976 → e8a2f847c8454fee)
+- `2026-09-06 (constaté)` — **ACRV.FR (Agence web)** (fiche du 2026-01-10) · Description publique réécrite — texte non reproduit (empreinte 9fc145a0de29123b → 6837afb08ed6fe65)
+- `2026-09-06` — **Footsider** (fiche du 2026-09-06) · **entrée ajoutée**
 - `2026-09-06 (constaté)` — **Dream Up (LAPSUS$) 40go multi sites** (fiche du 2026-01-04) · Nature des données : retiré IBAN
 - `2026-09-06 (constaté)` — **ACRV.FR (Agence web)** (fiche du 2026-01-10) · Nature des données : retiré IBAN
 - `2026-09-06 (constaté)` — **France Éducation international (DELF/DALF)** (fiche du 2026-01-12) · Description publique réécrite — texte non reproduit (empreinte 229f7616c51d8076 → 8d779933f4570311)
@@ -113,7 +116,6 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 - `2026-09-01` — **Le Bon Siège (MB2)** (fiche du 2026-08-31) · **entrée ajoutée**
 - `2026-09-01` — **Bio en Hauts-de-France** (fiche du 2026-09-01) · **entrée ajoutée**
 - `2026-09-01 (constaté)` — **Made in Bébé** (fiche du 2026-08-21) · Description publique réécrite — texte non reproduit (empreinte 363c9ed08a638fc1 → f9a4fed106afd254)
-- `2026-09-01` — **SDIS 57** (fiche du 2026-08-29) · **entrée ajoutée**
 - `2026-09-01 (constaté)` — **Service d'Incendie et de Secours du Bas-Rhin (SIS 67)** (fiche du 2026-08-29) · Description publique réécrite — texte non reproduit (empreinte 44743166aafc3f9a → 2e46baabbf0800c7)
 - `2026-09-01 (constaté)` — **SDIS 88** (fiche du 2026-08-29) · Description publique réécrite — texte non reproduit (empreinte ab561dba87618a8f → 485e4f203868d485)
 - `2026-09-01 (constaté)` — **SDIS 13** (fiche du 2026-08-29) · Description publique réécrite — texte non reproduit (empreinte aef76f347457b825 → 58cdbce4c41f64ca)
@@ -122,6 +124,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 - `2026-09-01 (constaté)` — **SDIS 30** (fiche du 2026-08-29) · Description publique réécrite — texte non reproduit (empreinte e05ed25fb5a0ee54 → d78fb754ed7225d1)
 - `2026-09-01 (constaté)` — **Cocospy** (fiche du 2025-02-14) · Description publique réécrite — texte non reproduit (empreinte 8f999abaf5bc4699 → 853b0d648b5aef59)
 - `2026-09-01 (constaté)` — **Artists&Clients** (fiche du 2025-08-31) · Description publique réécrite — texte non reproduit (empreinte 9fdcabc6c4c59577 → 5990c8abdb9dda55)
+- `2026-09-01` — **SDIS 57** (fiche du 2026-08-29) · **entrée ajoutée**
 - `2026-09-01 (constaté)` — **Herbiolys Laboratoire** (fiche du 2026-08-31) · Description publique réécrite — texte non reproduit (empreinte e82073396b7101f9 → e2392dc91d8e9b4c)
 - `2026-09-01` — **Service d'Incendie et de Secours du Bas-Rhin (SIS 67)** (fiche du 2026-08-29) · Description publique réécrite — texte non reproduit (empreinte 8d835a5076a2428a → 44743166aafc3f9a)
 - `2026-09-01` — **SDIS 88** (fiche du 2026-08-29) · Description publique réécrite — texte non reproduit (empreinte d2c5b243d63a4d16 → ab561dba87618a8f)
