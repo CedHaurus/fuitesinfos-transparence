@@ -2,12 +2,12 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**229** entrées ajoutées · **1** retirées · **186** corrections individuelles · **4** révisions groupées (236 fiches)
+**229** entrées ajoutées · **2** retirées · **224** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `8deab818d8678c38ed49832ad3a5d850d3c270ea48e2a8ba9803504454c4800a`
+Empreinte de tête : `8872a2830f1318084f7647dbc6fc2def61ea99b95a08d36a72b56bdb5a3903b9`
 
-> **1 entrée(s) retirée(s) depuis le début de cette période.**
-> Répartition par motif : 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
+> **2 entrée(s) retirée(s) depuis le début de cette période.**
+> Répartition par motif : 1 erreur de notre part · 1 doublon ou regroupement de fiches. Chaque retrait est détaillé ci-dessous.
 
 Les changements sont classés du plus récent au plus ancien. La portée exacte de ce registre et ses limites sont décrites dans le [README](README.md).
 
@@ -15,6 +15,45 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-06 (constaté)` — **Adecco** (fiche du 2026-01-04) · **ENTRÉE RETIRÉE** — motif : Doublon ou regroupement de fiches (Le catalogue portait deux fiches pour le même incident Adecco : celle-ci, datée du 4 janvier 2026, et adecco-france-2025-12-24. Les deux annonçaient les mêmes 800 000 lignes dont environ 750 000 CV, la même fenêtre d'infiltration alléguée du 20 au 22 décembre 2025, et aucune n'avait donné lieu à l'analyse d'un corpus permettant de les distinguer. Les 800 000 personnes étaient donc comptées deux fois dans les totaux publiés. La revue du catalogue 2026 l'a établi le 6 septembre 2026. Les deux fiches sont regroupées au profit de celle du 24 décembre 2025, qui porte la date de l'intrusion revendiquée et reste publique avec le volume ; celle-ci sort de l'accès public, son volume est retiré pour ne plus être compté, et sa description indique qu'elle est une republication du même incident. Aucune information n'est démentie : c'est un regroupement, pas une rétractation.)
+- `2026-09-06 (constaté)` — **École nationale supérieure d’arts et métiers (ENSAM)** (fiche du 2026-01-21) · Nature des données : retiré IBAN
+- `2026-09-06 (constaté)` — **nephael.net & chloesanchez.com** (fiche du 2026-01-12) · Description publique réécrite — texte non reproduit (empreinte f353be1f29513995 → 75899722de663a5e)
+- `2026-09-06 (constaté)` — **nephael.net & chloesanchez.com** (fiche du 2026-01-12) · Nature des données : retiré Adresse postale
+- `2026-09-06 (constaté)` — **Wobz (ex Dalvin)** (fiche du 2026-01-17) · Nature des données : retiré Adresse postale, Facture, Historique de transactions, Numéro de sécurité sociale
+- `2026-09-06 (constaté)` — **VeryChic** (fiche du 2026-01-29) · Nature des données : retiré Données de mineurs
+- `2026-09-06 (constaté)` — **StorePasCher** (fiche du 2026-01-16) · Description publique réécrite — texte non reproduit (empreinte da7dd7bdaf52d23f → 6a7d0dc5251fe302)
+- `2026-09-06 (constaté)` — **Service-public.gouv.fr** (fiche du 2026-01-15) · Volume concerné : (vide) → 70 000
+- `2026-09-06 (constaté)` — **Service-public.gouv.fr** (fiche du 2026-01-15) · Description publique réécrite — texte non reproduit (empreinte 7acd2045fa993154 → d2d34abd41c02dd5)
+- `2026-09-06 (constaté)` — **Relais Colis** (fiche du 2026-01-12) · Description publique réécrite — texte non reproduit (empreinte 67c6bbcbad1560f5 → 66a74a72603caebb)
+- `2026-09-06 (constaté)` — **Philharmonie de Paris (PAD)** (fiche du 2026-01-06) · Nature des données : retiré Adresse postale
+- `2026-09-06 (constaté)` — **Panorabanques.com (2025)** (fiche du 2026-01-10) · Nature des données : retiré Documents
+- `2026-09-06 (constaté)` — **O’Tacos** (fiche du 2026-01-27) · Nature des données : retiré Contenu de messages
+- `2026-09-06 (constaté)` — **Multi-Agences Immobilières Françaises - 500gb** (fiche du 2026-01-29) · Nature des données : retiré Numéro de sécurité sociale
+- `2026-09-06 (constaté)` — **Lyleoo** (fiche du 2026-01-26) · Volume concerné : 900 000 → (vide)
+- `2026-09-06 (constaté)` — **Loft by Denis (salon rue des Moines, Paris 17e)** (fiche du 2026-01-06) · Site de l'entité : (vide) → https://moines.loftbydenis.fr/
+- `2026-09-06 (constaté)` — **Loft by Denis (salon rue des Moines, Paris 17e)** (fiche du 2026-01-06) · Nom de l'entité : Loft by Denis Moines(salon de coiffure, Paris) → Loft by Denis (salon rue des Moines, Paris 17e)
+- `2026-09-06 (constaté)` — **Loft by Denis (salon rue des Moines, Paris 17e)** (fiche du 2026-01-06) · Description publique réécrite — texte non reproduit (empreinte adb78dcaf36a1b39 → b5911f8c5623aa3b)
+- `2026-09-06 (constaté)` — **Loft by Denis (salon rue des Moines, Paris 17e)** (fiche du 2026-01-06) · Nature des données : retiré Adresse postale
+- `2026-09-06 (constaté)` — **Livre en Poche** (fiche du 2026-01-25) · Volume concerné : 683 936 → (vide)
+- `2026-09-06 (constaté)` — **Lions Clubs de France (District Multiple 103)** (fiche du 2026-01-06) · Site de l'entité : https://www.lionsclubs.fr/ → https://lions-france.org/
+- `2026-09-06 (constaté)` — **Lions Clubs de France (District Multiple 103)** (fiche du 2026-01-06) · Nom de l'entité : Fondation des Lions de France (Lions Clubs de France) → Lions Clubs de France (District Multiple 103)
+- `2026-09-06 (constaté)` — **Lions Clubs de France (District Multiple 103)** (fiche du 2026-01-06) · Description publique réécrite — texte non reproduit (empreinte 71e95bcd4eb39a17 → 8e61f4561c2cc9ff)
+- `2026-09-06 (constaté)` — **Ioburo** (fiche du 2026-01-17) · Site de l'entité : https://www.ioburo.pf/ → https://www.ioburo.fr/
+- `2026-09-06 (constaté)` — **Fédération Sportive et Gymnique du Travail (FSGT)** (fiche du 2026-01-08) · Volume concerné : 599 797 → (vide)
+- `2026-09-06 (constaté)` — **Fédération Française de Bridge (FFB)** (fiche du 2026-01-08) · Nature des données : retiré Civilité, Numéro de permis ou de licence
+- `2026-09-06 (constaté)` — **France Éducation international (DELF/DALF)** (fiche du 2026-01-12) · Volume concerné : (vide) → 5 800 000
+- `2026-09-06 (constaté)` — **France Éducation international (DELF/DALF)** (fiche du 2026-01-12) · Nature des données : ajouté Civilité, Langue, Lieu de naissance, Nationalité, Nom, Pays, Prénom ; retiré Adresse email, Adresse postale, Numéro de téléphone
+- `2026-09-06 (constaté)` — **FFESSM (Fédération Française d’Études et de Sports Sous-Marins)** (fiche du 2026-01-24) · Nature des données : ajouté Adresse email
+- `2026-09-06 (constaté)` — **Euronature (École de Naturopathie)** (fiche du 2026-01-09) · Nature des données : retiré Données de mineurs
+- `2026-09-06 (constaté)` — **Eurail / Interrail** (fiche du 2026-01-13) · Volume concerné : (vide) → 308 777
+- `2026-09-06 (constaté)` — **Eurail / Interrail** (fiche du 2026-01-13) · Description publique réécrite — texte non reproduit (empreinte a4cabd1901189037 → 80d5fd2702903dae)
+- `2026-09-06 (constaté)` — **Eurail / Interrail** (fiche du 2026-01-13) · Nature des données : ajouté Données de santé, IBAN
+- `2026-09-06 (constaté)` — **BreachForums (2025)** (fiche du 2026-01-10) · Description publique réécrite — texte non reproduit (empreinte a90163666fd61dcd → 719db3572fcea4b1)
+- `2026-09-06 (constaté)` — **Audiophonics.fr** (fiche du 2026-01-10) · Description publique réécrite — texte non reproduit (empreinte a70a23a0467bcffa → 4de72430c880ceea)
+- `2026-09-06 (constaté)` — **Audiophonics.fr** (fiche du 2026-01-10) · Nature des données : retiré Adresse postale
+- `2026-09-06 (constaté)` — **Apec Région Occitanie (Montpellier / Nîmes / Toulouse)** (fiche du 2026-01-09) · Nature des données : retiré Adresse postale, Situation familiale
+- `2026-09-06 (constaté)` — **AXYON (EDF, Eiffage, Bouygues, Engie, Renault, etc.)** (fiche du 2026-01-04) · Site de l'entité : https://www.axyon.fr/ → https://axyon.eu/
+- `2026-09-06 (constaté)` — **ANPS (Association Nationale des Premiers Secours)** (fiche du 2026-01-30) · Nature des données : retiré Coordonnées bancaires, IBAN, RIB
 - `2026-09-06` — **OnRecrute en Aveyron (Aveyron Attractivité)** (fiche du 2026-09-05) · **entrée ajoutée**
 - `2026-09-06` — **Les Curistes** (fiche du 2026-09-05) · **entrée ajoutée**
 - `2026-09-05 (constaté)` — **Atout France** (fiche du 2026-07-08) · Volume concerné : (vide) → 5 051
