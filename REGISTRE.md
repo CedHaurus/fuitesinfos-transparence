@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**231** entrées ajoutées · **2** retirées · **229** corrections individuelles · **4** révisions groupées (236 fiches)
+**231** entrées ajoutées · **2** retirées · **230** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `b83ff2dfd46d2af47eadb12fb2ba0e5e44d8470c60ab6ce07f9b82cb2d43a5ec`
+Empreinte de tête : `e63db76debebfd98fbfea60e35384610aed8bfd4ca8efbaa8e09b67fe86b3b6e`
 
 > **2 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part · 1 doublon ou regroupement de fiches. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-07 (constaté)` — **Jinko** (fiche du 2026-09-07) · Nature des données : ajouté Données de mineurs
 - `2026-09-07` — **Jinko** (fiche du 2026-09-07) · **entrée ajoutée**
 - `2026-09-06 (constaté)` — **Dream Up (LAPSUS$) 40go multi sites** (fiche du 2026-01-04) · Description publique réécrite — texte non reproduit (empreinte acbdb91cf2b13976 → e8a2f847c8454fee)
 - `2026-09-06 (constaté)` — **ACRV.FR (Agence web)** (fiche du 2026-01-10) · Description publique réécrite — texte non reproduit (empreinte 9fc145a0de29123b → 6837afb08ed6fe65)
