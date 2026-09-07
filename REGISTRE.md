@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**231** entrées ajoutées · **2** retirées · **230** corrections individuelles · **4** révisions groupées (236 fiches)
+**232** entrées ajoutées · **2** retirées · **230** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `e63db76debebfd98fbfea60e35384610aed8bfd4ca8efbaa8e09b67fe86b3b6e`
+Empreinte de tête : `24d1a3968c2258a6cc6d641d6ae8633d6210f1b8c3cc8b145cfc1e5bfadfd303`
 
 > **2 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part · 1 doublon ou regroupement de fiches. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-07` — **BumFot** (fiche du 2026-09-07) · **entrée ajoutée**
 - `2026-09-07 (constaté)` — **Jinko** (fiche du 2026-09-07) · Nature des données : ajouté Données de mineurs
 - `2026-09-07` — **Jinko** (fiche du 2026-09-07) · **entrée ajoutée**
 - `2026-09-06 (constaté)` — **Dream Up (LAPSUS$) 40go multi sites** (fiche du 2026-01-04) · Description publique réécrite — texte non reproduit (empreinte acbdb91cf2b13976 → e8a2f847c8454fee)
