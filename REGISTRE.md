@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**234** entrées ajoutées · **2** retirées · **230** corrections individuelles · **4** révisions groupées (236 fiches)
+**235** entrées ajoutées · **2** retirées · **230** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `ddcfc5fba36bbfb759f3ace71529ed1ffe929fb28bbfb2a99f258737bb9175e6`
+Empreinte de tête : `5621b5a60d52b9ae0a83eaab02d0a6bc27e9670d56dde0f4a2bbeae72803874b`
 
 > **2 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part · 1 doublon ou regroupement de fiches. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-07` — **Communauté de communes Yvetot Normandie** (fiche du 2026-09-07) · **entrée ajoutée**
 - `2026-09-07` — **Médik' West Indies** (fiche du 2026-09-07) · **entrée ajoutée**
 - `2026-09-07` — **Snexi** (fiche du 2026-09-07) · **entrée ajoutée**
 - `2026-09-07` — **BumFot** (fiche du 2026-09-07) · **entrée ajoutée**
