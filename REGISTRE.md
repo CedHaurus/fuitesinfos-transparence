@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**233** entrées ajoutées · **2** retirées · **230** corrections individuelles · **4** révisions groupées (236 fiches)
+**234** entrées ajoutées · **2** retirées · **230** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `b2e4df56d342c3f2dd64210de042b218c6f36f7a38f6edbc417085a3048aeabb`
+Empreinte de tête : `ddcfc5fba36bbfb759f3ace71529ed1ffe929fb28bbfb2a99f258737bb9175e6`
 
 > **2 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part · 1 doublon ou regroupement de fiches. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-07` — **Médik' West Indies** (fiche du 2026-09-07) · **entrée ajoutée**
 - `2026-09-07` — **Snexi** (fiche du 2026-09-07) · **entrée ajoutée**
 - `2026-09-07` — **BumFot** (fiche du 2026-09-07) · **entrée ajoutée**
 - `2026-09-07 (constaté)` — **Jinko** (fiche du 2026-09-07) · Nature des données : ajouté Données de mineurs
