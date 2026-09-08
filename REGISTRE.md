@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**236** entrées ajoutées · **2** retirées · **230** corrections individuelles · **4** révisions groupées (236 fiches)
+**237** entrées ajoutées · **2** retirées · **230** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `fbd06fc2cd09410314e6a6d7bce66853cf8063a60da746ebe697b7b2e451240e`
+Empreinte de tête : `402a9c8cd3fbeab1104622240afd86a509e2e15714f3c315a962cfc961d3e7d2`
 
 > **2 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part · 1 doublon ou regroupement de fiches. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-08` — **Aroma-Zone** (fiche du 2026-09-08) · **entrée ajoutée**
 - `2026-09-08` — **Vision2i** (fiche du 2026-09-08) · **entrée ajoutée**
 - `2026-09-07` — **Communauté de communes Yvetot Normandie** (fiche du 2026-09-07) · **entrée ajoutée**
 - `2026-09-07` — **Médik' West Indies** (fiche du 2026-09-07) · **entrée ajoutée**
