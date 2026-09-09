@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**237** entrées ajoutées · **2** retirées · **230** corrections individuelles · **4** révisions groupées (236 fiches)
+**239** entrées ajoutées · **2** retirées · **230** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `402a9c8cd3fbeab1104622240afd86a509e2e15714f3c315a962cfc961d3e7d2`
+Empreinte de tête : `ec1216d9a0ef6b1a638a2b570c9f379c2e41abc8d73ab508e81c1b237ebf4382`
 
 > **2 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part · 1 doublon ou regroupement de fiches. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-09` — **Printemps** (fiche du 2026-09-09) · **entrée ajoutée**
+- `2026-09-09` — **Citadium** (fiche du 2026-09-09) · **entrée ajoutée**
 - `2026-09-08` — **Aroma-Zone** (fiche du 2026-09-08) · **entrée ajoutée**
 - `2026-09-08` — **Vision2i** (fiche du 2026-09-08) · **entrée ajoutée**
 - `2026-09-07` — **Communauté de communes Yvetot Normandie** (fiche du 2026-09-07) · **entrée ajoutée**
