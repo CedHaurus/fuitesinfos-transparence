@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**240** entrées ajoutées · **2** retirées · **230** corrections individuelles · **4** révisions groupées (236 fiches)
+**241** entrées ajoutées · **2** retirées · **232** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `115aa2200fa939f5518869ecba04802efa050408df126c73c82b89f14d767983`
+Empreinte de tête : `7a1c43fe437c639e4eed70b0ed2900dc40db10c014e81d26e237bf1d42f1ab12`
 
 > **2 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part · 1 doublon ou regroupement de fiches. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,9 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-10 (constaté)` — **WiziShop** (fiche du 2026-08-19) · Volume concerné : (vide) → 26 470
+- `2026-09-10 (constaté)` — **WiziShop** (fiche du 2026-08-19) · Description publique réécrite — texte non reproduit (empreinte 041398ae7ee18604 → bbd1737c62079aa7)
+- `2026-09-10` — **Aqualter** (fiche du 2026-09-10) · **entrée ajoutée**
 - `2026-09-10` — **ésam Caen/Cherbourg** (fiche du 2026-09-08) · **entrée ajoutée**
 - `2026-09-09` — **Printemps** (fiche du 2026-09-09) · **entrée ajoutée**
 - `2026-09-09` — **Citadium** (fiche du 2026-09-09) · **entrée ajoutée**
