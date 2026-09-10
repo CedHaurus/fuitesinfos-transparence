@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**239** entrées ajoutées · **2** retirées · **230** corrections individuelles · **4** révisions groupées (236 fiches)
+**240** entrées ajoutées · **2** retirées · **230** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `ec1216d9a0ef6b1a638a2b570c9f379c2e41abc8d73ab508e81c1b237ebf4382`
+Empreinte de tête : `115aa2200fa939f5518869ecba04802efa050408df126c73c82b89f14d767983`
 
 > **2 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part · 1 doublon ou regroupement de fiches. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-10` — **ésam Caen/Cherbourg** (fiche du 2026-09-08) · **entrée ajoutée**
 - `2026-09-09` — **Printemps** (fiche du 2026-09-09) · **entrée ajoutée**
 - `2026-09-09` — **Citadium** (fiche du 2026-09-09) · **entrée ajoutée**
 - `2026-09-08` — **Aroma-Zone** (fiche du 2026-09-08) · **entrée ajoutée**
