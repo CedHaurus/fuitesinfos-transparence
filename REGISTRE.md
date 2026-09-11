@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**241** entrées ajoutées · **2** retirées · **233** corrections individuelles · **4** révisions groupées (236 fiches)
+**242** entrées ajoutées · **2** retirées · **233** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `75d035a916ea6783003b8ef337a704ca61be355f8465648c05611ef01c9a152e`
+Empreinte de tête : `143c60c03c2e3e0bb4723a0d03a58462b5f6aa2dfe1bbedf5472ddce25973c43`
 
 > **2 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part · 1 doublon ou regroupement de fiches. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-11` — **GreenGo** (fiche du 2026-09-10) · **entrée ajoutée**
 - `2026-09-10 (constaté)` — **WiziShop** (fiche du 2026-08-19) · Description publique réécrite — texte non reproduit (empreinte bbd1737c62079aa7 → 87eb7422422d91df)
 - `2026-09-10 (constaté)` — **WiziShop** (fiche du 2026-08-19) · Volume concerné : (vide) → 26 470
 - `2026-09-10 (constaté)` — **WiziShop** (fiche du 2026-08-19) · Description publique réécrite — texte non reproduit (empreinte 041398ae7ee18604 → bbd1737c62079aa7)
