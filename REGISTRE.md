@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**242** entrées ajoutées · **2** retirées · **235** corrections individuelles · **4** révisions groupées (236 fiches)
+**242** entrées ajoutées · **2** retirées · **237** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `8ff3d43e2a74cabe9f1d949907880f116d823abf01bf28e6df0f3ee92796acd7`
+Empreinte de tête : `5e2e831a65d209795d9e19c414f940ea0bf761061930e36d96117a97ddbc1cb3`
 
 > **2 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part · 1 doublon ou regroupement de fiches. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-11 (constaté)` — **Pass Pass** (fiche du 2026-09-05) · Statut : Revendiquée → Confirmée
+- `2026-09-11 (constaté)` — **Pass Pass** (fiche du 2026-09-05) · Description publique réécrite — texte non reproduit (empreinte b80ec9b376892479 → 42eb208d948bd9cf)
 - `2026-09-11 (constaté)` — **OnRecrute en Aveyron (Aveyron Attractivité)** (fiche du 2026-09-05) · Statut : Revendiquée → Confirmée
 - `2026-09-11 (constaté)` — **OnRecrute en Aveyron (Aveyron Attractivité)** (fiche du 2026-09-05) · Description publique réécrite — texte non reproduit (empreinte 666b2de230056881 → ba62a48549d961ec)
 - `2026-09-11` — **GreenGo** (fiche du 2026-09-10) · **entrée ajoutée**
