@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**242** entrées ajoutées · **2** retirées · **237** corrections individuelles · **4** révisions groupées (236 fiches)
+**243** entrées ajoutées · **2** retirées · **237** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `5e2e831a65d209795d9e19c414f940ea0bf761061930e36d96117a97ddbc1cb3`
+Empreinte de tête : `f0add2f1c830f5f5aeb8248e9ab810b202d40cc3df06199fef22ac58d7fee22d`
 
 > **2 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part · 1 doublon ou regroupement de fiches. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-11` — **Boulanger / Ex&Co SAV Magasins partenaires** (fiche du 2026-09-11) · **entrée ajoutée**
 - `2026-09-11 (constaté)` — **Pass Pass** (fiche du 2026-09-05) · Statut : Revendiquée → Confirmée
 - `2026-09-11 (constaté)` — **Pass Pass** (fiche du 2026-09-05) · Description publique réécrite — texte non reproduit (empreinte b80ec9b376892479 → 42eb208d948bd9cf)
 - `2026-09-11 (constaté)` — **OnRecrute en Aveyron (Aveyron Attractivité)** (fiche du 2026-09-05) · Statut : Revendiquée → Confirmée
