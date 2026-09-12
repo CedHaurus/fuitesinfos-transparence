@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**245** entrées ajoutées · **2** retirées · **239** corrections individuelles · **4** révisions groupées (236 fiches)
+**245** entrées ajoutées · **2** retirées · **240** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `17edc2b3e5758583fe89d4ba091dcf1e80c58844576728fb3a7035ed5669b226`
+Empreinte de tête : `5467608f74d2afccebf56423f625cba971cd86f3b0aa2fe76c6743670aad8b9a`
 
 > **2 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part · 1 doublon ou regroupement de fiches. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-12 (constaté)` — **NaturaBuy** (fiche du 2026-09-11) · Description publique réécrite — texte non reproduit (empreinte a2b5d7bf61371e66 → 10fc25523a7fc82c)
 - `2026-09-12` — **NaturaBuy** (fiche du 2026-09-11) · **entrée ajoutée**
 - `2026-09-12` — **Ekolis** (fiche du 2026-09-12) · **entrée ajoutée**
 - `2026-09-11 (constaté)` — **Snexi** (fiche du 2026-09-07) · Description publique réécrite — texte non reproduit (empreinte fcd9bcebe2ce0c25 → 5521f1bec9c5309c)
