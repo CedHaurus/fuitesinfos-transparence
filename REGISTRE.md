@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**243** entrées ajoutées · **2** retirées · **239** corrections individuelles · **4** révisions groupées (236 fiches)
+**244** entrées ajoutées · **2** retirées · **239** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `b75c86a9d6154349ee769195ff2c0e238977766a04432f2d20dd09cb19b4f2d3`
+Empreinte de tête : `28df8ce965e8dcd010fe28e477beddc2ce756f948a3eb4d3ac1b2bb077932c96`
 
 > **2 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part · 1 doublon ou regroupement de fiches. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-12` — **Ekolis** (fiche du 2026-09-12) · **entrée ajoutée**
 - `2026-09-11 (constaté)` — **Snexi** (fiche du 2026-09-07) · Description publique réécrite — texte non reproduit (empreinte fcd9bcebe2ce0c25 → 5521f1bec9c5309c)
 - `2026-09-11 (constaté)` — **Snexi** (fiche du 2026-09-07) · Nature des données : ajouté Champs libres, Code postal, Données professionnelles, Identifiant interne, Rendez-vous, Ville
 - `2026-09-11` — **Boulanger / Ex&Co SAV Magasins partenaires** (fiche du 2026-09-11) · **entrée ajoutée**
