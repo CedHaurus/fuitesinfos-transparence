@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**246** entrées ajoutées · **2** retirées · **240** corrections individuelles · **4** révisions groupées (236 fiches)
+**247** entrées ajoutées · **2** retirées · **240** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `80277467eebfe9877eda3bd772ab02c8adce55c37f896d52e01ffa66e3da7f8e`
+Empreinte de tête : `3fd9d8685c01f7158de29abec6dfa0aa83e47df1ead8a20feb1dc30eb37b2426`
 
 > **2 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part · 1 doublon ou regroupement de fiches. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-13` — **Sushi et Cie** (fiche du 2026-09-13) · **entrée ajoutée**
 - `2026-09-13` — **MGEL** (fiche du 2026-09-12) · **entrée ajoutée**
 - `2026-09-12 (constaté)` — **NaturaBuy** (fiche du 2026-09-11) · Description publique réécrite — texte non reproduit (empreinte a2b5d7bf61371e66 → 10fc25523a7fc82c)
 - `2026-09-12` — **NaturaBuy** (fiche du 2026-09-11) · **entrée ajoutée**
