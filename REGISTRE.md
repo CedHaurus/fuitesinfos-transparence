@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**247** entrées ajoutées · **2** retirées · **241** corrections individuelles · **4** révisions groupées (236 fiches)
+**248** entrées ajoutées · **2** retirées · **241** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `20084bb19e2162dfe182f21878914b654a87436ec419e1f1aab4731f7ad1658a`
+Empreinte de tête : `928ea96a7912b79f337a0deb7ef3cf9cf1b70cc1e80227415621d16fbc3e8e2c`
 
 > **2 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part · 1 doublon ou regroupement de fiches. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-13` — **Grand Delta Habitat** (fiche du 2026-09-13) · **entrée ajoutée**
 - `2026-09-13 (constaté)` — **Cegid** (fiche du 2026-02-24) · Description publique réécrite — texte non reproduit (empreinte 92bfe481e9e5bb4c → 02daa71d5b7e4bea)
 - `2026-09-13` — **Sushi et Cie** (fiche du 2026-09-13) · **entrée ajoutée**
 - `2026-09-13` — **MGEL** (fiche du 2026-09-12) · **entrée ajoutée**
