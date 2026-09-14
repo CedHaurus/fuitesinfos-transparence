@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**250** entrées ajoutées · **2** retirées · **241** corrections individuelles · **4** révisions groupées (236 fiches)
+**251** entrées ajoutées · **2** retirées · **243** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `19c5f8cbb231496f61bf0d7d4d65c03f36ddbcfa2b33f026658d873cb7682619`
+Empreinte de tête : `73060e502933c0cd5caf8bb6a8e417de199385a3234ecc2e86a6b9e62268f88e`
 
 > **2 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part · 1 doublon ou regroupement de fiches. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,9 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-14 (constaté)` — **Digit RE Group** (fiche du 2026-06-24) · Statut : Revendiquée → Confirmée
+- `2026-09-14 (constaté)` — **Digit RE Group** (fiche du 2026-06-24) · Description publique réécrite — texte non reproduit (empreinte c4bfe5bcd3b7b92c → 89926b8fd87af926)
+- `2026-09-14` — **Bouteilles et bocaux** (fiche du 2026-09-14) · **entrée ajoutée**
 - `2026-09-14` — **Nature & Découvertes** (fiche du 2026-09-14) · **entrée ajoutée**
 - `2026-09-14` — **Caridro Val de Loire** (fiche du 2026-09-13) · **entrée ajoutée**
 - `2026-09-13` — **Grand Delta Habitat** (fiche du 2026-09-13) · **entrée ajoutée**
