@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**249** entrées ajoutées · **2** retirées · **241** corrections individuelles · **4** révisions groupées (236 fiches)
+**250** entrées ajoutées · **2** retirées · **241** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `bb35058b6a74debad4a3b556c7881a77b7f54531a2d657ac31ad3eadc27d6325`
+Empreinte de tête : `19c5f8cbb231496f61bf0d7d4d65c03f36ddbcfa2b33f026658d873cb7682619`
 
 > **2 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part · 1 doublon ou regroupement de fiches. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-14` — **Nature & Découvertes** (fiche du 2026-09-14) · **entrée ajoutée**
 - `2026-09-14` — **Caridro Val de Loire** (fiche du 2026-09-13) · **entrée ajoutée**
 - `2026-09-13` — **Grand Delta Habitat** (fiche du 2026-09-13) · **entrée ajoutée**
 - `2026-09-13 (constaté)` — **Cegid** (fiche du 2026-02-24) · Description publique réécrite — texte non reproduit (empreinte 92bfe481e9e5bb4c → 02daa71d5b7e4bea)
