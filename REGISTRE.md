@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**254** entrées ajoutées · **2** retirées · **243** corrections individuelles · **4** révisions groupées (236 fiches)
+**255** entrées ajoutées · **2** retirées · **244** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `12747ae84b4dbb2ba6fed3b49205f2f7a703655ae61eba9e48b07a8ca1e56d15`
+Empreinte de tête : `0ab03e217d56d72116add71c838129859a0c507844bfee1e4431c508297d9a83`
 
 > **2 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part · 1 doublon ou regroupement de fiches. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-15 (constaté)` — **Revolut** (fiche du 2026-09-12) · Description publique réécrite — texte non reproduit (empreinte 81dc19cc182b046a → 1fea9191bfa9d16f)
+- `2026-09-15` — **Papouille** (fiche du 2026-09-15) · **entrée ajoutée**
 - `2026-09-15` — **Société Centrale Canine** (fiche du 2026-09-15) · **entrée ajoutée**
 - `2026-09-15` — **Revolut** (fiche du 2026-09-12) · **entrée ajoutée**
 - `2026-09-15` — **Presses universitaires de Franche-Comté (Université Marie et Louis Pasteur)** (fiche du 2026-09-14) · **entrée ajoutée**
