@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**251** entrées ajoutées · **2** retirées · **243** corrections individuelles · **4** révisions groupées (236 fiches)
+**254** entrées ajoutées · **2** retirées · **243** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `73060e502933c0cd5caf8bb6a8e417de199385a3234ecc2e86a6b9e62268f88e`
+Empreinte de tête : `12747ae84b4dbb2ba6fed3b49205f2f7a703655ae61eba9e48b07a8ca1e56d15`
 
 > **2 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part · 1 doublon ou regroupement de fiches. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,9 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-15` — **Société Centrale Canine** (fiche du 2026-09-15) · **entrée ajoutée**
+- `2026-09-15` — **Revolut** (fiche du 2026-09-12) · **entrée ajoutée**
+- `2026-09-15` — **Presses universitaires de Franche-Comté (Université Marie et Louis Pasteur)** (fiche du 2026-09-14) · **entrée ajoutée**
 - `2026-09-14 (constaté)` — **Digit RE Group** (fiche du 2026-06-24) · Statut : Revendiquée → Confirmée
 - `2026-09-14 (constaté)` — **Digit RE Group** (fiche du 2026-06-24) · Description publique réécrite — texte non reproduit (empreinte c4bfe5bcd3b7b92c → 89926b8fd87af926)
 - `2026-09-14` — **Bouteilles et bocaux** (fiche du 2026-09-14) · **entrée ajoutée**
