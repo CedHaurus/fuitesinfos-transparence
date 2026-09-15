@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**257** entrées ajoutées · **2** retirées · **244** corrections individuelles · **4** révisions groupées (236 fiches)
+**258** entrées ajoutées · **2** retirées · **244** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `b0e38edda7165b47e4798ea51afeaf1ff6240a317f1a70fb9e9f76ba07fd1590`
+Empreinte de tête : `6be03faaaed23528028dd4617d9f0679ae55f778ce5c0a50d32bd3a60a78ea2d`
 
 > **2 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part · 1 doublon ou regroupement de fiches. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-15` — **AAPPMA de la Basse Vallée de l'Arc (Cartedepeche.fr)** (fiche du 2026-09-15) · **entrée ajoutée**
 - `2026-09-15` — **Welyb** (fiche du 2026-09-15) · **entrée ajoutée**
 - `2026-09-15` — **Point Vision** (fiche du 2026-09-15) · **entrée ajoutée**
 - `2026-09-15 (constaté)` — **Revolut** (fiche du 2026-09-12) · Description publique réécrite — texte non reproduit (empreinte 81dc19cc182b046a → 1fea9191bfa9d16f)
