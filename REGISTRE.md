@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**261** entrées ajoutées · **2** retirées · **246** corrections individuelles · **4** révisions groupées (236 fiches)
+**261** entrées ajoutées · **2** retirées · **247** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `d4979cf6dcfd5a0acfd40a0267134db8e556e2aac1f9306ed59cd678fedafb89`
+Empreinte de tête : `1ab4183b00c96106da04f26fba545428321b7f470e3db9a2c681ad08122baf14`
 
 > **2 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part · 1 doublon ou regroupement de fiches. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-16 (constaté)` — **CrowdSec** (fiche du 2026-09-16) · Description publique réécrite — texte non reproduit (empreinte 5e5ac9ce064c0870 → ba6069ca5d2da837)
 - `2026-09-16` — **CrowdSec** (fiche du 2026-09-16) · **entrée ajoutée**
 - `2026-09-16` — **NosRezo** (fiche du 2026-09-16) · **entrée ajoutée**
 - `2026-09-15 (constaté)` — **AFPA** (fiche du 2026-09-15) · Description publique réécrite — texte non reproduit (empreinte 184810e4bcb1f89d → a7858ddd2f2b801c)
