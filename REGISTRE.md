@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**259** entrées ajoutées · **2** retirées · **246** corrections individuelles · **4** révisions groupées (236 fiches)
+**260** entrées ajoutées · **2** retirées · **246** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `07b29ab88a1d3a93dee011d45d7bb998e7aaa8e49db4c18fb3c7829d70a9d3ea`
+Empreinte de tête : `47760ef45273f33e6d62357037eda34dbfaa50ee60a4f95691758072bac0c974`
 
 > **2 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part · 1 doublon ou regroupement de fiches. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-16` — **NosRezo** (fiche du 2026-09-16) · **entrée ajoutée**
 - `2026-09-15 (constaté)` — **AFPA** (fiche du 2026-09-15) · Description publique réécrite — texte non reproduit (empreinte 184810e4bcb1f89d → a7858ddd2f2b801c)
 - `2026-09-15` — **AFPA** (fiche du 2026-09-15) · **entrée ajoutée**
 - `2026-09-15 (constaté)` — **AAPPMA de la Basse Vallée de l'Arc (Cartedepeche.fr)** (fiche du 2026-09-15) · Description publique réécrite — texte non reproduit (empreinte d3c3f71b37cd1b39 → 67d594c741b562c9)
