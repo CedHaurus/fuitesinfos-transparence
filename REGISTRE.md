@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**263** entrées ajoutées · **2** retirées · **248** corrections individuelles · **4** révisions groupées (236 fiches)
+**263** entrées ajoutées · **2** retirées · **250** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `063d4e1b5288bdad42c29b5a2793a214f7c7d2102246ddf8713a04491db73eef`
+Empreinte de tête : `f8a2cdd53c064e78ddaa2a8ede13aeb65e6f864e3c13fc7e0728834ae9c23f35`
 
 > **2 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part · 1 doublon ou regroupement de fiches. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-17 (constaté)` — **CrowdSec** (fiche du 2026-09-16) · Statut : Revendiquée → Confirmée
+- `2026-09-17 (constaté)` — **CrowdSec** (fiche du 2026-09-16) · Description publique réécrite — texte non reproduit (empreinte ba6069ca5d2da837 → d722898f39840e01)
 - `2026-09-17 (constaté)` — **Mistral AI** (fiche du 2026-09-16) · Description publique réécrite — texte non reproduit (empreinte 2212bde482d74b2d → f20a7117095b784b)
 - `2026-09-17` — **Mistral AI** (fiche du 2026-09-16) · **entrée ajoutée**
 - `2026-09-16` — **AFPA** (fiche du 2026-09-16) · **entrée ajoutée**
