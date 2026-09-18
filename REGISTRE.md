@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**270** entrées ajoutées · **2** retirées · **255** corrections individuelles · **4** révisions groupées (236 fiches)
+**271** entrées ajoutées · **2** retirées · **255** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `a3abed21f87b2201e11d199b0b3d3ec0cdd5dc6f8c21ee64da61461d7fd76cf9`
+Empreinte de tête : `3a94f4a561677056d169d0e60ce1f2ca113a5746085da9652ae53a2672620c06`
 
 > **2 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part · 1 doublon ou regroupement de fiches. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-18` — **Armurerie Lavaux** (fiche du 2026-09-18) · **entrée ajoutée**
 - `2026-09-18` — **TotalEnergies** (fiche du 2026-09-18) · **entrée ajoutée**
 - `2026-09-18` — **Service national universel** (fiche du 2026-09-18) · **entrée ajoutée**
 - `2026-09-18 (constaté)` — **CrowdSec** (fiche du 2026-09-16) · Volume concerné : (vide) → 134
