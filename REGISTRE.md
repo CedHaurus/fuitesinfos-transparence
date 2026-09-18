@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**268** entrées ajoutées · **2** retirées · **252** corrections individuelles · **4** révisions groupées (236 fiches)
+**268** entrées ajoutées · **2** retirées · **255** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `f3297cfbd9d1bef673d58fac4411d11a79723487c5c3e861c65da1baabd62ebe`
+Empreinte de tête : `21887be45dd1a5edc3e40819b71fbff855e904adfd47a9e941a13ffcbae3dfe1`
 
 > **2 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part · 1 doublon ou regroupement de fiches. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,9 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-18 (constaté)` — **CrowdSec** (fiche du 2026-09-16) · Volume concerné : (vide) → 134
+- `2026-09-18 (constaté)` — **CrowdSec** (fiche du 2026-09-16) · Description publique réécrite — texte non reproduit (empreinte d722898f39840e01 → 2ae39b03b6651dfa)
+- `2026-09-18 (constaté)` — **CrowdSec** (fiche du 2026-09-16) · Nature des données : ajouté Date de naissance, Données d'emploi, Lieu de naissance, Montant, Numéro de sécurité sociale
 - `2026-09-18 (constaté)` — **L’Orange Bleue** (fiche du 2026-09-17) · Volume concerné : 732 385 → (vide)
 - `2026-09-18 (constaté)` — **Mistral AI** (fiche du 2026-09-16) · Description publique réécrite — texte non reproduit (empreinte f20a7117095b784b → f1d68b44fd78fd16)
 - `2026-09-18` — **L’Orange Bleue** (fiche du 2026-09-17) · **entrée ajoutée**
