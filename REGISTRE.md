@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**269** entrées ajoutées · **2** retirées · **255** corrections individuelles · **4** révisions groupées (236 fiches)
+**270** entrées ajoutées · **2** retirées · **255** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `9fea4d069c0fde7a57151780eee3fa7b1d3157dbfe7d98c02d9bf62a225e6a6e`
+Empreinte de tête : `a3abed21f87b2201e11d199b0b3d3ec0cdd5dc6f8c21ee64da61461d7fd76cf9`
 
 > **2 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part · 1 doublon ou regroupement de fiches. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-18` — **TotalEnergies** (fiche du 2026-09-18) · **entrée ajoutée**
 - `2026-09-18` — **Service national universel** (fiche du 2026-09-18) · **entrée ajoutée**
 - `2026-09-18 (constaté)` — **CrowdSec** (fiche du 2026-09-16) · Volume concerné : (vide) → 134
 - `2026-09-18 (constaté)` — **CrowdSec** (fiche du 2026-09-16) · Description publique réécrite — texte non reproduit (empreinte d722898f39840e01 → 2ae39b03b6651dfa)
