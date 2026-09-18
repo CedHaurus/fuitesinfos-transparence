@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**265** entrées ajoutées · **2** retirées · **250** corrections individuelles · **4** révisions groupées (236 fiches)
+**267** entrées ajoutées · **2** retirées · **250** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `6e7ec3176bffb126cf4ef579b5dda4674f41945b8525fdeae34f058fc31d4a22`
+Empreinte de tête : `4212f57a9e275dfb0ccd22f1c00c55de1e8bb9c653992c38d98257fc36bff6f9`
 
 > **2 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part · 1 doublon ou regroupement de fiches. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-18` — **Waltio** (fiche du 2026-09-15) · **entrée ajoutée**
+- `2026-09-18` — **Communauté de communes des Pays de L'Aigle** (fiche du 2026-09-17) · **entrée ajoutée**
 - `2026-09-17` — **Zenfirst** (fiche du 2026-09-17) · **entrée ajoutée**
 - `2026-09-17` — **Greffe du tribunal des activités économiques de Paris** (fiche du 2026-09-17) · **entrée ajoutée**
 - `2026-09-17 (constaté)` — **CrowdSec** (fiche du 2026-09-16) · Statut : Revendiquée → Confirmée
