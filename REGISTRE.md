@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**268** entrées ajoutées · **2** retirées · **255** corrections individuelles · **4** révisions groupées (236 fiches)
+**269** entrées ajoutées · **2** retirées · **255** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `21887be45dd1a5edc3e40819b71fbff855e904adfd47a9e941a13ffcbae3dfe1`
+Empreinte de tête : `9fea4d069c0fde7a57151780eee3fa7b1d3157dbfe7d98c02d9bf62a225e6a6e`
 
 > **2 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part · 1 doublon ou regroupement de fiches. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-18` — **Service national universel** (fiche du 2026-09-18) · **entrée ajoutée**
 - `2026-09-18 (constaté)` — **CrowdSec** (fiche du 2026-09-16) · Volume concerné : (vide) → 134
 - `2026-09-18 (constaté)` — **CrowdSec** (fiche du 2026-09-16) · Description publique réécrite — texte non reproduit (empreinte d722898f39840e01 → 2ae39b03b6651dfa)
 - `2026-09-18 (constaté)` — **CrowdSec** (fiche du 2026-09-16) · Nature des données : ajouté Date de naissance, Données d'emploi, Lieu de naissance, Montant, Numéro de sécurité sociale
