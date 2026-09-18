@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**268** entrées ajoutées · **2** retirées · **251** corrections individuelles · **4** révisions groupées (236 fiches)
+**268** entrées ajoutées · **2** retirées · **252** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `352204ca08439ffee1945dd47b463b3d9af50283b9345c782bba49b825e602db`
+Empreinte de tête : `f3297cfbd9d1bef673d58fac4411d11a79723487c5c3e861c65da1baabd62ebe`
 
 > **2 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part · 1 doublon ou regroupement de fiches. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-18 (constaté)` — **L’Orange Bleue** (fiche du 2026-09-17) · Volume concerné : 732 385 → (vide)
 - `2026-09-18 (constaté)` — **Mistral AI** (fiche du 2026-09-16) · Description publique réécrite — texte non reproduit (empreinte f20a7117095b784b → f1d68b44fd78fd16)
 - `2026-09-18` — **L’Orange Bleue** (fiche du 2026-09-17) · **entrée ajoutée**
 - `2026-09-18` — **Waltio** (fiche du 2026-09-15) · **entrée ajoutée**
