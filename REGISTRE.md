@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**271** entrées ajoutées · **2** retirées · **255** corrections individuelles · **4** révisions groupées (236 fiches)
+**271** entrées ajoutées · **2** retirées · **259** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `3a94f4a561677056d169d0e60ce1f2ca113a5746085da9652ae53a2672620c06`
+Empreinte de tête : `abf74552cc8965cf608ff5eae9ed621d21babddd0d93470d2937be5747160fd0`
 
 > **2 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part · 1 doublon ou regroupement de fiches. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,10 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-19` — **AFPA** (fiche du 2026-09-15) · Statut : Revendiquée → Confirmée
+- `2026-09-19` — **AFPA** (fiche du 2026-09-16) · Statut : Revendiquée → Confirmée
+- `2026-09-19` — **AFPA** (fiche du 2026-09-15) · Description publique réécrite — texte non reproduit (empreinte a7858ddd2f2b801c → 0ac78e70c2f551c5)
+- `2026-09-19` — **AFPA** (fiche du 2026-09-16) · Description publique réécrite — texte non reproduit (empreinte c0c424e895941e13 → 775f360b816c4333)
 - `2026-09-18` — **Armurerie Lavaux** (fiche du 2026-09-18) · **entrée ajoutée**
 - `2026-09-18` — **TotalEnergies** (fiche du 2026-09-18) · **entrée ajoutée**
 - `2026-09-18` — **Service national universel** (fiche du 2026-09-18) · **entrée ajoutée**
