@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**272** entrées ajoutées · **2** retirées · **259** corrections individuelles · **4** révisions groupées (236 fiches)
+**273** entrées ajoutées · **2** retirées · **259** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `2dd0276d6f49c3a04b32546bb4c8a01a241ff47e9680d428df9ef49ec781f2a6`
+Empreinte de tête : `c16d6756c8d6c4cbec223f2b9e0fe198ac91404dbf3de6443dc3e34c4d8d791b`
 
 > **2 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part · 1 doublon ou regroupement de fiches. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-19` — **Diamant Factory** (fiche du 2026-09-19) · **entrée ajoutée**
 - `2026-09-19` — **Whoof** (fiche du 2026-09-19) · **entrée ajoutée**
 - `2026-09-19` — **AFPA** (fiche du 2026-09-15) · Statut : Revendiquée → Confirmée
 - `2026-09-19` — **AFPA** (fiche du 2026-09-16) · Statut : Revendiquée → Confirmée
