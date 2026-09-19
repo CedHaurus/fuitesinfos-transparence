@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**273** entrées ajoutées · **2** retirées · **259** corrections individuelles · **4** révisions groupées (236 fiches)
+**275** entrées ajoutées · **2** retirées · **259** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `c16d6756c8d6c4cbec223f2b9e0fe198ac91404dbf3de6443dc3e34c4d8d791b`
+Empreinte de tête : `a7c61de2d84891b68299bae778c9bffbd92c7e7a87852d6f652ced029ed7218a`
 
 > **2 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part · 1 doublon ou regroupement de fiches. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-19` — **VitalAire** (fiche du 2026-09-19) · **entrée ajoutée**
+- `2026-09-19` — **Faktus** (fiche du 2026-09-19) · **entrée ajoutée**
 - `2026-09-19` — **Diamant Factory** (fiche du 2026-09-19) · **entrée ajoutée**
 - `2026-09-19` — **Whoof** (fiche du 2026-09-19) · **entrée ajoutée**
 - `2026-09-19` — **AFPA** (fiche du 2026-09-15) · Statut : Revendiquée → Confirmée
