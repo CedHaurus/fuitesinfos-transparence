@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**276** entrées ajoutées · **2** retirées · **259** corrections individuelles · **4** révisions groupées (236 fiches)
+**277** entrées ajoutées · **2** retirées · **259** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `990303c05f901189d1b89e8f01d09aab7561bf5954e449df70958ab21efa57ee`
+Empreinte de tête : `3f29367501c06133e1ed0abbe6ff978d3de76d71ca2de360ed5f208ebee6c34e`
 
 > **2 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part · 1 doublon ou regroupement de fiches. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-20` — **Oceania Hotels** (fiche du 2026-09-20) · **entrée ajoutée**
 - `2026-09-20` — **Hôpital Paris Saint-Joseph** (fiche du 2026-09-19) · **entrée ajoutée**
 - `2026-09-19` — **VitalAire** (fiche du 2026-09-19) · **entrée ajoutée**
 - `2026-09-19` — **Faktus** (fiche du 2026-09-19) · **entrée ajoutée**
