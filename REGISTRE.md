@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**280** entrées ajoutées · **2** retirées · **266** corrections individuelles · **4** révisions groupées (236 fiches)
+**281** entrées ajoutées · **2** retirées · **266** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `00e50b8b2c89e523f5de9d53b20d11e0b79908bde647638f84c182ff8bcd61e1`
+Empreinte de tête : `7ec44be16bbcbc121d56c6611bca44aa6fa9009a5f8351fb514761787e268141`
 
 > **2 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part · 1 doublon ou regroupement de fiches. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-21` — **Altagem** (fiche du 2026-09-21) · **entrée ajoutée**
 - `2026-09-21 (constaté)` — **Ministère de l'Éducation nationale** (fiche du 2026-08-17) · Description publique réécrite — texte non reproduit (empreinte f092fff12c9c02c3 → 12e75b203ac14b82)
 - `2026-09-21` — **Fédération Française de Spéléologie (FFS)** (fiche du 2026-09-20) · **entrée ajoutée**
 - `2026-09-20 (constaté)` — **Société Centrale Canine** (fiche du 2026-09-15) · Statut : Revendiquée → Confirmée
