@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**281** entrées ajoutées · **2** retirées · **266** corrections individuelles · **4** révisions groupées (236 fiches)
+**281** entrées ajoutées · **2** retirées · **267** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `7ec44be16bbcbc121d56c6611bca44aa6fa9009a5f8351fb514761787e268141`
+Empreinte de tête : `628fd0ca4fff7523913997fe2cd96b47832c67c41ed1d3ecb1cce3c3a7a771c8`
 
 > **2 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part · 1 doublon ou regroupement de fiches. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-21 (constaté)` — **Altagem** (fiche du 2026-09-21) · Description publique réécrite — texte non reproduit (empreinte 04edd418d3c35df7 → 1c47126a05efa77c)
 - `2026-09-21` — **Altagem** (fiche du 2026-09-21) · **entrée ajoutée**
 - `2026-09-21 (constaté)` — **Ministère de l'Éducation nationale** (fiche du 2026-08-17) · Description publique réécrite — texte non reproduit (empreinte f092fff12c9c02c3 → 12e75b203ac14b82)
 - `2026-09-21` — **Fédération Française de Spéléologie (FFS)** (fiche du 2026-09-20) · **entrée ajoutée**
