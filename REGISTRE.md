@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**282** entrées ajoutées · **2** retirées · **269** corrections individuelles · **4** révisions groupées (236 fiches)
+**283** entrées ajoutées · **2** retirées · **271** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `7fe0f8f89d44fe413ca1be635fe1ba1bef9c3b815366dee70f31b482d1d9e588`
+Empreinte de tête : `84815afe14abe2703ae0764b7cc08ac33efbd8b0566b4dfcc132646986fa9ac0`
 
 > **2 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part · 1 doublon ou regroupement de fiches. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,9 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-21 (constaté)` — **Service national universel** (fiche du 2026-09-18) · Description publique réécrite — texte non reproduit (empreinte f93ba34f18781250 → 61e2792ba58eeee2)
+- `2026-09-21 (constaté)` — **NaturaBuy** (fiche du 2026-09-11) · Description publique réécrite — texte non reproduit (empreinte 10fc25523a7fc82c → 09d318aa195647f1)
+- `2026-09-21` — **Amadeus iHotelier** (fiche du 2026-09-20) · **entrée ajoutée**
 - `2026-09-21` — **ColisPort** (fiche du 2026-09-21) · **entrée ajoutée**
 - `2026-09-21 (constaté)` — **Répar'stores** (fiche du 2026-09-04) · Description publique réécrite — texte non reproduit (empreinte 94ca2ea09d0dd90c → b387e422eb258ab8)
 - `2026-09-21 (constaté)` — **Répar'stores** (fiche du 2026-09-04) · Nature des données : ajouté Documents, Données professionnelles, Fiche client, Identifiant de connexion, Mot de passe, Mot de passe (haché)
