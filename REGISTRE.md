@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**283** entrées ajoutées · **2** retirées · **271** corrections individuelles · **4** révisions groupées (236 fiches)
+**283** entrées ajoutées · **2** retirées · **281** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `84815afe14abe2703ae0764b7cc08ac33efbd8b0566b4dfcc132646986fa9ac0`
+Empreinte de tête : `9da17214734e6521080abf083460f926ceb14984eb6e25975cbd58bc04b596db`
 
 > **2 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part · 1 doublon ou regroupement de fiches. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,16 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-22 (constaté)` — **Tisséo Voyageurs** (fiche du 2026-09-03) · Description publique réécrite — texte non reproduit (empreinte 0b28f38a4883b43f → 67fb3265685081f2)
+- `2026-09-22 (constaté)` — **Printemps** (fiche du 2026-09-09) · Description publique réécrite — texte non reproduit (empreinte b515ec645995bac9 → 96a30d0f13e018d6)
+- `2026-09-22 (constaté)` — **Pass Pass** (fiche du 2026-09-05) · Description publique réécrite — texte non reproduit (empreinte 42eb208d948bd9cf → 9adab81bfb6779fd)
+- `2026-09-22 (constaté)` — **Les Curistes** (fiche du 2026-09-05) · Description publique réécrite — texte non reproduit (empreinte e6012590d5a06a72 → f032c982108cef0e)
+- `2026-09-22 (constaté)` — **La Maison Pour Tous** (fiche du 2026-09-05) · Statut : Revendiquée → Confirmée
+- `2026-09-22 (constaté)` — **La Maison Pour Tous** (fiche du 2026-09-05) · Description publique réécrite — texte non reproduit (empreinte 95da6280f3395312 → 67c544645e8aef7c)
+- `2026-09-22 (constaté)` — **La Boutique du Volet** (fiche du 2026-09-02) · Description publique réécrite — texte non reproduit (empreinte 4818a89fde32ec21 → b4b0d9011d15bacc)
+- `2026-09-22 (constaté)` — **Inicea** (fiche du 2026-09-03) · Description publique réécrite — texte non reproduit (empreinte 281154ad6769f158 → 564732a05330e289)
+- `2026-09-22 (constaté)` — **Footsider** (fiche du 2026-09-06) · Description publique réécrite — texte non reproduit (empreinte 06c16f61a49d81ae → 9b11ad81843b6687)
+- `2026-09-22 (constaté)` — **Citadium** (fiche du 2026-09-09) · Description publique réécrite — texte non reproduit (empreinte dc80af1332c0976a → 8e588b6cf462805a)
 - `2026-09-21 (constaté)` — **Service national universel** (fiche du 2026-09-18) · Description publique réécrite — texte non reproduit (empreinte f93ba34f18781250 → 61e2792ba58eeee2)
 - `2026-09-21 (constaté)` — **NaturaBuy** (fiche du 2026-09-11) · Description publique réécrite — texte non reproduit (empreinte 10fc25523a7fc82c → 09d318aa195647f1)
 - `2026-09-21` — **Amadeus iHotelier** (fiche du 2026-09-20) · **entrée ajoutée**
