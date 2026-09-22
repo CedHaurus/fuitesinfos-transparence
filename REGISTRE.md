@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**285** entrées ajoutées · **3** retirées · **321** corrections individuelles · **4** révisions groupées (236 fiches)
+**287** entrées ajoutées · **3** retirées · **321** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `bb5fe28244d079e43941129802c4ff8b2b5154c99174b17cdf805e80c8f59231`
+Empreinte de tête : `02352338a8fce3fba0d6b0a64ecf8ee3d1438b74d89836096242de81d9807dd9`
 
 > **3 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-22` — **Mes Marchés** (fiche du 2026-09-22) · **entrée ajoutée**
+- `2026-09-22` — **Autobacs** (fiche du 2026-09-22) · **entrée ajoutée**
 - `2026-09-22` — **Paymium** (fiche du 2026-09-22) · **entrée ajoutée**
 - `2026-09-22 (constaté)` — **Hôpital Paris Saint-Joseph** (fiche du 2026-09-19) · Statut : Revendiquée → Confirmée
 - `2026-09-22 (constaté)` — **Hôpital Paris Saint-Joseph** (fiche du 2026-09-19) · Description publique réécrite — texte non reproduit (empreinte 5d8c820f786a328f → 52c15b86c4ff805b)
