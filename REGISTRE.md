@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**284** entrées ajoutées · **3** retirées · **296** corrections individuelles · **4** révisions groupées (236 fiches)
+**284** entrées ajoutées · **3** retirées · **311** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `4216b251afc6e93c64b635472eae62f1e50839b44debb11b2287fe2239610c8f`
+Empreinte de tête : `d5a746ef558c124f1cdd6bc7a6c33e9b3f9bec7f7e65372f1d80ae8ff2063923`
 
 > **3 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,21 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-22 (constaté)` — **WiziShop** (fiche du 2026-08-19) · Description publique réécrite — texte non reproduit (empreinte 87eb7422422d91df → 0c3fac0b1d90bd9e)
+- `2026-09-22 (constaté)` — **Vitacology** (fiche du 2026-08-12) · Description publique réécrite — texte non reproduit (empreinte 386dc101411eba53 → 8065a9047adcbcdc)
+- `2026-09-22 (constaté)` — **Sport 2000** (fiche du 2026-08-19) · Description publique réécrite — texte non reproduit (empreinte 37168c42d691dd43 → 30d7558f880a2db0)
+- `2026-09-22 (constaté)` — **Reserver.fr** (fiche du 2026-08-19) · Description publique réécrite — texte non reproduit (empreinte 95dddef257f63595 → 216f8ea93dcb9aae)
+- `2026-09-22 (constaté)` — **Miala** (fiche du 2026-08-12) · Description publique réécrite — texte non reproduit (empreinte c4db4281b408480e → 92eb008ac7147845)
+- `2026-09-22 (constaté)` — **Maintenance WP** (fiche du 2026-08-12) · Description publique réécrite — texte non reproduit (empreinte 8b27f6d7c18a7722 → 85a4ead43021c3f8)
+- `2026-09-22 (constaté)` — **Made in Bébé** (fiche du 2026-08-21) · Description publique réécrite — texte non reproduit (empreinte f9a4fed106afd254 → cd479f487887da41)
+- `2026-09-22 (constaté)` — **LaSante.net** (fiche du 2026-08-12) · Description publique réécrite — texte non reproduit (empreinte 5b58afda90977066 → 99160150308dfc16)
+- `2026-09-22 (constaté)` — **I-CAD** (fiche du 2026-08-11) · Description publique réécrite — texte non reproduit (empreinte 036414fd4fca590e → 8dbf4678c86d227e)
+- `2026-09-22 (constaté)` — **France VAE** (fiche du 2026-08-13) · Description publique réécrite — texte non reproduit (empreinte 03372f7bd5d6eca8 → 7ba6d7ed12e9f756)
+- `2026-09-22 (constaté)` — **Foodtrack** (fiche du 2026-08-18) · Description publique réécrite — texte non reproduit (empreinte fa337dae1d878f68 → fb8a23b1f416a33b)
+- `2026-09-22 (constaté)` — **EVA Nantes Sud** (fiche du 2026-08-13) · Description publique réécrite — texte non reproduit (empreinte 94fbb46b8db588dd → 76367b70c58aa88b)
+- `2026-09-22 (constaté)` — **EVA Charleroi** (fiche du 2026-08-16) · Description publique réécrite — texte non reproduit (empreinte b878815c08830a22 → 556e72175ef4cfcf)
+- `2026-09-22 (constaté)` — **Cleantuesdayparis** (fiche du 2026-08-18) · Description publique réécrite — texte non reproduit (empreinte 91287d3c40ed7422 → 032ce1bff739951b)
+- `2026-09-22 (constaté)` — **Beauty Success** (fiche du 2026-08-21) · Description publique réécrite — texte non reproduit (empreinte 50e8bd3692445582 → 8e5e9ef4c5429d53)
 - `2026-09-22 (constaté)` — **WeshBien** (fiche du 2026-08-25) · Description publique réécrite — texte non reproduit (empreinte 5d13db661b7f1cfd → 19d2d8e4aa6014a6)
 - `2026-09-22 (constaté)` — **Service d'Incendie et de Secours du Bas-Rhin (SIS 67)** (fiche du 2026-08-29) · Description publique réécrite — texte non reproduit (empreinte 2e46baabbf0800c7 → addc50fc9e008aa0)
 - `2026-09-22 (constaté)` — **SDIS 88** (fiche du 2026-08-29) · Description publique réécrite — texte non reproduit (empreinte 485e4f203868d485 → 3c9c738c4227bc24)
