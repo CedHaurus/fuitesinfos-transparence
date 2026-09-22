@@ -2,12 +2,12 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**283** entrées ajoutées · **2** retirées · **283** corrections individuelles · **4** révisions groupées (236 fiches)
+**283** entrées ajoutées · **3** retirées · **288** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `7bf9dda97e0f62e6ce8cc5840e7e98c80cce18e85fa785729a2b43488011b8bd`
+Empreinte de tête : `3b1a55ca606d294235b102ec6790dda097e03ac222c120c02ca48508c17f3132`
 
-> **2 entrée(s) retirée(s) depuis le début de cette période.**
-> Répartition par motif : 1 erreur de notre part · 1 doublon ou regroupement de fiches. Chaque retrait est détaillé ci-dessous.
+> **3 entrée(s) retirée(s) depuis le début de cette période.**
+> Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
 
 Les changements sont classés du plus récent au plus ancien. La portée exacte de ce registre et ses limites sont décrites dans le [README](README.md).
 
@@ -15,6 +15,12 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-22 (constaté)` — **Média31** (fiche du 2026-05-09) · **ENTRÉE RETIRÉE** — motif : Doublon ou regroupement de fiches (Le catalogue portait deux fiches pour le même incident de la Médiathèque départementale numérique de la Haute-Garonne : celle-ci, qui rapportait la revendication publiée le 9 mai 2026 visant le site media31.mediatheques.fr, et mediatheque-departementale-numerique-de-la-haute-garonne-2026-05-22, qui rapportait la notification adressée par la médiathèque à ses usagers. Même site, même auteur, notification postérieure de treize jours, et aucune des deux n'était reliée à l'autre. La campagne de vérification de statut du 22 septembre 2026 l'a établi. Le contenu de celle-ci (revendication, volume revendiqué de 765 comptes, échantillon, capture) a été reporté dans la fiche du 22 mai, qui reste publique et confirmée ; celle-ci sort du catalogue et son article renvoie vers celui de la fiche qui reste. Aucune information n'est démentie : c'est un regroupement, pas une rétractation.)
+- `2026-09-22 (constaté)` — **Médiathèque départementale numérique de la Haute-Garonne** (fiche du 2026-05-22) · Volume concerné : (vide) → 765
+- `2026-09-22 (constaté)` — **Médiathèque départementale numérique de la Haute-Garonne** (fiche du 2026-05-22) · Description publique réécrite — texte non reproduit (empreinte 8f45100e198d730f → 51212c0ef1bfa94e)
+- `2026-09-22 (constaté)` — **Médiathèque départementale numérique de la Haute-Garonne** (fiche du 2026-05-22) · Nature des données : ajouté Identifiant interne, Rôle ou droits d'accès
+- `2026-09-22 (constaté)` — **Communauté de communes Yvetot Normandie** (fiche du 2026-09-07) · Statut : Revendiquée → Confirmée
+- `2026-09-22 (constaté)` — **Communauté de communes Yvetot Normandie** (fiche du 2026-09-07) · Description publique réécrite — texte non reproduit (empreinte eef5e9c770f76847 → c42e4606e4960529)
 - `2026-09-22 (constaté)` — **Jinko** (fiche du 2026-09-07) · Statut : Revendiquée → Confirmée
 - `2026-09-22 (constaté)` — **Jinko** (fiche du 2026-09-07) · Description publique réécrite — texte non reproduit (empreinte 41370478e1272b3b → f9bbc571e6555351)
 - `2026-09-22 (constaté)` — **Tisséo Voyageurs** (fiche du 2026-09-03) · Description publique réécrite — texte non reproduit (empreinte 0b28f38a4883b43f → 67fb3265685081f2)
