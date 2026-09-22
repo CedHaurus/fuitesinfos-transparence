@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**284** entrées ajoutées · **3** retirées · **319** corrections individuelles · **4** révisions groupées (236 fiches)
+**284** entrées ajoutées · **3** retirées · **321** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `f71afa80c16f028c0d0c892047757eeb3d62d6ba5fb3a1db44b7b8958b192499`
+Empreinte de tête : `f57148b62175c7b3ce31a17c31ad0af9c6641aa1b6b22d2e587fc0d2c898c101`
 
 > **3 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-22 (constaté)` — **Hôpital Paris Saint-Joseph** (fiche du 2026-09-19) · Statut : Revendiquée → Confirmée
+- `2026-09-22 (constaté)` — **Hôpital Paris Saint-Joseph** (fiche du 2026-09-19) · Description publique réécrite — texte non reproduit (empreinte 5d8c820f786a328f → 52c15b86c4ff805b)
 - `2026-09-22 (constaté)` — **Xplor Resamania** (fiche du 2026-08-01) · Description publique réécrite — texte non reproduit (empreinte 2e96ac6c35a54a93 → 0c64ce7c0130c33b)
 - `2026-09-22 (constaté)` — **SDIS 40** (fiche du 2026-07-24) · Description publique réécrite — texte non reproduit (empreinte 41fb84fad780a156 → d33e2beaa8ea2752)
 - `2026-09-22 (constaté)` — **MUC 72 / Le Mans FC** (fiche du 2026-08-08) · Description publique réécrite — texte non reproduit (empreinte 2154d62a8225bb18 → f7a5c2504e9a7bf3)
