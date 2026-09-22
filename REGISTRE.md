@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**288** entrées ajoutées · **3** retirées · **321** corrections individuelles · **4** révisions groupées (236 fiches)
+**288** entrées ajoutées · **3** retirées · **322** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `59e34347b0b91fcbee4a3335a7dd5815565ffb2db667aa9c61f9607036dd3da8`
+Empreinte de tête : `c30e47603455bcf9b2550ee89974aa8a348e2c82eac2c7badd3dbe5ae2f421f0`
 
 > **3 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-22 (constaté)` — **Uniformation** (fiche du 2026-09-22) · Volume concerné : 988 → (vide)
 - `2026-09-22` — **Uniformation** (fiche du 2026-09-22) · **entrée ajoutée**
 - `2026-09-22` — **Mes Marchés** (fiche du 2026-09-22) · **entrée ajoutée**
 - `2026-09-22` — **Autobacs** (fiche du 2026-09-22) · **entrée ajoutée**
