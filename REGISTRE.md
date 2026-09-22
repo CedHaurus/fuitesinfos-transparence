@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**287** entrées ajoutées · **3** retirées · **321** corrections individuelles · **4** révisions groupées (236 fiches)
+**288** entrées ajoutées · **3** retirées · **321** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `02352338a8fce3fba0d6b0a64ecf8ee3d1438b74d89836096242de81d9807dd9`
+Empreinte de tête : `59e34347b0b91fcbee4a3335a7dd5815565ffb2db667aa9c61f9607036dd3da8`
 
 > **3 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-22` — **Uniformation** (fiche du 2026-09-22) · **entrée ajoutée**
 - `2026-09-22` — **Mes Marchés** (fiche du 2026-09-22) · **entrée ajoutée**
 - `2026-09-22` — **Autobacs** (fiche du 2026-09-22) · **entrée ajoutée**
 - `2026-09-22` — **Paymium** (fiche du 2026-09-22) · **entrée ajoutée**
