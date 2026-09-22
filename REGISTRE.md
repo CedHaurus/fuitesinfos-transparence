@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**283** entrées ajoutées · **3** retirées · **288** corrections individuelles · **4** révisions groupées (236 fiches)
+**284** entrées ajoutées · **3** retirées · **296** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `3b1a55ca606d294235b102ec6790dda097e03ac222c120c02ca48508c17f3132`
+Empreinte de tête : `4216b251afc6e93c64b635472eae62f1e50839b44debb11b2287fe2239610c8f`
 
 > **3 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,15 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-22 (constaté)` — **WeshBien** (fiche du 2026-08-25) · Description publique réécrite — texte non reproduit (empreinte 5d13db661b7f1cfd → 19d2d8e4aa6014a6)
+- `2026-09-22 (constaté)` — **Service d'Incendie et de Secours du Bas-Rhin (SIS 67)** (fiche du 2026-08-29) · Description publique réécrite — texte non reproduit (empreinte 2e46baabbf0800c7 → addc50fc9e008aa0)
+- `2026-09-22 (constaté)` — **SDIS 88** (fiche du 2026-08-29) · Description publique réécrite — texte non reproduit (empreinte 485e4f203868d485 → 3c9c738c4227bc24)
+- `2026-09-22 (constaté)` — **SDIS 57** (fiche du 2026-08-29) · Description publique réécrite — texte non reproduit (empreinte a371a644a0404301 → 126104ce25946779)
+- `2026-09-22 (constaté)` — **SDIS 30** (fiche du 2026-08-29) · Description publique réécrite — texte non reproduit (empreinte d78fb754ed7225d1 → cbf1c899ed826389)
+- `2026-09-22 (constaté)` — **Journaux.fr** (fiche du 2026-08-27) · Description publique réécrite — texte non reproduit (empreinte 779c764bddd58f48 → a31571e6f2279e96)
+- `2026-09-22 (constaté)` — **Docurba** (fiche du 2026-08-25) · Description publique réécrite — texte non reproduit (empreinte 172933d6327e8e90 → 0fcd37add2077df8)
+- `2026-09-22 (constaté)` — **Cartedepeche.fr (FNPF)** (fiche du 2026-08-30) · Description publique réécrite — texte non reproduit (empreinte 3a37ef53728557ba → 804f43c4464cff96)
+- `2026-09-22` — **Legalstart** (fiche du 2026-09-22) · **entrée ajoutée**
 - `2026-09-22 (constaté)` — **Média31** (fiche du 2026-05-09) · **ENTRÉE RETIRÉE** — motif : Doublon ou regroupement de fiches (Le catalogue portait deux fiches pour le même incident de la Médiathèque départementale numérique de la Haute-Garonne : celle-ci, qui rapportait la revendication publiée le 9 mai 2026 visant le site media31.mediatheques.fr, et mediatheque-departementale-numerique-de-la-haute-garonne-2026-05-22, qui rapportait la notification adressée par la médiathèque à ses usagers. Même site, même auteur, notification postérieure de treize jours, et aucune des deux n'était reliée à l'autre. La campagne de vérification de statut du 22 septembre 2026 l'a établi. Le contenu de celle-ci (revendication, volume revendiqué de 765 comptes, échantillon, capture) a été reporté dans la fiche du 22 mai, qui reste publique et confirmée ; celle-ci sort du catalogue et son article renvoie vers celui de la fiche qui reste. Aucune information n'est démentie : c'est un regroupement, pas une rétractation.)
 - `2026-09-22 (constaté)` — **Médiathèque départementale numérique de la Haute-Garonne** (fiche du 2026-05-22) · Volume concerné : (vide) → 765
 - `2026-09-22 (constaté)` — **Médiathèque départementale numérique de la Haute-Garonne** (fiche du 2026-05-22) · Description publique réécrite — texte non reproduit (empreinte 8f45100e198d730f → 51212c0ef1bfa94e)
