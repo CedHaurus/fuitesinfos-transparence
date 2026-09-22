@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**284** entrées ajoutées · **3** retirées · **311** corrections individuelles · **4** révisions groupées (236 fiches)
+**284** entrées ajoutées · **3** retirées · **319** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `d5a746ef558c124f1cdd6bc7a6c33e9b3f9bec7f7e65372f1d80ae8ff2063923`
+Empreinte de tête : `f71afa80c16f028c0d0c892047757eeb3d62d6ba5fb3a1db44b7b8958b192499`
 
 > **3 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,14 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-22 (constaté)` — **Xplor Resamania** (fiche du 2026-08-01) · Description publique réécrite — texte non reproduit (empreinte 2e96ac6c35a54a93 → 0c64ce7c0130c33b)
+- `2026-09-22 (constaté)` — **SDIS 40** (fiche du 2026-07-24) · Description publique réécrite — texte non reproduit (empreinte 41fb84fad780a156 → d33e2beaa8ea2752)
+- `2026-09-22 (constaté)` — **MUC 72 / Le Mans FC** (fiche du 2026-08-08) · Description publique réécrite — texte non reproduit (empreinte 2154d62a8225bb18 → f7a5c2504e9a7bf3)
+- `2026-09-22 (constaté)` — **Location-etudiant.fr** (fiche du 2026-07-27) · Description publique réécrite — texte non reproduit (empreinte 0ded3bb0b890e455 → 215d01b14ea80074)
+- `2026-09-22 (constaté)` — **Consommation Logement et Cadre de Vie (CLCV)** (fiche du 2026-08-08) · Description publique réécrite — texte non reproduit (empreinte 8efb0334e518efb7 → 4c249be6485dc959)
+- `2026-09-22 (constaté)` — **Cartogip (GIP ATGeRi)** (fiche du 2026-07-26) · Description publique réécrite — texte non reproduit (empreinte 0b581cfa51f95005 → 4f31f2043b9b8e38)
+- `2026-09-22 (constaté)` — **Bloctel** (fiche du 2026-08-06) · Description publique réécrite — texte non reproduit (empreinte 102db39803d1f415 → 76e39dcd008014f7)
+- `2026-09-22 (constaté)` — **AFPA** (fiche du 2026-08-07) · Description publique réécrite — texte non reproduit (empreinte 44a2be820f37c008 → 1367db1c620159f7)
 - `2026-09-22 (constaté)` — **WiziShop** (fiche du 2026-08-19) · Description publique réécrite — texte non reproduit (empreinte 87eb7422422d91df → 0c3fac0b1d90bd9e)
 - `2026-09-22 (constaté)` — **Vitacology** (fiche du 2026-08-12) · Description publique réécrite — texte non reproduit (empreinte 386dc101411eba53 → 8065a9047adcbcdc)
 - `2026-09-22 (constaté)` — **Sport 2000** (fiche du 2026-08-19) · Description publique réécrite — texte non reproduit (empreinte 37168c42d691dd43 → 30d7558f880a2db0)
