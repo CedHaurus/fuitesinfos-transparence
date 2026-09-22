@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**283** entrées ajoutées · **2** retirées · **281** corrections individuelles · **4** révisions groupées (236 fiches)
+**283** entrées ajoutées · **2** retirées · **283** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `9da17214734e6521080abf083460f926ceb14984eb6e25975cbd58bc04b596db`
+Empreinte de tête : `7bf9dda97e0f62e6ce8cc5840e7e98c80cce18e85fa785729a2b43488011b8bd`
 
 > **2 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 1 erreur de notre part · 1 doublon ou regroupement de fiches. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-22 (constaté)` — **Jinko** (fiche du 2026-09-07) · Statut : Revendiquée → Confirmée
+- `2026-09-22 (constaté)` — **Jinko** (fiche du 2026-09-07) · Description publique réécrite — texte non reproduit (empreinte 41370478e1272b3b → f9bbc571e6555351)
 - `2026-09-22 (constaté)` — **Tisséo Voyageurs** (fiche du 2026-09-03) · Description publique réécrite — texte non reproduit (empreinte 0b28f38a4883b43f → 67fb3265685081f2)
 - `2026-09-22 (constaté)` — **Printemps** (fiche du 2026-09-09) · Description publique réécrite — texte non reproduit (empreinte b515ec645995bac9 → 96a30d0f13e018d6)
 - `2026-09-22 (constaté)` — **Pass Pass** (fiche du 2026-09-05) · Description publique réécrite — texte non reproduit (empreinte 42eb208d948bd9cf → 9adab81bfb6779fd)
