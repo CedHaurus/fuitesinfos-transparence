@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**289** entrées ajoutées · **3** retirées · **322** corrections individuelles · **4** révisions groupées (236 fiches)
+**290** entrées ajoutées · **3** retirées · **322** corrections individuelles · **4** révisions groupées (236 fiches)
 
-Empreinte de tête : `015d5b8e8d7cf4e7ac626d3b376b89823fe4999f3253eebe2a119a8522c4d76d`
+Empreinte de tête : `8d37f0b5ba8f4c32076c6d49e262f9312b58d92112316a331aed4704d46468a9`
 
 > **3 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-23` — **Backpower** (fiche du 2026-09-23) · **entrée ajoutée**
 - `2026-09-23` — **Twizzit** (fiche du 2026-09-22) · **entrée ajoutée**
 - `2026-09-22 (constaté)` — **Uniformation** (fiche du 2026-09-22) · Volume concerné : 988 → (vide)
 - `2026-09-22` — **Uniformation** (fiche du 2026-09-22) · **entrée ajoutée**
