@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**291** entrées ajoutées · **3** retirées · **322** corrections individuelles · **5** révisions groupées (263 fiches)
+**291** entrées ajoutées · **3** retirées · **330** corrections individuelles · **6** révisions groupées (284 fiches)
 
-Empreinte de tête : `4c124e42fc00acc6a79bc68f1eda84964cb88543d93dd0f0ec09f936f7f3eeab`
+Empreinte de tête : `126b41d21a6761f7f9f0e475f849661eee072014547b0c741d221d51c7217867`
 
 > **3 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,15 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-23 (constaté)` — **Tchap** (fiche du 2026-03-02) · Volume concerné : 10 000 → (vide)
+- `2026-09-23 (constaté)` — **Rassemblement National** (fiche du 2026-07-20) · Nature des données : retiré Pièce d'identité
+- `2026-09-23 (constaté)` — **RATP** (fiche du 2026-06-14) · Volume concerné : 62 208 → (vide)
+- `2026-09-23 (constaté)` — **Police municipale du Pontet** (fiche du 2026-06-30) · Nature des données : retiré Pièce d'identité
+- `2026-09-23 (constaté)` — **Médiathèque départementale numérique de la Haute-Garonne** (fiche du 2026-05-22) · Volume concerné : 765 → (vide)
+- `2026-09-23 (constaté)` — **Iron Bodyfit** (fiche du 2026-06-09) · Volume concerné : 382 544 → (vide)
+- `2026-09-23 (constaté)` — **HomePad** (fiche du 2026-06-12) · Volume concerné : 625 487 → (vide)
+- `2026-09-23 (constaté)` — **Brouillon de culture** (fiche du 2026-03-04) · Volume concerné : 8 220 → (vide)
+- `2026-09-23 (constaté)` — **Révision groupée** · champ « Description publique » : 21 fiches modifiées dans le même lot (détail par fiche dans `registre.jsonl`)
 - `2026-09-23` — **Place des Salariés** (fiche du 2026-09-22) · **entrée ajoutée**
 - `2026-09-23 (constaté)` — **Révision groupée** · champ « Description publique » : 27 fiches modifiées dans le même lot (détail par fiche dans `registre.jsonl`)
 - `2026-09-23` — **Backpower** (fiche du 2026-09-23) · **entrée ajoutée**
