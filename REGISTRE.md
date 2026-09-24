@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**292** entrées ajoutées · **3** retirées · **332** corrections individuelles · **6** révisions groupées (284 fiches)
+**293** entrées ajoutées · **3** retirées · **332** corrections individuelles · **6** révisions groupées (284 fiches)
 
-Empreinte de tête : `ba657c5a0b21444d705d1ebed51f6487b1659c6ffd225e823b76dd2eade26599`
+Empreinte de tête : `2b755e8863cdc27238fd3892fd0364f49e93d27bcc2a326a39c64bcff3d60c58`
 
 > **3 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-24` — **Aéro-Club de l'AIA** (fiche du 2026-09-24) · **entrée ajoutée**
 - `2026-09-24` — **Horizane Santé** (fiche du 2026-09-24) · **entrée ajoutée**
 - `2026-09-23 (constaté)` — **Mes Marchés** (fiche du 2026-09-22) · Statut : Revendiquée → Confirmée
 - `2026-09-23 (constaté)` — **Mes Marchés** (fiche du 2026-09-22) · Description publique réécrite — texte non reproduit (empreinte d4c7ca311e2e4564 → c1c8727540d83c19)
