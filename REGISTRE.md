@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**291** entrées ajoutées · **3** retirées · **332** corrections individuelles · **6** révisions groupées (284 fiches)
+**292** entrées ajoutées · **3** retirées · **332** corrections individuelles · **6** révisions groupées (284 fiches)
 
-Empreinte de tête : `e6c33678c7f17cd5c1a57a32176fc11437defa1829d91b8700f4d9c38777da63`
+Empreinte de tête : `ba657c5a0b21444d705d1ebed51f6487b1659c6ffd225e823b76dd2eade26599`
 
 > **3 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-24` — **Horizane Santé** (fiche du 2026-09-24) · **entrée ajoutée**
 - `2026-09-23 (constaté)` — **Mes Marchés** (fiche du 2026-09-22) · Statut : Revendiquée → Confirmée
 - `2026-09-23 (constaté)` — **Mes Marchés** (fiche du 2026-09-22) · Description publique réécrite — texte non reproduit (empreinte d4c7ca311e2e4564 → c1c8727540d83c19)
 - `2026-09-23 (constaté)` — **Tchap** (fiche du 2026-03-02) · Volume concerné : 10 000 → (vide)
