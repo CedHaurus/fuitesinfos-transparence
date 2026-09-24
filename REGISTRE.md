@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**298** entrées ajoutées · **3** retirées · **333** corrections individuelles · **6** révisions groupées (284 fiches)
+**299** entrées ajoutées · **3** retirées · **333** corrections individuelles · **6** révisions groupées (284 fiches)
 
-Empreinte de tête : `ef820dcb1226a3d5fe48885316e28b8a619f27bbf6f1cc5b2f4fa740c872570c`
+Empreinte de tête : `0878ea18a39a385b767721f8cbd36a0457af9a73a1f6aa5b5107577e3d9d3955`
 
 > **3 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-24` — **Digit RE Group** (fiche du 2026-09-24) · **entrée ajoutée**
 - `2026-09-24` — **Revolut (via DriveWealth)** (fiche du 2026-09-24) · **entrée ajoutée**
 - `2026-09-24` — **Doinsport** (fiche du 2026-09-24) · **entrée ajoutée**
 - `2026-09-24` — **Agence de Services et de Paiement** (fiche du 2026-09-24) · **entrée ajoutée**
