@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**295** entrées ajoutées · **3** retirées · **333** corrections individuelles · **6** révisions groupées (284 fiches)
+**296** entrées ajoutées · **3** retirées · **333** corrections individuelles · **6** révisions groupées (284 fiches)
 
-Empreinte de tête : `d11982b6e7d4e70c9ba64b3e84c4bd5a0124f1c889f1571c37e55c58de51b23a`
+Empreinte de tête : `1c867a27400ee39d4b2a54d09814f886e44d854e3518d832fa28607287c4cda8`
 
 > **3 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-24` — **Agence de Services et de Paiement** (fiche du 2026-09-24) · **entrée ajoutée**
 - `2026-09-24` — **Uptoo** (fiche du 2026-09-24) · **entrée ajoutée**
 - `2026-09-24` — **Arntreal** (fiche du 2026-09-23) · **entrée ajoutée**
 - `2026-09-24 (constaté)` — **Aéro-Club de l'AIA** (fiche du 2026-09-24) · Description publique réécrite — texte non reproduit (empreinte 0d5f2b0e9cf0cc1c → 11f3880c259e8db1)
