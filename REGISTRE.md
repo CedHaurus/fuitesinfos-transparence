@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**302** entrées ajoutées · **3** retirées · **339** corrections individuelles · **6** révisions groupées (284 fiches)
+**304** entrées ajoutées · **3** retirées · **339** corrections individuelles · **6** révisions groupées (284 fiches)
 
-Empreinte de tête : `784429eae113ff8f57399f5221b2b5847e4f5f461fe00ad3f7254c1412b5b906`
+Empreinte de tête : `151eb5c00a018ee69a4bf5e83fdc7f36e0f828dfe745a0bf4be920d8bc582508`
 
 > **3 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-25` — **Reserver.fr** (fiche du 2026-09-25) · **entrée ajoutée**
+- `2026-09-25` — **Pharmaland** (fiche du 2026-09-25) · **entrée ajoutée**
 - `2026-09-25` — **GeoNat'îdF** (fiche du 2026-09-25) · **entrée ajoutée**
 - `2026-09-25` — **Plurélya** (fiche du 2026-09-25) · **entrée ajoutée**
 - `2026-09-25` — **Century 21 France** (fiche du 2026-09-24) · **entrée ajoutée**
