@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**299** entrées ajoutées · **3** retirées · **337** corrections individuelles · **6** révisions groupées (284 fiches)
+**299** entrées ajoutées · **3** retirées · **339** corrections individuelles · **6** révisions groupées (284 fiches)
 
-Empreinte de tête : `3722a0821667874e9632f49a74286791af4f80aabf39c146238c6b2e9646ebe9`
+Empreinte de tête : `3d58aaddf62b06b4f691af98dd937989c10824b4dc62c6e369e9e69179dbe409`
 
 > **3 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-25` — **Doinsport** (fiche du 2026-09-24) · Description publique réécrite — texte non reproduit (empreinte 46686c9f2708259f → e7ccb772966ec658)
+- `2026-09-25` — **Doinsport** (fiche du 2026-09-24) · Nature des données : ajouté Données d'appareil, Données de mineurs
 - `2026-09-24 (constaté)` — **Relais Colis** (fiche du 2026-01-12) · Volume concerné : 9 526 266 → 5 500 622
 - `2026-09-24 (constaté)` — **Relais Colis** (fiche du 2026-01-12) · Description publique réécrite — texte non reproduit (empreinte 66a74a72603caebb → 338af98851432b40)
 - `2026-09-24 (constaté)` — **Arntreal** (fiche du 2026-09-23) · Statut : Revendiquée → Confirmée
