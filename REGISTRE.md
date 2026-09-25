@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**299** entrées ajoutées · **3** retirées · **339** corrections individuelles · **6** révisions groupées (284 fiches)
+**300** entrées ajoutées · **3** retirées · **339** corrections individuelles · **6** révisions groupées (284 fiches)
 
-Empreinte de tête : `3d58aaddf62b06b4f691af98dd937989c10824b4dc62c6e369e9e69179dbe409`
+Empreinte de tête : `55d35cd0f18400bd940112b917979825ba8863d31ffef2fa462ed39c32047bf4`
 
 > **3 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-25` — **Century 21 France** (fiche du 2026-09-24) · **entrée ajoutée**
 - `2026-09-25` — **Doinsport** (fiche du 2026-09-24) · Description publique réécrite — texte non reproduit (empreinte 46686c9f2708259f → e7ccb772966ec658)
 - `2026-09-25` — **Doinsport** (fiche du 2026-09-24) · Nature des données : ajouté Données d'appareil, Données de mineurs
 - `2026-09-24 (constaté)` — **Relais Colis** (fiche du 2026-01-12) · Volume concerné : 9 526 266 → 5 500 622
