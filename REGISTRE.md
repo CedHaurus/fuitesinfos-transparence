@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**301** entrées ajoutées · **3** retirées · **339** corrections individuelles · **6** révisions groupées (284 fiches)
+**302** entrées ajoutées · **3** retirées · **339** corrections individuelles · **6** révisions groupées (284 fiches)
 
-Empreinte de tête : `c57712c090743e21739c80c439fae37a384b8e75aad171f79fc76bd2c3ffa53e`
+Empreinte de tête : `784429eae113ff8f57399f5221b2b5847e4f5f461fe00ad3f7254c1412b5b906`
 
 > **3 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-25` — **GeoNat'îdF** (fiche du 2026-09-25) · **entrée ajoutée**
 - `2026-09-25` — **Plurélya** (fiche du 2026-09-25) · **entrée ajoutée**
 - `2026-09-25` — **Century 21 France** (fiche du 2026-09-24) · **entrée ajoutée**
 - `2026-09-25` — **Doinsport** (fiche du 2026-09-24) · Description publique réécrite — texte non reproduit (empreinte 46686c9f2708259f → e7ccb772966ec658)
