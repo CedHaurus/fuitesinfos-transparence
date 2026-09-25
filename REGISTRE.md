@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**304** entrées ajoutées · **3** retirées · **339** corrections individuelles · **6** révisions groupées (284 fiches)
+**305** entrées ajoutées · **3** retirées · **339** corrections individuelles · **6** révisions groupées (284 fiches)
 
-Empreinte de tête : `151eb5c00a018ee69a4bf5e83fdc7f36e0f828dfe745a0bf4be920d8bc582508`
+Empreinte de tête : `08d94d2536dbfb940e522b0b4f60e03f90393e85cc09818536f8c450e6452e04`
 
 > **3 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-25` — **Réassurez-moi** (fiche du 2026-09-25) · **entrée ajoutée**
 - `2026-09-25` — **Reserver.fr** (fiche du 2026-09-25) · **entrée ajoutée**
 - `2026-09-25` — **Pharmaland** (fiche du 2026-09-25) · **entrée ajoutée**
 - `2026-09-25` — **GeoNat'îdF** (fiche du 2026-09-25) · **entrée ajoutée**
