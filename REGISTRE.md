@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**300** entrées ajoutées · **3** retirées · **339** corrections individuelles · **6** révisions groupées (284 fiches)
+**301** entrées ajoutées · **3** retirées · **339** corrections individuelles · **6** révisions groupées (284 fiches)
 
-Empreinte de tête : `55d35cd0f18400bd940112b917979825ba8863d31ffef2fa462ed39c32047bf4`
+Empreinte de tête : `c57712c090743e21739c80c439fae37a384b8e75aad171f79fc76bd2c3ffa53e`
 
 > **3 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-25` — **Plurélya** (fiche du 2026-09-25) · **entrée ajoutée**
 - `2026-09-25` — **Century 21 France** (fiche du 2026-09-24) · **entrée ajoutée**
 - `2026-09-25` — **Doinsport** (fiche du 2026-09-24) · Description publique réécrite — texte non reproduit (empreinte 46686c9f2708259f → e7ccb772966ec658)
 - `2026-09-25` — **Doinsport** (fiche du 2026-09-24) · Nature des données : ajouté Données d'appareil, Données de mineurs
