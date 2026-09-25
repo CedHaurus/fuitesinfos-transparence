@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**305** entrées ajoutées · **3** retirées · **340** corrections individuelles · **6** révisions groupées (284 fiches)
+**305** entrées ajoutées · **3** retirées · **345** corrections individuelles · **6** révisions groupées (284 fiches)
 
-Empreinte de tête : `9da131505b90c905720c8a0453f1f92f7dd19af39dc01a69393b1a04de0bb140`
+Empreinte de tête : `63e6099ab91154fb7046cbf422beee1fe01aaf4cfb3ae49ec7d3e5b7370cebd6`
 
 > **3 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,11 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-25 (constaté)` — **O’Tacos** (fiche du 2026-01-27) · Description publique réécrite — texte non reproduit (empreinte a4ccab31232cb65e → d2b4b24b6cf9e33c)
+- `2026-09-25 (constaté)` — **ManoMano** (fiche du 2026-01-30) · Description publique réécrite — texte non reproduit (empreinte f16be0d4cb32fdad → 6e57dfe202b7bf23)
+- `2026-09-25 (constaté)` — **LBP Granville (Le Bureau de Prospection)** (fiche du 2026-01-15) · Description publique réécrite — texte non reproduit (empreinte ce7564119c191b86 → 6d097689342d115c)
+- `2026-09-25 (constaté)` — **Easy Cash** (fiche du 2026-05-01) · Description publique réécrite — texte non reproduit (empreinte 20d4c22c363cc854 → d8a8bd0e115185bf)
+- `2026-09-25 (constaté)` — **Cegedim** (fiche du 2026-02-26) · Description publique réécrite — texte non reproduit (empreinte e8e1c019c33077c0 → 8b91a5a12fd88835)
 - `2026-09-25 (constaté)` — **Urban Food** (fiche du 2026-06-09) · Description publique réécrite — texte non reproduit (empreinte 2ff7796e65e4852e → 52b9b1c4d1c813b1)
 - `2026-09-25` — **Réassurez-moi** (fiche du 2026-09-25) · **entrée ajoutée**
 - `2026-09-25` — **Reserver.fr** (fiche du 2026-09-25) · **entrée ajoutée**
