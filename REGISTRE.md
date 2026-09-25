@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**305** entrées ajoutées · **3** retirées · **345** corrections individuelles · **7** révisions groupées (386 fiches)
+**305** entrées ajoutées · **3** retirées · **345** corrections individuelles · **8** révisions groupées (587 fiches)
 
-Empreinte de tête : `1692b7d7cff5e8ba24849a91935450410f6f18a74bb11ac2ff5f8ae602639d05`
+Empreinte de tête : `ae0cbd0588c86b13232f24e53eb7ca7be3adfacb3ccc7a9b854fb6c180b17b0d`
 
 > **3 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-25 (constaté)` — **Révision groupée** · champ « Description publique » : 201 fiches modifiées dans le même lot (détail par fiche dans `registre.jsonl`)
 - `2026-09-25 (constaté)` — **Révision groupée** · champ « Description publique » : 102 fiches modifiées dans le même lot (détail par fiche dans `registre.jsonl`)
 - `2026-09-25 (constaté)` — **O’Tacos** (fiche du 2026-01-27) · Description publique réécrite — texte non reproduit (empreinte a4ccab31232cb65e → d2b4b24b6cf9e33c)
 - `2026-09-25 (constaté)` — **ManoMano** (fiche du 2026-01-30) · Description publique réécrite — texte non reproduit (empreinte f16be0d4cb32fdad → 6e57dfe202b7bf23)
