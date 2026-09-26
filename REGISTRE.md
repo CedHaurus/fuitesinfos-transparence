@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**312** entrées ajoutées · **3** retirées · **347** corrections individuelles · **9** révisions groupées (688 fiches)
+**312** entrées ajoutées · **3** retirées · **349** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `5745b9d8923c1e7523418708acfccd85a8aa7b007e54680ccfb65ba5111496a3`
+Empreinte de tête : `c5b9fcd2287440d532f6a5ef58e828d9aca9f6ed03d19ace3bd3b510e667c027`
 
 > **3 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-26 (constaté)` — **Mes Marchés** (fiche du 2026-09-22) · Volume concerné : 2 535 → (vide)
+- `2026-09-26 (constaté)` — **CAPM Europe** (fiche du 2026-09-26) · Description publique réécrite — texte non reproduit (empreinte 2d8a87ab3c1a9f9e → ec1c242853cf8ca9)
 - `2026-09-26` — **Cigusto** (fiche du 2026-09-26) · **entrée ajoutée**
 - `2026-09-26` — **CAPM Europe** (fiche du 2026-09-26) · **entrée ajoutée**
 - `2026-09-26` — **Carrefour** (fiche du 2026-09-26) · **entrée ajoutée**
