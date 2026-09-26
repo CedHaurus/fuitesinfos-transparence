@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**309** entrées ajoutées · **3** retirées · **347** corrections individuelles · **9** révisions groupées (688 fiches)
+**310** entrées ajoutées · **3** retirées · **347** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `b63f000b432c66f458297a932ef992dbbbaaef399541aa690edfb01d6453a3b8`
+Empreinte de tête : `3a5389c0d3fd1d33c1253fc25783fa9ec77911d9721591a2e83f6e0b2f42a68d`
 
 > **3 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-26` — **Carrefour** (fiche du 2026-09-26) · **entrée ajoutée**
 - `2026-09-26` — **Ecofone** (fiche du 2026-09-26) · **entrée ajoutée**
 - `2026-09-26 (constaté)` — **Aestria** (fiche du 2026-09-26) · Description publique réécrite — texte non reproduit (empreinte 96af4ae441558042 → f2701a8288aacd23)
 - `2026-09-26` — **Aestria** (fiche du 2026-09-26) · **entrée ajoutée**
