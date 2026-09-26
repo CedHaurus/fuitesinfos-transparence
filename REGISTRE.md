@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**305** entrées ajoutées · **3** retirées · **345** corrections individuelles · **9** révisions groupées (688 fiches)
+**306** entrées ajoutées · **3** retirées · **345** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `1192b55a3d8b391e8d479c2bb02d78c6109ef0c1c5da1018f55a48f33427e6fe`
+Empreinte de tête : `2b1c12f3cf6a75ae93659b3eb666efba27e4d387ce09a6516554c1d29b9ea7b9`
 
 > **3 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-26` — **Celinni** (fiche du 2026-09-26) · **entrée ajoutée**
 - `2026-09-25 (constaté)` — **Révision groupée** · champ « Description publique » : 101 fiches modifiées dans le même lot (détail par fiche dans `registre.jsonl`)
 - `2026-09-25 (constaté)` — **Révision groupée** · champ « Description publique » : 201 fiches modifiées dans le même lot (détail par fiche dans `registre.jsonl`)
 - `2026-09-25 (constaté)` — **Révision groupée** · champ « Description publique » : 102 fiches modifiées dans le même lot (détail par fiche dans `registre.jsonl`)
