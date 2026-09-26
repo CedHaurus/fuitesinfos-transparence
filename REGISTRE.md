@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**308** entrées ajoutées · **3** retirées · **346** corrections individuelles · **9** révisions groupées (688 fiches)
+**308** entrées ajoutées · **3** retirées · **347** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `ed7493eda24b17d934ef8737df8a78a7408c802d153514d263d69d7c390668b1`
+Empreinte de tête : `0ce76efe5f0d66ad0a3a77d3028b89eb3c9bf480e63b278acff049822b88056f`
 
 > **3 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-26 (constaté)` — **Aestria** (fiche du 2026-09-26) · Description publique réécrite — texte non reproduit (empreinte 96af4ae441558042 → f2701a8288aacd23)
 - `2026-09-26` — **Aestria** (fiche du 2026-09-26) · **entrée ajoutée**
 - `2026-09-26 (constaté)` — **Celinni** (fiche du 2026-09-26) · Description publique réécrite — texte non reproduit (empreinte e7110967c092a39d → ebaa21886be60137)
 - `2026-09-26` — **Communauto** (fiche du 2026-09-14) · **entrée ajoutée**
