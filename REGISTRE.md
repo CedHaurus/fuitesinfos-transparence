@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**312** entrées ajoutées · **3** retirées · **353** corrections individuelles · **9** révisions groupées (688 fiches)
+**313** entrées ajoutées · **3** retirées · **353** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `fc5a7dd0f14e275854baa4c72a354c5f6f62a3a6699e9172ee2306cada80e547`
+Empreinte de tête : `7f71f22a9fd94c4399b843ad8dfef16a8f6c6bc73f3305ad7cc1bd89e6a42bd4`
 
 > **3 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-27` — **SDIS 80** (fiche du 2026-09-26) · **entrée ajoutée**
 - `2026-09-27` — **Twizzit** (fiche du 2026-09-22) · Statut : Revendiquée → Confirmée
 - `2026-09-27` — **Twizzit** (fiche du 2026-09-22) · Description publique réécrite — texte non reproduit (empreinte ad981e28b136e156 → aa9ef6b09c2eec96)
 - `2026-09-27` — **Biocoop** (fiche du 2026-09-20) · Statut : Revendiquée → Confirmée
