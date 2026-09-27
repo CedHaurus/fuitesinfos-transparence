@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**316** entrées ajoutées · **3** retirées · **354** corrections individuelles · **9** révisions groupées (688 fiches)
+**317** entrées ajoutées · **3** retirées · **354** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `28e8ebe3af0e9913c4c9dd34c1dc582997fb3089cb38ee5019dd4f0e57c94d69`
+Empreinte de tête : `3f4932c0b8a92a61d3020b084c54c73b25ee9688b2f5ceb5756027ca22e24f30`
 
 > **3 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-27` — **Planity** (fiche du 2026-09-27) · **entrée ajoutée**
 - `2026-09-27` — **Score'n'co** (fiche du 2026-09-27) · **entrée ajoutée**
 - `2026-09-27 (constaté)` — **Agefiph** (fiche du 2026-09-27) · Description publique réécrite — texte non reproduit (empreinte 692585f04cab9fd1 → 475d33bb78a52e6c)
 - `2026-09-27` — **Agefiph** (fiche du 2026-09-27) · **entrée ajoutée**
