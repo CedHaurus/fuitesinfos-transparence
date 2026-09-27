@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**317** entrées ajoutées · **3** retirées · **355** corrections individuelles · **9** révisions groupées (688 fiches)
+**318** entrées ajoutées · **3** retirées · **355** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `a3591838ad43fc67285cae3e2472480d9034840fc49dd09515e192d27de4018f`
+Empreinte de tête : `d67085e409821eb297c552e7fcbcda82db3759b178450a025094643b209e4a01`
 
 > **3 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-27` — **Oracio (Snexi)** (fiche du 2026-09-27) · **entrée ajoutée**
 - `2026-09-27 (constaté)` — **Planity** (fiche du 2026-09-27) · Description publique réécrite — texte non reproduit (empreinte 5fe4b983b3aa81bd → f552005495c50a52)
 - `2026-09-27` — **Planity** (fiche du 2026-09-27) · **entrée ajoutée**
 - `2026-09-27` — **Score'n'co** (fiche du 2026-09-27) · **entrée ajoutée**
