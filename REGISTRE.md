@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**314** entrées ajoutées · **3** retirées · **353** corrections individuelles · **9** révisions groupées (688 fiches)
+**315** entrées ajoutées · **3** retirées · **353** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `cf2c366823b7db435b37b017d3d4a05850f1e7f80bc2e3fbf40d9c08d15e0428`
+Empreinte de tête : `81014194a8b9be1e79d2d333e77a3dc022e9b165b4c2587e11b981268f4f21ae`
 
 > **3 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-27` — **Agefiph** (fiche du 2026-09-27) · **entrée ajoutée**
 - `2026-09-27` — **Fédération Française de Basket-Ball** (fiche du 2026-08-06) · **entrée ajoutée**
 - `2026-09-27` — **SDIS 80** (fiche du 2026-09-26) · **entrée ajoutée**
 - `2026-09-27` — **Twizzit** (fiche du 2026-09-22) · Statut : Revendiquée → Confirmée
