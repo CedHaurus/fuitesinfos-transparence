@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**312** entrées ajoutées · **3** retirées · **349** corrections individuelles · **9** révisions groupées (688 fiches)
+**312** entrées ajoutées · **3** retirées · **353** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `c5b9fcd2287440d532f6a5ef58e828d9aca9f6ed03d19ace3bd3b510e667c027`
+Empreinte de tête : `fc5a7dd0f14e275854baa4c72a354c5f6f62a3a6699e9172ee2306cada80e547`
 
 > **3 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,10 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-27` — **Twizzit** (fiche du 2026-09-22) · Statut : Revendiquée → Confirmée
+- `2026-09-27` — **Twizzit** (fiche du 2026-09-22) · Description publique réécrite — texte non reproduit (empreinte ad981e28b136e156 → aa9ef6b09c2eec96)
+- `2026-09-27` — **Biocoop** (fiche du 2026-09-20) · Statut : Revendiquée → Confirmée
+- `2026-09-27` — **Biocoop** (fiche du 2026-09-20) · Description publique réécrite — texte non reproduit (empreinte 9ed1b426b0b2abc7 → 680e0eca65d1f482)
 - `2026-09-26 (constaté)` — **Mes Marchés** (fiche du 2026-09-22) · Volume concerné : 2 535 → (vide)
 - `2026-09-26 (constaté)` — **CAPM Europe** (fiche du 2026-09-26) · Description publique réécrite — texte non reproduit (empreinte 2d8a87ab3c1a9f9e → ec1c242853cf8ca9)
 - `2026-09-26` — **Cigusto** (fiche du 2026-09-26) · **entrée ajoutée**
