@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**318** entrées ajoutées · **3** retirées · **355** corrections individuelles · **9** révisions groupées (688 fiches)
+**319** entrées ajoutées · **3** retirées · **355** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `d67085e409821eb297c552e7fcbcda82db3759b178450a025094643b209e4a01`
+Empreinte de tête : `8db9ef4e28b4676537cb7ad624b864c9b5655cb1e06bb07bbf382d98599733ec`
 
 > **3 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-27` — **Kiassure** (fiche du 2026-09-27) · **entrée ajoutée**
 - `2026-09-27` — **Oracio (Snexi)** (fiche du 2026-09-27) · **entrée ajoutée**
 - `2026-09-27 (constaté)` — **Planity** (fiche du 2026-09-27) · Description publique réécrite — texte non reproduit (empreinte 5fe4b983b3aa81bd → f552005495c50a52)
 - `2026-09-27` — **Planity** (fiche du 2026-09-27) · **entrée ajoutée**
