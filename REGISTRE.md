@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**320** entrées ajoutées · **3** retirées · **356** corrections individuelles · **9** révisions groupées (688 fiches)
+**320** entrées ajoutées · **3** retirées · **357** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `3568d9f1377faf992e336fd6d03b1f9ca3fc8e8532d59c2790550db2edea1ae9`
+Empreinte de tête : `3ec99a888f43bbe51c996c3746b097b05897be4fc9309a3e65111128613e7636`
 
 > **3 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-28 (constaté)` — **Alaxione** (fiche du 2026-08-19) · Volume concerné : 6 835 489 → (vide)
 - `2026-09-28` — **Alaxione** (fiche du 2026-09-28) · **entrée ajoutée**
 - `2026-09-27 (constaté)` — **Kiassure** (fiche du 2026-09-27) · Description publique réécrite — texte non reproduit (empreinte c6f62680bef05fc2 → d4912aee42125379)
 - `2026-09-27` — **Kiassure** (fiche du 2026-09-27) · **entrée ajoutée**
