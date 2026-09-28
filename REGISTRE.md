@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**319** entrées ajoutées · **3** retirées · **356** corrections individuelles · **9** révisions groupées (688 fiches)
+**320** entrées ajoutées · **3** retirées · **356** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `915a93bfc1a0acf3c62a89689d5003d46376049a429f67521c8004acc455373e`
+Empreinte de tête : `3568d9f1377faf992e336fd6d03b1f9ca3fc8e8532d59c2790550db2edea1ae9`
 
 > **3 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-28` — **Alaxione** (fiche du 2026-09-28) · **entrée ajoutée**
 - `2026-09-27 (constaté)` — **Kiassure** (fiche du 2026-09-27) · Description publique réécrite — texte non reproduit (empreinte c6f62680bef05fc2 → d4912aee42125379)
 - `2026-09-27` — **Kiassure** (fiche du 2026-09-27) · **entrée ajoutée**
 - `2026-09-27` — **Oracio (Snexi)** (fiche du 2026-09-27) · **entrée ajoutée**
