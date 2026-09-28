@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**321** entrées ajoutées · **3** retirées · **357** corrections individuelles · **9** révisions groupées (688 fiches)
+**322** entrées ajoutées · **3** retirées · **357** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `b6d7c5489f3da09175fa7dae02239ccd7494ee170ede3673880ee51891bed5de`
+Empreinte de tête : `42c7e78d27cb03ac4fd4b50c22c4359fd062cecd86035457d6eca22cf26fe37d`
 
 > **3 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-28` — **Azaé** (fiche du 2026-09-28) · **entrée ajoutée**
 - `2026-09-28` — **Portalia** (fiche du 2026-09-28) · **entrée ajoutée**
 - `2026-09-28 (constaté)` — **Alaxione** (fiche du 2026-08-19) · Volume concerné : 6 835 489 → (vide)
 - `2026-09-28` — **Alaxione** (fiche du 2026-09-28) · **entrée ajoutée**
