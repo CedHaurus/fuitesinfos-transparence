@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**326** entrées ajoutées · **3** retirées · **359** corrections individuelles · **9** révisions groupées (688 fiches)
+**326** entrées ajoutées · **3** retirées · **361** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `fbf052d2d2aad5d40e75ad11a17cfaf482712b38ab6470c9779a56e23495acd2`
+Empreinte de tête : `875d836abeb9191586726a2518f74a5fb1f570854ca20f0f9ba97d75409530cc`
 
 > **3 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-28 (constaté)` — **Spareka** (fiche du 2026-09-28) · Statut : Revendiquée → Confirmée
+- `2026-09-28 (constaté)` — **Spareka** (fiche du 2026-09-28) · Description publique réécrite — texte non reproduit (empreinte 2dee978f13cdaa8c → 7a81680ef150adbd)
 - `2026-09-28` — **Talentplug** (fiche du 2026-09-28) · **entrée ajoutée**
 - `2026-09-28` — **CO'LEC** (fiche du 2026-09-28) · **entrée ajoutée**
 - `2026-09-28` — **Les Clés de l'Atelier** (fiche du 2026-09-28) · **entrée ajoutée**
