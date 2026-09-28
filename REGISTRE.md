@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**323** entrées ajoutées · **3** retirées · **359** corrections individuelles · **9** révisions groupées (688 fiches)
+**324** entrées ajoutées · **3** retirées · **359** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `796ff6527bed8f1395aa323af87a2ce2965ed44594acdea10ad979640d58513a`
+Empreinte de tête : `97351697a30303809400f8398e2afa00dd2aded5aaf51d9ea9e361aae1dd84c0`
 
 > **3 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-28` — **Les Clés de l'Atelier** (fiche du 2026-09-28) · **entrée ajoutée**
 - `2026-09-28` — **Spareka** (fiche du 2026-09-28) · **entrée ajoutée**
 - `2026-09-28 (constaté)` — **Plurélya** (fiche du 2026-09-25) · Statut : Revendiquée → Confirmée
 - `2026-09-28 (constaté)` — **Plurélya** (fiche du 2026-09-25) · Description publique réécrite — texte non reproduit (empreinte a65b6619435ae2a5 → e9f846b38fb7ef81)
