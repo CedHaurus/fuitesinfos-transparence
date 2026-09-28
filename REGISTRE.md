@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**322** entrées ajoutées · **3** retirées · **357** corrections individuelles · **9** révisions groupées (688 fiches)
+**322** entrées ajoutées · **3** retirées · **359** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `42c7e78d27cb03ac4fd4b50c22c4359fd062cecd86035457d6eca22cf26fe37d`
+Empreinte de tête : `32793f866abba9b9ba7978d64196316a8278718e9a62e0c9b6e9384e64ec9cf1`
 
 > **3 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-28 (constaté)` — **Plurélya** (fiche du 2026-09-25) · Statut : Revendiquée → Confirmée
+- `2026-09-28 (constaté)` — **Plurélya** (fiche du 2026-09-25) · Description publique réécrite — texte non reproduit (empreinte a65b6619435ae2a5 → e9f846b38fb7ef81)
 - `2026-09-28` — **Azaé** (fiche du 2026-09-28) · **entrée ajoutée**
 - `2026-09-28` — **Portalia** (fiche du 2026-09-28) · **entrée ajoutée**
 - `2026-09-28 (constaté)` — **Alaxione** (fiche du 2026-08-19) · Volume concerné : 6 835 489 → (vide)
