@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**322** entrées ajoutées · **3** retirées · **359** corrections individuelles · **9** révisions groupées (688 fiches)
+**323** entrées ajoutées · **3** retirées · **359** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `32793f866abba9b9ba7978d64196316a8278718e9a62e0c9b6e9384e64ec9cf1`
+Empreinte de tête : `796ff6527bed8f1395aa323af87a2ce2965ed44594acdea10ad979640d58513a`
 
 > **3 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-28` — **Spareka** (fiche du 2026-09-28) · **entrée ajoutée**
 - `2026-09-28 (constaté)` — **Plurélya** (fiche du 2026-09-25) · Statut : Revendiquée → Confirmée
 - `2026-09-28 (constaté)` — **Plurélya** (fiche du 2026-09-25) · Description publique réécrite — texte non reproduit (empreinte a65b6619435ae2a5 → e9f846b38fb7ef81)
 - `2026-09-28` — **Azaé** (fiche du 2026-09-28) · **entrée ajoutée**
