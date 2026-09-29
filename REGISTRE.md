@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**327** entrées ajoutées · **3** retirées · **365** corrections individuelles · **9** révisions groupées (688 fiches)
+**327** entrées ajoutées · **3** retirées · **369** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `7a003b649a46ac950cdf66eb934d34cbe34a0343d58becf69836454c69e8e3e5`
+Empreinte de tête : `b0a687fbbfe3d1c23f389bf2046c97a775a375b4fa342dabc8508ad94f881c0c`
 
 > **3 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,10 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-29 (constaté)` — **VitalAire** (fiche du 2026-09-19) · Statut : Revendiquée → Confirmée
+- `2026-09-29 (constaté)` — **VitalAire** (fiche du 2026-09-19) · Description publique réécrite — texte non reproduit (empreinte e3592298914fd1e1 → 36af086874fcc5d6)
+- `2026-09-29 (constaté)` — **Azaé** (fiche du 2026-09-28) · Statut : Revendiquée → Confirmée
+- `2026-09-29 (constaté)` — **Azaé** (fiche du 2026-09-28) · Description publique réécrite — texte non reproduit (empreinte 84c0c09058c7d9ad → ba99464b7cbbc32a)
 - `2026-09-29` — **Groupe KEL** (fiche du 2026-09-29) · **entrée ajoutée**
 - `2026-09-29` — **Point Vision** (fiche du 2026-09-15) · Description publique réécrite — texte non reproduit (empreinte 0a15b9f3c0f9b426 → f0517b61dac9c891)
 - `2026-09-29` — **Point Vision** (fiche du 2026-09-15) · Nature des données : ajouté Données de mineurs, Données de santé, Mot de passe (haché), Rendez-vous
