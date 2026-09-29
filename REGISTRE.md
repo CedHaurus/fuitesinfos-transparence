@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**326** entrées ajoutées · **3** retirées · **365** corrections individuelles · **9** révisions groupées (688 fiches)
+**327** entrées ajoutées · **3** retirées · **365** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `f142abb72de5626f2ee5d664597a494b24027c068e60504fd363e702132a65d1`
+Empreinte de tête : `7a003b649a46ac950cdf66eb934d34cbe34a0343d58becf69836454c69e8e3e5`
 
 > **3 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-29` — **Groupe KEL** (fiche du 2026-09-29) · **entrée ajoutée**
 - `2026-09-29` — **Point Vision** (fiche du 2026-09-15) · Description publique réécrite — texte non reproduit (empreinte 0a15b9f3c0f9b426 → f0517b61dac9c891)
 - `2026-09-29` — **Point Vision** (fiche du 2026-09-15) · Nature des données : ajouté Données de mineurs, Données de santé, Mot de passe (haché), Rendez-vous
 - `2026-09-29` — **Alaxione** (fiche du 2026-09-28) · Description publique réécrite — texte non reproduit (empreinte 8a3677fb905d9c25 → 521c3940ecc660c4)
