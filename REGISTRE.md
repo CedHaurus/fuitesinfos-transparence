@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**329** entrées ajoutées · **3** retirées · **369** corrections individuelles · **9** révisions groupées (688 fiches)
+**330** entrées ajoutées · **3** retirées · **369** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `13bba3136fc9aabb1ab1431c88ab1c6123e7d6284a1a0268975746e2504f0473`
+Empreinte de tête : `cc512b63726fd3d2fcd484cb2afa194fbf4f7b1bd416dc8aa64149d4b1c3dbe3`
 
 > **3 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-29` — **SFR** (fiche du 2026-09-29) · **entrée ajoutée**
 - `2026-09-29` — **Krys Group** (fiche du 2026-09-29) · **entrée ajoutée**
 - `2026-09-29` — **Laboratoire LCS** (fiche du 2026-09-29) · **entrée ajoutée**
 - `2026-09-29 (constaté)` — **VitalAire** (fiche du 2026-09-19) · Statut : Revendiquée → Confirmée
