@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**343** entrées ajoutées · **4** retirées · **390** corrections individuelles · **9** révisions groupées (688 fiches)
+**344** entrées ajoutées · **4** retirées · **390** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `22990fb9da2825da4896b32c5f368de59cc55a1557278c9e8071539d541acd43`
+Empreinte de tête : `e5f6510f1a60c7b10ae1e3ff91620e48d70baae2472056579cdebf269043cdde`
 
 > **4 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-30` — **SDIS 66** (fiche du 2026-09-30) · **entrée ajoutée**
 - `2026-09-30 (constaté)` — **Fédération Française de la Randonnée Pédestre** (fiche du 2026-09-29) · Statut : Revendiquée → Confirmée
 - `2026-09-30 (constaté)` — **Fédération Française de la Randonnée Pédestre** (fiche du 2026-09-29) · Description publique réécrite — texte non reproduit (empreinte b883c8aa17b23c76 → 178f76ce6d4dae82)
 - `2026-09-30` — **École nationale vétérinaire d'Alfort (EnvA)** (fiche du 2026-09-30) · **entrée ajoutée**
