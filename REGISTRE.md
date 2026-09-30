@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**331** entrées ajoutées · **3** retirées · **369** corrections individuelles · **9** révisions groupées (688 fiches)
+**332** entrées ajoutées · **3** retirées · **369** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `77db10a881257dc0f42019f72de0a31c3ff080d67c8f891d39fec3c72f640366`
+Empreinte de tête : `525d3cd75e43f69a153c8c73d0f030b5545848bf239d154347b923714d5f8005`
 
 > **3 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-30` — **DECOClim** (fiche du 2026-09-29) · **entrée ajoutée**
 - `2026-09-29` — **Fédération Française de la Randonnée Pédestre** (fiche du 2026-09-29) · **entrée ajoutée**
 - `2026-09-29` — **SFR** (fiche du 2026-09-29) · **entrée ajoutée**
 - `2026-09-29` — **Krys Group** (fiche du 2026-09-29) · **entrée ajoutée**
