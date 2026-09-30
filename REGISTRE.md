@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**335** entrées ajoutées · **4** retirées · **388** corrections individuelles · **9** révisions groupées (688 fiches)
+**341** entrées ajoutées · **4** retirées · **388** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `eecacda47917b12f6b72962e812186a77b633972064eae9ed3a83e81d2a604ff`
+Empreinte de tête : `08a1b02140b76a929bb232c9c835d5a48afd09a2516fb9f59a8b17f6625e883a`
 
 > **4 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,12 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-30` — **Tchap** (fiche du 2026-08-19) · **entrée ajoutée**
+- `2026-09-30` — **TRACFIN** (fiche du 2026-07-15) · **entrée ajoutée**
+- `2026-09-30` — **QualiCharge** (fiche du 2026-09-30) · **entrée ajoutée**
+- `2026-09-30` — **DGDDI (Douanes)** (fiche du 2026-08-21) · **entrée ajoutée**
+- `2026-09-30` — **Bureau numérique (ministère de la Transition écologique)** (fiche du 2026-08-25) · **entrée ajoutée**
+- `2026-09-30` — **ANSSI (Laboratoire d'innovation)** (fiche du 2026-09-30) · **entrée ajoutée**
 - `2026-09-30` — **Région Centre-Val de Loire** (fiche du 2026-09-30) · **entrée ajoutée**
 - `2026-09-30` — **Distinxion** (fiche du 2026-09-30) · **entrée ajoutée**
 - `2026-09-30 (constaté)` — **Zéro Logement Vacant** (fiche du 2026-08-28) · Description publique réécrite — texte non reproduit (empreinte e748f10df91f29f0 → 5a55b93f5264a656)
