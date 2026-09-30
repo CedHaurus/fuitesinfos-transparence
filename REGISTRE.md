@@ -2,12 +2,12 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**332** entrées ajoutées · **3** retirées · **369** corrections individuelles · **9** révisions groupées (688 fiches)
+**332** entrées ajoutées · **4** retirées · **371** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `525d3cd75e43f69a153c8c73d0f030b5545848bf239d154347b923714d5f8005`
+Empreinte de tête : `e611e6cd92e01b46bb790917ce83e4fc525ff853d236d14878c84ffce22c25b3`
 
-> **3 entrée(s) retirée(s) depuis le début de cette période.**
-> Répartition par motif : 2 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
+> **4 entrée(s) retirée(s) depuis le début de cette période.**
+> Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
 
 Les changements sont classés du plus récent au plus ancien. La portée exacte de ce registre et ses limites sont décrites dans le [README](README.md).
 
@@ -15,6 +15,9 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-30 (constaté)` — **Syadem** (fiche du 2026-07-08) · **ENTRÉE RETIRÉE** — motif : Doublon ou regroupement de fiches (Le catalogue portait deux fiches pour une même compromission chez Syadem, qui développe et opère le carnet de vaccination numérique MesVaccins.net et la plateforme de recueil des autorisations parentales des campagnes de vaccination en collège : celle-ci, qui rapportait les notifications des agences régionales de santé sur la plateforme scolaire (juillet 2026), et mesvaccins-net-2026-06-23, qui rapportait la notification de MesVaccins.net à ses utilisateurs (juin 2026). La mise en vente du 29 septembre 2026 couvre les deux services sous un seul titre, et l'échantillon diffusé avec elle place les élèves des campagnes en collège dans la même base que les carnets du grand public. Le contenu de celle-ci (notifications et courriers des ARS, catégories de données des élèves et des représentants légaux, périmètre pluri-régional, sources) a été reporté dans la fiche du 23 juin, qui reste publique et confirmée ; celle-ci sort du catalogue et son article renvoie vers celui de la fiche qui reste. Aucune information n'est démentie : c'est un regroupement, pas une rétractation.)
+- `2026-09-30 (constaté)` — **MesVaccins.net** (fiche du 2026-06-23) · Description publique réécrite — texte non reproduit (empreinte 04f086596e0285c9 → e0c83a5fca34016e)
+- `2026-09-30 (constaté)` — **MesVaccins.net** (fiche du 2026-06-23) · Nature des données : ajouté Adresse postale, Champs libres, Code postal, Documents, Données de mineurs, Données professionnelles, Données scolaires, Facture, Identifiant professionnel de santé (RPPS), Montant, Nationalité, Signature, Situation familiale, Ville
 - `2026-09-30` — **DECOClim** (fiche du 2026-09-29) · **entrée ajoutée**
 - `2026-09-29` — **Fédération Française de la Randonnée Pédestre** (fiche du 2026-09-29) · **entrée ajoutée**
 - `2026-09-29` — **SFR** (fiche du 2026-09-29) · **entrée ajoutée**
