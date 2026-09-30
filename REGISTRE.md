@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**342** entrées ajoutées · **4** retirées · **388** corrections individuelles · **9** révisions groupées (688 fiches)
+**343** entrées ajoutées · **4** retirées · **390** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `114569532ecda52362ad388e437b79da3f247bfb5a887d4039af4122d9a04445`
+Empreinte de tête : `22990fb9da2825da4896b32c5f368de59cc55a1557278c9e8071539d541acd43`
 
 > **4 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,9 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-30 (constaté)` — **Fédération Française de la Randonnée Pédestre** (fiche du 2026-09-29) · Statut : Revendiquée → Confirmée
+- `2026-09-30 (constaté)` — **Fédération Française de la Randonnée Pédestre** (fiche du 2026-09-29) · Description publique réécrite — texte non reproduit (empreinte b883c8aa17b23c76 → 178f76ce6d4dae82)
+- `2026-09-30` — **École nationale vétérinaire d'Alfort (EnvA)** (fiche du 2026-09-30) · **entrée ajoutée**
 - `2026-09-30` — **Groupe Adéquat** (fiche du 2026-09-30) · **entrée ajoutée**
 - `2026-09-30` — **Tchap** (fiche du 2026-08-19) · **entrée ajoutée**
 - `2026-09-30` — **TRACFIN** (fiche du 2026-07-15) · **entrée ajoutée**
