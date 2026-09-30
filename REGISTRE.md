@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**345** entrées ajoutées · **4** retirées · **391** corrections individuelles · **9** révisions groupées (688 fiches)
+**346** entrées ajoutées · **4** retirées · **392** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `62522dffc7373989dca4746ded8a145445871ba521b9a5b88f2e94a9ceceb1bd`
+Empreinte de tête : `9813d835f51a956f06c1552955aa763bc609500c795d1f779a8b6995524e7c83`
 
 > **4 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-30 (constaté)` — **Fédération Française de la Randonnée Pédestre** (fiche du 2026-09-29) · Description publique réécrite — texte non reproduit (empreinte 178f76ce6d4dae82 → d9f7ad1483a21791)
+- `2026-09-30` — **VosFactures** (fiche du 2026-10-01) · **entrée ajoutée**
 - `2026-09-30 (constaté)` — **Cookson-CLAL** (fiche du 2026-09-30) · Description publique réécrite — texte non reproduit (empreinte dd1e0fab6c288dd6 → 47521941b187a448)
 - `2026-09-30` — **Cookson-CLAL** (fiche du 2026-09-30) · **entrée ajoutée**
 - `2026-09-30` — **SDIS 66** (fiche du 2026-09-30) · **entrée ajoutée**
