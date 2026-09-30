@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**334** entrées ajoutées · **4** retirées · **388** corrections individuelles · **9** révisions groupées (688 fiches)
+**335** entrées ajoutées · **4** retirées · **388** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `f2959f75322d6482e64c390afeea0a7d19a1b6590cee342d1b9c7ca6792eeb8f`
+Empreinte de tête : `eecacda47917b12f6b72962e812186a77b633972064eae9ed3a83e81d2a604ff`
 
 > **4 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-30` — **Région Centre-Val de Loire** (fiche du 2026-09-30) · **entrée ajoutée**
 - `2026-09-30` — **Distinxion** (fiche du 2026-09-30) · **entrée ajoutée**
 - `2026-09-30 (constaté)` — **Zéro Logement Vacant** (fiche du 2026-08-28) · Description publique réécrite — texte non reproduit (empreinte e748f10df91f29f0 → 5a55b93f5264a656)
 - `2026-09-30 (constaté)` — **Service national universel** (fiche du 2026-09-18) · Volume concerné : (vide) → 275 000
