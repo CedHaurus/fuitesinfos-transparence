@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**341** entrées ajoutées · **4** retirées · **388** corrections individuelles · **9** révisions groupées (688 fiches)
+**342** entrées ajoutées · **4** retirées · **388** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `08a1b02140b76a929bb232c9c835d5a48afd09a2516fb9f59a8b17f6625e883a`
+Empreinte de tête : `114569532ecda52362ad388e437b79da3f247bfb5a887d4039af4122d9a04445`
 
 > **4 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-30` — **Groupe Adéquat** (fiche du 2026-09-30) · **entrée ajoutée**
 - `2026-09-30` — **Tchap** (fiche du 2026-08-19) · **entrée ajoutée**
 - `2026-09-30` — **TRACFIN** (fiche du 2026-07-15) · **entrée ajoutée**
 - `2026-09-30` — **QualiCharge** (fiche du 2026-09-30) · **entrée ajoutée**
