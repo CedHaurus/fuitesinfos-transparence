@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**333** entrées ajoutées · **4** retirées · **371** corrections individuelles · **9** révisions groupées (688 fiches)
+**333** entrées ajoutées · **4** retirées · **388** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `420b7068dd14df6ee596372ab97602fe853fc6168cc445030033151ccc53db2f`
+Empreinte de tête : `4063ae522ab6ba9d640c2786304e65cc620351b3d0761cc0f359d3cfe9dbb92d`
 
 > **4 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,23 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-30 (constaté)` — **Zéro Logement Vacant** (fiche du 2026-08-28) · Description publique réécrite — texte non reproduit (empreinte e748f10df91f29f0 → 5a55b93f5264a656)
+- `2026-09-30 (constaté)` — **Service national universel** (fiche du 2026-09-18) · Volume concerné : (vide) → 275 000
+- `2026-09-30 (constaté)` — **Service national universel** (fiche du 2026-09-18) · Description publique réécrite — texte non reproduit (empreinte 61e2792ba58eeee2 → 3d71da8b48106e89)
+- `2026-09-30 (constaté)` — **Préférence Formations** (fiche du 2026-09-03) · Description publique réécrite — texte non reproduit (empreinte a764dc9f622feda4 → bac4e92e48cc0bdc)
+- `2026-09-30 (constaté)` — **Ministère de la Transition écologique** (fiche du 2026-09-02) · Description publique réécrite — texte non reproduit (empreinte 4c22cf8fd36f51f8 → b1364ea8905e6ff4)
+- `2026-09-30 (constaté)` — **Ministère de l'Éducation nationale** (fiche du 2026-07-31) · Volume concerné : (vide) → 4 350 000
+- `2026-09-30 (constaté)` — **Ministère de l'Éducation nationale** (fiche du 2026-07-31) · Description publique réécrite — texte non reproduit (empreinte 89819bbfb40ae03a → 905a00cedaad48ae)
+- `2026-09-30 (constaté)` — **Ministère de l'Éducation nationale** (fiche du 2026-08-17) · Description publique réécrite — texte non reproduit (empreinte 12e75b203ac14b82 → 6717a9dd4abfd1b2)
+- `2026-09-30 (constaté)` — **France VAE** (fiche du 2026-08-13) · Description publique réécrite — texte non reproduit (empreinte 7ba6d7ed12e9f756 → 91dfca5324dde66c)
+- `2026-09-30 (constaté)` — **Docurba** (fiche du 2026-08-25) · Description publique réécrite — texte non reproduit (empreinte 0fcd37add2077df8 → 26efff37d6e337e6)
+- `2026-09-30 (constaté)` — **DINUM (portail Cloud de l'État)** (fiche du 2026-08-22) · Statut : Revendiquée → Confirmée
+- `2026-09-30 (constaté)` — **DINUM (portail Cloud de l'État)** (fiche du 2026-08-22) · Description publique réécrite — texte non reproduit (empreinte 9d6803a01d3c29d2 → ad28b367a12232f4)
+- `2026-09-30 (constaté)` — **DGFiP (Direction Générale des Finances Publiques)** (fiche du 2026-08-13) · Volume concerné : 200 000 → 434 000
+- `2026-09-30 (constaté)` — **DGFiP (Direction Générale des Finances Publiques)** (fiche du 2026-08-12) · Description publique réécrite — texte non reproduit (empreinte 3413697e81b0022c → 14f74bb5a84dc805)
+- `2026-09-30 (constaté)` — **DGFiP (Direction Générale des Finances Publiques)** (fiche du 2026-08-13) · Description publique réécrite — texte non reproduit (empreinte 7690d4d2b216283a → 6cf5f6c7ebdaaa74)
+- `2026-09-30 (constaté)` — **Bloctel** (fiche du 2026-08-06) · Description publique réécrite — texte non reproduit (empreinte 76e39dcd008014f7 → 474208788c4b47d3)
+- `2026-09-30 (constaté)` — **AEFE** (fiche du 2026-08-11) · Description publique réécrite — texte non reproduit (empreinte ec86cb49c733f44c → bec369b0326dd320)
 - `2026-09-30` — **Frontières** (fiche du 2026-09-30) · **entrée ajoutée**
 - `2026-09-30 (constaté)` — **Syadem** (fiche du 2026-07-08) · **ENTRÉE RETIRÉE** — motif : Doublon ou regroupement de fiches (Le catalogue portait deux fiches pour une même compromission chez Syadem, qui développe et opère le carnet de vaccination numérique MesVaccins.net et la plateforme de recueil des autorisations parentales des campagnes de vaccination en collège : celle-ci, qui rapportait les notifications des agences régionales de santé sur la plateforme scolaire (juillet 2026), et mesvaccins-net-2026-06-23, qui rapportait la notification de MesVaccins.net à ses utilisateurs (juin 2026). La mise en vente du 29 septembre 2026 couvre les deux services sous un seul titre, et l'échantillon diffusé avec elle place les élèves des campagnes en collège dans la même base que les carnets du grand public. Le contenu de celle-ci (notifications et courriers des ARS, catégories de données des élèves et des représentants légaux, périmètre pluri-régional, sources) a été reporté dans la fiche du 23 juin, qui reste publique et confirmée ; celle-ci sort du catalogue et son article renvoie vers celui de la fiche qui reste. Aucune information n'est démentie : c'est un regroupement, pas une rétractation.)
 - `2026-09-30 (constaté)` — **MesVaccins.net** (fiche du 2026-06-23) · Description publique réécrite — texte non reproduit (empreinte 04f086596e0285c9 → e0c83a5fca34016e)
