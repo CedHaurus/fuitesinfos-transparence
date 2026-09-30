@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**333** entrées ajoutées · **4** retirées · **388** corrections individuelles · **9** révisions groupées (688 fiches)
+**334** entrées ajoutées · **4** retirées · **388** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `4063ae522ab6ba9d640c2786304e65cc620351b3d0761cc0f359d3cfe9dbb92d`
+Empreinte de tête : `f2959f75322d6482e64c390afeea0a7d19a1b6590cee342d1b9c7ca6792eeb8f`
 
 > **4 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Septembre 2026
 
+- `2026-09-30` — **Distinxion** (fiche du 2026-09-30) · **entrée ajoutée**
 - `2026-09-30 (constaté)` — **Zéro Logement Vacant** (fiche du 2026-08-28) · Description publique réécrite — texte non reproduit (empreinte e748f10df91f29f0 → 5a55b93f5264a656)
 - `2026-09-30 (constaté)` — **Service national universel** (fiche du 2026-09-18) · Volume concerné : (vide) → 275 000
 - `2026-09-30 (constaté)` — **Service national universel** (fiche du 2026-09-18) · Description publique réécrite — texte non reproduit (empreinte 61e2792ba58eeee2 → 3d71da8b48106e89)
