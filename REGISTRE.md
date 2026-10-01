@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**350** entrées ajoutées · **4** retirées · **393** corrections individuelles · **9** révisions groupées (688 fiches)
+**351** entrées ajoutées · **4** retirées · **393** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `0e69706c74c99cd252541f69a8ade3c4166dd550839d99587f3cfa35f9c4c766`
+Empreinte de tête : `7cac581e8056de3788449c99050c11d85c297aa4fd5fe487b10a2dbd87126c08`
 
 > **4 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-01` — **ADMR** (fiche du 2026-10-01) · **entrée ajoutée**
 - `2026-10-01` — **RevenueBase** (fiche du 2026-10-01) · **entrée ajoutée**
 - `2026-10-01` — **Dr.Veto** (fiche du 2026-10-01) · **entrée ajoutée**
 - `2026-10-01` — **Orkyn** (fiche du 2026-10-01) · **entrée ajoutée**
