@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**352** entrées ajoutées · **5** retirées · **393** corrections individuelles · **9** révisions groupées (688 fiches)
+**352** entrées ajoutées · **5** retirées · **396** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `865861661bc1c7d2cf267b017306852d9640ae888c2910f81e5e6ad396e8a8a5`
+Empreinte de tête : `eefa80d6261652828c0db846b5075d09f7f9f60cf8eba80ebff91bde72722169`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,9 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-01 (constaté)` — **Renault (Réseau de concessions Sud-Est)** (fiche du 2026-02-09) · Volume concerné : 12 143 → (vide)
+- `2026-10-01 (constaté)` — **Renault (Réseau de concessions Sud-Est)** (fiche du 2026-02-09) · Description publique réécrite — texte non reproduit (empreinte 5bc5592f73ad394b → bb2b4f9c4e5a9bbb)
+- `2026-10-01 (constaté)` — **Renault (Réseau de concessions Sud-Est)** (fiche du 2026-02-09) · Nature des données : ajouté Immatriculation de véhicule, Numéro de série de véhicule (VIN)
 - `2026-10-01 (constaté)` — **FiveM** (fiche du 2026-10-01) · **ENTRÉE RETIRÉE** — motif : Retrait sur demande, sans erreur constatée (Fiche FiveM du 1er octobre 2026, publiée quelques minutes puis réservée au tier professionnel le jour même par choix éditorial : la revendication porte sur une base d'identifiants de joueurs d'une plateforme américaine, sans lien établi avec la France. Rien n'y était faux ; la fiche reste au catalogue professionnel.)
 - `2026-10-01` — **FiveM** (fiche du 2026-10-01) · **entrée ajoutée**
 - `2026-10-01` — **ADMR** (fiche du 2026-10-01) · **entrée ajoutée**
