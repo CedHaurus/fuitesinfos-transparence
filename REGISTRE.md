@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**348** entrées ajoutées · **4** retirées · **393** corrections individuelles · **9** révisions groupées (688 fiches)
+**349** entrées ajoutées · **4** retirées · **393** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `df1f08d18b9fa26620f40cfac393be8939ad808fbdfd1dcbde7ffb1a93b34c45`
+Empreinte de tête : `194bf65aa62bd722fa513f43e99440e0fb75217a0c05993b95e965ba87601ea3`
 
 > **4 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-01` — **Dr.Veto** (fiche du 2026-10-01) · **entrée ajoutée**
 - `2026-10-01` — **Orkyn** (fiche du 2026-10-01) · **entrée ajoutée**
 - `2026-10-01` — **GPS Santé** (fiche du 2026-03-13) · Site de l'entité : https://www.gps-sante.com → https://www.gpssante.fr/
 - `2026-10-01` — **GPS Santé** (fiche du 2026-10-01) · **entrée ajoutée**
