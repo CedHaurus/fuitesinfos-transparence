@@ -2,12 +2,12 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**352** entrées ajoutées · **4** retirées · **393** corrections individuelles · **9** révisions groupées (688 fiches)
+**352** entrées ajoutées · **5** retirées · **393** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `ca78e6d9f5875e80a0c432346a49dcc799163a7ff9f93c5c1276dc02253636c8`
+Empreinte de tête : `865861661bc1c7d2cf267b017306852d9640ae888c2910f81e5e6ad396e8a8a5`
 
-> **4 entrée(s) retirée(s) depuis le début de cette période.**
-> Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
+> **5 entrée(s) retirée(s) depuis le début de cette période.**
+> Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
 
 Les changements sont classés du plus récent au plus ancien. La portée exacte de ce registre et ses limites sont décrites dans le [README](README.md).
 
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-01 (constaté)` — **FiveM** (fiche du 2026-10-01) · **ENTRÉE RETIRÉE** — motif : Retrait sur demande, sans erreur constatée (Fiche FiveM du 1er octobre 2026, publiée quelques minutes puis réservée au tier professionnel le jour même par choix éditorial : la revendication porte sur une base d'identifiants de joueurs d'une plateforme américaine, sans lien établi avec la France. Rien n'y était faux ; la fiche reste au catalogue professionnel.)
 - `2026-10-01` — **FiveM** (fiche du 2026-10-01) · **entrée ajoutée**
 - `2026-10-01` — **ADMR** (fiche du 2026-10-01) · **entrée ajoutée**
 - `2026-10-01` — **RevenueBase** (fiche du 2026-10-01) · **entrée ajoutée**
