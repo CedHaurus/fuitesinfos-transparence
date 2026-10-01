@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**346** entrées ajoutées · **4** retirées · **392** corrections individuelles · **9** révisions groupées (688 fiches)
+**347** entrées ajoutées · **4** retirées · **393** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `9813d835f51a956f06c1552955aa763bc609500c795d1f779a8b6995524e7c83`
+Empreinte de tête : `3735be1622fbb281cf1744b4ae488578292444af527662da328e4eb75331d84f`
 
 > **4 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part. Chaque retrait est détaillé ci-dessous.
@@ -12,6 +12,11 @@ Empreinte de tête : `9813d835f51a956f06c1552955aa763bc609500c795d1f779a8b699552
 Les changements sont classés du plus récent au plus ancien. La portée exacte de ce registre et ses limites sont décrites dans le [README](README.md).
 
 ---
+
+## Octobre 2026
+
+- `2026-10-01` — **GPS Santé** (fiche du 2026-03-13) · Site de l'entité : https://www.gps-sante.com → https://www.gpssante.fr/
+- `2026-10-01` — **GPS Santé** (fiche du 2026-10-01) · **entrée ajoutée**
 
 ## Septembre 2026
 
