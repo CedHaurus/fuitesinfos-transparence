@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**352** entrées ajoutées · **5** retirées · **403** corrections individuelles · **9** révisions groupées (688 fiches)
+**353** entrées ajoutées · **5** retirées · **403** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `6367091932c7b91da79ec9781968326ce40cd1e8d7a0107c07b7f89a2e2b85fa`
+Empreinte de tête : `62fb77e5c47c7453826861fdcde1d5e916593b636bd9853327e66e37b6c4813e`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-02` — **Groupe LDLC** (fiche du 2026-10-02) · **entrée ajoutée**
 - `2026-10-02 (constaté)` — **Service d'Incendie et de Secours du Bas-Rhin (SIS 67)** (fiche du 2026-08-29) · Statut : Revendiquée → Confirmée
 - `2026-10-02 (constaté)` — **Service d'Incendie et de Secours du Bas-Rhin (SIS 67)** (fiche du 2026-08-29) · Description publique réécrite — texte non reproduit (empreinte addc50fc9e008aa0 → 1501b57070060897)
 - `2026-10-02 (constaté)` — **Groupe KEL** (fiche du 2026-09-29) · Statut : Revendiquée → Confirmée
