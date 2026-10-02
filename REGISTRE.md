@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**352** entrées ajoutées · **5** retirées · **399** corrections individuelles · **9** révisions groupées (688 fiches)
+**352** entrées ajoutées · **5** retirées · **403** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `6d6f0719a1b3769dad7a7c27230f823cd10e2d3d0adc5a7b8255232a707d3099`
+Empreinte de tête : `6367091932c7b91da79ec9781968326ce40cd1e8d7a0107c07b7f89a2e2b85fa`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,10 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-02 (constaté)` — **Service d'Incendie et de Secours du Bas-Rhin (SIS 67)** (fiche du 2026-08-29) · Statut : Revendiquée → Confirmée
+- `2026-10-02 (constaté)` — **Service d'Incendie et de Secours du Bas-Rhin (SIS 67)** (fiche du 2026-08-29) · Description publique réécrite — texte non reproduit (empreinte addc50fc9e008aa0 → 1501b57070060897)
+- `2026-10-02 (constaté)` — **Groupe KEL** (fiche du 2026-09-29) · Statut : Revendiquée → Confirmée
+- `2026-10-02 (constaté)` — **Groupe KEL** (fiche du 2026-09-29) · Description publique réécrite — texte non reproduit (empreinte 4f71c881aaccba79 → 2abe9ac9267c34e2)
 - `2026-10-01 (constaté)` — **Orkyn** (fiche du 2026-10-01) · Volume concerné : (vide) → 18 710
 - `2026-10-01 (constaté)` — **Orkyn** (fiche du 2026-10-01) · Description publique réécrite — texte non reproduit (empreinte 25159803299d70bc → 7ab3480367799dce)
 - `2026-10-01 (constaté)` — **Orkyn** (fiche du 2026-10-01) · Nature des données : ajouté Code postal, Données de mineurs, Identifiant professionnel de santé (RPPS), Âge
