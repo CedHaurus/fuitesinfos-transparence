@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**357** entrées ajoutées · **5** retirées · **405** corrections individuelles · **9** révisions groupées (688 fiches)
+**358** entrées ajoutées · **5** retirées · **407** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `967b145ab666fe5f36a218d2ccee2c11cf448ee3a03914c781cb45a07711af50`
+Empreinte de tête : `22610089e017be91e14619b5c31d870fc9a533f4a95eab222b9d6538f24d4e0a`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,9 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-02 (constaté)` — **FitnessKPI** (fiche du 2026-10-02) · Statut : Revendiquée → Confirmée
+- `2026-10-02 (constaté)` — **FitnessKPI** (fiche du 2026-10-02) · Description publique réécrite — texte non reproduit (empreinte 72f0a10ff7a62d3d → d63c6aec16144b3f)
+- `2026-10-02` — **FMG Sales and Marketing** (fiche du 2026-10-02) · **entrée ajoutée**
 - `2026-10-02` — **Fitness Boutique** (fiche du 2026-10-02) · **entrée ajoutée**
 - `2026-10-02` — **Région Hauts-de-France** (fiche du 2026-10-02) · **entrée ajoutée**
 - `2026-10-02` — **FitnessKPI** (fiche du 2026-10-02) · **entrée ajoutée**
