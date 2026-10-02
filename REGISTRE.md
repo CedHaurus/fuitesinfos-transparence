@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**354** entrées ajoutées · **5** retirées · **403** corrections individuelles · **9** révisions groupées (688 fiches)
+**354** entrées ajoutées · **5** retirées · **405** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `aa805564282484189d3755217f742cea8b7ea66dcfee31839e4f03fcf3e78298`
+Empreinte de tête : `7cc043c266ac9fab6663732e84f9d8aa3b8c9c432d179d264ff7771b01d8d66e`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-02 (constaté)` — **Century 21 France** (fiche du 2026-09-24) · Statut : Revendiquée → Confirmée
+- `2026-10-02 (constaté)` — **Century 21 France** (fiche du 2026-09-24) · Description publique réécrite — texte non reproduit (empreinte 3f8befcf090cc9ef → 4777b5e7a042eb87)
 - `2026-10-02` — **AES Distribution** (fiche du 2026-10-02) · **entrée ajoutée**
 - `2026-10-02` — **Groupe LDLC** (fiche du 2026-10-02) · **entrée ajoutée**
 - `2026-10-02 (constaté)` — **Service d'Incendie et de Secours du Bas-Rhin (SIS 67)** (fiche du 2026-08-29) · Statut : Revendiquée → Confirmée
