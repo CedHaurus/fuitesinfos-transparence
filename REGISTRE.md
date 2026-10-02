@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**356** entrées ajoutées · **5** retirées · **405** corrections individuelles · **9** révisions groupées (688 fiches)
+**357** entrées ajoutées · **5** retirées · **405** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `3e487fbe69cf07de74bede8c7bf41b7157f54936c7b1311bb28d0353cf61a41c`
+Empreinte de tête : `967b145ab666fe5f36a218d2ccee2c11cf448ee3a03914c781cb45a07711af50`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-02` — **Fitness Boutique** (fiche du 2026-10-02) · **entrée ajoutée**
 - `2026-10-02` — **Région Hauts-de-France** (fiche du 2026-10-02) · **entrée ajoutée**
 - `2026-10-02` — **FitnessKPI** (fiche du 2026-10-02) · **entrée ajoutée**
 - `2026-10-02 (constaté)` — **Century 21 France** (fiche du 2026-09-24) · Statut : Revendiquée → Confirmée
