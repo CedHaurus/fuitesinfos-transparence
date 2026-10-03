@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**361** entrées ajoutées · **5** retirées · **409** corrections individuelles · **9** révisions groupées (688 fiches)
+**361** entrées ajoutées · **5** retirées · **411** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `9f4a40bf6ea6fa2b03e1446b732adffaae7c1e36a66f6b2b6f2fbd119947e1e2`
+Empreinte de tête : `0a96b0fc39293197533d2fe344d1b2247c2b71effca5c4c7a2e1e621d95d8549`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-03 (constaté)` — **CAPEB** (fiche du 2026-10-02) · Volume concerné : (vide) → 502 929
+- `2026-10-03 (constaté)` — **CAPEB** (fiche du 2026-10-02) · Description publique réécrite — texte non reproduit (empreinte 573ca71842fb683f → 6086a7ba117c1e24)
 - `2026-10-03` — **CGT (Aude)** (fiche du 2026-10-02) · **entrée ajoutée**
 - `2026-10-03` — **CAPEB** (fiche du 2026-10-02) · **entrée ajoutée**
 - `2026-10-02 (constaté)` — **NaturaBuy** (fiche du 2026-09-11) · Description publique réécrite — texte non reproduit (empreinte 09d318aa195647f1 → 457508d01c705b66)
