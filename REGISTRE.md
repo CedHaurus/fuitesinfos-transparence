@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**363** entrées ajoutées · **5** retirées · **411** corrections individuelles · **9** révisions groupées (688 fiches)
+**364** entrées ajoutées · **5** retirées · **414** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `e65bca56b30622ef4d06bb0a165b1c14872a5e4519b6127f463aca9cbcc4d0d6`
+Empreinte de tête : `fe0de1c4a22bea516724e04d05540f96abc8a1247f11196fda7d0d3c68aaee2f`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,10 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-03 (constaté)` — **Région Hauts-de-France** (fiche du 2026-10-02) · Volume concerné : (vide) → 695 000
+- `2026-10-03 (constaté)` — **Région Hauts-de-France** (fiche du 2026-10-02) · Description publique réécrite — texte non reproduit (empreinte 65009db737cfa162 → a75387460cbe4635)
+- `2026-10-03 (constaté)` — **Région Hauts-de-France** (fiche du 2026-10-02) · Nature des données : ajouté Champs libres, Civilité, Données d'adhésion, Données de mineurs, Données professionnelles, Historique de transactions, Identifiant de connexion, Identifiant utilisateur, Montant, Mot de passe, Nom complet, Numéro de téléphone, Rendez-vous, Rôle ou droits d'accès
+- `2026-10-03` — **Génération #HDF** (fiche du 2026-10-03) · **entrée ajoutée**
 - `2026-10-03` — **Cnam (ADAGE)** (fiche du 2026-10-02) · **entrée ajoutée**
 - `2026-10-03` — **ADI Rénovation** (fiche du 2026-10-03) · **entrée ajoutée**
 - `2026-10-03 (constaté)` — **CAPEB** (fiche du 2026-10-02) · Volume concerné : (vide) → 502 929
