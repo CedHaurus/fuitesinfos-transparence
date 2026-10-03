@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**364** entrées ajoutées · **5** retirées · **415** corrections individuelles · **9** révisions groupées (688 fiches)
+**364** entrées ajoutées · **5** retirées · **416** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `ca448e235a1cedf32bb0f5663620699f2e5defa6c153fcd4ad28779d47af31e5`
+Empreinte de tête : `bc03e067bfea9acfbbaba188d96be11d8fb7ef1fc8fe1b837745c323fe38873b`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-03 (constaté)` — **Région Hauts-de-France** (fiche du 2026-10-02) · Description publique réécrite — texte non reproduit (empreinte a75387460cbe4635 → f8e183f78e20fbeb)
 - `2026-10-03 (constaté)` — **Génération #HDF** (fiche du 2026-10-03) · Description publique réécrite — texte non reproduit (empreinte 0181506ffc4d9d43 → dc73ed5afa0ed1c0)
 - `2026-10-03 (constaté)` — **Région Hauts-de-France** (fiche du 2026-10-02) · Volume concerné : (vide) → 695 000
 - `2026-10-03 (constaté)` — **Région Hauts-de-France** (fiche du 2026-10-02) · Description publique réécrite — texte non reproduit (empreinte 65009db737cfa162 → a75387460cbe4635)
