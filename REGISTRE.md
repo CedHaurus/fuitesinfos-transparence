@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**364** entrées ajoutées · **5** retirées · **414** corrections individuelles · **9** révisions groupées (688 fiches)
+**364** entrées ajoutées · **5** retirées · **415** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `fe0de1c4a22bea516724e04d05540f96abc8a1247f11196fda7d0d3c68aaee2f`
+Empreinte de tête : `ca448e235a1cedf32bb0f5663620699f2e5defa6c153fcd4ad28779d47af31e5`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-03 (constaté)` — **Génération #HDF** (fiche du 2026-10-03) · Description publique réécrite — texte non reproduit (empreinte 0181506ffc4d9d43 → dc73ed5afa0ed1c0)
 - `2026-10-03 (constaté)` — **Région Hauts-de-France** (fiche du 2026-10-02) · Volume concerné : (vide) → 695 000
 - `2026-10-03 (constaté)` — **Région Hauts-de-France** (fiche du 2026-10-02) · Description publique réécrite — texte non reproduit (empreinte 65009db737cfa162 → a75387460cbe4635)
 - `2026-10-03 (constaté)` — **Région Hauts-de-France** (fiche du 2026-10-02) · Nature des données : ajouté Champs libres, Civilité, Données d'adhésion, Données de mineurs, Données professionnelles, Historique de transactions, Identifiant de connexion, Identifiant utilisateur, Montant, Mot de passe, Nom complet, Numéro de téléphone, Rendez-vous, Rôle ou droits d'accès
