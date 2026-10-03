@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**365** entrées ajoutées · **5** retirées · **418** corrections individuelles · **9** révisions groupées (688 fiches)
+**365** entrées ajoutées · **5** retirées · **420** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `129f14b8d8b81e57680439353a45aee4ecdee8b6403c2c8967827953ac51fc78`
+Empreinte de tête : `5d5dee940ae8f02f23180d542685244009d20bebd19e8efd5e904530427cce69`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-03 (constaté)` — **Dr.Veto** (fiche du 2026-10-01) · Statut : Revendiquée → Confirmée
+- `2026-10-03 (constaté)` — **Dr.Veto** (fiche du 2026-10-01) · Description publique réécrite — texte non reproduit (empreinte 77566a0ebf219b8a → 086e9d55498999ea)
 - `2026-10-03 (constaté)` — **Génération #HDF** (fiche du 2026-10-03) · Statut : Revendiquée → Confirmée
 - `2026-10-03 (constaté)` — **Génération #HDF** (fiche du 2026-10-03) · Description publique réécrite — texte non reproduit (empreinte dc73ed5afa0ed1c0 → d750d0472ce92093)
 - `2026-10-03` — **Cours Thalès** (fiche du 2026-10-03) · **entrée ajoutée**
