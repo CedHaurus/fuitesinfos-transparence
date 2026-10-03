@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**361** entrées ajoutées · **5** retirées · **411** corrections individuelles · **9** révisions groupées (688 fiches)
+**363** entrées ajoutées · **5** retirées · **411** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `0a96b0fc39293197533d2fe344d1b2247c2b71effca5c4c7a2e1e621d95d8549`
+Empreinte de tête : `e65bca56b30622ef4d06bb0a165b1c14872a5e4519b6127f463aca9cbcc4d0d6`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-03` — **Cnam (ADAGE)** (fiche du 2026-10-02) · **entrée ajoutée**
+- `2026-10-03` — **ADI Rénovation** (fiche du 2026-10-03) · **entrée ajoutée**
 - `2026-10-03 (constaté)` — **CAPEB** (fiche du 2026-10-02) · Volume concerné : (vide) → 502 929
 - `2026-10-03 (constaté)` — **CAPEB** (fiche du 2026-10-02) · Description publique réécrite — texte non reproduit (empreinte 573ca71842fb683f → 6086a7ba117c1e24)
 - `2026-10-03` — **CGT (Aude)** (fiche du 2026-10-02) · **entrée ajoutée**
