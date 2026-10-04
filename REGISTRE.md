@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**367** entrées ajoutées · **5** retirées · **420** corrections individuelles · **9** révisions groupées (688 fiches)
+**368** entrées ajoutées · **5** retirées · **420** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `0f2e6ac73f0b602c440fa77f0135cbf17ad4e230dd5dae94f85c6d2d9a6ff78b`
+Empreinte de tête : `b481622a1c0f4483416500c3f6f3de4f1616c3c02b0f49d2c8683c1a0565719d`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-04` — **Office français de la biodiversité (OFB)** (fiche du 2026-10-04) · **entrée ajoutée**
 - `2026-10-04` — **Predige** (fiche du 2026-10-04) · **entrée ajoutée**
 - `2026-10-03` — **AMCEN** (fiche du 2026-10-03) · **entrée ajoutée**
 - `2026-10-03 (constaté)` — **Dr.Veto** (fiche du 2026-10-01) · Statut : Revendiquée → Confirmée
