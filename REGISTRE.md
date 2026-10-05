@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**372** entrées ajoutées · **5** retirées · **422** corrections individuelles · **9** révisions groupées (688 fiches)
+**372** entrées ajoutées · **5** retirées · **424** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `9bb9180d9e90dca037c816425473cb9aa090fa00f922ec864bf09f6e0b04328f`
+Empreinte de tête : `6547626b6fe67252890b6289efc189ba0b73caaf94f85cbae95c716c00d1ae24`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-05 (constaté)` — **ANFR (Radiomaritime)** (fiche du 2026-04-24) · Description publique réécrite — texte non reproduit (empreinte de2065c8c7be00a0 → a9d76c072f94a6ea)
+- `2026-10-05 (constaté)` — **ANFR (Radiomaritime)** (fiche du 2026-04-24) · Nature des données : ajouté Adresse email, Civilité, Date de naissance, Identifiant de connexion
 - `2026-10-05` — **Ouverture Fine** (fiche du 2026-10-05) · **entrée ajoutée**
 - `2026-10-05` — **Réussir** (fiche du 2026-10-05) · **entrée ajoutée**
 - `2026-10-05` — **Sport 2000** (fiche du 2026-10-05) · **entrée ajoutée**
