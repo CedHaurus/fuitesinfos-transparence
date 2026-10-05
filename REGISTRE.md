@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**370** entrées ajoutées · **5** retirées · **422** corrections individuelles · **9** révisions groupées (688 fiches)
+**371** entrées ajoutées · **5** retirées · **422** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `d9e51ebddfd32d9f182deb02de1b3f88b3acce85a44b799332fc7da1d2019442`
+Empreinte de tête : `a716ac719c222a4fb51ce266cfa1462d4e51bd7a8e55df926a2471987b25fca4`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-05` — **Réussir** (fiche du 2026-10-05) · **entrée ajoutée**
 - `2026-10-05` — **Sport 2000** (fiche du 2026-10-05) · **entrée ajoutée**
 - `2026-10-04 (constaté)` — **Fitness Boutique** (fiche du 2026-10-02) · Statut : Revendiquée → Confirmée
 - `2026-10-04 (constaté)` — **Fitness Boutique** (fiche du 2026-10-02) · Description publique réécrite — texte non reproduit (empreinte 2a6773a8bbdcff4b → 7f5dc39ea6606803)
