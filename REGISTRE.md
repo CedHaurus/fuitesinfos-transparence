@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**372** entrées ajoutées · **5** retirées · **436** corrections individuelles · **9** révisions groupées (688 fiches)
+**376** entrées ajoutées · **5** retirées · **436** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `e52eef79ee9e3d8ba24136545e24f7728fd45a198e2dadc17190633b29d30c32`
+Empreinte de tête : `4f18674d9ec1509e03cf72cfd4352f0841adbbf8048b0ff4c808317f724e0bdb`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,10 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-06` — **Hespéride** (fiche du 2026-10-06) · **entrée ajoutée**
+- `2026-10-06` — **Gefradis** (fiche du 2026-10-06) · **entrée ajoutée**
+- `2026-10-06` — **Bati-Avenue** (fiche du 2026-10-06) · **entrée ajoutée**
+- `2026-10-06` — **Armurerie Douillet** (fiche du 2026-10-06) · **entrée ajoutée**
 - `2026-10-06` — **École nationale vétérinaire d'Alfort (EnvA)** (fiche du 2026-09-30) · Nature des données : retiré Mot de passe
 - `2026-10-06` — **VosFactures** (fiche du 2026-10-01) · Description publique réécrite — texte non reproduit (empreinte 66a0827217348824 → e1d7ac33a5ce5738)
 - `2026-10-06` — **TRACFIN** (fiche du 2026-07-15) · Description publique réécrite — texte non reproduit (empreinte 1731aaddca007531 → c4093b6bdf813d30)
