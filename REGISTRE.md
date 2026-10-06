@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**377** entrées ajoutées · **5** retirées · **442** corrections individuelles · **9** révisions groupées (688 fiches)
+**378** entrées ajoutées · **5** retirées · **442** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `f7e5d452364aa2d9a9ed8a20d9677182ea0eb4d83629336212e4db51ce42161f`
+Empreinte de tête : `3f669bad27f6e0262bd1a26c12167244d0a698408ab0141585bd5c9e4eb648af`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-06` — **SeekNow** (fiche du 2026-10-05) · **entrée ajoutée**
 - `2026-10-06` — **Medialog** (fiche du 2026-10-06) · **entrée ajoutée**
 - `2026-10-06 (constaté)` — **MGEL** (fiche du 2026-09-12) · Statut : Revendiquée → Confirmée
 - `2026-10-06 (constaté)` — **MGEL** (fiche du 2026-09-12) · Description publique réécrite — texte non reproduit (empreinte 6f07b4b0c02378a8 → 201eeb279566e886)
