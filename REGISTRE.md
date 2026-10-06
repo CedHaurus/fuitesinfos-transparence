@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**376** entrées ajoutées · **5** retirées · **439** corrections individuelles · **9** révisions groupées (688 fiches)
+**376** entrées ajoutées · **5** retirées · **442** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `c2ffc3e6f106d343c3fbe169289db96fdd56e9796b04abee44cdda7b6c9bec0e`
+Empreinte de tête : `9449837ad542f05b1dd074cbfc9a31cdf4bd5764c75f7a532c694fb5d9c297a8`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,9 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-06 (constaté)` — **MGEL** (fiche du 2026-09-12) · Statut : Revendiquée → Confirmée
+- `2026-10-06 (constaté)` — **MGEL** (fiche du 2026-09-12) · Description publique réécrite — texte non reproduit (empreinte 6f07b4b0c02378a8 → 201eeb279566e886)
+- `2026-10-06 (constaté)` — **Hespéride** (fiche du 2026-10-06) · Description publique réécrite — texte non reproduit (empreinte c470e5e7292db094 → a67b92d9e37cf58f)
 - `2026-10-06 (constaté)` — **Talentplug** (fiche du 2026-09-28) · Description publique réécrite — texte non reproduit (empreinte 473c26796692dee4 → c1ed1511ea8d04d0)
 - `2026-10-06 (constaté)` — **Ouverture Fine** (fiche du 2026-10-05) · Statut : Revendiquée → Confirmée
 - `2026-10-06 (constaté)` — **Ouverture Fine** (fiche du 2026-10-05) · Description publique réécrite — texte non reproduit (empreinte b4b6926c8a57a52e → 40237d4f6eb5dcc0)
