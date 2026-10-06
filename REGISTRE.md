@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**372** entrées ajoutées · **5** retirées · **424** corrections individuelles · **9** révisions groupées (688 fiches)
+**372** entrées ajoutées · **5** retirées · **436** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `6547626b6fe67252890b6289efc189ba0b73caaf94f85cbae95c716c00d1ae24`
+Empreinte de tête : `e52eef79ee9e3d8ba24136545e24f7728fd45a198e2dadc17190633b29d30c32`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,18 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-06` — **École nationale vétérinaire d'Alfort (EnvA)** (fiche du 2026-09-30) · Nature des données : retiré Mot de passe
+- `2026-10-06` — **VosFactures** (fiche du 2026-10-01) · Description publique réécrite — texte non reproduit (empreinte 66a0827217348824 → e1d7ac33a5ce5738)
+- `2026-10-06` — **TRACFIN** (fiche du 2026-07-15) · Description publique réécrite — texte non reproduit (empreinte 1731aaddca007531 → c4093b6bdf813d30)
+- `2026-10-06` — **Région Hauts-de-France** (fiche du 2026-10-02) · Description publique réécrite — texte non reproduit (empreinte f8e183f78e20fbeb → fa7ee8fe7850b60b)
+- `2026-10-06` — **RevenueBase** (fiche du 2026-10-01) · Description publique réécrite — texte non reproduit (empreinte b2468607dabe1f59 → e62ffeb31d214bda)
+- `2026-10-06` — **Orkyn** (fiche du 2026-10-01) · Description publique réécrite — texte non reproduit (empreinte 7ab3480367799dce → 0ab4f115058e70ef)
+- `2026-10-06` — **Fédération Française de Basket-Ball** (fiche du 2026-08-06) · Description publique réécrite — texte non reproduit (empreinte 5e8a4ff0eadde1e4 → 95bd0de96ab45a99)
+- `2026-10-06` — **FMG Sales and Marketing** (fiche du 2026-10-02) · Description publique réécrite — texte non reproduit (empreinte e455866228f909f2 → 5786989b27975396)
+- `2026-10-06` — **Cours Thalès** (fiche du 2026-10-03) · Description publique réécrite — texte non reproduit (empreinte 08db148bd3046f6c → 12fac87e2ee562a7)
+- `2026-10-06` — **Conservatoire national des arts et métiers (Cnam)** (fiche du 2026-10-02) · Description publique réécrite — texte non reproduit (empreinte bc77928a7cef3039 → e0fc5d108bde0f59)
+- `2026-10-06` — **CO'LEC** (fiche du 2026-09-28) · Description publique réécrite — texte non reproduit (empreinte 9a7bb11ca14e49d2 → ae381870fef2a8f0)
+- `2026-10-06` — **ADI Rénovation** (fiche du 2026-10-03) · Description publique réécrite — texte non reproduit (empreinte d3964321a16a19d1 → 374f386237b96b6a)
 - `2026-10-05 (constaté)` — **ANFR (Radiomaritime)** (fiche du 2026-04-24) · Description publique réécrite — texte non reproduit (empreinte de2065c8c7be00a0 → a9d76c072f94a6ea)
 - `2026-10-05 (constaté)` — **ANFR (Radiomaritime)** (fiche du 2026-04-24) · Nature des données : ajouté Adresse email, Civilité, Date de naissance, Identifiant de connexion
 - `2026-10-05` — **Ouverture Fine** (fiche du 2026-10-05) · **entrée ajoutée**
