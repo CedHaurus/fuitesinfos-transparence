@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**378** entrées ajoutées · **5** retirées · **450** corrections individuelles · **9** révisions groupées (688 fiches)
+**378** entrées ajoutées · **5** retirées · **451** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `7c8383a2632b61e1b5308f61373811e70d8c1224fe08f40e81798681e2c2673c`
+Empreinte de tête : `f79a04bab68118c437b62227dc48d5a50f552fad25d5de066194cf31f413db9e`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-07 (constaté)` — **Région Hauts-de-France** (fiche du 2026-10-02) · Description publique réécrite — texte non reproduit (empreinte fa7ee8fe7850b60b → 3ab47c46010dc57a)
 - `2026-10-07` — **WayToMe** (fiche du 2026-09-20) · Statut : Revendiquée → Confirmée
 - `2026-10-07` — **WayToMe** (fiche du 2026-09-20) · Volume concerné : 147 287 → (vide)
 - `2026-10-07` — **WayToMe** (fiche du 2026-09-20) · Description publique réécrite — texte non reproduit (empreinte eaadc02b54b1d72d → 07357d54b13c50e7)
