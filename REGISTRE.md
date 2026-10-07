@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**384** entrées ajoutées · **5** retirées · **452** corrections individuelles · **9** révisions groupées (688 fiches)
+**385** entrées ajoutées · **5** retirées · **452** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `b4d44e6f9f724e02bb8a87d9a89bf3cfa1eec4c889bd4e1a177c5afc6596201a`
+Empreinte de tête : `911751fde785e8ffbd83dbbba9e9f1c0ced427cffcdf6963eedbe0529f7026c9`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-07` — **Sinequae** (fiche du 2026-10-07) · **entrée ajoutée**
 - `2026-10-07 (constaté)` — **France Travail (Annuaire des agents)** (fiche du 2026-10-07) · Description publique réécrite — texte non reproduit (empreinte dcd27b89a0ccd47b → dd8c61f8c52fa74e)
 - `2026-10-07` — **France Travail (Annuaire des agents)** (fiche du 2026-10-07) · **entrée ajoutée**
 - `2026-10-07` — **PRO&Cie** (fiche du 2026-10-06) · **entrée ajoutée**
