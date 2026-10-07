@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**380** entrées ajoutées · **5** retirées · **451** corrections individuelles · **9** révisions groupées (688 fiches)
+**382** entrées ajoutées · **5** retirées · **451** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `71eda82ee3a0cc2df818263de019d4e330bb1867f9677bc93d470a3e90215cd9`
+Empreinte de tête : `ecaa0e28e6141f9781fdd791243686026a57e28e2870ed27b8b20f35a186ff88`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-07` — **Biocorp** (fiche du 2026-10-07) · **entrée ajoutée**
+- `2026-10-07` — **Al Bayyinah** (fiche du 2026-10-07) · **entrée ajoutée**
 - `2026-10-07` — **Gold Service** (fiche du 2026-10-07) · **entrée ajoutée**
 - `2026-10-07` — **Double Counter** (fiche du 2026-10-05) · **entrée ajoutée**
 - `2026-10-07 (constaté)` — **Région Hauts-de-France** (fiche du 2026-10-02) · Description publique réécrite — texte non reproduit (empreinte fa7ee8fe7850b60b → 3ab47c46010dc57a)
