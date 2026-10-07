@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**378** entrées ajoutées · **5** retirées · **442** corrections individuelles · **9** révisions groupées (688 fiches)
+**378** entrées ajoutées · **5** retirées · **450** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `3f669bad27f6e0262bd1a26c12167244d0a698408ab0141585bd5c9e4eb648af`
+Empreinte de tête : `7c8383a2632b61e1b5308f61373811e70d8c1224fe08f40e81798681e2c2673c`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,14 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-07` — **WayToMe** (fiche du 2026-09-20) · Statut : Revendiquée → Confirmée
+- `2026-10-07` — **WayToMe** (fiche du 2026-09-20) · Volume concerné : 147 287 → (vide)
+- `2026-10-07` — **WayToMe** (fiche du 2026-09-20) · Description publique réécrite — texte non reproduit (empreinte eaadc02b54b1d72d → 07357d54b13c50e7)
+- `2026-10-07` — **FitnessKPI** (fiche du 2026-10-02) · Volume concerné : (vide) → 1 847
+- `2026-10-07` — **FitnessKPI** (fiche du 2026-10-02) · Description publique réécrite — texte non reproduit (empreinte d63c6aec16144b3f → 9ec30f7a5ebbb71e)
+- `2026-10-07` — **FitnessKPI** (fiche du 2026-10-02) · Nature des données : ajouté Données de mineurs ; retiré Historique de réservations
+- `2026-10-07` — **Conservatoire national des arts et métiers (Cnam)** (fiche du 2026-10-02) · Statut : Revendiquée → Confirmée
+- `2026-10-07` — **Conservatoire national des arts et métiers (Cnam)** (fiche du 2026-10-02) · Description publique réécrite — texte non reproduit (empreinte e0fc5d108bde0f59 → 17f042e6b663f978)
 - `2026-10-06` — **SeekNow** (fiche du 2026-10-05) · **entrée ajoutée**
 - `2026-10-06` — **Medialog** (fiche du 2026-10-06) · **entrée ajoutée**
 - `2026-10-06 (constaté)` — **MGEL** (fiche du 2026-09-12) · Statut : Revendiquée → Confirmée
