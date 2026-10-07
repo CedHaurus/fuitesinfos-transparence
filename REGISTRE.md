@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**382** entrées ajoutées · **5** retirées · **451** corrections individuelles · **9** révisions groupées (688 fiches)
+**383** entrées ajoutées · **5** retirées · **451** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `ecaa0e28e6141f9781fdd791243686026a57e28e2870ed27b8b20f35a186ff88`
+Empreinte de tête : `c0d960efce2109fa9a81722dbe6384c0c0aa37f52f9c2a0e03867d3e5f0440cb`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-07` — **PRO&Cie** (fiche du 2026-10-06) · **entrée ajoutée**
 - `2026-10-07` — **Biocorp** (fiche du 2026-10-07) · **entrée ajoutée**
 - `2026-10-07` — **Al Bayyinah** (fiche du 2026-10-07) · **entrée ajoutée**
 - `2026-10-07` — **Gold Service** (fiche du 2026-10-07) · **entrée ajoutée**
