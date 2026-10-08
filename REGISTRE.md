@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**395** entrées ajoutées · **5** retirées · **462** corrections individuelles · **9** révisions groupées (688 fiches)
+**395** entrées ajoutées · **5** retirées · **463** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `98d8cb1f41b36a80c6a605452b5f79c1fa64ff032ee2124d037730bb7569f065`
+Empreinte de tête : `599654c8143a49afd39a5dede860654b4ef7d640575cfc4c370cca1d91d83c64`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-08 (constaté)` — **Réassurez-moi** (fiche du 2026-09-25) · Description publique réécrite — texte non reproduit (empreinte 5c7d6aba0208668e → 4ee5dd3f05936b4d)
 - `2026-10-08` — **Bordeaux Sciences Agro** (fiche du 2026-09-15) · **entrée ajoutée**
 - `2026-10-08 (constaté)` — **France Travail (Annuaire des agents)** (fiche du 2026-10-07) · Description publique réécrite — texte non reproduit (empreinte dd8c61f8c52fa74e → 4ad1ad0368d51dd6)
 - `2026-10-08` — **Les Cousins** (fiche du 2026-10-08) · **entrée ajoutée**
