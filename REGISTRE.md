@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**401** entrées ajoutées · **5** retirées · **466** corrections individuelles · **9** révisions groupées (688 fiches)
+**401** entrées ajoutées · **5** retirées · **468** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `79fff2954028486c21e99b3cb85fcc1f7dc99b54f4d9ce0d5b0acc5f8330a919`
+Empreinte de tête : `bac1d44a3b8d46f9e25ed208df630d929f651f6fbd5999c8f45155531ebed28b`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-08 (constaté)` — **Région Centre-Val de Loire** (fiche du 2026-09-30) · Statut : Revendiquée → Confirmée
+- `2026-10-08 (constaté)` — **Région Centre-Val de Loire** (fiche du 2026-09-30) · Description publique réécrite — texte non reproduit (empreinte db33deb08ebbb473 → 229c80275aa336a9)
 - `2026-10-08 (constaté)` — **Conservatoire national des arts et métiers (Cnam)** (fiche du 2026-10-02) · Description publique réécrite — texte non reproduit (empreinte 17f042e6b663f978 → 1a3bff0a62d264e4)
 - `2026-10-08 (constaté)` — **Les Métaux Précieux** (fiche du 2026-10-08) · Description publique réécrite — texte non reproduit (empreinte e5868c7a90d75e4f → da7598eae5c670bd)
 - `2026-10-08` — **EPITA** (fiche du 2026-10-08) · **entrée ajoutée**
