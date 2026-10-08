@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**387** entrées ajoutées · **5** retirées · **458** corrections individuelles · **9** révisions groupées (688 fiches)
+**388** entrées ajoutées · **5** retirées · **458** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `8a6c44a05cf567437f509d7d4199b330c52bee5894da7bf61e51dcc933cc53fe`
+Empreinte de tête : `38773d3b7147e48900d723c81e2d14fe7fa09c1f02724d16a0f5d687335a06bd`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-08` — **Scouts et Guides de France** (fiche du 2026-10-08) · **entrée ajoutée**
 - `2026-10-08 (constaté)` — **France Pare-Brise** (fiche du 2026-07-13) · Volume concerné : (vide) → 2 400
 - `2026-10-08 (constaté)` — **France Pare-Brise** (fiche du 2026-07-13) · Description publique réécrite — texte non reproduit (empreinte 36b2e0e998a1f767 → 92efe907796d3c81)
 - `2026-10-08 (constaté)` — **France Pare-Brise** (fiche du 2026-07-13) · Nature des données : ajouté Dossier d'assurance
