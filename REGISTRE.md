@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**393** entrées ajoutées · **5** retirées · **461** corrections individuelles · **9** révisions groupées (688 fiches)
+**394** entrées ajoutées · **5** retirées · **462** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `46e8367a9d288b322735fef31057f76fcc4d5b08f91801ccaa07328156799e77`
+Empreinte de tête : `c70a73e20aeffe69fe863dff926b791ad70207ed739df3f7565a56f479a019c3`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-08 (constaté)` — **France Travail (Annuaire des agents)** (fiche du 2026-10-07) · Description publique réécrite — texte non reproduit (empreinte dd8c61f8c52fa74e → 4ad1ad0368d51dd6)
+- `2026-10-08` — **Les Cousins** (fiche du 2026-10-08) · **entrée ajoutée**
 - `2026-10-08` — **Aqua Store** (fiche du 2026-10-08) · **entrée ajoutée**
 - `2026-10-08 (constaté)` — **Office français de la biodiversité (OFB)** (fiche du 2026-10-04) · Statut : Revendiquée → Confirmée
 - `2026-10-08 (constaté)` — **Office français de la biodiversité (OFB)** (fiche du 2026-10-04) · Volume concerné : (vide) → 1 200
