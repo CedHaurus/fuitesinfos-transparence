@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**401** entrées ajoutées · **5** retirées · **464** corrections individuelles · **9** révisions groupées (688 fiches)
+**401** entrées ajoutées · **5** retirées · **465** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `46c6f0ce80fb9d26e4e46b211d5ca10ad5af2fbe723e51ee96bddab52291ed92`
+Empreinte de tête : `d2b16307faa2a847bec283b00bed510bc2f8a5fc9c1a0d8f94c6d91ce6c556d1`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-08 (constaté)` — **Les Métaux Précieux** (fiche du 2026-10-08) · Description publique réécrite — texte non reproduit (empreinte e5868c7a90d75e4f → da7598eae5c670bd)
 - `2026-10-08` — **EPITA** (fiche du 2026-10-08) · **entrée ajoutée**
 - `2026-10-08 (constaté)` — **Réso** (fiche du 2026-09-03) · Description publique réécrite — texte non reproduit (empreinte 8bce303f80ad02a8 → 03dd6788308bbc02)
 - `2026-10-08` — **Les Métaux Précieux** (fiche du 2026-10-08) · **entrée ajoutée**
