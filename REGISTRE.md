@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**399** entrées ajoutées · **5** retirées · **463** corrections individuelles · **9** révisions groupées (688 fiches)
+**400** entrées ajoutées · **5** retirées · **464** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `1d2797afa697a7d51d2bd9f14bd954b3cc2b335571f38b7163dc287ffd1136a1`
+Empreinte de tête : `e6960bcf41215f60cd9219758d2839da3b57cb93df033770368d15c251d72c00`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-08 (constaté)` — **Réso** (fiche du 2026-09-03) · Description publique réécrite — texte non reproduit (empreinte 8bce303f80ad02a8 → 03dd6788308bbc02)
+- `2026-10-08` — **Les Métaux Précieux** (fiche du 2026-10-08) · **entrée ajoutée**
 - `2026-10-08` — **Saint-Pierre-des-Corps** (fiche du 2026-10-08) · **entrée ajoutée**
 - `2026-10-08` — **Peggy Sage** (fiche du 2026-10-08) · **entrée ajoutée**
 - `2026-10-08` — **Institut Sourdille Atlantique** (fiche du 2026-10-07) · **entrée ajoutée**
