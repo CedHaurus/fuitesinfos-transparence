@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**391** entrées ajoutées · **5** retirées · **458** corrections individuelles · **9** révisions groupées (688 fiches)
+**392** entrées ajoutées · **5** retirées · **458** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `bafb04a0f90bbb6267331a5643027e4d3b80d5af89dd0bf275c3ced3222ff321`
+Empreinte de tête : `e574581efd0e1323755c9d0605550b48a33a35a28b1ff60efd9dd2c42283c13a`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-08` — **TrainMe** (fiche du 2026-10-08) · **entrée ajoutée**
 - `2026-10-08` — **Swedish Fit** (fiche du 2026-10-08) · **entrée ajoutée**
 - `2026-10-08` — **Centre National du Droit du Travail** (fiche du 2026-10-08) · **entrée ajoutée**
 - `2026-10-08` — **Assurimo** (fiche du 2026-10-08) · **entrée ajoutée**
