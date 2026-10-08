@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**385** entrées ajoutées · **5** retirées · **455** corrections individuelles · **9** révisions groupées (688 fiches)
+**386** entrées ajoutées · **5** retirées · **455** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `3a4e781251b39c45033ba5e18dc1e0b5d99930dcd328247448f4090dbc02b4b6`
+Empreinte de tête : `db8c3982f014808b761d9bd9d5bcb712af660ec116d5af8550078d5162645a68`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-08` — **Oh' La Bonne Pizza** (fiche du 2026-10-08) · **entrée ajoutée**
 - `2026-10-08` — **Fiducial** (fiche du 2026-10-07) · Site de l'entité : https://sinequae.fr/ → https://www.fiducial.fr/
 - `2026-10-08` — **Fiducial** (fiche du 2026-10-07) · Nom de l'entité : Sinequae → Fiducial
 - `2026-10-08` — **Fiducial** (fiche du 2026-10-07) · Description publique réécrite — texte non reproduit (empreinte b32a391c2908e0b7 → bcc324dafbed9ec3)
