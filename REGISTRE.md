@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**402** entrées ajoutées · **5** retirées · **472** corrections individuelles · **9** révisions groupées (688 fiches)
+**403** entrées ajoutées · **5** retirées · **472** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `cedce57d17ff83c9d0d0351346b7c5bcee12fbbb24cf3e97e1f475b5a597bd6d`
+Empreinte de tête : `d949417e6f92a59d34b808ceb1369eb8533c9d9a0cc99a62eb7684ee4de31095`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-09` — **Ministère de l'Éducation nationale** (fiche du 2025-06-10) · **entrée ajoutée**
 - `2026-10-09 (constaté)` — **Distinxion** (fiche du 2026-09-30) · Statut : Revendiquée → Confirmée
 - `2026-10-09 (constaté)` — **Distinxion** (fiche du 2026-09-30) · Description publique réécrite — texte non reproduit (empreinte 42015969a3550796 → ec35a06ab39b21eb)
 - `2026-10-09 (constaté)` — **Réussir** (fiche du 2026-10-05) · Statut : Revendiquée → Confirmée
