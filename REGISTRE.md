@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**406** entrées ajoutées · **5** retirées · **474** corrections individuelles · **9** révisions groupées (688 fiches)
+**408** entrées ajoutées · **5** retirées · **474** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `c984706ca323550931957704ce248a80715f9207d1e2a8e0a45d497e8d025725`
+Empreinte de tête : `00401ef3f90e5d359cb1d80f55682235729991d2d66246bb01976fbfdf83277e`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-09` — **Maileva** (fiche du 2026-10-09) · **entrée ajoutée**
+- `2026-10-09` — **ASOS** (fiche du 2026-10-06) · **entrée ajoutée**
 - `2026-10-09` — **Wimoov** (fiche du 2026-10-09) · **entrée ajoutée**
 - `2026-10-09` — **VACAF** (fiche du 2026-10-09) · **entrée ajoutée**
 - `2026-10-09 (constaté)` — **Eau Cœur d'Essonne** (fiche du 2026-10-08) · Statut : Revendiquée → Confirmée
