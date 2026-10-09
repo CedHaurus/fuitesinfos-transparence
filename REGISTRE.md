@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**402** entrées ajoutées · **5** retirées · **468** corrections individuelles · **9** révisions groupées (688 fiches)
+**402** entrées ajoutées · **5** retirées · **470** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `76098aa860f64f3e76b6b6103c350540939a46d7883e07d4e86eb2416d1ebeed`
+Empreinte de tête : `f8c5289faa64c1d4969b600ad51da250f44694495768db725dd3ea6b9f40da96`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-09 (constaté)` — **Réussir** (fiche du 2026-10-05) · Statut : Revendiquée → Confirmée
+- `2026-10-09 (constaté)` — **Réussir** (fiche du 2026-10-05) · Description publique réécrite — texte non reproduit (empreinte e938c6708dfac59e → b917625d48abc1ec)
 - `2026-10-09` — **Agence de Services et de Paiement** (fiche du 2026-10-09) · **entrée ajoutée**
 - `2026-10-08 (constaté)` — **Région Centre-Val de Loire** (fiche du 2026-09-30) · Statut : Revendiquée → Confirmée
 - `2026-10-08 (constaté)` — **Région Centre-Val de Loire** (fiche du 2026-09-30) · Description publique réécrite — texte non reproduit (empreinte db33deb08ebbb473 → 229c80275aa336a9)
