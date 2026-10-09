@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**404** entrées ajoutées · **5** retirées · **474** corrections individuelles · **9** révisions groupées (688 fiches)
+**406** entrées ajoutées · **5** retirées · **474** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `691b32d1d39ace6fe9c8959d8311e3a11ed9186e27c66d083ca3942b1d85f40f`
+Empreinte de tête : `c984706ca323550931957704ce248a80715f9207d1e2a8e0a45d497e8d025725`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-09` — **Wimoov** (fiche du 2026-10-09) · **entrée ajoutée**
+- `2026-10-09` — **VACAF** (fiche du 2026-10-09) · **entrée ajoutée**
 - `2026-10-09 (constaté)` — **Eau Cœur d'Essonne** (fiche du 2026-10-08) · Statut : Revendiquée → Confirmée
 - `2026-10-09 (constaté)` — **Eau Cœur d'Essonne** (fiche du 2026-10-08) · Description publique réécrite — texte non reproduit (empreinte a9c39142557d74e2 → a462fad0ae3005b8)
 - `2026-10-09` — **Quick** (fiche du 2026-10-09) · **entrée ajoutée**
