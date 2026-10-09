@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**404** entrées ajoutées · **5** retirées · **472** corrections individuelles · **9** révisions groupées (688 fiches)
+**404** entrées ajoutées · **5** retirées · **474** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `6e255dbeef2071bc61030a2e04c8d59990f0aec676fb8391f6ecdba18e5bee36`
+Empreinte de tête : `691b32d1d39ace6fe9c8959d8311e3a11ed9186e27c66d083ca3942b1d85f40f`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-09 (constaté)` — **Eau Cœur d'Essonne** (fiche du 2026-10-08) · Statut : Revendiquée → Confirmée
+- `2026-10-09 (constaté)` — **Eau Cœur d'Essonne** (fiche du 2026-10-08) · Description publique réécrite — texte non reproduit (empreinte a9c39142557d74e2 → a462fad0ae3005b8)
 - `2026-10-09` — **Quick** (fiche du 2026-10-09) · **entrée ajoutée**
 - `2026-10-09` — **Ministère de l'Éducation nationale** (fiche du 2025-06-10) · **entrée ajoutée**
 - `2026-10-09 (constaté)` — **Distinxion** (fiche du 2026-09-30) · Statut : Revendiquée → Confirmée
