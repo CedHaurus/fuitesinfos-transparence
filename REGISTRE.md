@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**409** entrées ajoutées · **5** retirées · **476** corrections individuelles · **9** révisions groupées (688 fiches)
+**410** entrées ajoutées · **5** retirées · **476** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `c002caffac89d0b79c83ccd26dc8dec0ba2240d9e00d1167cfc2e60ae3854d86`
+Empreinte de tête : `7d2cf700cbb5aacfb3b441b80d74bc4f3ffe23b77a3dc1167db4bc3efc26f747`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-10` — **Infogreffe** (fiche du 2026-10-10) · **entrée ajoutée**
 - `2026-10-10` — **École 42** (fiche du 2026-10-09) · Statut : Revendiquée → Confirmée
 - `2026-10-10` — **École 42** (fiche du 2026-10-09) · Description publique réécrite — texte non reproduit (empreinte 6e474c4914edffc5 → b8a69a2d09347ceb)
 - `2026-10-09` — **École 42** (fiche du 2026-10-09) · **entrée ajoutée**
