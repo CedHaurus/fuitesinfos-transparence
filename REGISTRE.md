@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**411** entrées ajoutées · **5** retirées · **476** corrections individuelles · **9** révisions groupées (688 fiches)
+**419** entrées ajoutées · **5** retirées · **478** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `c7b57219e9515c3f637d9e403b9af4a31499ec2300a2beeeb34bc6e7afc84eef`
+Empreinte de tête : `57a895eff761434e27dbff3a1f004f823e9651333cbcea8885dfba5662888b6c`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,16 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-11` — **Infogreffe** (fiche du 2026-10-10) · Description publique réécrite — texte non reproduit (empreinte 94acbdba6f8fdc2b → 17768269312c74ad)
+- `2026-10-11` — **Grand Delta Habitat** (fiche du 2026-09-13) · Description publique réécrite — texte non reproduit (empreinte 63aa577244bede8b → 46dcefec1f4afc71)
+- `2026-10-11` — **VD2E** (fiche du 2026-10-10) · **entrée ajoutée**
+- `2026-10-11` — **RGIS France** (fiche du 2026-10-11) · **entrée ajoutée**
+- `2026-10-11` — **Institut de formation politique** (fiche du 2026-09-16) · **entrée ajoutée**
+- `2026-10-11` — **G LA DALLE** (fiche du 2026-10-11) · **entrée ajoutée**
+- `2026-10-11` — **FranceBourse** (fiche du 2026-10-10) · **entrée ajoutée**
+- `2026-10-11` — **Callibri** (fiche du 2026-10-10) · **entrée ajoutée**
+- `2026-10-11` — **Armurerie du Bocage** (fiche du 2026-10-11) · **entrée ajoutée**
+- `2026-10-11` — **AK Transport** (fiche du 2026-10-11) · **entrée ajoutée**
 - `2026-10-10` — **Courtiers Partenaires** (fiche du 2026-10-09) · **entrée ajoutée**
 - `2026-10-10` — **Infogreffe** (fiche du 2026-10-10) · **entrée ajoutée**
 - `2026-10-10` — **École 42** (fiche du 2026-10-09) · Statut : Revendiquée → Confirmée
