@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**421** entrées ajoutées · **5** retirées · **479** corrections individuelles · **9** révisions groupées (688 fiches)
+**421** entrées ajoutées · **5** retirées · **482** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `1653d8691e76bf10065fd983a824878d6d59e13d9fc24e7b13ee67da53429c3e`
+Empreinte de tête : `14316e03f789e5071ef1e4feebf77fdd2390ef8644dc68c87dc84414430d2b8b`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,9 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-12 (constaté)` — **Uptoo** (fiche du 2026-09-24) · Statut : Revendiquée → Confirmée
+- `2026-10-12 (constaté)` — **Uptoo** (fiche du 2026-09-24) · Volume concerné : (vide) → 140
+- `2026-10-12 (constaté)` — **Uptoo** (fiche du 2026-09-24) · Description publique réécrite — texte non reproduit (empreinte 57f8568c5fe0b249 → 29dc4703750e3547)
 - `2026-10-12` — **Alloextra** (fiche du 2026-10-12) · **entrée ajoutée**
 - `2026-10-11` — **Kiassure** (fiche du 2026-10-11) · **entrée ajoutée**
 - `2026-10-11 (constaté)` — **Callibri** (fiche du 2026-10-10) · Description publique réécrite — texte non reproduit (empreinte 681af4840f1b70f4 → f1dc2ad90461ed20)
