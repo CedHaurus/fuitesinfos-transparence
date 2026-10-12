@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**421** entrées ajoutées · **5** retirées · **482** corrections individuelles · **9** révisions groupées (688 fiches)
+**421** entrées ajoutées · **5** retirées · **484** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `14316e03f789e5071ef1e4feebf77fdd2390ef8644dc68c87dc84414430d2b8b`
+Empreinte de tête : `c45e801e250b8eeec157948226bedf67ffac3d76ce49f731f428fce5ea5cc916`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-12 (constaté)` — **Infogreffe** (fiche du 2026-10-10) · Statut : Revendiquée → Confirmée
+- `2026-10-12 (constaté)` — **Infogreffe** (fiche du 2026-10-10) · Description publique réécrite — texte non reproduit (empreinte 17768269312c74ad → 3ab5c807963a70ae)
 - `2026-10-12 (constaté)` — **Uptoo** (fiche du 2026-09-24) · Statut : Revendiquée → Confirmée
 - `2026-10-12 (constaté)` — **Uptoo** (fiche du 2026-09-24) · Volume concerné : (vide) → 140
 - `2026-10-12 (constaté)` — **Uptoo** (fiche du 2026-09-24) · Description publique réécrite — texte non reproduit (empreinte 57f8568c5fe0b249 → 29dc4703750e3547)
