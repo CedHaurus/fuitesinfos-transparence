@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**421** entrées ajoutées · **5** retirées · **484** corrections individuelles · **9** révisions groupées (688 fiches)
+**422** entrées ajoutées · **5** retirées · **484** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `c45e801e250b8eeec157948226bedf67ffac3d76ce49f731f428fce5ea5cc916`
+Empreinte de tête : `3a055b8a2e0375eade389b1867925b31ccf5f58cf0148dc23defd2efb7a55153`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-12` — **Solutions30** (fiche du 2026-10-12) · **entrée ajoutée**
 - `2026-10-12 (constaté)` — **Infogreffe** (fiche du 2026-10-10) · Statut : Revendiquée → Confirmée
 - `2026-10-12 (constaté)` — **Infogreffe** (fiche du 2026-10-10) · Description publique réécrite — texte non reproduit (empreinte 17768269312c74ad → 3ab5c807963a70ae)
 - `2026-10-12 (constaté)` — **Uptoo** (fiche du 2026-09-24) · Statut : Revendiquée → Confirmée
