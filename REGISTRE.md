@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**420** entrées ajoutées · **5** retirées · **479** corrections individuelles · **9** révisions groupées (688 fiches)
+**421** entrées ajoutées · **5** retirées · **479** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `c4c58a03902c374ec5ea49c1e7e3b6150c1e28a6dd650b682bb19616dcfdda54`
+Empreinte de tête : `1653d8691e76bf10065fd983a824878d6d59e13d9fc24e7b13ee67da53429c3e`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-12` — **Alloextra** (fiche du 2026-10-12) · **entrée ajoutée**
 - `2026-10-11` — **Kiassure** (fiche du 2026-10-11) · **entrée ajoutée**
 - `2026-10-11 (constaté)` — **Callibri** (fiche du 2026-10-10) · Description publique réécrite — texte non reproduit (empreinte 681af4840f1b70f4 → f1dc2ad90461ed20)
 - `2026-10-11` — **Infogreffe** (fiche du 2026-10-10) · Description publique réécrite — texte non reproduit (empreinte 94acbdba6f8fdc2b → 17768269312c74ad)
