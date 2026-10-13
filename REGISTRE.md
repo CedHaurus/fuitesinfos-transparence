@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**425** entrées ajoutées · **5** retirées · **484** corrections individuelles · **9** révisions groupées (688 fiches)
+**426** entrées ajoutées · **5** retirées · **484** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `075d3c158f089a07fe658c41ebacb080b7a6eae898a4a7154c0a27edadcc673f`
+Empreinte de tête : `216bfeecf955ec4d3664a47010c0e78c07cf3fd9cf8c6b0c573c39b4cb48b6f4`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-13` — **Assu Pro** (fiche du 2026-10-13) · **entrée ajoutée**
 - `2026-10-13` — **MaQuestionMedicale** (fiche du 2026-10-13) · **entrée ajoutée**
 - `2026-10-13` — **Immo-gratuit.com** (fiche du 2026-10-12) · **entrée ajoutée**
 - `2026-10-13` — **France Utilitaires** (fiche du 2026-10-12) · **entrée ajoutée**
