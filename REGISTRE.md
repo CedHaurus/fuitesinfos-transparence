@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**427** entrées ajoutées · **5** retirées · **484** corrections individuelles · **9** révisions groupées (688 fiches)
+**428** entrées ajoutées · **5** retirées · **484** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `2ebe1ddf80826253278eeb9af908e9a92139f85f124a0e3ceedfd518c0bf2ab0`
+Empreinte de tête : `1cfac0af8b30cfd81e5548d158b539b6d33d59c6673ab5d238aa96747e9a380e`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-13` — **WeFix** (fiche du 2026-10-13) · **entrée ajoutée**
 - `2026-10-13` — **Ecologic** (fiche du 2026-10-13) · **entrée ajoutée**
 - `2026-10-13` — **Assu Pro** (fiche du 2026-10-13) · **entrée ajoutée**
 - `2026-10-13` — **MaQuestionMedicale** (fiche du 2026-10-13) · **entrée ajoutée**
