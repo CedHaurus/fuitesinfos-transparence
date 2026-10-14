@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**428** entrées ajoutées · **5** retirées · **484** corrections individuelles · **9** révisions groupées (688 fiches)
+**428** entrées ajoutées · **5** retirées · **486** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `1cfac0af8b30cfd81e5548d158b539b6d33d59c6673ab5d238aa96747e9a380e`
+Empreinte de tête : `1691e4dd31c29c54e917ea68e42bc6678d5728e161b09b2eb886da79a078d801`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-14` — **Swedish Fit** (fiche du 2026-10-08) · Statut : Revendiquée → Confirmée
+- `2026-10-14` — **Swedish Fit** (fiche du 2026-10-08) · Description publique réécrite — texte non reproduit (empreinte fbf359a04872bcde → c82d1493c1c08ce9)
 - `2026-10-13` — **WeFix** (fiche du 2026-10-13) · **entrée ajoutée**
 - `2026-10-13` — **Ecologic** (fiche du 2026-10-13) · **entrée ajoutée**
 - `2026-10-13` — **Assu Pro** (fiche du 2026-10-13) · **entrée ajoutée**
