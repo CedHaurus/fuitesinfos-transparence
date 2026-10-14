@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**428** entrées ajoutées · **5** retirées · **486** corrections individuelles · **9** révisions groupées (688 fiches)
+**429** entrées ajoutées · **5** retirées · **502** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `1691e4dd31c29c54e917ea68e42bc6678d5728e161b09b2eb886da79a078d801`
+Empreinte de tête : `a1f48fc33665bf150498d67739c0991c896729032ee7128beff9b2a3fe34df2e`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,23 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-14 (constaté)` — **Sport 2000** (fiche du 2026-10-05) · Statut : Revendiquée → Confirmée
+- `2026-10-14 (constaté)` — **Sport 2000** (fiche du 2026-10-05) · Description publique réécrite — texte non reproduit (empreinte 155346d5b869786e → 21240cf497012beb)
+- `2026-10-14 (constaté)` — **ImmoJeune** (fiche du 2026-03-05) · Statut : Revendiquée → Confirmée
+- `2026-10-14 (constaté)` — **ImmoJeune** (fiche du 2026-03-05) · Volume concerné : 713 814 → (vide)
+- `2026-10-14 (constaté)` — **ImmoJeune** (fiche du 2026-03-05) · Description publique réécrite — texte non reproduit (empreinte 7897518e2c4d31d9 → 2443c3685c6eead3)
+- `2026-10-14 (constaté)` — **HeyPulse** (fiche du 2026-08-11) · Statut : Revendiquée → Confirmée
+- `2026-10-14 (constaté)` — **HeyPulse** (fiche du 2026-08-11) · Description publique réécrite — texte non reproduit (empreinte 586c70486982e250 → a8f7966b4fb34890)
+- `2026-10-14 (constaté)` — **Chess.com** (fiche du 2026-08-28) · Statut : Revendiquée → Confirmée
+- `2026-10-14 (constaté)` — **Chess.com** (fiche du 2026-08-28) · Description publique réécrite — texte non reproduit (empreinte 36ac0466cc69e228 → 85c57bb3ef0bb82d)
+- `2026-10-14 (constaté)` — **Capifrance** (fiche du 2026-06-10) · Statut : Revendiquée → Confirmée
+- `2026-10-14 (constaté)` — **Capifrance** (fiche du 2026-06-10) · Description publique réécrite — texte non reproduit (empreinte 60ab60e98c845df9 → cbf5ff4796247f60)
+- `2026-10-14 (constaté)` — **Callibri** (fiche du 2026-10-10) · Statut : Revendiquée → Confirmée
+- `2026-10-14 (constaté)` — **Callibri** (fiche du 2026-10-10) · Description publique réécrite — texte non reproduit (empreinte f1dc2ad90461ed20 → aa7a3bb01c0253eb)
+- `2026-10-14 (constaté)` — **CGT (Aude)** (fiche du 2026-10-02) · Statut : Revendiquée → Confirmée
+- `2026-10-14 (constaté)` — **CGT (Aude)** (fiche du 2026-10-02) · Description publique réécrite — texte non reproduit (empreinte 316c2d1bb7756b56 → dc4b4acbc3c332f5)
+- `2026-10-14 (constaté)` — **CAPEB** (fiche du 2026-10-02) · Description publique réécrite — texte non reproduit (empreinte 6086a7ba117c1e24 → 25438f80fe47555a)
+- `2026-10-14` — **Climb Up** (fiche du 2026-10-14) · **entrée ajoutée**
 - `2026-10-14` — **Swedish Fit** (fiche du 2026-10-08) · Statut : Revendiquée → Confirmée
 - `2026-10-14` — **Swedish Fit** (fiche du 2026-10-08) · Description publique réécrite — texte non reproduit (empreinte fbf359a04872bcde → c82d1493c1c08ce9)
 - `2026-10-13` — **WeFix** (fiche du 2026-10-13) · **entrée ajoutée**
