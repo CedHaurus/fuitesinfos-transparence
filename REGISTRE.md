@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**429** entrées ajoutées · **5** retirées · **502** corrections individuelles · **9** révisions groupées (688 fiches)
+**430** entrées ajoutées · **5** retirées · **502** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `a1f48fc33665bf150498d67739c0991c896729032ee7128beff9b2a3fe34df2e`
+Empreinte de tête : `be866f34e47949c160945dc22dfafb3eb159d8f5938633087eb9d85856c139ad`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-14` — **BodySwap** (fiche du 2026-10-14) · **entrée ajoutée**
 - `2026-10-14 (constaté)` — **Sport 2000** (fiche du 2026-10-05) · Statut : Revendiquée → Confirmée
 - `2026-10-14 (constaté)` — **Sport 2000** (fiche du 2026-10-05) · Description publique réécrite — texte non reproduit (empreinte 155346d5b869786e → 21240cf497012beb)
 - `2026-10-14 (constaté)` — **ImmoJeune** (fiche du 2026-03-05) · Statut : Revendiquée → Confirmée
