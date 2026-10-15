@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**430** entrées ajoutées · **5** retirées · **509** corrections individuelles · **9** révisions groupées (688 fiches)
+**431** entrées ajoutées · **5** retirées · **509** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `db9461697c2a7128f51eb50ba701315bf8c21403a192b4884e8d1f0a87f52ac6`
+Empreinte de tête : `86a36965f3826b496b8a644c8dfff0c9492ec6d184f570e5f00424058989fee6`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-15` — **Grande Pharmacie des Halles** (fiche du 2026-10-15) · **entrée ajoutée**
 - `2026-10-15 (constaté)` — **Sport 2000** (fiche du 2026-10-05) · Description publique réécrite — texte non reproduit (empreinte 21240cf497012beb → 9fb78bfc6510a808)
 - `2026-10-15 (constaté)` — **Chess.com** (fiche du 2026-08-28) · Description publique réécrite — texte non reproduit (empreinte 85c57bb3ef0bb82d → 51874f4ccc8c4c05)
 - `2026-10-15 (constaté)` — **Capifrance** (fiche du 2026-06-10) · Description publique réécrite — texte non reproduit (empreinte cbf5ff4796247f60 → b89a49651cb9cb2f)
