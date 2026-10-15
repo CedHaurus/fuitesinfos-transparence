@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**435** entrées ajoutées · **5** retirées · **510** corrections individuelles · **9** révisions groupées (688 fiches)
+**435** entrées ajoutées · **5** retirées · **512** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `3cde49152a43d06a075f2b27d01174aecf764c3cff0311382206c883169e55b8`
+Empreinte de tête : `bfb61c0e1f3f02d5faf903bb8a62ceb17fe2696423e8a5afcb01bc85e5f7be5d`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-15 (constaté)` — **Grand Orient de France** (fiche du 2026-10-11) · Statut : Revendiquée → Confirmée
+- `2026-10-15 (constaté)` — **Grand Orient de France** (fiche du 2026-10-11) · Description publique réécrite — texte non reproduit (empreinte 2b3d83ff98b5461f → 440e0762f06f74e9)
 - `2026-10-15` — **Couleur CE** (fiche du 2026-10-15) · **entrée ajoutée**
 - `2026-10-15` — **Grand Orient de France** (fiche du 2026-10-11) · **entrée ajoutée**
 - `2026-10-15 (constaté)` — **Grande Pharmacie des Halles** (fiche du 2026-10-15) · Description publique réécrite — texte non reproduit (empreinte f773bf79308747a3 → 77bc4c024c01f79b)
