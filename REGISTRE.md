@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**435** entrées ajoutées · **5** retirées · **512** corrections individuelles · **9** révisions groupées (688 fiches)
+**435** entrées ajoutées · **5** retirées · **514** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `bfb61c0e1f3f02d5faf903bb8a62ceb17fe2696423e8a5afcb01bc85e5f7be5d`
+Empreinte de tête : `41dcd815effafc357ea560dfb47edcf18b4fafde2e97679cdfd3a9bbf136574c`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-15 (constaté)` — **Climb Up** (fiche du 2026-10-14) · Statut : Revendiquée → Confirmée
+- `2026-10-15 (constaté)` — **Climb Up** (fiche du 2026-10-14) · Description publique réécrite — texte non reproduit (empreinte 7e2d4beb78f1546b → 3c1ae8ae6499d6f9)
 - `2026-10-15 (constaté)` — **Grand Orient de France** (fiche du 2026-10-11) · Statut : Revendiquée → Confirmée
 - `2026-10-15 (constaté)` — **Grand Orient de France** (fiche du 2026-10-11) · Description publique réécrite — texte non reproduit (empreinte 2b3d83ff98b5461f → 440e0762f06f74e9)
 - `2026-10-15` — **Couleur CE** (fiche du 2026-10-15) · **entrée ajoutée**
