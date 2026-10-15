@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**431** entrées ajoutées · **5** retirées · **509** corrections individuelles · **9** révisions groupées (688 fiches)
+**433** entrées ajoutées · **5** retirées · **509** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `86a36965f3826b496b8a644c8dfff0c9492ec6d184f570e5f00424058989fee6`
+Empreinte de tête : `180cbae7fa8132e9510029201c23355aa0a25cb6a85210be5c668a734ab2cc61`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-15` — **TailleurAuto** (fiche du 2026-10-15) · **entrée ajoutée**
+- `2026-10-15` — **ASCOR** (fiche du 2026-10-15) · **entrée ajoutée**
 - `2026-10-15` — **Grande Pharmacie des Halles** (fiche du 2026-10-15) · **entrée ajoutée**
 - `2026-10-15 (constaté)` — **Sport 2000** (fiche du 2026-10-05) · Description publique réécrite — texte non reproduit (empreinte 21240cf497012beb → 9fb78bfc6510a808)
 - `2026-10-15 (constaté)` — **Chess.com** (fiche du 2026-08-28) · Description publique réécrite — texte non reproduit (empreinte 85c57bb3ef0bb82d → 51874f4ccc8c4c05)
