@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**436** entrées ajoutées · **5** retirées · **514** corrections individuelles · **9** révisions groupées (688 fiches)
+**438** entrées ajoutées · **5** retirées · **514** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `972211055307eebd68c350b2b95d5bf9a0f41be6a9e53e140c06f9a1a2225e54`
+Empreinte de tête : `a9b385fdbd7741e8a6b007a763e349625156163f22cb27febdd74599d01c7e69`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-16` — **Vélogrimpe** (fiche du 2026-10-16) · **entrée ajoutée**
+- `2026-10-16` — **Courtepaille Bayeux** (fiche du 2026-10-16) · **entrée ajoutée**
 - `2026-10-15` — **Ouest-France** (fiche du 2026-10-15) · **entrée ajoutée**
 - `2026-10-15 (constaté)` — **Climb Up** (fiche du 2026-10-14) · Statut : Revendiquée → Confirmée
 - `2026-10-15 (constaté)` — **Climb Up** (fiche du 2026-10-14) · Description publique réécrite — texte non reproduit (empreinte 7e2d4beb78f1546b → 3c1ae8ae6499d6f9)
