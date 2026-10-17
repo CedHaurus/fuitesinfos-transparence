@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**442** entrées ajoutées · **5** retirées · **516** corrections individuelles · **9** révisions groupées (688 fiches)
+**443** entrées ajoutées · **5** retirées · **516** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `9e0afbdadc323eaa0b28ccb4a5be00e025e81364cb62c3d99e1374df5bb60719`
+Empreinte de tête : `732dd1bc968e6fe4d19fe0dae009ea40838dcd401544bf250f5bdf19c0181041`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-17` — **Adetel Group (Centum T&S)** (fiche du 2026-10-17) · **entrée ajoutée**
 - `2026-10-17` — **Paroisse Saint-Urbain / Sainte-Marie** (fiche du 2026-10-17) · **entrée ajoutée**
 - `2026-10-17` — **O’Tacos** (fiche du 2026-10-16) · **entrée ajoutée**
 - `2026-10-17` — **Nomad Education** (fiche du 2026-10-16) · **entrée ajoutée**
