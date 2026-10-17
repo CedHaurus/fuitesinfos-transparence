@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**438** entrées ajoutées · **5** retirées · **516** corrections individuelles · **9** révisions groupées (688 fiches)
+**441** entrées ajoutées · **5** retirées · **516** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `95929b1faa91c8c3441b27e3e14805a007a7a3235f19eb9eb4b0bd937e9df488`
+Empreinte de tête : `daea2498ed45d284f41bf61738b9496b888c6ac56efec6dade121428614e33f3`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,9 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-17` — **O’Tacos** (fiche du 2026-10-16) · **entrée ajoutée**
+- `2026-10-17` — **Nomad Education** (fiche du 2026-10-16) · **entrée ajoutée**
+- `2026-10-17` — **INTER-ETAB** (fiche du 2026-10-16) · **entrée ajoutée**
 - `2026-10-16 (constaté)` — **MaQuestionMedicale** (fiche du 2026-10-13) · Description publique réécrite — texte non reproduit (empreinte 25004f5a4da24b47 → 30570115db42b0b5)
 - `2026-10-16 (constaté)` — **MaQuestionMedicale** (fiche du 2026-10-13) · Nature des données : ajouté Contenu de messages, Rendez-vous, Situation familiale
 - `2026-10-16` — **Vélogrimpe** (fiche du 2026-10-16) · **entrée ajoutée**
