@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**447** entrées ajoutées · **5** retirées · **516** corrections individuelles · **9** révisions groupées (688 fiches)
+**454** entrées ajoutées · **5** retirées · **516** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `da32e68fee30e3bf035705fe39498c07ce4136ed32c72cb940da00f2adb065e6`
+Empreinte de tête : `f04062afa32a6cab08c66eac0bf422bea5dbfa68f999e3b74d881f4a82ffaef4`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,13 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-17` — **Vackelys** (fiche du 2026-10-17) · **entrée ajoutée**
+- `2026-10-17` — **PRREL Ambition** (fiche du 2026-10-17) · **entrée ajoutée**
+- `2026-10-17` — **Malakoff Humanis (via IGA Gestion)** (fiche du 2026-10-17) · **entrée ajoutée**
+- `2026-10-17` — **Grande Loge Féminine de France** (fiche du 2026-10-17) · **entrée ajoutée**
+- `2026-10-17` — **Fédération Française de Tir (FFTir)** (fiche du 2026-10-17) · **entrée ajoutée**
+- `2026-10-17` — **Armurerie Laudier** (fiche du 2026-10-17) · **entrée ajoutée**
+- `2026-10-17` — **Armurerie Gilles** (fiche du 2026-10-17) · **entrée ajoutée**
 - `2026-10-17` — **Be-in-Home** (fiche du 2026-10-17) · **entrée ajoutée**
 - `2026-10-17` — **Eurofiber France** (fiche du 2026-10-17) · **entrée ajoutée**
 - `2026-10-17` — **IntelFind** (fiche du 2026-10-17) · **entrée ajoutée**
