@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**454** entrées ajoutées · **5** retirées · **516** corrections individuelles · **9** révisions groupées (688 fiches)
+**456** entrées ajoutées · **5** retirées · **516** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `f04062afa32a6cab08c66eac0bf422bea5dbfa68f999e3b74d881f4a82ffaef4`
+Empreinte de tête : `9ea3972b926ddf3eb0e88f95102c35bdfcee39be064f56b6fa221f04db242001`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-17` — **Société Centrale Canine** (fiche du 2026-10-17) · **entrée ajoutée**
+- `2026-10-17` — **Centre hospitalier intercommunal des Alpes du Sud** (fiche du 2026-10-17) · **entrée ajoutée**
 - `2026-10-17` — **Vackelys** (fiche du 2026-10-17) · **entrée ajoutée**
 - `2026-10-17` — **PRREL Ambition** (fiche du 2026-10-17) · **entrée ajoutée**
 - `2026-10-17` — **Malakoff Humanis (via IGA Gestion)** (fiche du 2026-10-17) · **entrée ajoutée**
