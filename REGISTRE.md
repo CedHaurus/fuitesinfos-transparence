@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**443** entrées ajoutées · **5** retirées · **516** corrections individuelles · **9** révisions groupées (688 fiches)
+**444** entrées ajoutées · **5** retirées · **516** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `732dd1bc968e6fe4d19fe0dae009ea40838dcd401544bf250f5bdf19c0181041`
+Empreinte de tête : `7f8cb85ccbe2fc96c2b63e0f4608350d38739eb6d3fe53017681394d624c0d1e`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-17` — **Alain Afflelou (via Carcy)** (fiche du 2026-10-17) · **entrée ajoutée**
 - `2026-10-17` — **Adetel Group (Centum T&S)** (fiche du 2026-10-17) · **entrée ajoutée**
 - `2026-10-17` — **Paroisse Saint-Urbain / Sainte-Marie** (fiche du 2026-10-17) · **entrée ajoutée**
 - `2026-10-17` — **O’Tacos** (fiche du 2026-10-16) · **entrée ajoutée**
