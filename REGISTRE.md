@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**456** entrées ajoutées · **5** retirées · **516** corrections individuelles · **9** révisions groupées (688 fiches)
+**456** entrées ajoutées · **5** retirées · **517** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `9ea3972b926ddf3eb0e88f95102c35bdfcee39be064f56b6fa221f04db242001`
+Empreinte de tête : `ebfddff701f562623718943faed0b9c0b5d4b14e38f8829411f7d88877ce6637`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-17 (constaté)` — **BodySwap** (fiche du 2026-10-14) · Description publique réécrite — texte non reproduit (empreinte d92628851bb66a61 → bd7d0f6fa737be86)
 - `2026-10-17` — **Société Centrale Canine** (fiche du 2026-10-17) · **entrée ajoutée**
 - `2026-10-17` — **Centre hospitalier intercommunal des Alpes du Sud** (fiche du 2026-10-17) · **entrée ajoutée**
 - `2026-10-17` — **Vackelys** (fiche du 2026-10-17) · **entrée ajoutée**
