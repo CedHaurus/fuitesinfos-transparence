@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**460** entrées ajoutées · **5** retirées · **517** corrections individuelles · **9** révisions groupées (688 fiches)
+**460** entrées ajoutées · **5** retirées · **518** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `c254b33603c9dc0a41a121ab764184596ae1defefe76f2bf1e7858334dce948a`
+Empreinte de tête : `b9e73f1b1655dd9ceb63996dd80c5c92473c209ae970a0ad431d054a64a36c82`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-19 (constaté)` — **ISEP** (fiche du 2026-10-19) · Description publique réécrite — texte non reproduit (empreinte d61928f718368ad4 → e9ccd2937296d52a)
 - `2026-10-19` — **ISEP** (fiche du 2026-10-19) · **entrée ajoutée**
 - `2026-10-19` — **Zou ! (Région Sud)** (fiche du 2026-10-19) · **entrée ajoutée**
 - `2026-10-18` — **Blissim** (fiche du 2026-10-18) · **entrée ajoutée**
