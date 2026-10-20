@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**472** entrées ajoutées · **5** retirées · **535** corrections individuelles · **9** révisions groupées (688 fiches)
+**473** entrées ajoutées · **5** retirées · **535** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `ff62895d77de0ab9097e109661ef3364026758ff2d8c266b957eda7561d13bdc`
+Empreinte de tête : `c8a358dc045ba27afdb72064d1796c00bfac12eb324e7a8b832a3043a7f39019`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-20` — **SOLIHA** (fiche du 2026-10-20) · **entrée ajoutée**
 - `2026-10-20` — **Frenchy Sushi** (fiche du 2026-10-20) · **entrée ajoutée**
 - `2026-10-20` — **Buddiz** (fiche du 2026-10-20) · **entrée ajoutée**
 - `2026-10-20` — **Transporteur.com** (fiche du 2026-10-20) · **entrée ajoutée**
