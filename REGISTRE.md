@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**460** entrées ajoutées · **5** retirées · **518** corrections individuelles · **9** révisions groupées (688 fiches)
+**460** entrées ajoutées · **5** retirées · **535** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `b9e73f1b1655dd9ceb63996dd80c5c92473c209ae970a0ad431d054a64a36c82`
+Empreinte de tête : `07014f5863387616d234802986e9e77cfe80521bda241c0ae7791d1153d102ab`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,23 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-20` — **Zou ! (Région Sud)** (fiche du 2026-10-19) · Site de l'entité : (vide) → https://zou.maregionsud.fr
+- `2026-10-20` — **Zou ! (Région Sud)** (fiche du 2026-10-19) · Description publique réécrite — texte non reproduit (empreinte 51b14f40cb142669 → 3563e8cfa8375c77)
+- `2026-10-20` — **Malakoff Humanis (via IGA Gestion)** (fiche du 2026-10-17) · Statut : Revendiquée → Confirmée
+- `2026-10-20` — **Malakoff Humanis (via IGA Gestion)** (fiche du 2026-10-17) · Description publique réécrite — texte non reproduit (empreinte 0ae961f76473ecec → 93770a7ac442b9b7)
+- `2026-10-20` — **ISEP** (fiche du 2026-10-19) · Site de l'entité : (vide) → https://www.isep.fr
+- `2026-10-20` — **ISEP** (fiche du 2026-10-19) · Volume concerné : (vide) → 2 671
+- `2026-10-20` — **ISEP** (fiche du 2026-10-19) · Description publique réécrite — texte non reproduit (empreinte e9ccd2937296d52a → 0f76ff291408d9fd)
+- `2026-10-20` — **ISEP** (fiche du 2026-10-19) · Nature des données : ajouté Dossier scolaire ou étudiant
+- `2026-10-20` — **Blissim** (fiche du 2026-10-18) · Site de l'entité : (vide) → https://blissim.fr
+- `2026-10-20` — **Blissim** (fiche du 2026-10-18) · Volume concerné : (vide) → 228 094
+- `2026-10-20` — **Blissim** (fiche du 2026-10-18) · Description publique réécrite — texte non reproduit (empreinte 294380e91469e1d2 → 3c111e23919da150)
+- `2026-10-20` — **Blissim** (fiche du 2026-10-18) · Nature des données : ajouté Identifiant interne ; retiré Historique de transactions
+- `2026-10-20` — **Axialys** (fiche du 2026-10-18) · Statut : Revendiquée → Confirmée
+- `2026-10-20` — **Axialys** (fiche du 2026-10-18) · Site de l'entité : (vide) → https://www.axialys.com
+- `2026-10-20` — **Axialys** (fiche du 2026-10-18) · Volume concerné : (vide) → 128 404
+- `2026-10-20` — **Axialys** (fiche du 2026-10-18) · Description publique réécrite — texte non reproduit (empreinte e4d5652bd070dd7a → a56b0a8073353174)
+- `2026-10-20` — **Axialys** (fiche du 2026-10-18) · Nature des données : ajouté Contenu de messages, Identifiant interne, Ticket de support
 - `2026-10-19 (constaté)` — **ISEP** (fiche du 2026-10-19) · Description publique réécrite — texte non reproduit (empreinte d61928f718368ad4 → e9ccd2937296d52a)
 - `2026-10-19` — **ISEP** (fiche du 2026-10-19) · **entrée ajoutée**
 - `2026-10-19` — **Zou ! (Région Sud)** (fiche du 2026-10-19) · **entrée ajoutée**
