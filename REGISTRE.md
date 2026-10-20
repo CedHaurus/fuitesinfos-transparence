@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**466** entrées ajoutées · **5** retirées · **535** corrections individuelles · **9** révisions groupées (688 fiches)
+**467** entrées ajoutées · **5** retirées · **535** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `d20442f16db0fb80efc41abaefe0a4df0e85f7a605a3ef3de8fffdb5391610d6`
+Empreinte de tête : `fabd97394ee268ed88a15ed00da06280ab8a06bab5d8ef3f7c3bf6b5f8235cf8`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-20` — **Portaleco** (fiche du 2026-10-20) · **entrée ajoutée**
 - `2026-10-20` — **Terranota** (fiche du 2026-10-20) · **entrée ajoutée**
 - `2026-10-20` — **Valeurs actuelles** (fiche du 2026-10-20) · **entrée ajoutée**
 - `2026-10-20` — **Misterbooking** (fiche du 2026-10-20) · **entrée ajoutée**
