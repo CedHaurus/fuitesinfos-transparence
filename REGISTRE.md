@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**474** entrées ajoutées · **5** retirées · **543** corrections individuelles · **9** révisions groupées (688 fiches)
+**474** entrées ajoutées · **5** retirées · **545** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `981fa4952f20ebd1141a8999ed97f4a83a0b88a073fe8fb92b14bdad1590aa81`
+Empreinte de tête : `042962db5bba83ef1d680deab0387a89db466aa4c28b85741a61cc79e3c028fa`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-21 (constaté)` — **Portaleco** (fiche du 2026-10-20) · Statut : Revendiquée → Confirmée
+- `2026-10-21 (constaté)` — **Portaleco** (fiche du 2026-10-20) · Description publique réécrite — texte non reproduit (empreinte 063846839f1f949f → 7c1563725cd5aa4b)
 - `2026-10-21 (constaté)` — **Valeurs actuelles** (fiche du 2026-10-20) · Statut : Revendiquée → Confirmée
 - `2026-10-21 (constaté)` — **Valeurs actuelles** (fiche du 2026-10-20) · Description publique réécrite — texte non reproduit (empreinte c6b6139e19bcc11c → 29edfa18f032d7c3)
 - `2026-10-21 (constaté)` — **ISEP** (fiche du 2026-10-19) · Statut : Revendiquée → Confirmée
