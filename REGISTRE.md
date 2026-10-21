@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**473** entrées ajoutées · **5** retirées · **535** corrections individuelles · **9** révisions groupées (688 fiches)
+**473** entrées ajoutées · **5** retirées · **538** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `c8a358dc045ba27afdb72064d1796c00bfac12eb324e7a8b832a3043a7f39019`
+Empreinte de tête : `5a15ae1bd30fec5883de81aa021360e70831a033815da6d1fed80d2fb0c2cc70`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,9 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-21` — **Buddiz** (fiche du 2026-10-20) · Statut : Revendiquée → Confirmée
+- `2026-10-21` — **Buddiz** (fiche du 2026-10-20) · Volume concerné : (vide) → 2 307
+- `2026-10-21` — **Buddiz** (fiche du 2026-10-20) · Description publique réécrite — texte non reproduit (empreinte 9053010e2bc8b41d → 8ec2842b4b11dced)
 - `2026-10-20` — **SOLIHA** (fiche du 2026-10-20) · **entrée ajoutée**
 - `2026-10-20` — **Frenchy Sushi** (fiche du 2026-10-20) · **entrée ajoutée**
 - `2026-10-20` — **Buddiz** (fiche du 2026-10-20) · **entrée ajoutée**
