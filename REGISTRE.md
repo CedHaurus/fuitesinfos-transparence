@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**476** entrées ajoutées · **5** retirées · **547** corrections individuelles · **9** révisions groupées (688 fiches)
+**477** entrées ajoutées · **5** retirées · **547** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `da65142b0a2316c9985fad730edb094632b4211c22cfbf46448881ba1b03c35e`
+Empreinte de tête : `62fcfbefb07847d8065658d29d8e3e1ca8b76a13b9e298d0496b3aa5a0ddeddb`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-22` — **Clin d'œil Opticiens** (fiche du 2026-10-22) · **entrée ajoutée**
 - `2026-10-22` — **Printerpix** (fiche du 2026-10-22) · **entrée ajoutée**
 - `2026-10-22` — **La Compagnie des Sens** (fiche du 2026-10-22) · **entrée ajoutée**
 - `2026-10-22` — **Fédération Française de Tir (FFTir)** (fiche du 2026-10-17) · Statut : Revendiquée → Confirmée
