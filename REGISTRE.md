@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**477** entrées ajoutées · **5** retirées · **548** corrections individuelles · **9** révisions groupées (688 fiches)
+**477** entrées ajoutées · **5** retirées · **550** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `2e9f31e7810d93dd702b3e62ec4a4db7b2a23aa981c86a648ec9ed527ecc29af`
+Empreinte de tête : `c76bb8f4daa9028cad91a5e20e8cfa6e33ac8a682538b22941c2e6ee77aea421`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-22 (constaté)` — **I-CAD** (fiche du 2026-10-19) · Statut : Revendiquée → Confirmée
+- `2026-10-22 (constaté)` — **I-CAD** (fiche du 2026-10-19) · Description publique réécrite — texte non reproduit (empreinte c0efc3ec25fe7a04 → d1f6ddd05299e578)
 - `2026-10-22 (constaté)` — **Malakoff Humanis (via IGA Gestion)** (fiche du 2026-10-17) · Description publique réécrite — texte non reproduit (empreinte 93770a7ac442b9b7 → 00942aa46ac504fe)
 - `2026-10-22` — **Clin d'œil Opticiens** (fiche du 2026-10-22) · **entrée ajoutée**
 - `2026-10-22` — **Printerpix** (fiche du 2026-10-22) · **entrée ajoutée**
