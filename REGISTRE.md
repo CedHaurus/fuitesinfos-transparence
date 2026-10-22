@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**474** entrées ajoutées · **5** retirées · **547** corrections individuelles · **9** révisions groupées (688 fiches)
+**475** entrées ajoutées · **5** retirées · **547** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `881da8ad64e3c87bb7c681412177e39930a8511a98ce86262faf8e016d4d5b54`
+Empreinte de tête : `44e12cdfbf2d87ef0a28e75799ec07c6450b1f16d157945800b12ca22540df08`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-22` — **La Compagnie des Sens** (fiche du 2026-10-22) · **entrée ajoutée**
 - `2026-10-22` — **Fédération Française de Tir (FFTir)** (fiche du 2026-10-17) · Statut : Revendiquée → Confirmée
 - `2026-10-22` — **Fédération Française de Tir (FFTir)** (fiche du 2026-10-17) · Description publique réécrite — texte non reproduit (empreinte 4306ce4000298e9f → 370b58c1fb2851e2)
 - `2026-10-21 (constaté)` — **Portaleco** (fiche du 2026-10-20) · Statut : Revendiquée → Confirmée
