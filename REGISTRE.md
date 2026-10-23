@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**479** entrées ajoutées · **5** retirées · **550** corrections individuelles · **9** révisions groupées (688 fiches)
+**479** entrées ajoutées · **5** retirées · **552** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `b1bb27405bd5cf703032ac34b1f6b997b46ecc6994d378b6d0d5cbef43c34126`
+Empreinte de tête : `e64c4df0d2b646e3b71193cda4d6bcbce39d4cc91b34a44d058bf966fad5716e`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-23 (constaté)` — **King Jouet** (fiche du 2026-10-20) · Statut : Revendiquée → Confirmée
+- `2026-10-23 (constaté)` — **King Jouet** (fiche du 2026-10-20) · Description publique réécrite — texte non reproduit (empreinte 1b53153de8718e93 → 487e937d5d8a72fc)
 - `2026-10-23` — **Plenitude On The Road** (fiche du 2026-10-23) · **entrée ajoutée**
 - `2026-10-22` — **Ircantec** (fiche du 2026-10-22) · **entrée ajoutée**
 - `2026-10-22 (constaté)` — **I-CAD** (fiche du 2026-10-19) · Statut : Revendiquée → Confirmée
