@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**478** entrées ajoutées · **5** retirées · **550** corrections individuelles · **9** révisions groupées (688 fiches)
+**479** entrées ajoutées · **5** retirées · **550** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `8f5e1caa35dcf981f76959c8b825f2798e8412de248e35c1593bebd8bb175899`
+Empreinte de tête : `b1bb27405bd5cf703032ac34b1f6b997b46ecc6994d378b6d0d5cbef43c34126`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-23` — **Plenitude On The Road** (fiche du 2026-10-23) · **entrée ajoutée**
 - `2026-10-22` — **Ircantec** (fiche du 2026-10-22) · **entrée ajoutée**
 - `2026-10-22 (constaté)` — **I-CAD** (fiche du 2026-10-19) · Statut : Revendiquée → Confirmée
 - `2026-10-22 (constaté)` — **I-CAD** (fiche du 2026-10-19) · Description publique réécrite — texte non reproduit (empreinte c0efc3ec25fe7a04 → d1f6ddd05299e578)
