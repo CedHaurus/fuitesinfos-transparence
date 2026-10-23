@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**482** entrées ajoutées · **5** retirées · **555** corrections individuelles · **9** révisions groupées (688 fiches)
+**483** entrées ajoutées · **5** retirées · **555** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `2d36f6683b33b9a76c491979c06c2f094e2fca7560aadeddf203fe1244840b97`
+Empreinte de tête : `b4691ae8a47eac5c0b2157baa88430342a83e2f2b7cbf256a28497dbb52cedf9`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-23` — **ENGIE** (fiche du 2026-10-23) · **entrée ajoutée**
 - `2026-10-23 (constaté)` — **Armurerie Meneux** (fiche du 2026-10-23) · Nature des données : retiré Pièce d'identité
 - `2026-10-23` — **Parti communiste français (PCF)** (fiche du 2026-10-23) · **entrée ajoutée**
 - `2026-10-23` — **Armurerie Meneux** (fiche du 2026-10-23) · **entrée ajoutée**
