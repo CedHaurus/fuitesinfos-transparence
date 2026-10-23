@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**479** entrées ajoutées · **5** retirées · **554** corrections individuelles · **9** révisions groupées (688 fiches)
+**480** entrées ajoutées · **5** retirées · **554** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `3b86b7cff8f317427a882c407485796747eea58490a2d1106cb0b74b025afff3`
+Empreinte de tête : `923639bab73668d1474d4707fe572a90bd95cc8d49b9f3a1555f29abbd3fc6b7`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-23` — **Fédération Française de Voile (FFVoile)** (fiche du 2026-10-23) · **entrée ajoutée**
 - `2026-10-23 (constaté)` — **Nomad Education** (fiche du 2026-10-16) · Statut : Revendiquée → Confirmée
 - `2026-10-23 (constaté)` — **Nomad Education** (fiche du 2026-10-16) · Description publique réécrite — texte non reproduit (empreinte 52fe7f1b2e7edd4b → 9c85f14984884e96)
 - `2026-10-23 (constaté)` — **King Jouet** (fiche du 2026-10-20) · Statut : Revendiquée → Confirmée
