@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**486** entrées ajoutées · **5** retirées · **560** corrections individuelles · **9** révisions groupées (688 fiches)
+**486** entrées ajoutées · **5** retirées · **561** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `5af2d690077417d67d538212abe8beb9ffd9e6470bf901ea5623ba080d64aa16`
+Empreinte de tête : `7bfa7323b6b679ff3cec36d91bc7b008cfaff00bdc4b222d7d308d272604fc51`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-24 (constaté)` — **Point Vision** (fiche du 2026-09-15) · Description publique réécrite — texte non reproduit (empreinte f0517b61dac9c891 → 7f3e937477e63fd8)
 - `2026-10-24 (constaté)` — **La France insoumise** (fiche du 2026-10-24) · Description publique réécrite — texte non reproduit (empreinte 92839539353054df → 3624b1dfe5f1c75c)
 - `2026-10-24` — **Alliance Police Nationale** (fiche du 2026-10-24) · **entrée ajoutée**
 - `2026-10-24 (constaté)` — **Parti communiste français (PCF)** (fiche du 2026-10-23) · Description publique réécrite — texte non reproduit (empreinte b5a7a8decec31e3a → d4aec9f34c51aeba)
