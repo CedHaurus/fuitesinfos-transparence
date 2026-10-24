@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**486** entrées ajoutées · **5** retirées · **559** corrections individuelles · **9** révisions groupées (688 fiches)
+**486** entrées ajoutées · **5** retirées · **560** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `dde8a1847a37dddc3b225b9a74a247a3cfe099a82d63cf5d26a4002c255d0d5a`
+Empreinte de tête : `5af2d690077417d67d538212abe8beb9ffd9e6470bf901ea5623ba080d64aa16`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-24 (constaté)` — **La France insoumise** (fiche du 2026-10-24) · Description publique réécrite — texte non reproduit (empreinte 92839539353054df → 3624b1dfe5f1c75c)
 - `2026-10-24` — **Alliance Police Nationale** (fiche du 2026-10-24) · **entrée ajoutée**
 - `2026-10-24 (constaté)` — **Parti communiste français (PCF)** (fiche du 2026-10-23) · Description publique réécrite — texte non reproduit (empreinte b5a7a8decec31e3a → d4aec9f34c51aeba)
 - `2026-10-24 (constaté)` — **Parti communiste français (PCF)** (fiche du 2026-10-23) · Nature des données : ajouté Adresse email, Adresse postale, Civilité, Code postal, Nom complet, Numéro de téléphone, Ville
