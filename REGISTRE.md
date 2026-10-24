@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**484** entrées ajoutées · **5** retirées · **555** corrections individuelles · **9** révisions groupées (688 fiches)
+**485** entrées ajoutées · **5** retirées · **555** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `8008309364da0a968409fd5e148146d25e93b2ba8c20bf8bcdcb85ed632acf56`
+Empreinte de tête : `350502abcc9812b1d147950a93e50f777f8e0f3ff6851f005077d0e0a4308e23`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-24` — **La France insoumise** (fiche du 2026-10-24) · **entrée ajoutée**
 - `2026-10-24` — **ADMR** (fiche du 2026-10-23) · **entrée ajoutée**
 - `2026-10-23` — **ENGIE** (fiche du 2026-10-23) · **entrée ajoutée**
 - `2026-10-23 (constaté)` — **Armurerie Meneux** (fiche du 2026-10-23) · Nature des données : retiré Pièce d'identité
