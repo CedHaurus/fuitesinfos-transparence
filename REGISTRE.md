@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**486** entrées ajoutées · **5** retirées · **562** corrections individuelles · **9** révisions groupées (688 fiches)
+**487** entrées ajoutées · **5** retirées · **562** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `74d33c724ab1f06452be36a9162e8c99b6f09bb98073dadb7ff387af914de082`
+Empreinte de tête : `83c55a9307a2eb4c95207fcb2483b9ce19dfe8685ead74b04ab56579cc2ba351`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-24` — **DEKRA** (fiche du 2026-10-24) · **entrée ajoutée**
 - `2026-10-24 (constaté)` — **Alaxione** (fiche du 2026-09-28) · Description publique réécrite — texte non reproduit (empreinte 521c3940ecc660c4 → 66505937737a75b2)
 - `2026-10-24 (constaté)` — **Point Vision** (fiche du 2026-09-15) · Description publique réécrite — texte non reproduit (empreinte f0517b61dac9c891 → 7f3e937477e63fd8)
 - `2026-10-24 (constaté)` — **La France insoumise** (fiche du 2026-10-24) · Description publique réécrite — texte non reproduit (empreinte 92839539353054df → 3624b1dfe5f1c75c)
