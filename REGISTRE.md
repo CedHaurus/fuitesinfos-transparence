@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**490** entrées ajoutées · **5** retirées · **566** corrections individuelles · **9** révisions groupées (688 fiches)
+**492** entrées ajoutées · **5** retirées · **566** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `ac46bed34258020eb5c8b97c32b4fdafa99cdc2f704c1bfc41107969dcc176bf`
+Empreinte de tête : `0fa6bec0284d6c86de66c9f3cceeb0c8bafc4a362d8768ebb822ff396ebcca3f`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-25` — **FSU (Fédération syndicale unitaire)** (fiche du 2026-10-25) · **entrée ajoutée**
+- `2026-10-25` — **Delatad** (fiche du 2026-10-25) · **entrée ajoutée**
 - `2026-10-25` — **Orange** (fiche du 2026-10-23) · **entrée ajoutée**
 - `2026-10-25 (constaté)` — **FMG Sales and Marketing** (fiche du 2026-10-02) · Description publique réécrite — texte non reproduit (empreinte 5786989b27975396 → d39e2c142d36392e)
 - `2026-10-25 (constaté)` — **Aéro-Club de l'AIA** (fiche du 2026-09-24) · Description publique réécrite — texte non reproduit (empreinte 11f3880c259e8db1 → 0010cfca6943bb26)
