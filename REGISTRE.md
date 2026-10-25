@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**488** entrées ajoutées · **5** retirées · **562** corrections individuelles · **9** révisions groupées (688 fiches)
+**489** entrées ajoutées · **5** retirées · **562** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `b99d37442d8ebf00cfec96cc923df8dd0c9ddae700aa4fdde591ffae1292883b`
+Empreinte de tête : `1e79934bb3d7db50b6cf6aaa3c6fdc6e24112e780e7e1265c8de46c315cfc773`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-25` — **FootballMinigames** (fiche du 2026-10-24) · **entrée ajoutée**
 - `2026-10-24` — **Renaissance** (fiche du 2026-10-24) · **entrée ajoutée**
 - `2026-10-24` — **DEKRA** (fiche du 2026-10-24) · **entrée ajoutée**
 - `2026-10-24 (constaté)` — **Alaxione** (fiche du 2026-09-28) · Description publique réécrite — texte non reproduit (empreinte 521c3940ecc660c4 → 66505937737a75b2)
