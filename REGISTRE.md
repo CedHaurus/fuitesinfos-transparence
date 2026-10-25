@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**489** entrées ajoutées · **5** retirées · **562** corrections individuelles · **9** révisions groupées (688 fiches)
+**489** entrées ajoutées · **5** retirées · **564** corrections individuelles · **9** révisions groupées (688 fiches)
 
-Empreinte de tête : `1e79934bb3d7db50b6cf6aaa3c6fdc6e24112e780e7e1265c8de46c315cfc773`
+Empreinte de tête : `2622ed095c225a75e4f4642a0de2a5acb9d47811f8f00bcbaeb2c42052c52ff8`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-25 (constaté)` — **FMG Sales and Marketing** (fiche du 2026-10-02) · Nature des données : ajouté Données de mineurs
+- `2026-10-25 (constaté)` — **Aéro-Club de l'AIA** (fiche du 2026-09-24) · Nature des données : ajouté Données de mineurs
 - `2026-10-25` — **FootballMinigames** (fiche du 2026-10-24) · **entrée ajoutée**
 - `2026-10-24` — **Renaissance** (fiche du 2026-10-24) · **entrée ajoutée**
 - `2026-10-24` — **DEKRA** (fiche du 2026-10-24) · **entrée ajoutée**
