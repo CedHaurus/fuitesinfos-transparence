@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**493** entrées ajoutées · **5** retirées · **573** corrections individuelles · **10** révisions groupées (708 fiches)
+**494** entrées ajoutées · **5** retirées · **573** corrections individuelles · **10** révisions groupées (708 fiches)
 
-Empreinte de tête : `1c82a54861cfd8c1760a314af10309121335bdc3e4a1678dea0e79a473830908`
+Empreinte de tête : `0f22331850d5238b997cc3aff2f4c25bfd6c25be1effd5af3b961a48f10ddb04`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-26` — **Actil** (fiche du 2026-10-26) · **entrée ajoutée**
 - `2026-10-26 (constaté)` — **Blissim** (fiche du 2026-10-18) · Statut : Revendiquée → Confirmée
 - `2026-10-26 (constaté)` — **Blissim** (fiche du 2026-10-18) · Description publique réécrite — texte non reproduit (empreinte 3c111e23919da150 → 6e23fbb2a979dffa)
 - `2026-10-26 (constaté)` — **FSU (Fédération syndicale unitaire)** (fiche du 2026-10-25) · Statut : Revendiquée → Confirmée
