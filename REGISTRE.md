@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**492** entrées ajoutées · **5** retirées · **568** corrections individuelles · **9** révisions groupées (688 fiches)
+**492** entrées ajoutées · **5** retirées · **568** corrections individuelles · **10** révisions groupées (708 fiches)
 
-Empreinte de tête : `fd26d5c72e28633e964942f43e2f3436af0a1bdbf2779ed0a8e21500d4a0f038`
+Empreinte de tête : `f4878b77823904483d95402de45df1fffca05fc963b955ca13b609dd0d2c927a`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-26 (constaté)` — **Révision groupée** · champ « Nature des données » : 20 fiches modifiées dans le même lot (détail par fiche dans `registre.jsonl`)
 - `2026-10-25 (constaté)` — **Delatad** (fiche du 2026-10-25) · Statut : Revendiquée → Confirmée
 - `2026-10-25 (constaté)` — **Delatad** (fiche du 2026-10-25) · Description publique réécrite — texte non reproduit (empreinte a0647727a351af7c → 1c10b4edf8667d11)
 - `2026-10-25` — **FSU (Fédération syndicale unitaire)** (fiche du 2026-10-25) · **entrée ajoutée**
