@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**493** entrées ajoutées · **5** retirées · **568** corrections individuelles · **10** révisions groupées (708 fiches)
+**493** entrées ajoutées · **5** retirées · **571** corrections individuelles · **10** révisions groupées (708 fiches)
 
-Empreinte de tête : `9333dc6338fc6a0732c980f55f300a7949100c2c6e4ea3b123142bfb9d081dc7`
+Empreinte de tête : `dbece411dcec4a85431e7706ea284e634ffc466d0407fd98e214412242f500ba`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,9 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-26 (constaté)` — **FSU (Fédération syndicale unitaire)** (fiche du 2026-10-25) · Statut : Revendiquée → Confirmée
+- `2026-10-26 (constaté)` — **FSU (Fédération syndicale unitaire)** (fiche du 2026-10-25) · Description publique réécrite — texte non reproduit (empreinte 3ce1782a61d6c9df → 0dc36b78b92fcd5f)
+- `2026-10-26 (constaté)` — **FSU (Fédération syndicale unitaire)** (fiche du 2026-10-25) · Nature des données : ajouté Données sensibles
 - `2026-10-26` — **Graphcom** (fiche du 2026-10-25) · **entrée ajoutée**
 - `2026-10-26 (constaté)` — **Révision groupée** · champ « Nature des données » : 20 fiches modifiées dans le même lot (détail par fiche dans `registre.jsonl`)
 - `2026-10-25 (constaté)` — **Delatad** (fiche du 2026-10-25) · Statut : Revendiquée → Confirmée
