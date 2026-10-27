@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**495** entrées ajoutées · **5** retirées · **573** corrections individuelles · **10** révisions groupées (708 fiches)
+**496** entrées ajoutées · **5** retirées · **573** corrections individuelles · **10** révisions groupées (708 fiches)
 
-Empreinte de tête : `706333e9c85b368d2b0c08bdead75267ed5967c8cd053fb84e7611a13c047fd6`
+Empreinte de tête : `a2b7424adeb2970f58d89a16dffa1e8eebc99137a77283cabc5b96f54713c0cd`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-27` — **elloha** (fiche du 2026-10-27) · **entrée ajoutée**
 - `2026-10-26` — **Le Closet** (fiche du 2026-10-26) · **entrée ajoutée**
 - `2026-10-26` — **Actil** (fiche du 2026-10-26) · **entrée ajoutée**
 - `2026-10-26 (constaté)` — **Blissim** (fiche du 2026-10-18) · Statut : Revendiquée → Confirmée
