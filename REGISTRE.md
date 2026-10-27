@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**496** entrées ajoutées · **5** retirées · **573** corrections individuelles · **10** révisions groupées (708 fiches)
+**497** entrées ajoutées · **5** retirées · **573** corrections individuelles · **10** révisions groupées (708 fiches)
 
-Empreinte de tête : `a2b7424adeb2970f58d89a16dffa1e8eebc99137a77283cabc5b96f54713c0cd`
+Empreinte de tête : `1574e1c9fc6870f5ab0b2a19b4e9573ef57f480a5fada94876c2bd319c242a06`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-27` — **Fédération Sportive et Culturelle de France** (fiche du 2026-10-26) · **entrée ajoutée**
 - `2026-10-27` — **elloha** (fiche du 2026-10-27) · **entrée ajoutée**
 - `2026-10-26` — **Le Closet** (fiche du 2026-10-26) · **entrée ajoutée**
 - `2026-10-26` — **Actil** (fiche du 2026-10-26) · **entrée ajoutée**
