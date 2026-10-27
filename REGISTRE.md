@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**499** entrées ajoutées · **5** retirées · **573** corrections individuelles · **10** révisions groupées (708 fiches)
+**500** entrées ajoutées · **5** retirées · **573** corrections individuelles · **10** révisions groupées (708 fiches)
 
-Empreinte de tête : `dffd73fbc6299d8a939b599d307aea502c8a27c4d9d0d03749dbd0116e6dd652`
+Empreinte de tête : `8be303d0c4a871db80f4d2b21e10ab2126ab41e3dc779db8f89c0abc0f0fbc16`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-27` — **ACF Assurances** (fiche du 2026-10-27) · **entrée ajoutée**
 - `2026-10-27` — **Quorum Groupe** (fiche du 2026-10-25) · **entrée ajoutée**
 - `2026-10-27` — **La Mutuelle Communale** (fiche du 2026-10-26) · **entrée ajoutée**
 - `2026-10-27` — **Fédération Sportive et Culturelle de France** (fiche du 2026-10-26) · **entrée ajoutée**
