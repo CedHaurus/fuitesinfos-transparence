@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**503** entrées ajoutées · **5** retirées · **573** corrections individuelles · **10** révisions groupées (708 fiches)
+**504** entrées ajoutées · **5** retirées · **573** corrections individuelles · **10** révisions groupées (708 fiches)
 
-Empreinte de tête : `b1778c5a56764a13f4b023cae7ee42c93665361375f3958567714d981f900914`
+Empreinte de tête : `0875a7db4dae9725367c87d3fe6746222c4548b8e173d17def278c84a6015bf1`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-28` — **Cybertek** (fiche du 2026-10-28) · **entrée ajoutée**
 - `2026-10-28` — **Communauté de communes des Portes du Berry** (fiche du 2026-10-28) · **entrée ajoutée**
 - `2026-10-28` — **Fédération Française Handisport** (fiche du 2026-10-28) · **entrée ajoutée**
 - `2026-10-28` — **Cave Coste** (fiche du 2026-10-03) · **entrée ajoutée**
