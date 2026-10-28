@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**504** entrées ajoutées · **5** retirées · **573** corrections individuelles · **10** révisions groupées (708 fiches)
+**506** entrées ajoutées · **5** retirées · **573** corrections individuelles · **10** révisions groupées (708 fiches)
 
-Empreinte de tête : `0875a7db4dae9725367c87d3fe6746222c4548b8e173d17def278c84a6015bf1`
+Empreinte de tête : `d7a44f68731e9b0a2d653516eb9b68d877137b189103ef50191b1a68d5f28442`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-28` — **Le Crestois** (fiche du 2026-10-28) · **entrée ajoutée**
+- `2026-10-28` — **Compagnie des Transports Strasbourgeois (CTS)** (fiche du 2026-10-28) · **entrée ajoutée**
 - `2026-10-28` — **Cybertek** (fiche du 2026-10-28) · **entrée ajoutée**
 - `2026-10-28` — **Communauté de communes des Portes du Berry** (fiche du 2026-10-28) · **entrée ajoutée**
 - `2026-10-28` — **Fédération Française Handisport** (fiche du 2026-10-28) · **entrée ajoutée**
