@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**502** entrées ajoutées · **5** retirées · **573** corrections individuelles · **10** révisions groupées (708 fiches)
+**503** entrées ajoutées · **5** retirées · **573** corrections individuelles · **10** révisions groupées (708 fiches)
 
-Empreinte de tête : `62ca6988145672dbe5f4fa39730166a7fc370140bfc923d7f4c1c5f0478df461`
+Empreinte de tête : `b1778c5a56764a13f4b023cae7ee42c93665361375f3958567714d981f900914`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-28` — **Communauté de communes des Portes du Berry** (fiche du 2026-10-28) · **entrée ajoutée**
 - `2026-10-28` — **Fédération Française Handisport** (fiche du 2026-10-28) · **entrée ajoutée**
 - `2026-10-28` — **Cave Coste** (fiche du 2026-10-03) · **entrée ajoutée**
 - `2026-10-27` — **ACF Assurances** (fiche du 2026-10-27) · **entrée ajoutée**
