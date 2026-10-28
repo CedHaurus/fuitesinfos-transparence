@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**500** entrées ajoutées · **5** retirées · **573** corrections individuelles · **10** révisions groupées (708 fiches)
+**501** entrées ajoutées · **5** retirées · **573** corrections individuelles · **10** révisions groupées (708 fiches)
 
-Empreinte de tête : `8be303d0c4a871db80f4d2b21e10ab2126ab41e3dc779db8f89c0abc0f0fbc16`
+Empreinte de tête : `8eef0683a74363586d8deadde1253e4be397caae6f0fbdeb72af7eede77f1d7a`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-28` — **Cave Coste** (fiche du 2026-10-03) · **entrée ajoutée**
 - `2026-10-27` — **ACF Assurances** (fiche du 2026-10-27) · **entrée ajoutée**
 - `2026-10-27` — **Quorum Groupe** (fiche du 2026-10-25) · **entrée ajoutée**
 - `2026-10-27` — **La Mutuelle Communale** (fiche du 2026-10-26) · **entrée ajoutée**
