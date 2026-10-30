@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**509** entrées ajoutées · **5** retirées · **575** corrections individuelles · **10** révisions groupées (708 fiches)
+**510** entrées ajoutées · **5** retirées · **575** corrections individuelles · **10** révisions groupées (708 fiches)
 
-Empreinte de tête : `677d45eeec8b6e57ae466452218856c9115efc7a9887853641e0833ca6c0eb95`
+Empreinte de tête : `994d9a6647e28b6079fd9fb14a2cf0fe8710610265226416b8bdd53fd0406e5b`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-30` — **Bourse Direct** (fiche du 2026-10-30) · **entrée ajoutée**
 - `2026-10-30` — **Kookabarra** (fiche du 2026-10-29) · **entrée ajoutée**
 - `2026-10-29` — **Pierres et Mer** (fiche du 2026-10-29) · **entrée ajoutée**
 - `2026-10-29 (constaté)` — **Actil** (fiche du 2026-10-26) · Statut : Revendiquée → Confirmée
