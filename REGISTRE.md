@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**514** entrées ajoutées · **5** retirées · **575** corrections individuelles · **10** révisions groupées (708 fiches)
+**515** entrées ajoutées · **5** retirées · **575** corrections individuelles · **10** révisions groupées (708 fiches)
 
-Empreinte de tête : `e202be55fa7353e971f087960a17fde75335af3254b577f93df0f5dfcaf9d97f`
+Empreinte de tête : `2478b5ac026b12de560f0aa0471cbf7b95aefc11d4233da692f2429b88d808e3`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-30` — **La Halle au Sommeil** (fiche du 2026-10-30) · **entrée ajoutée**
 - `2026-10-30` — **Incognito** (fiche du 2026-10-30) · **entrée ajoutée**
 - `2026-10-30` — **Fédération française des échecs** (fiche du 2026-10-30) · **entrée ajoutée**
 - `2026-10-30` — **My Sexshop.fr** (fiche du 2026-10-30) · **entrée ajoutée**
