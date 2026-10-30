@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**511** entrées ajoutées · **5** retirées · **575** corrections individuelles · **10** révisions groupées (708 fiches)
+**512** entrées ajoutées · **5** retirées · **575** corrections individuelles · **10** révisions groupées (708 fiches)
 
-Empreinte de tête : `f974db0cc9c2ee26f1710d776b37c6c0b3ec0069409f9284e3523043db93c3d9`
+Empreinte de tête : `b54a0cf07ef079d518f425af409fdea7052b6dbb9c6364024e04fff6c14676cf`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-30` — **My Sexshop.fr** (fiche du 2026-10-30) · **entrée ajoutée**
 - `2026-10-30` — **Parti radical de gauche** (fiche du 2026-10-30) · **entrée ajoutée**
 - `2026-10-30` — **Bourse Direct** (fiche du 2026-10-30) · **entrée ajoutée**
 - `2026-10-30` — **Kookabarra** (fiche du 2026-10-29) · **entrée ajoutée**
