@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**519** entrées ajoutées · **5** retirées · **577** corrections individuelles · **10** révisions groupées (708 fiches)
+**520** entrées ajoutées · **5** retirées · **577** corrections individuelles · **10** révisions groupées (708 fiches)
 
-Empreinte de tête : `47e911e5d0cb32343b057ff39b7dc0b444ca68b733d26c012d77ec8a9739d730`
+Empreinte de tête : `1214686720112eda551b8bca03510875a0e7d520c6adb7cdcd74fad7d327b789`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-31` — **Rassemblement National** (fiche du 2026-10-31) · **entrée ajoutée**
 - `2026-10-31` — **Careco** (fiche du 2026-10-30) · **entrée ajoutée**
 - `2026-10-31` — **Fédération française de la montagne et de l’escalade (FFME)** (fiche du 2026-10-30) · **entrée ajoutée**
 - `2026-10-31` — **Epitech** (fiche du 2026-10-30) · **entrée ajoutée**
