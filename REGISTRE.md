@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**527** entrées ajoutées · **5** retirées · **578** corrections individuelles · **10** révisions groupées (708 fiches)
+**528** entrées ajoutées · **5** retirées · **578** corrections individuelles · **10** révisions groupées (708 fiches)
 
-Empreinte de tête : `622b4e4c644b535a8facb4dbb5c2cb3c1ec8f87196e42cff01ff47cae1ad532b`
+Empreinte de tête : `3a9a5fdf3a57dbd288c47e77e5d554cbcaf9be742ae2c1a99356ced9f3e1b64a`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-31` — **Autosur** (fiche du 2026-10-31) · **entrée ajoutée**
 - `2026-10-31` — **Terre de Son** (fiche du 2026-10-31) · **entrée ajoutée**
 - `2026-10-31` — **Ma Déco de Fête** (fiche du 2026-10-31) · **entrée ajoutée**
 - `2026-10-31 (constaté)` — **Pharmacie des Congrès** (fiche du 2026-10-31) · Description publique réécrite — texte non reproduit (empreinte 47cbef213b5e248b → 8885e6607158c693)
