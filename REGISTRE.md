@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**524** entrées ajoutées · **5** retirées · **577** corrections individuelles · **10** révisions groupées (708 fiches)
+**525** entrées ajoutées · **5** retirées · **577** corrections individuelles · **10** révisions groupées (708 fiches)
 
-Empreinte de tête : `636a991c8313470aeb16ffd6ae5584ea024c378b24d975cf429d9e7a2e11f03a`
+Empreinte de tête : `9605ae28fbd57af35a7ec5d1c3f3c1434848f0d632b6a1b9ae86cd7e99587ca6`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-31` — **Pharmacie de la Cigogne** (fiche du 2026-10-31) · **entrée ajoutée**
 - `2026-10-31` — **Fédération Nationale des Chasseurs (FNC)** (fiche du 2026-10-31) · **entrée ajoutée**
 - `2026-10-31` — **Pharmacie des Congrès** (fiche du 2026-10-31) · **entrée ajoutée**
 - `2026-10-31` — **Les Écologistes** (fiche du 2026-10-31) · **entrée ajoutée**
