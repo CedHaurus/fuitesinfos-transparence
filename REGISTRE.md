@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**516** entrées ajoutées · **5** retirées · **577** corrections individuelles · **10** révisions groupées (708 fiches)
+**518** entrées ajoutées · **5** retirées · **577** corrections individuelles · **10** révisions groupées (708 fiches)
 
-Empreinte de tête : `a3be993bb1144f2b1379709a08b3792d1964213f619dde86c98b3eca5072c0e0`
+Empreinte de tête : `1d24a521c251f2791ae71ca64b3871f1835f942532c86ed3c53ed048dede31ce`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Octobre 2026
 
+- `2026-10-31` — **Fédération française de la montagne et de l’escalade (FFME)** (fiche du 2026-10-30) · **entrée ajoutée**
+- `2026-10-31` — **Epitech** (fiche du 2026-10-30) · **entrée ajoutée**
 - `2026-10-30 (constaté)` — **Agence de Services et de Paiement** (fiche du 2026-09-24) · Description publique réécrite — texte non reproduit (empreinte f8c8cc241dba23e0 → b6d1ba3dbe9922dc)
 - `2026-10-30 (constaté)` — **Agence de Services et de Paiement** (fiche du 2026-09-24) · Nature des données : ajouté Civilité
 - `2026-10-30` — **Cherry Rocher** (fiche du 2026-10-30) · **entrée ajoutée**
