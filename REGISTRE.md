@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**528** entrées ajoutées · **5** retirées · **578** corrections individuelles · **10** révisions groupées (708 fiches)
+**530** entrées ajoutées · **5** retirées · **580** corrections individuelles · **10** révisions groupées (708 fiches)
 
-Empreinte de tête : `3a9a5fdf3a57dbd288c47e77e5d554cbcaf9be742ae2c1a99356ced9f3e1b64a`
+Empreinte de tête : `996ccdc450d4f4aa0b21912de5c9127c5fd655620e53667de76ca31f6af818d7`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -12,6 +12,13 @@ Empreinte de tête : `3a9a5fdf3a57dbd288c47e77e5d554cbcaf9be742ae2c1a99356ced9f3
 Les changements sont classés du plus récent au plus ancien. La portée exacte de ce registre et ses limites sont décrites dans le [README](README.md).
 
 ---
+
+## Novembre 2026
+
+- `2026-11-01` — **Autosur** (fiche du 2026-10-31) · Statut : Revendiquée → Confirmée
+- `2026-11-01` — **Autosur** (fiche du 2026-10-31) · Description publique réécrite — texte non reproduit (empreinte dc4abb8cc7bd2b14 → 164bd9728e4b3739)
+- `2026-11-01` — **Groupe MPA** (fiche du 2026-11-01) · **entrée ajoutée**
+- `2026-11-01` — **Grande Pharmacie Bailly** (fiche du 2026-11-01) · **entrée ajoutée**
 
 ## Octobre 2026
 
