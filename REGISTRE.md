@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**532** entrées ajoutées · **5** retirées · **580** corrections individuelles · **10** révisions groupées (708 fiches)
+**533** entrées ajoutées · **5** retirées · **580** corrections individuelles · **10** révisions groupées (708 fiches)
 
-Empreinte de tête : `72783afe7429750f70461db545d5e96d8029828b06364ce72261b0222da1eaa8`
+Empreinte de tête : `94c7b570b9de5c1f83f2d659227abd559824582201e4bf41361e074c2715bf9d`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-02` — **AMSAM** (fiche du 2026-10-23) · **entrée ajoutée**
 - `2026-11-01` — **HelloDepann** (fiche du 2026-11-01) · **entrée ajoutée**
 - `2026-11-01` — **Bien'ici** (fiche du 2026-11-01) · **entrée ajoutée**
 - `2026-11-01` — **Autosur** (fiche du 2026-10-31) · Statut : Revendiquée → Confirmée
