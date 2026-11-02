@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**536** entrées ajoutées · **5** retirées · **598** corrections individuelles · **11** révisions groupées (729 fiches)
+**537** entrées ajoutées · **5** retirées · **600** corrections individuelles · **11** révisions groupées (729 fiches)
 
-Empreinte de tête : `fc0677f07146d0e781d5764da01820470ee3cc979b3487785ded2245824abc35`
+Empreinte de tête : `b2f426c04e86023267cf739ecdf411e5cf909a7f496ec884e476693efff58d4a`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,9 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-02 (constaté)` — **Leroy Merlin** (fiche du 2025-12-02) · Description publique réécrite — texte non reproduit (empreinte fced2dcec23e39ac → d9c1aabaf6faca41)
+- `2026-11-02 (constaté)` — **Leroy Merlin** (fiche du 2025-12-02) · Nature des données : ajouté Date de naissance, Situation familiale
+- `2026-11-02` — **Love and Vibes** (fiche du 2026-11-02) · **entrée ajoutée**
 - `2026-11-02 (constaté)` — **Zéro Logement Vacant** (fiche du 2026-08-28) · Statut : Revendiquée → Confirmée
 - `2026-11-02 (constaté)` — **Zéro Logement Vacant** (fiche du 2026-08-28) · Description publique réécrite — texte non reproduit (empreinte 5a55b93f5264a656 → 6d4f3244110b0d9a)
 - `2026-11-02 (constaté)` — **Armurerie Lavaux** (fiche du 2026-09-18) · Statut : Revendiquée → Confirmée
