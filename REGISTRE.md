@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**537** entrées ajoutées · **5** retirées · **600** corrections individuelles · **11** révisions groupées (729 fiches)
+**538** entrées ajoutées · **5** retirées · **600** corrections individuelles · **11** révisions groupées (729 fiches)
 
-Empreinte de tête : `b2f426c04e86023267cf739ecdf411e5cf909a7f496ec884e476693efff58d4a`
+Empreinte de tête : `3f90e030f0b6630125f6c4bcb89cc5111109e4f925f41bf45bd27c8807f6324f`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-02` — **Brico Dépôt** (fiche du 2026-11-02) · **entrée ajoutée**
 - `2026-11-02 (constaté)` — **Leroy Merlin** (fiche du 2025-12-02) · Description publique réécrite — texte non reproduit (empreinte fced2dcec23e39ac → d9c1aabaf6faca41)
 - `2026-11-02 (constaté)` — **Leroy Merlin** (fiche du 2025-12-02) · Nature des données : ajouté Date de naissance, Situation familiale
 - `2026-11-02` — **Love and Vibes** (fiche du 2026-11-02) · **entrée ajoutée**
