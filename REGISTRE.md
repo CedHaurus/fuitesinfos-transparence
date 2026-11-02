@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**536** entrées ajoutées · **5** retirées · **580** corrections individuelles · **11** révisions groupées (729 fiches)
+**536** entrées ajoutées · **5** retirées · **594** corrections individuelles · **11** révisions groupées (729 fiches)
 
-Empreinte de tête : `2d9e601512f77836048f0409ee8e45d85a99f9816541634eabff9916c81dc9a5`
+Empreinte de tête : `490591f67d51b985f2bc75177f10e8540666981aace17f25357b3af61396739e`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,20 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-02 (constaté)` — **Renaissance** (fiche du 2026-10-24) · Description publique réécrite — texte non reproduit (empreinte 2993db05ba92bacd → 8841733b4c01fb22)
+- `2026-11-02 (constaté)` — **Rassemblement National** (fiche du 2026-10-31) · Description publique réécrite — texte non reproduit (empreinte caf507ed03839102 → 000811e1d4d6a6c3)
+- `2026-11-02 (constaté)` — **Pierres et Mer** (fiche du 2026-10-29) · Description publique réécrite — texte non reproduit (empreinte e8c6c318abf85ec3 → 24b4f36df6d887d7)
+- `2026-11-02 (constaté)` — **Pharmacie des Congrès** (fiche du 2026-10-31) · Description publique réécrite — texte non reproduit (empreinte 8885e6607158c693 → c31a26df9464d169)
+- `2026-11-02 (constaté)` — **Pharmacie de la Cigogne** (fiche du 2026-10-31) · Description publique réécrite — texte non reproduit (empreinte 242f0aead810dfe6 → c7cb61657286fa17)
+- `2026-11-02 (constaté)` — **Orange** (fiche du 2026-10-23) · Description publique réécrite — texte non reproduit (empreinte ac8a8c4c7f0b4fd6 → 3ca8a651bb097f78)
+- `2026-11-02 (constaté)` — **La Halle au Sommeil** (fiche du 2026-10-30) · Description publique réécrite — texte non reproduit (empreinte af08262ad6384cff → 82ec7f77c9855a7b)
+- `2026-11-02 (constaté)` — **Kookabarra** (fiche du 2026-10-29) · Description publique réécrite — texte non reproduit (empreinte 5ec4a912cc4e84d3 → a892aff1dd81a63b)
+- `2026-11-02 (constaté)` — **Groupe MPA** (fiche du 2026-11-01) · Description publique réécrite — texte non reproduit (empreinte 35902abb18547ca0 → b8ed1ee28ea683ef)
+- `2026-11-02 (constaté)` — **Fédération française des échecs** (fiche du 2026-10-30) · Description publique réécrite — texte non reproduit (empreinte 36c64c5c225475ff → 66958d3b77064d61)
+- `2026-11-02 (constaté)` — **Fédération Sportive et Culturelle de France** (fiche du 2026-10-26) · Description publique réécrite — texte non reproduit (empreinte bd90073bc7f5d1fe → 39571b64f5678e4f)
+- `2026-11-02 (constaté)` — **Compagnie des Transports Strasbourgeois (CTS)** (fiche du 2026-10-28) · Description publique réécrite — texte non reproduit (empreinte 4918f53db04b108e → 70333f68c979446d)
+- `2026-11-02 (constaté)` — **Bien'ici** (fiche du 2026-11-01) · Description publique réécrite — texte non reproduit (empreinte a0448b1f3d055296 → 8b4ca6a945996f1c)
+- `2026-11-02 (constaté)` — **AMSAM** (fiche du 2026-10-23) · Description publique réécrite — texte non reproduit (empreinte 3fb980af5713d020 → cae4233e3155092a)
 - `2026-11-02 (constaté)` — **Révision groupée** · champ « Description publique » : 21 fiches modifiées dans le même lot (détail par fiche dans `registre.jsonl`)
 - `2026-11-02` — **Alaxione** (fiche du 2026-11-02) · **entrée ajoutée**
 - `2026-11-02` — **Auto-Planning** (fiche du 2026-10-28) · **entrée ajoutée**
