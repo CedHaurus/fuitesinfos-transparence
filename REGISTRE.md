@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**536** entrées ajoutées · **5** retirées · **580** corrections individuelles · **10** révisions groupées (708 fiches)
+**536** entrées ajoutées · **5** retirées · **580** corrections individuelles · **11** révisions groupées (729 fiches)
 
-Empreinte de tête : `fd7bb416cd7e51a6e3b97cbba0f02766a63f423eda1c182be594f45ec918a0b7`
+Empreinte de tête : `2d9e601512f77836048f0409ee8e45d85a99f9816541634eabff9916c81dc9a5`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-02 (constaté)` — **Révision groupée** · champ « Description publique » : 21 fiches modifiées dans le même lot (détail par fiche dans `registre.jsonl`)
 - `2026-11-02` — **Alaxione** (fiche du 2026-11-02) · **entrée ajoutée**
 - `2026-11-02` — **Auto-Planning** (fiche du 2026-10-28) · **entrée ajoutée**
 - `2026-11-02` — **DEKRA Automotive** (fiche du 2026-11-02) · **entrée ajoutée**
