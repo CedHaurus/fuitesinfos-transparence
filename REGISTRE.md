@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**533** entrées ajoutées · **5** retirées · **580** corrections individuelles · **10** révisions groupées (708 fiches)
+**534** entrées ajoutées · **5** retirées · **580** corrections individuelles · **10** révisions groupées (708 fiches)
 
-Empreinte de tête : `94c7b570b9de5c1f83f2d659227abd559824582201e4bf41361e074c2715bf9d`
+Empreinte de tête : `9d86c7db7ff38a8e5efa62aebbf9ec47e4e79eaaf2b0250af1bc848c1b823836`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-02` — **DEKRA Automotive** (fiche du 2026-11-02) · **entrée ajoutée**
 - `2026-11-02` — **AMSAM** (fiche du 2026-10-23) · **entrée ajoutée**
 - `2026-11-01` — **HelloDepann** (fiche du 2026-11-01) · **entrée ajoutée**
 - `2026-11-01` — **Bien'ici** (fiche du 2026-11-01) · **entrée ajoutée**
