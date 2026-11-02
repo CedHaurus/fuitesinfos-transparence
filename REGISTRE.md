@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**536** entrées ajoutées · **5** retirées · **594** corrections individuelles · **11** révisions groupées (729 fiches)
+**536** entrées ajoutées · **5** retirées · **598** corrections individuelles · **11** révisions groupées (729 fiches)
 
-Empreinte de tête : `490591f67d51b985f2bc75177f10e8540666981aace17f25357b3af61396739e`
+Empreinte de tête : `fc0677f07146d0e781d5764da01820470ee3cc979b3487785ded2245824abc35`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,10 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-02 (constaté)` — **Zéro Logement Vacant** (fiche du 2026-08-28) · Statut : Revendiquée → Confirmée
+- `2026-11-02 (constaté)` — **Zéro Logement Vacant** (fiche du 2026-08-28) · Description publique réécrite — texte non reproduit (empreinte 5a55b93f5264a656 → 6d4f3244110b0d9a)
+- `2026-11-02 (constaté)` — **Armurerie Lavaux** (fiche du 2026-09-18) · Statut : Revendiquée → Confirmée
+- `2026-11-02 (constaté)` — **Armurerie Lavaux** (fiche du 2026-09-18) · Description publique réécrite — texte non reproduit (empreinte a3d983d322f2b0c9 → f8c75b4deedbd694)
 - `2026-11-02 (constaté)` — **Renaissance** (fiche du 2026-10-24) · Description publique réécrite — texte non reproduit (empreinte 2993db05ba92bacd → 8841733b4c01fb22)
 - `2026-11-02 (constaté)` — **Rassemblement National** (fiche du 2026-10-31) · Description publique réécrite — texte non reproduit (empreinte caf507ed03839102 → 000811e1d4d6a6c3)
 - `2026-11-02 (constaté)` — **Pierres et Mer** (fiche du 2026-10-29) · Description publique réécrite — texte non reproduit (empreinte e8c6c318abf85ec3 → 24b4f36df6d887d7)
