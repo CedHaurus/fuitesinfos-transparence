@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**539** entrées ajoutées · **5** retirées · **600** corrections individuelles · **11** révisions groupées (729 fiches)
+**541** entrées ajoutées · **5** retirées · **600** corrections individuelles · **11** révisions groupées (729 fiches)
 
-Empreinte de tête : `1254a09c5e563414bbb3300d0f686144eec035badb797f5b0a5de6982830807d`
+Empreinte de tête : `2f580941a73a42482fc60ced0d3474a6d9f9d1b12425bb5eb1991d937305bb6a`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-03` — **JASP K9** (fiche du 2026-11-03) · **entrée ajoutée**
+- `2026-11-03` — **AFIB** (fiche du 2026-11-03) · **entrée ajoutée**
 - `2026-11-02` — **Office de tourisme de Strasbourg** (fiche du 2026-11-02) · **entrée ajoutée**
 - `2026-11-02` — **Brico Dépôt** (fiche du 2026-11-02) · **entrée ajoutée**
 - `2026-11-02 (constaté)` — **Leroy Merlin** (fiche du 2025-12-02) · Description publique réécrite — texte non reproduit (empreinte fced2dcec23e39ac → d9c1aabaf6faca41)
