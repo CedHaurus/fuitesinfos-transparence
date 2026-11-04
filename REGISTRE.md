@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**542** entrées ajoutées · **5** retirées · **600** corrections individuelles · **11** révisions groupées (729 fiches)
+**542** entrées ajoutées · **5** retirées · **603** corrections individuelles · **11** révisions groupées (729 fiches)
 
-Empreinte de tête : `2f3c11ad7d95dd5422ed0060401171bf9e574a5557deff287c226d1323a4a0d7`
+Empreinte de tête : `d6d84dc7382ec6aa26280a7fcb82ba405a0ee3899d48b6dcc78587d92366f492`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,9 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-04 (constaté)` — **Beauty Success** (fiche du 2026-08-21) · Statut : Revendiquée → Confirmée
+- `2026-11-04 (constaté)` — **Beauty Success** (fiche du 2026-08-21) · Description publique réécrite — texte non reproduit (empreinte 8e5e9ef4c5429d53 → 8257053bae18d8d5)
+- `2026-11-04 (constaté)` — **Beauty Success** (fiche du 2026-08-21) · Nature des données : ajouté Adresse postale, Numéro de téléphone
 - `2026-11-04` — **INRAE** (fiche du 2026-11-03) · **entrée ajoutée**
 - `2026-11-03` — **JASP K9** (fiche du 2026-11-03) · **entrée ajoutée**
 - `2026-11-03` — **AFIB** (fiche du 2026-11-03) · **entrée ajoutée**
