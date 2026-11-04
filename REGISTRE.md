@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**542** entrées ajoutées · **5** retirées · **603** corrections individuelles · **11** révisions groupées (729 fiches)
+**543** entrées ajoutées · **5** retirées · **603** corrections individuelles · **11** révisions groupées (729 fiches)
 
-Empreinte de tête : `d6d84dc7382ec6aa26280a7fcb82ba405a0ee3899d48b6dcc78587d92366f492`
+Empreinte de tête : `a0be1c107526f3484e2b6e9f9592da2482db4bee4fd84a1a1754c2c2ac3f41e2`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-04` — **Fédération française de pelote basque (FFPB)** (fiche du 2026-11-04) · **entrée ajoutée**
 - `2026-11-04 (constaté)` — **Beauty Success** (fiche du 2026-08-21) · Statut : Revendiquée → Confirmée
 - `2026-11-04 (constaté)` — **Beauty Success** (fiche du 2026-08-21) · Description publique réécrite — texte non reproduit (empreinte 8e5e9ef4c5429d53 → 8257053bae18d8d5)
 - `2026-11-04 (constaté)` — **Beauty Success** (fiche du 2026-08-21) · Nature des données : ajouté Adresse postale, Numéro de téléphone
