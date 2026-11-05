@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**546** entrées ajoutées · **5** retirées · **607** corrections individuelles · **11** révisions groupées (729 fiches)
+**548** entrées ajoutées · **5** retirées · **607** corrections individuelles · **11** révisions groupées (729 fiches)
 
-Empreinte de tête : `1664b3fc2f984559508fde7e1f4c86ce04fe294555c6af31a6f50232fe9f774c`
+Empreinte de tête : `24d55ddd08f0cd28b097f9e0869f72166b14bb31431318802d70da9ca167470d`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-05` — **Fédération Française de Tennis de Table** (fiche du 2026-11-05) · **entrée ajoutée**
+- `2026-11-05` — **Flandre Opale Habitat** (fiche du 2026-11-03) · **entrée ajoutée**
 - `2026-11-05 (constaté)` — **Bureau Vallée** (fiche du 2026-08-21) · Statut : Revendiquée → Confirmée
 - `2026-11-05 (constaté)` — **Bureau Vallée** (fiche du 2026-08-09) · Statut : Revendiquée → Confirmée
 - `2026-11-05 (constaté)` — **Bureau Vallée** (fiche du 2026-08-21) · Description publique réécrite — texte non reproduit (empreinte 247bb8284575ab3d → a863a8fe9d5ba882)
