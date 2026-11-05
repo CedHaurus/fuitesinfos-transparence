@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**545** entrées ajoutées · **5** retirées · **603** corrections individuelles · **11** révisions groupées (729 fiches)
+**546** entrées ajoutées · **5** retirées · **607** corrections individuelles · **11** révisions groupées (729 fiches)
 
-Empreinte de tête : `179e57d0660d3b7ec2cd93d174015ced49764d5e0a1eba0039ad90f0d6a52347`
+Empreinte de tête : `1664b3fc2f984559508fde7e1f4c86ce04fe294555c6af31a6f50232fe9f774c`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,11 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-05 (constaté)` — **Bureau Vallée** (fiche du 2026-08-21) · Statut : Revendiquée → Confirmée
+- `2026-11-05 (constaté)` — **Bureau Vallée** (fiche du 2026-08-09) · Statut : Revendiquée → Confirmée
+- `2026-11-05 (constaté)` — **Bureau Vallée** (fiche du 2026-08-21) · Description publique réécrite — texte non reproduit (empreinte 247bb8284575ab3d → a863a8fe9d5ba882)
+- `2026-11-05 (constaté)` — **Bureau Vallée** (fiche du 2026-08-09) · Description publique réécrite — texte non reproduit (empreinte 6eefefeafd34bc33 → ea69d71d3f73ce95)
+- `2026-11-05` — **Grand Paris Grand Est** (fiche du 2026-11-05) · **entrée ajoutée**
 - `2026-11-05` — **Lazeo** (fiche du 2026-11-04) · **entrée ajoutée**
 - `2026-11-04` — **Le Code by DEKRA** (fiche du 2026-11-04) · **entrée ajoutée**
 - `2026-11-04` — **Fédération française de pelote basque (FFPB)** (fiche du 2026-11-04) · **entrée ajoutée**
