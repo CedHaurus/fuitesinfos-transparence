@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**548** entrées ajoutées · **5** retirées · **609** corrections individuelles · **11** révisions groupées (729 fiches)
+**550** entrées ajoutées · **5** retirées · **609** corrections individuelles · **11** révisions groupées (729 fiches)
 
-Empreinte de tête : `6c052bb76d376b6757b92d753e9450615816786d62d6f41e6231138064335740`
+Empreinte de tête : `89a34e150c29ebcbc6e585dde540ebf89c82b5b89c36305967efbae537fb9ee1`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-05` — **Novabio** (fiche du 2026-10-30) · **entrée ajoutée**
+- `2026-11-05` — **Inovie** (fiche du 2026-11-02) · **entrée ajoutée**
 - `2026-11-05 (constaté)` — **Maileva** (fiche du 2026-10-09) · Description publique réécrite — texte non reproduit (empreinte ff11a0852c24620c → fc2f68295c1ed946)
 - `2026-11-05 (constaté)` — **Maileva** (fiche du 2026-10-09) · Nature des données : ajouté Adresse email, Adresse postale, Civilité, Identifiant interne, Montant, Nom complet
 - `2026-11-05` — **Fédération Française de Tennis de Table** (fiche du 2026-11-05) · **entrée ajoutée**
