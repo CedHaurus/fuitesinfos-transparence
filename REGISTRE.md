@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**550** entrées ajoutées · **5** retirées · **609** corrections individuelles · **11** révisions groupées (729 fiches)
+**550** entrées ajoutées · **5** retirées · **612** corrections individuelles · **11** révisions groupées (729 fiches)
 
-Empreinte de tête : `89a34e150c29ebcbc6e585dde540ebf89c82b5b89c36305967efbae537fb9ee1`
+Empreinte de tête : `f23616dde8d1aa36a604049e923df7f8a3c3048ad4eef4f7c87d0e0488dae0d0`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,9 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-05 (constaté)` — **Maileva** (fiche du 2026-10-09) · Description publique réécrite — texte non reproduit (empreinte fc2f68295c1ed946 → 5de50adffdcd5045)
+- `2026-11-05 (constaté)` — **Inovie Labosud** (fiche du 2025-09-23) · Volume concerné : 12 000 → 3 200 000
+- `2026-11-05 (constaté)` — **Inovie Labosud** (fiche du 2025-09-23) · Description publique réécrite — texte non reproduit (empreinte 9ffc2970303852a9 → c74e1a94378e91d4)
 - `2026-11-05` — **Novabio** (fiche du 2026-10-30) · **entrée ajoutée**
 - `2026-11-05` — **Inovie** (fiche du 2026-11-02) · **entrée ajoutée**
 - `2026-11-05 (constaté)` — **Maileva** (fiche du 2026-10-09) · Description publique réécrite — texte non reproduit (empreinte ff11a0852c24620c → fc2f68295c1ed946)
