@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**550** entrées ajoutées · **5** retirées · **612** corrections individuelles · **11** révisions groupées (729 fiches)
+**551** entrées ajoutées · **5** retirées · **612** corrections individuelles · **11** révisions groupées (729 fiches)
 
-Empreinte de tête : `f23616dde8d1aa36a604049e923df7f8a3c3048ad4eef4f7c87d0e0488dae0d0`
+Empreinte de tête : `41e8241e9290e3a1bea9e763a5a56d5213e9adfdc7c472f44b2792c28d271381`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-05` — **Forum Pompier** (fiche du 2026-11-05) · **entrée ajoutée**
 - `2026-11-05 (constaté)` — **Maileva** (fiche du 2026-10-09) · Description publique réécrite — texte non reproduit (empreinte fc2f68295c1ed946 → 5de50adffdcd5045)
 - `2026-11-05 (constaté)` — **Inovie Labosud** (fiche du 2025-09-23) · Volume concerné : 12 000 → 3 200 000
 - `2026-11-05 (constaté)` — **Inovie Labosud** (fiche du 2025-09-23) · Description publique réécrite — texte non reproduit (empreinte 9ffc2970303852a9 → c74e1a94378e91d4)
