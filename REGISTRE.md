@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**544** entrées ajoutées · **5** retirées · **603** corrections individuelles · **11** révisions groupées (729 fiches)
+**545** entrées ajoutées · **5** retirées · **603** corrections individuelles · **11** révisions groupées (729 fiches)
 
-Empreinte de tête : `132d8af9d4f05cf00bb2520d45c3898be81ffee7b179c96842e14b44128ff88f`
+Empreinte de tête : `179e57d0660d3b7ec2cd93d174015ced49764d5e0a1eba0039ad90f0d6a52347`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-05` — **Lazeo** (fiche du 2026-11-04) · **entrée ajoutée**
 - `2026-11-04` — **Le Code by DEKRA** (fiche du 2026-11-04) · **entrée ajoutée**
 - `2026-11-04` — **Fédération française de pelote basque (FFPB)** (fiche du 2026-11-04) · **entrée ajoutée**
 - `2026-11-04 (constaté)` — **Beauty Success** (fiche du 2026-08-21) · Statut : Revendiquée → Confirmée
