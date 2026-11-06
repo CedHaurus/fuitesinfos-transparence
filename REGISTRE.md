@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**551** entrées ajoutées · **5** retirées · **617** corrections individuelles · **11** révisions groupées (729 fiches)
+**551** entrées ajoutées · **5** retirées · **627** corrections individuelles · **11** révisions groupées (729 fiches)
 
-Empreinte de tête : `d7796651c95529825c974c6fbbb8c97edbf9c0e34b86f2cbbe6d8756197a9cbb`
+Empreinte de tête : `d4bc2442bd7fea9068e026e7f43cd7b80fd5b2c18fe1cb8cf980e864503b3b1e`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,16 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-06 (constaté)` — **Techni-Contact** (fiche du 2026-01-27) · Volume concerné : 5 880 000 → (vide)
+- `2026-11-06 (constaté)` — **Ministère des Sports (plateforme FOROM)** (fiche du 2026-02-19) · Volume concerné : 450 000 → (vide)
+- `2026-11-06 (constaté)` — **GPS Santé** (fiche du 2026-03-13) · Volume concerné : 890 000 → (vide)
+- `2026-11-06 (constaté)` — **Fédération française de voitures radio commandées (FFVRC)** (fiche du 2026-02-14) · Volume concerné : 97 795 → (vide)
+- `2026-11-06 (constaté)` — **Fédération Française d’Aïkido, Aïkibudo et Associées (FFAAA)** (fiche du 2026-02-25) · Volume concerné : 75 000 → (vide)
+- `2026-11-06 (constaté)` — **Fédération Française d’Aïkido, Aïkibudo et Associées (FFAAA)** (fiche du 2026-02-25) · Description publique réécrite — texte non reproduit (empreinte ce0f721dfd7d9181 → 88f4eb000852a681)
+- `2026-11-06 (constaté)` — **Fédération Française d’Athlétisme** (fiche du 2026-02-14) · Volume concerné : 2 712 073 → (vide)
+- `2026-11-06 (constaté)` — **Florajet** (fiche du 2026-03-03) · Volume concerné : 1 200 000 → (vide)
+- `2026-11-06 (constaté)` — **Beauty Success** (fiche du 2026-08-21) · Volume concerné : 4 730 000 → (vide)
+- `2026-11-06 (constaté)` — **Beauty Success** (fiche du 2026-08-21) · Description publique réécrite — texte non reproduit (empreinte 8257053bae18d8d5 → 4f46970d0accc24c)
 - `2026-11-06 (constaté)` — **Bouygues Telecom (Fibre)** (fiche du 2026-05-06) · Volume concerné : 4 100 000 → (vide)
 - `2026-11-06 (constaté)` — **Rassemblement National** (fiche du 2026-10-31) · Statut : Revendiquée → Confirmée
 - `2026-11-06 (constaté)` — **Rassemblement National** (fiche du 2026-10-31) · Description publique réécrite — texte non reproduit (empreinte 000811e1d4d6a6c3 → f5941fb4b2099de1)
