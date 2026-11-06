@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**551** entrées ajoutées · **5** retirées · **627** corrections individuelles · **11** révisions groupées (729 fiches)
+**551** entrées ajoutées · **5** retirées · **629** corrections individuelles · **11** révisions groupées (729 fiches)
 
-Empreinte de tête : `d4bc2442bd7fea9068e026e7f43cd7b80fd5b2c18fe1cb8cf980e864503b3b1e`
+Empreinte de tête : `d36f17c98feda5946a6fa879c2fee04068d1c473a55acc76e18194f76aa6cff5`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-06 (constaté)` — **ERDIL** (fiche du 2026-07-28) · Description publique réécrite — texte non reproduit (empreinte cc347a0ef387a904 → 7eeb42d1bfddb48a)
+- `2026-11-06 (constaté)` — **BreachForums (2025)** (fiche du 2026-01-10) · Site de l'entité : https://en.wikipedia.org/wiki/BreachForums → (vide)
 - `2026-11-06 (constaté)` — **Techni-Contact** (fiche du 2026-01-27) · Volume concerné : 5 880 000 → (vide)
 - `2026-11-06 (constaté)` — **Ministère des Sports (plateforme FOROM)** (fiche du 2026-02-19) · Volume concerné : 450 000 → (vide)
 - `2026-11-06 (constaté)` — **GPS Santé** (fiche du 2026-03-13) · Volume concerné : 890 000 → (vide)
