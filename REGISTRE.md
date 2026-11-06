@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**551** entrées ajoutées · **5** retirées · **629** corrections individuelles · **11** révisions groupées (729 fiches)
+**551** entrées ajoutées · **5** retirées · **629** corrections individuelles · **12** révisions groupées (845 fiches)
 
-Empreinte de tête : `d36f17c98feda5946a6fa879c2fee04068d1c473a55acc76e18194f76aa6cff5`
+Empreinte de tête : `552d6dfad1e412eacf70269d02f1db96c237c0e0a8be41c3d5b7bc628784f84a`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-06 (constaté)` — **Révision groupée** · champ « Nom de l'entité » : 116 fiches modifiées dans le même lot (détail par fiche dans `registre.jsonl`)
 - `2026-11-06 (constaté)` — **ERDIL** (fiche du 2026-07-28) · Description publique réécrite — texte non reproduit (empreinte cc347a0ef387a904 → 7eeb42d1bfddb48a)
 - `2026-11-06 (constaté)` — **BreachForums (2025)** (fiche du 2026-01-10) · Site de l'entité : https://en.wikipedia.org/wiki/BreachForums → (vide)
 - `2026-11-06 (constaté)` — **Techni-Contact** (fiche du 2026-01-27) · Volume concerné : 5 880 000 → (vide)
