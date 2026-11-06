@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**552** entrées ajoutées · **5** retirées · **629** corrections individuelles · **12** révisions groupées (845 fiches)
+**554** entrées ajoutées · **5** retirées · **629** corrections individuelles · **12** révisions groupées (845 fiches)
 
-Empreinte de tête : `246f5b360355ee164bbb21bafaaa692582d098c5e2612a61f784d2d20ef98203`
+Empreinte de tête : `2ef87778a67198b7cf9cc01ad2e67c29fbe79002df495fa0eb26d14be2edb610`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-06` — **Secours Islamique France** (fiche du 2026-11-06) · **entrée ajoutée**
+- `2026-11-06` — **Delcampe** (fiche du 2026-11-06) · **entrée ajoutée**
 - `2026-11-06` — **Transcontinents** (fiche du 2026-10-30) · **entrée ajoutée**
 - `2026-11-06 (constaté)` — **Révision groupée** · champ « Nom de l'entité » : 116 fiches modifiées dans le même lot (détail par fiche dans `registre.jsonl`)
 - `2026-11-06 (constaté)` — **ERDIL** (fiche du 2026-07-28) · Description publique réécrite — texte non reproduit (empreinte cc347a0ef387a904 → 7eeb42d1bfddb48a)
