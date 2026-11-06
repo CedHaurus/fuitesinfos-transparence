@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**551** entrées ajoutées · **5** retirées · **616** corrections individuelles · **11** révisions groupées (729 fiches)
+**551** entrées ajoutées · **5** retirées · **617** corrections individuelles · **11** révisions groupées (729 fiches)
 
-Empreinte de tête : `19708d3e377d2dee0978571048456386396240eba88a291da580bfa8aae95a6f`
+Empreinte de tête : `d7796651c95529825c974c6fbbb8c97edbf9c0e34b86f2cbbe6d8756197a9cbb`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-06 (constaté)` — **Bouygues Telecom (Fibre)** (fiche du 2026-05-06) · Volume concerné : 4 100 000 → (vide)
 - `2026-11-06 (constaté)` — **Rassemblement National** (fiche du 2026-10-31) · Statut : Revendiquée → Confirmée
 - `2026-11-06 (constaté)` — **Rassemblement National** (fiche du 2026-10-31) · Description publique réécrite — texte non reproduit (empreinte 000811e1d4d6a6c3 → f5941fb4b2099de1)
 - `2026-11-06 (constaté)` — **CCAS de Dunkerque** (fiche du 2026-01-31) · Site de l'entité : https://www.ville-dunkerque.fr/le-ccas → https://www.ville-dunkerque.fr/le-centre-communal-daction-sociale-de-dunkerque
