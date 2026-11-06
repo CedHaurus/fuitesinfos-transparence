@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**551** entrées ajoutées · **5** retirées · **612** corrections individuelles · **11** révisions groupées (729 fiches)
+**551** entrées ajoutées · **5** retirées · **614** corrections individuelles · **11** révisions groupées (729 fiches)
 
-Empreinte de tête : `41e8241e9290e3a1bea9e763a5a56d5213e9adfdc7c472f44b2792c28d271381`
+Empreinte de tête : `e8e0d8fb13e14ea31c6716a214d473b4bf25a8340f73d0a69b7de7d9c6570d14`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-06 (constaté)` — **CCAS de Dunkerque** (fiche du 2026-01-31) · Site de l'entité : https://www.ville-dunkerque.fr/le-ccas → https://www.ville-dunkerque.fr/le-centre-communal-daction-sociale-de-dunkerque
+- `2026-11-06 (constaté)` — **CCAS de Dunkerque** (fiche du 2026-01-31) · Description publique réécrite — texte non reproduit (empreinte 454e7132a50d78d7 → 271241372c5ac035)
 - `2026-11-05` — **Forum Pompier** (fiche du 2026-11-05) · **entrée ajoutée**
 - `2026-11-05 (constaté)` — **Maileva** (fiche du 2026-10-09) · Description publique réécrite — texte non reproduit (empreinte fc2f68295c1ed946 → 5de50adffdcd5045)
 - `2026-11-05 (constaté)` — **Inovie Labosud** (fiche du 2025-09-23) · Volume concerné : 12 000 → 3 200 000
