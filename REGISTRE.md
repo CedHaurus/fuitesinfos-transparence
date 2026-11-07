@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**554** entrées ajoutées · **5** retirées · **629** corrections individuelles · **12** révisions groupées (845 fiches)
+**556** entrées ajoutées · **5** retirées · **629** corrections individuelles · **12** révisions groupées (845 fiches)
 
-Empreinte de tête : `2ef87778a67198b7cf9cc01ad2e67c29fbe79002df495fa0eb26d14be2edb610`
+Empreinte de tête : `83fbeea23bb48893d4748242271cf5ac9eedb8712ec6d5769246b2a9762e32e5`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-07` — **Caverne des Jouets** (fiche du 2026-11-07) · **entrée ajoutée**
+- `2026-11-07` — **Aréas Assurances** (fiche du 2026-11-07) · **entrée ajoutée**
 - `2026-11-06` — **Secours Islamique France** (fiche du 2026-11-06) · **entrée ajoutée**
 - `2026-11-06` — **Delcampe** (fiche du 2026-11-06) · **entrée ajoutée**
 - `2026-11-06` — **Transcontinents** (fiche du 2026-10-30) · **entrée ajoutée**
