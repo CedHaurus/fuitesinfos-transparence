@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**557** entrées ajoutées · **5** retirées · **630** corrections individuelles · **12** révisions groupées (845 fiches)
+**558** entrées ajoutées · **5** retirées · **630** corrections individuelles · **12** révisions groupées (845 fiches)
 
-Empreinte de tête : `9084a53ac7aa2a1f69928a37a061dedf1102bda074f68e4c8ff0e58a00c27698`
+Empreinte de tête : `94457b41c067f093f6e8a25441d433d8cd2ce46a0e92b25f76769e29f379645e`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-07` — **Burda Style** (fiche du 2026-11-07) · **entrée ajoutée**
 - `2026-11-07 (constaté)` — **Beauty Success** (fiche du 2026-08-21) · Description publique réécrite — texte non reproduit (empreinte 4f46970d0accc24c → 1528fadec8e9efab)
 - `2026-11-07` — **Smartbox** (fiche du 2026-11-07) · **entrée ajoutée**
 - `2026-11-07` — **Caverne des Jouets** (fiche du 2026-11-07) · **entrée ajoutée**
