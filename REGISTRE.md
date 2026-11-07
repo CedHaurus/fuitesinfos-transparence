@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**558** entrées ajoutées · **5** retirées · **631** corrections individuelles · **12** révisions groupées (845 fiches)
+**558** entrées ajoutées · **5** retirées · **633** corrections individuelles · **12** révisions groupées (845 fiches)
 
-Empreinte de tête : `22a03463066ec29ee3639f5999b58facdc0e08811ef3a5355c55a534d9156769`
+Empreinte de tête : `98ba7df5c011e82d5772534674233fbb7ecf07300f029eac93a933a914b728e8`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-07 (constaté)` — **Auto-Planning** (fiche du 2026-10-28) · Description publique réécrite — texte non reproduit (empreinte 415a11e0ed07e31a → f3a1a493d8e053a7)
+- `2026-11-07 (constaté)` — **Auto-Planning** (fiche du 2026-10-28) · Nature des données : ajouté Adresse postale, Contenu de messages, Date de naissance, Données professionnelles, Historique de transactions, Jeton d'authentification, Mot de passe (haché), Ticket de support
 - `2026-11-07 (constaté)` — **Smartbox** (fiche du 2026-11-07) · Description publique réécrite — texte non reproduit (empreinte 7a8a8bf9fd99dc49 → 04cff049755ef592)
 - `2026-11-07` — **Burda Style** (fiche du 2026-11-07) · **entrée ajoutée**
 - `2026-11-07 (constaté)` — **Beauty Success** (fiche du 2026-08-21) · Description publique réécrite — texte non reproduit (empreinte 4f46970d0accc24c → 1528fadec8e9efab)
