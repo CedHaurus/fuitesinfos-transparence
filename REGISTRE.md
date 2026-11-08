@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**560** entrées ajoutées · **5** retirées · **633** corrections individuelles · **12** révisions groupées (845 fiches)
+**560** entrées ajoutées · **5** retirées · **657** corrections individuelles · **12** révisions groupées (845 fiches)
 
-Empreinte de tête : `f5c068bfb0f04b10abde74e36914dd885e8e980441743459f28bd4ce856aa05f`
+Empreinte de tête : `67989704e25eee72fc1b3a46d0ea8e45fc30c3b9b1473dc85b9cad22ef141626`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,30 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-08 (constaté)` — **École Nationale de la Sécurité (E.N.S.)** (fiche du 2025-02-28) · Statut : Confirmée → Revendiquée
+- `2026-11-08 (constaté)` — **École Nationale de la Sécurité (E.N.S.)** (fiche du 2025-02-28) · Description publique réécrite — texte non reproduit (empreinte 472a431de941af5a → aa083788d388ecce)
+- `2026-11-08 (constaté)` — **Éclaireuses et Éclaireurs de France (EEDF)** (fiche du 2025-03-20) · Statut : Confirmée → Revendiquée
+- `2026-11-08 (constaté)` — **Éclaireuses et Éclaireurs de France (EEDF)** (fiche du 2025-03-20) · Description publique réécrite — texte non reproduit (empreinte 90732b635fb847aa → 6522a66c97316e23)
+- `2026-11-08 (constaté)` — **Techni-Contact** (fiche du 2026-01-27) · Statut : Confirmée → Revendiquée
+- `2026-11-08 (constaté)` — **Techni-Contact** (fiche du 2026-01-27) · Description publique réécrite — texte non reproduit (empreinte a9a1535745d2544f → 6ba143315cad0675)
+- `2026-11-08 (constaté)` — **Stych** (fiche du 2026-03-08) · Volume concerné : 1 268 460 → (vide)
+- `2026-11-08 (constaté)` — **Solimut Mutuelle de France** (fiche du 2026-08-23) · Volume concerné : 1 382 878 → (vide)
+- `2026-11-08 (constaté)` — **O’Tacos** (fiche du 2026-01-27) · Statut : Confirmée → Revendiquée
+- `2026-11-08 (constaté)` — **O’Tacos** (fiche du 2026-01-27) · Description publique réécrite — texte non reproduit (empreinte d2b4b24b6cf9e33c → a1f1b8b20847835b)
+- `2026-11-08 (constaté)` — **On Air Fitness** (fiche du 2026-02-18) · Statut : Confirmée → Revendiquée
+- `2026-11-08 (constaté)` — **On Air Fitness** (fiche du 2026-02-18) · Description publique réécrite — texte non reproduit (empreinte 165aeb62b1a01530 → 33ec7441163742d9)
+- `2026-11-08 (constaté)` — **MyConnect** (fiche du 2026-02-25) · Volume concerné : 125 000 → (vide)
+- `2026-11-08 (constaté)` — **Made in Bébé** (fiche du 2026-08-21) · Volume concerné : 700 000 → (vide)
+- `2026-11-08 (constaté)` — **Intersport Rent** (fiche du 2026-03-11) · Volume concerné : 476 282 → (vide)
+- `2026-11-08 (constaté)` — **Compilation d'adresses d'agents de l'Intérieur et des Armées** (fiche du 2026-02-20) · Volume concerné : 8 861 → (vide)
+- `2026-11-08 (constaté)` — **CFDT** (fiche du 2026-02-18) · Volume concerné : 1 431 906 → (vide)
+- `2026-11-08 (constaté)` — **Auchan** (fiche du 2025-08-21) · Volume concerné : 500 000 → (vide)
+- `2026-11-08 (constaté)` — **Auchan** (fiche du 2025-08-21) · Description publique réécrite — texte non reproduit (empreinte 18544bcdca9710ed → 2ad6714e03b7a702)
+- `2026-11-08 (constaté)` — **Auchan** (fiche du 2025-08-21) · Nature des données : retiré Carte de paiement
+- `2026-11-08 (constaté)` — **Allobébé** (fiche du 2026-08-21) · Volume concerné : 1 136 058 → (vide)
+- `2026-11-08 (constaté)` — **Allegro Musique** (fiche du 2025-12-28) · Statut : Confirmée → Revendiquée
+- `2026-11-08 (constaté)` — **Allegro Musique** (fiche du 2025-12-28) · Description publique réécrite — texte non reproduit (empreinte 049dffc84efae515 → 0d1bb693575d9e0d)
+- `2026-11-08 (constaté)` — **Adecco France** (fiche du 2025-12-24) · Statut : Confirmée → Revendiquée
 - `2026-11-08` — **SGS** (fiche du 2026-11-08) · **entrée ajoutée**
 - `2026-11-08` — **Arromanches Militaria** (fiche du 2026-11-07) · **entrée ajoutée**
 - `2026-11-07 (constaté)` — **Auto-Planning** (fiche du 2026-10-28) · Description publique réécrite — texte non reproduit (empreinte 415a11e0ed07e31a → f3a1a493d8e053a7)
