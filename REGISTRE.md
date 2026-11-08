@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**559** entrées ajoutées · **5** retirées · **633** corrections individuelles · **12** révisions groupées (845 fiches)
+**560** entrées ajoutées · **5** retirées · **633** corrections individuelles · **12** révisions groupées (845 fiches)
 
-Empreinte de tête : `3df25c5caf116f3a3086e8395c5c0b762b42f75ad32dd3b599bafe76373481ed`
+Empreinte de tête : `f5c068bfb0f04b10abde74e36914dd885e8e980441743459f28bd4ce856aa05f`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-08` — **SGS** (fiche du 2026-11-08) · **entrée ajoutée**
 - `2026-11-08` — **Arromanches Militaria** (fiche du 2026-11-07) · **entrée ajoutée**
 - `2026-11-07 (constaté)` — **Auto-Planning** (fiche du 2026-10-28) · Description publique réécrite — texte non reproduit (empreinte 415a11e0ed07e31a → f3a1a493d8e053a7)
 - `2026-11-07 (constaté)` — **Auto-Planning** (fiche du 2026-10-28) · Nature des données : ajouté Adresse postale, Contenu de messages, Date de naissance, Données professionnelles, Historique de transactions, Jeton d'authentification, Mot de passe (haché), Ticket de support
