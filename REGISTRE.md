@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**561** entrées ajoutées · **5** retirées · **657** corrections individuelles · **12** révisions groupées (845 fiches)
+**563** entrées ajoutées · **5** retirées · **657** corrections individuelles · **12** révisions groupées (845 fiches)
 
-Empreinte de tête : `b748201802133db11fc1ac46cc2717fbb9cc53303b9a7d04db3ee0fdb1f1a50b`
+Empreinte de tête : `6094252ccc286b0d69b53ca3995a9c99d0f305909021ae0ed4dd7206bbe08905`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-08` — **MBS Design** (fiche du 2026-11-08) · **entrée ajoutée**
+- `2026-11-08` — **InOutlet** (fiche du 2026-11-08) · **entrée ajoutée**
 - `2026-11-08` — **Pharmatomic** (fiche du 2026-11-08) · **entrée ajoutée**
 - `2026-11-08 (constaté)` — **École Nationale de la Sécurité (E.N.S.)** (fiche du 2025-02-28) · Statut : Confirmée → Revendiquée
 - `2026-11-08 (constaté)` — **École Nationale de la Sécurité (E.N.S.)** (fiche du 2025-02-28) · Description publique réécrite — texte non reproduit (empreinte 472a431de941af5a → aa083788d388ecce)
