@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**564** entrées ajoutées · **5** retirées · **661** corrections individuelles · **12** révisions groupées (845 fiches)
+**565** entrées ajoutées · **5** retirées · **661** corrections individuelles · **12** révisions groupées (845 fiches)
 
-Empreinte de tête : `86a1f50dd70c2d6f4730a567bbf295ec514d3cae9ade71c6495a97cfa1c4b30c`
+Empreinte de tête : `0f03801c783cd9479a9edcacb35684db4afe4fa04906eff25850c2ca8359b0d9`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-09` — **ADEMS** (fiche du 2026-11-09) · **entrée ajoutée**
 - `2026-11-09` — **Garanka** (fiche du 2026-11-09) · **entrée ajoutée**
 - `2026-11-09 (constaté)` — **Nature & Découvertes** (fiche du 2026-09-14) · Description publique réécrite — texte non reproduit (empreinte 013795bc63def1cf → 4b802b3ef4ff3a70)
 - `2026-11-09 (constaté)` — **Nature & Découvertes** (fiche du 2026-09-14) · Nature des données : ajouté Civilité
