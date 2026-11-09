@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**563** entrées ajoutées · **5** retirées · **659** corrections individuelles · **12** révisions groupées (845 fiches)
+**563** entrées ajoutées · **5** retirées · **661** corrections individuelles · **12** révisions groupées (845 fiches)
 
-Empreinte de tête : `9bc6ffc69804370c704efac08c1ff2a85701aa3602ccaaa620b64e61b105102c`
+Empreinte de tête : `a31506a3bcb2790186d3fbfb5acdcc9d210fc5e6a95acec3a96b43a6458950e5`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-09 (constaté)` — **Nature & Découvertes** (fiche du 2026-09-14) · Description publique réécrite — texte non reproduit (empreinte 013795bc63def1cf → 4b802b3ef4ff3a70)
+- `2026-11-09 (constaté)` — **Nature & Découvertes** (fiche du 2026-09-14) · Nature des données : ajouté Civilité
 - `2026-11-09` — **Fédération Française de Tennis de Table** (fiche du 2026-11-05) · Statut : Revendiquée → Confirmée
 - `2026-11-09` — **Fédération Française de Tennis de Table** (fiche du 2026-11-05) · Description publique réécrite — texte non reproduit (empreinte 92e17ad71f95cab4 → 7de311c6d5c74872)
 - `2026-11-08` — **MBS Design** (fiche du 2026-11-08) · **entrée ajoutée**
