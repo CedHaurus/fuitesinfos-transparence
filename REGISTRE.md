@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**568** entrées ajoutées · **5** retirées · **664** corrections individuelles · **12** révisions groupées (845 fiches)
+**570** entrées ajoutées · **5** retirées · **664** corrections individuelles · **12** révisions groupées (845 fiches)
 
-Empreinte de tête : `24db2cffd213c8ee48db687b9ea5b7d2132ca07d76b2a213bf5be900ba42642b`
+Empreinte de tête : `94e38b712485e0e8d088879b80704d314b7fdc4da9c936ba5a6e638a850507e5`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-10` — **Geofixe** (fiche du 2026-11-10) · **entrée ajoutée**
+- `2026-11-10` — **EduGroupe** (fiche du 2026-11-10) · **entrée ajoutée**
 - `2026-11-10 (constaté)` — **Brico Dépôt** (fiche du 2026-11-02) · Statut : Revendiquée → Confirmée
 - `2026-11-10 (constaté)` — **Brico Dépôt** (fiche du 2026-11-02) · Description publique réécrite — texte non reproduit (empreinte f6a8115df3734fb4 → 16dbb340de87a44a)
 - `2026-11-10` — **Altéal** (fiche du 2026-11-09) · **entrée ajoutée**
