@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**566** entrées ajoutées · **5** retirées · **662** corrections individuelles · **12** révisions groupées (845 fiches)
+**567** entrées ajoutées · **5** retirées · **662** corrections individuelles · **12** révisions groupées (845 fiches)
 
-Empreinte de tête : `43f973f06a432a5133e8c3322dd1e2e1a2c5cfb13d68bd965571f73de63b3796`
+Empreinte de tête : `9be373ab35e81f728ef9ae098a6e2e613e813c640876531db61bcc75baf726b3`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-10` — **SOS Oxygène** (fiche du 2026-11-10) · **entrée ajoutée**
 - `2026-11-10` — **ColorBox** (fiche du 2026-11-09) · Nature des données : retiré IBAN
 - `2026-11-09` — **ColorBox** (fiche du 2026-11-09) · **entrée ajoutée**
 - `2026-11-09` — **ADEMS** (fiche du 2026-11-09) · **entrée ajoutée**
