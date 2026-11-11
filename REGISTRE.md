@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**573** entrées ajoutées · **5** retirées · **667** corrections individuelles · **13** révisions groupées (945 fiches)
+**574** entrées ajoutées · **5** retirées · **667** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `155f07fc07beab61d170b52bd29fd45d34e02868bfac9ba05cdc27fd6c51b001`
+Empreinte de tête : `4d8c188ad11895c4e2956e47c753d1fc32b32cb8a92eac9a8b56a5f813e9b1a4`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-11` — **Cerballiance** (fiche du 2026-11-10) · **entrée ajoutée**
 - `2026-11-11` — **Hôpital Foch** (fiche du 2026-11-06) · **entrée ajoutée**
 - `2026-11-11 (constaté)` — **MGEL** (fiche du 2026-09-12) · Description publique réécrite — texte non reproduit (empreinte 201eeb279566e886 → e8f04573531bdabc)
 - `2026-11-11` — **Monceau Fleurs** (fiche du 2026-11-11) · **entrée ajoutée**
