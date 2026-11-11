@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**577** entrées ajoutées · **5** retirées · **673** corrections individuelles · **13** révisions groupées (945 fiches)
+**577** entrées ajoutées · **5** retirées · **677** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `5c24cb1d20231f7cb9d743499d9550a2703c02b3082cc72cb740114dcf4b17fe`
+Empreinte de tête : `3bb2c24caa23c39d63ef57a7f17c3c11097172c28227295ffc61343de5dc7440`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,10 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-11 (constaté)` — **La Mutuelle Communale** (fiche du 2026-10-26) · Statut : Revendiquée → Confirmée
+- `2026-11-11 (constaté)` — **La Mutuelle Communale** (fiche du 2026-10-26) · Description publique réécrite — texte non reproduit (empreinte be97673b33733729 → 4f424f7208998179)
+- `2026-11-11 (constaté)` — **Kiassure** (fiche du 2026-09-27) · Statut : Revendiquée → Confirmée
+- `2026-11-11 (constaté)` — **Kiassure** (fiche du 2026-09-27) · Description publique réécrite — texte non reproduit (empreinte d4912aee42125379 → 08e9a22683f1a1ae)
 - `2026-11-11 (constaté)` — **Pharmacie des Congrès** (fiche du 2026-10-31) · Statut : Revendiquée → Confirmée
 - `2026-11-11 (constaté)` — **Pharmacie des Congrès** (fiche du 2026-10-31) · Description publique réécrite — texte non reproduit (empreinte c31a26df9464d169 → 9335b559b451660a)
 - `2026-11-11 (constaté)` — **DEKRA** (fiche du 2026-10-24) · Statut : Revendiquée → Confirmée
