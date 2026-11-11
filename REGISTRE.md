@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**575** entrées ajoutées · **5** retirées · **667** corrections individuelles · **13** révisions groupées (945 fiches)
+**576** entrées ajoutées · **5** retirées · **667** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `e7773bdaf291c27933222df1a0d021b60a8e4cb9ca383a777db99c0d033dd3a7`
+Empreinte de tête : `7fcbb3a29bb44a58a0b206887f4ed56620ed0a523fae57fb76251222878438a8`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-11` — **ARTE** (fiche du 2026-11-11) · **entrée ajoutée**
 - `2026-11-11` — **Planity** (fiche du 2026-11-11) · **entrée ajoutée**
 - `2026-11-11` — **Cerballiance** (fiche du 2026-11-10) · **entrée ajoutée**
 - `2026-11-11` — **Hôpital Foch** (fiche du 2026-11-06) · **entrée ajoutée**
