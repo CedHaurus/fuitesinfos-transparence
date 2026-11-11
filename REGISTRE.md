@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**577** entrées ajoutées · **5** retirées · **667** corrections individuelles · **13** révisions groupées (945 fiches)
+**577** entrées ajoutées · **5** retirées · **673** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `cb380e2ba3e9526c9cdf13d520ff173eb21accac56f3843ecf82d4fc840e8ee8`
+Empreinte de tête : `5c24cb1d20231f7cb9d743499d9550a2703c02b3082cc72cb740114dcf4b17fe`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,12 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-11 (constaté)` — **Pharmacie des Congrès** (fiche du 2026-10-31) · Statut : Revendiquée → Confirmée
+- `2026-11-11 (constaté)` — **Pharmacie des Congrès** (fiche du 2026-10-31) · Description publique réécrite — texte non reproduit (empreinte c31a26df9464d169 → 9335b559b451660a)
+- `2026-11-11 (constaté)` — **DEKRA** (fiche du 2026-10-24) · Statut : Revendiquée → Confirmée
+- `2026-11-11 (constaté)` — **DEKRA** (fiche du 2026-10-24) · Description publique réécrite — texte non reproduit (empreinte 92a530370aeb3ba7 → cb018132c6207b6a)
+- `2026-11-11 (constaté)` — **Armurerie Gilles** (fiche du 2026-10-17) · Statut : Revendiquée → Confirmée
+- `2026-11-11 (constaté)` — **Armurerie Gilles** (fiche du 2026-10-17) · Description publique réécrite — texte non reproduit (empreinte 3720c316f56aedac → 34f3f2191cc2d45d)
 - `2026-11-11` — **Reduction-Impots.fr** (fiche du 2025-05-11) · **entrée ajoutée**
 - `2026-11-11` — **ARTE** (fiche du 2026-11-11) · **entrée ajoutée**
 - `2026-11-11` — **Planity** (fiche du 2026-11-11) · **entrée ajoutée**
