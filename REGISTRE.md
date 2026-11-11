@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**571** entrées ajoutées · **5** retirées · **666** corrections individuelles · **13** révisions groupées (945 fiches)
+**572** entrées ajoutées · **5** retirées · **666** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `5c5196e1bae7ccf4303c61bb51a74bb5001030adfd958a3c6d978e84938d1925`
+Empreinte de tête : `a06f02f10d1f29763a3e62a45a688680e706f45c1beedfcbb47bb1c26fc25de6`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-11` — **Monceau Fleurs** (fiche du 2026-11-11) · **entrée ajoutée**
 - `2026-11-11 (constaté)` — **Mistertemp' group** (fiche du 2026-08-26) · Description publique réécrite — texte non reproduit (empreinte 1a0db5ba8f526cb2 → 049e867f9a6dbb82)
 - `2026-11-11 (constaté)` — **Mistertemp' group** (fiche du 2026-08-26) · Nature des données : ajouté Adresse email, Nationalité, Nom, Numéro de téléphone, Prénom
 - `2026-11-11` — **Effy** (fiche du 2026-11-11) · **entrée ajoutée**
