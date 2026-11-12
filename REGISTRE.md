@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**581** entrées ajoutées · **5** retirées · **698** corrections individuelles · **13** révisions groupées (945 fiches)
+**582** entrées ajoutées · **5** retirées · **700** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `61feac3170465bbb486a0508e180809d44160037cb28c5401f657106520108a4`
+Empreinte de tête : `b8a5328993b16011a5722328a0cdafef7731ac1524758e6bab71399f048e52d5`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,9 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-12 (constaté)` — **Aréas Assurances** (fiche du 2026-11-07) · Statut : Revendiquée → Confirmée
+- `2026-11-12 (constaté)` — **Aréas Assurances** (fiche du 2026-11-07) · Description publique réécrite — texte non reproduit (empreinte 6fcc8b2e40321b91 → 7700f6e428223ac9)
+- `2026-11-12` — **1001RDV** (fiche du 2026-11-12) · **entrée ajoutée**
 - `2026-11-12` — **ManyFics** (fiche du 2026-11-12) · **entrée ajoutée**
 - `2026-11-12` — **Ciblex** (fiche du 2026-11-12) · **entrée ajoutée**
 - `2026-11-12 (constaté)` — **VACAF** (fiche du 2026-10-09) · Statut : Revendiquée → Confirmée
