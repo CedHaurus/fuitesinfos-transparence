@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**584** entrées ajoutées · **6** retirées · **702** corrections individuelles · **13** révisions groupées (945 fiches)
+**584** entrées ajoutées · **6** retirées · **703** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `3e8612881b10852a67a95c82eafb76925af06a0ebb41b1288349c779a3a9fbc1`
+Empreinte de tête : `5f6334fd858cdc6b368e607d1d57bb04b3eb592109ffbafe5100d698dcc9af42`
 
 > **6 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-12 (constaté)` — **1001RDV** (fiche du 2026-11-12) · Description publique réécrite — texte non reproduit (empreinte b51200f10564b002 → e5f44a38ff2dd9aa)
 - `2026-11-12` — **Qare** (fiche du 2026-11-12) · **entrée ajoutée**
 - `2026-11-12` — **Macif Avantages** (fiche du 2026-11-12) · **entrée ajoutée**
 - `2026-11-12 (constaté)` — **Planity** (fiche du 2026-11-11) · **ENTRÉE RETIRÉE** — motif : Erreur de notre part (La fiche rapportait comme une fuite de données un extrait de 50 fiches d'établissements professionnels (salons de coiffure, instituts de beauté) présenté le 11 novembre 2026 sur un forum comme une base de planity.com. Planity a indiqué le 12 novembre 2026 que ces données sont publiquement accessibles sur son site. Vérification faite le jour même : tous les champs de l'extrait, y compris ceux que la fiche décrivait à tort comme internes et absents des pages publiques (identifiant de CRM, statut, code de base, options du logiciel), figurent dans les données que la page publique de chaque établissement transmet à tout visiteur, pour les 42 établissements encore en ligne ; les 8 autres n'ont plus de page publique. L'extrait relève de la collecte automatisée de pages publiques, pas d'une fuite de données. La fiche, qui affirmait le contraire, était erronée ; elle est retirée du catalogue, avec son article.)

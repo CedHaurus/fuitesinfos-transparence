@@ -1,5 +1,5 @@
 registre fuitesinfos
-evenements: 1305
+evenements: 1306
 base: 580
 dernier_constat: 2026-11-12
-empreinte_tete: 3e8612881b10852a67a95c82eafb76925af06a0ebb41b1288349c779a3a9fbc1
+empreinte_tete: 5f6334fd858cdc6b368e607d1d57bb04b3eb592109ffbafe5100d698dcc9af42
