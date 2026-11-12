@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**577** entrées ajoutées · **5** retirées · **689** corrections individuelles · **13** révisions groupées (945 fiches)
+**578** entrées ajoutées · **5** retirées · **689** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `e3a5ec12ae8519942bafd8b4d2668e2c63a5535603baffe5fee5a01e57cbc86c`
+Empreinte de tête : `9545c5c95a8d5c261d66a0b23246e890139bb5252d565fbdb7fe9ebed0a777a9`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-12` — **Gestool** (fiche du 2026-11-11) · **entrée ajoutée**
 - `2026-11-12 (constaté)` — **SOS Oxygène** (fiche du 2026-11-10) · Description publique réécrite — texte non reproduit (empreinte b6cd7c2fd3bd2637 → 6b56e862f519b1cf)
 - `2026-11-12 (constaté)` — **Reduction-Impots.fr** (fiche du 2025-05-11) · Description publique réécrite — texte non reproduit (empreinte 7ff64ddec80122f0 → 0ced7737c58ee137)
 - `2026-11-12 (constaté)` — **Pharmatomic** (fiche du 2026-11-08) · Description publique réécrite — texte non reproduit (empreinte 1c6bebf5b910a840 → e6083d7c7c50f724)
