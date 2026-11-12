@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**578** entrées ajoutées · **5** retirées · **689** corrections individuelles · **13** révisions groupées (945 fiches)
+**579** entrées ajoutées · **5** retirées · **698** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `9545c5c95a8d5c261d66a0b23246e890139bb5252d565fbdb7fe9ebed0a777a9`
+Empreinte de tête : `528a00de797bf2921427a45df3e239cdf73f09e6bb6b84578b31c2fe1d29f2c8`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,16 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-12 (constaté)` — **VACAF** (fiche du 2026-10-09) · Statut : Revendiquée → Confirmée
+- `2026-11-12 (constaté)` — **VACAF** (fiche du 2026-10-09) · Description publique réécrite — texte non reproduit (empreinte 4b9b912b61987053 → 4f2a629e35a931f0)
+- `2026-11-12 (constaté)` — **Office français de la biodiversité (OFB)** (fiche du 2026-10-04) · Description publique réécrite — texte non reproduit (empreinte 9084fde663e855cd → 10d8bb905398574b)
+- `2026-11-12 (constaté)` — **Office français de la biodiversité (OFB)** (fiche du 2026-10-04) · Nature des données : ajouté Données de mineurs
+- `2026-11-12 (constaté)` — **France Travail** (fiche du 2026-10-07) · Statut : Revendiquée → Confirmée
+- `2026-11-12 (constaté)` — **France Travail** (fiche du 2026-10-07) · Description publique réécrite — texte non reproduit (empreinte 0a18e36028f6397d → 2d00dcf5afabbe2d)
+- `2026-11-12 (constaté)` — **Agence de Services et de Paiement** (fiche du 2026-10-09) · Statut : Revendiquée → Confirmée
+- `2026-11-12 (constaté)` — **Agence de Services et de Paiement** (fiche du 2026-10-09) · Volume concerné : (vide) → 30 500
+- `2026-11-12 (constaté)` — **Agence de Services et de Paiement** (fiche du 2026-10-09) · Description publique réécrite — texte non reproduit (empreinte 372eaee143049c7b → c08215563fc988f5)
+- `2026-11-12` — **Ministère de l'Europe et des Affaires étrangères** (fiche du 2026-11-12) · **entrée ajoutée**
 - `2026-11-12` — **Gestool** (fiche du 2026-11-11) · **entrée ajoutée**
 - `2026-11-12 (constaté)` — **SOS Oxygène** (fiche du 2026-11-10) · Description publique réécrite — texte non reproduit (empreinte b6cd7c2fd3bd2637 → 6b56e862f519b1cf)
 - `2026-11-12 (constaté)` — **Reduction-Impots.fr** (fiche du 2025-05-11) · Description publique réécrite — texte non reproduit (empreinte 7ff64ddec80122f0 → 0ced7737c58ee137)
