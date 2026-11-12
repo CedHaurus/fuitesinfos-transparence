@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**582** entrées ajoutées · **5** retirées · **700** corrections individuelles · **13** révisions groupées (945 fiches)
+**582** entrées ajoutées · **5** retirées · **702** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `b8a5328993b16011a5722328a0cdafef7731ac1524758e6bab71399f048e52d5`
+Empreinte de tête : `99c43d28e2f06101f3712c29fc3c41cdea88f407221e3755504a3f07c22e11e5`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-12 (constaté)` — **EduGroupe** (fiche du 2026-11-10) · Statut : Revendiquée → Confirmée
+- `2026-11-12 (constaté)` — **EduGroupe** (fiche du 2026-11-10) · Description publique réécrite — texte non reproduit (empreinte 2fc32d8219babe2c → 641ebdcd2a83840f)
 - `2026-11-12 (constaté)` — **Aréas Assurances** (fiche du 2026-11-07) · Statut : Revendiquée → Confirmée
 - `2026-11-12 (constaté)` — **Aréas Assurances** (fiche du 2026-11-07) · Description publique réécrite — texte non reproduit (empreinte 6fcc8b2e40321b91 → 7700f6e428223ac9)
 - `2026-11-12` — **1001RDV** (fiche du 2026-11-12) · **entrée ajoutée**
