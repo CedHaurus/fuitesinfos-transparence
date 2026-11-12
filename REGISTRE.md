@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**579** entrées ajoutées · **5** retirées · **698** corrections individuelles · **13** révisions groupées (945 fiches)
+**581** entrées ajoutées · **5** retirées · **698** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `528a00de797bf2921427a45df3e239cdf73f09e6bb6b84578b31c2fe1d29f2c8`
+Empreinte de tête : `61feac3170465bbb486a0508e180809d44160037cb28c5401f657106520108a4`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-12` — **ManyFics** (fiche du 2026-11-12) · **entrée ajoutée**
+- `2026-11-12` — **Ciblex** (fiche du 2026-11-12) · **entrée ajoutée**
 - `2026-11-12 (constaté)` — **VACAF** (fiche du 2026-10-09) · Statut : Revendiquée → Confirmée
 - `2026-11-12 (constaté)` — **VACAF** (fiche du 2026-10-09) · Description publique réécrite — texte non reproduit (empreinte 4b9b912b61987053 → 4f2a629e35a931f0)
 - `2026-11-12 (constaté)` — **Office français de la biodiversité (OFB)** (fiche du 2026-10-04) · Description publique réécrite — texte non reproduit (empreinte 9084fde663e855cd → 10d8bb905398574b)
