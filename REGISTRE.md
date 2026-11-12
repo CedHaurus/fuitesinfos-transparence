@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**586** entrées ajoutées · **6** retirées · **706** corrections individuelles · **13** révisions groupées (945 fiches)
+**586** entrées ajoutées · **6** retirées · **708** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `75c87e5341abb53e8826eb62604a1141bbd2bed5bd11ee90a8ccc0531ee23531`
+Empreinte de tête : `a1e4357ac30631275c2582f38d71dff35ef83d52e569e9351976c548a64ed2aa`
 
 > **6 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-12 (constaté)` — **Geofixe** (fiche du 2026-11-10) · Statut : Revendiquée → Confirmée
+- `2026-11-12 (constaté)` — **Geofixe** (fiche du 2026-11-10) · Description publique réécrite — texte non reproduit (empreinte b624b3fbc9bc8c12 → 3fe30498a3050da3)
 - `2026-11-12 (constaté)` — **LaSante.net** (fiche du 2026-08-12) · Description publique réécrite — texte non reproduit (empreinte 99160150308dfc16 → 7b9bbe0d6c96c7c0)
 - `2026-11-12 (constaté)` — **LaSante.net** (fiche du 2026-08-12) · Nature des données : ajouté Adresse IP, Civilité, Date de naissance, Données de santé, Données professionnelles, Mot de passe (haché), Numéro de téléphone
 - `2026-11-12 (constaté)` — **1001RDV** (fiche du 2026-11-12) · Description publique réécrite — texte non reproduit (empreinte e5f44a38ff2dd9aa → 86d7e0e4ca2d3726)
