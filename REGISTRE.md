@@ -2,12 +2,12 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**582** entrées ajoutées · **5** retirées · **702** corrections individuelles · **13** révisions groupées (945 fiches)
+**582** entrées ajoutées · **6** retirées · **702** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `99c43d28e2f06101f3712c29fc3c41cdea88f407221e3755504a3f07c22e11e5`
+Empreinte de tête : `958ee7f1e4b09aeecf5ebb53b564c9d394a369ba19c9728c7a56addfb236c5cb`
 
-> **5 entrée(s) retirée(s) depuis le début de cette période.**
-> Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
+> **6 entrée(s) retirée(s) depuis le début de cette période.**
+> Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
 
 Les changements sont classés du plus récent au plus ancien. La portée exacte de ce registre et ses limites sont décrites dans le [README](README.md).
 
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-12 (constaté)` — **Planity** (fiche du 2026-11-11) · **ENTRÉE RETIRÉE** — motif : Erreur de notre part (La fiche rapportait comme une fuite de données un extrait de 50 fiches d'établissements professionnels (salons de coiffure, instituts de beauté) présenté le 11 novembre 2026 sur un forum comme une base de planity.com. Planity a indiqué le 12 novembre 2026 que ces données sont publiquement accessibles sur son site. Vérification faite le jour même : tous les champs de l'extrait, y compris ceux que la fiche décrivait à tort comme internes et absents des pages publiques (identifiant de CRM, statut, code de base, options du logiciel), figurent dans les données que la page publique de chaque établissement transmet à tout visiteur, pour les 42 établissements encore en ligne ; les 8 autres n'ont plus de page publique. L'extrait relève de la collecte automatisée de pages publiques, pas d'une fuite de données. La fiche, qui affirmait le contraire, était erronée ; elle est retirée du catalogue, avec son article.)
 - `2026-11-12 (constaté)` — **EduGroupe** (fiche du 2026-11-10) · Statut : Revendiquée → Confirmée
 - `2026-11-12 (constaté)` — **EduGroupe** (fiche du 2026-11-10) · Description publique réécrite — texte non reproduit (empreinte 2fc32d8219babe2c → 641ebdcd2a83840f)
 - `2026-11-12 (constaté)` — **Aréas Assurances** (fiche du 2026-11-07) · Statut : Revendiquée → Confirmée
