@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**577** entrées ajoutées · **5** retirées · **677** corrections individuelles · **13** révisions groupées (945 fiches)
+**577** entrées ajoutées · **5** retirées · **689** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `3bb2c24caa23c39d63ef57a7f17c3c11097172c28227295ffc61343de5dc7440`
+Empreinte de tête : `e3a5ec12ae8519942bafd8b4d2668e2c63a5535603baffe5fee5a01e57cbc86c`
 
 > **5 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 1 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,18 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-12 (constaté)` — **SOS Oxygène** (fiche du 2026-11-10) · Description publique réécrite — texte non reproduit (empreinte b6cd7c2fd3bd2637 → 6b56e862f519b1cf)
+- `2026-11-12 (constaté)` — **Reduction-Impots.fr** (fiche du 2025-05-11) · Description publique réécrite — texte non reproduit (empreinte 7ff64ddec80122f0 → 0ced7737c58ee137)
+- `2026-11-12 (constaté)` — **Pharmatomic** (fiche du 2026-11-08) · Description publique réécrite — texte non reproduit (empreinte 1c6bebf5b910a840 → e6083d7c7c50f724)
+- `2026-11-12 (constaté)` — **Maileva** (fiche du 2026-10-09) · Description publique réécrite — texte non reproduit (empreinte 5de50adffdcd5045 → 9325278131a504fc)
+- `2026-11-12 (constaté)` — **Le Code by DEKRA** (fiche du 2026-11-04) · Nature des données : retiré Mot de passe
+- `2026-11-12 (constaté)` — **JASP K9** (fiche du 2026-11-03) · Description publique réécrite — texte non reproduit (empreinte e21179a6da9c3961 → ba5a65a176805818)
+- `2026-11-12 (constaté)` — **Delcampe** (fiche du 2026-11-06) · Description publique réécrite — texte non reproduit (empreinte efea030dd9c93914 → 28c5f30fc600d3aa)
+- `2026-11-12 (constaté)` — **ColorBox** (fiche du 2026-11-09) · Description publique réécrite — texte non reproduit (empreinte 866970e6a99f705b → 50d3a9d1d9ad02b1)
+- `2026-11-12 (constaté)` — **Cerballiance** (fiche du 2026-11-10) · Description publique réécrite — texte non reproduit (empreinte ab6568efdb0971c3 → 77d9e3d485b7ad56)
+- `2026-11-12 (constaté)` — **Brico Dépôt** (fiche du 2026-11-02) · Description publique réécrite — texte non reproduit (empreinte 16dbb340de87a44a → 57dc71617270a87e)
+- `2026-11-12 (constaté)` — **AFIB** (fiche du 2026-11-03) · Description publique réécrite — texte non reproduit (empreinte 0fd396a0166c9e46 → b9484a39672297bb)
+- `2026-11-12 (constaté)` — **ADEMS** (fiche du 2026-11-09) · Description publique réécrite — texte non reproduit (empreinte fa845258ec5c0886 → ed5d304ae0191959)
 - `2026-11-11 (constaté)` — **La Mutuelle Communale** (fiche du 2026-10-26) · Statut : Revendiquée → Confirmée
 - `2026-11-11 (constaté)` — **La Mutuelle Communale** (fiche du 2026-10-26) · Description publique réécrite — texte non reproduit (empreinte be97673b33733729 → 4f424f7208998179)
 - `2026-11-11 (constaté)` — **Kiassure** (fiche du 2026-09-27) · Statut : Revendiquée → Confirmée
