@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**591** entrées ajoutées · **6** retirées · **721** corrections individuelles · **13** révisions groupées (945 fiches)
+**592** entrées ajoutées · **6** retirées · **721** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `83dad22f61c9dfc35adc8429aab4ac06579d940f912fd34c3ceaf8962b17c530`
+Empreinte de tête : `c8291cc77a7fd2bd815e2a2c10a0e417e988731f0030a233535576a908435f4a`
 
 > **6 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-13` — **Communauté de communes Entre Bièvre et Rhône** (fiche du 2026-11-13) · **entrée ajoutée**
 - `2026-11-13` — **Grand Est Automobiles** (fiche du 2026-11-13) · **entrée ajoutée**
 - `2026-11-13` — **Centre Hospitalier d'Armentières** (fiche du 2026-11-13) · **entrée ajoutée**
 - `2026-11-13` — **CuisineAddict** (fiche du 2026-11-13) · **entrée ajoutée**
