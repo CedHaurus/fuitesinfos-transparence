@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**588** entrées ajoutées · **6** retirées · **721** corrections individuelles · **13** révisions groupées (945 fiches)
+**589** entrées ajoutées · **6** retirées · **721** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `13dd9e68c8b879aea784ce43025e38d163b9b602775e0b2cdd856f4bb6b066b1`
+Empreinte de tête : `effed11251c54ff8fc0337dafc58183a89c218558cfc1a93a910a03df8853b79`
 
 > **6 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-13` — **CuisineAddict** (fiche du 2026-11-13) · **entrée ajoutée**
 - `2026-11-13` — **UFOLEP** (fiche du 2026-11-10) · **entrée ajoutée**
 - `2026-11-13` — **Location-etudiant.fr** (fiche du 2026-11-12) · **entrée ajoutée**
 - `2026-11-13 (constaté)` — **Gestool** (fiche du 2026-11-11) · Statut : Revendiquée → Confirmée
