@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**592** entrées ajoutées · **6** retirées · **721** corrections individuelles · **13** révisions groupées (945 fiches)
+**592** entrées ajoutées · **6** retirées · **723** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `c8291cc77a7fd2bd815e2a2c10a0e417e988731f0030a233535576a908435f4a`
+Empreinte de tête : `dade35e168d6946bef29e19c4b7faeaade9e412ce1076b6afd1d4d836aeed18a`
 
 > **6 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-13 (constaté)` — **Centre Hospitalier d'Armentières** (fiche du 2026-11-13) · Statut : Revendiquée → Confirmée
+- `2026-11-13 (constaté)` — **Centre Hospitalier d'Armentières** (fiche du 2026-11-13) · Description publique réécrite — texte non reproduit (empreinte 54153b06bbf10223 → 7ea481420cd811de)
 - `2026-11-13` — **Communauté de communes Entre Bièvre et Rhône** (fiche du 2026-11-13) · **entrée ajoutée**
 - `2026-11-13` — **Grand Est Automobiles** (fiche du 2026-11-13) · **entrée ajoutée**
 - `2026-11-13` — **Centre Hospitalier d'Armentières** (fiche du 2026-11-13) · **entrée ajoutée**
