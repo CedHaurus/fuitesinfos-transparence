@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**586** entrées ajoutées · **6** retirées · **719** corrections individuelles · **13** révisions groupées (945 fiches)
+**586** entrées ajoutées · **6** retirées · **721** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `09d16793d712844db4a8e533635e0598cb85a4bc65300b7f302b094bcdb13a48`
+Empreinte de tête : `b5646f0e4f5156cdc6b76ed9f7ea1a8f36394c086e49b987e4e444748117cd76`
 
 > **6 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-13 (constaté)` — **Gestool** (fiche du 2026-11-11) · Statut : Revendiquée → Confirmée
+- `2026-11-13 (constaté)` — **Gestool** (fiche du 2026-11-11) · Description publique réécrite — texte non reproduit (empreinte da86804e6cc31f57 → a1a5d2070f4ea040)
 - `2026-11-13 (constaté)` — **Therapeutes.com** (fiche du 2026-03-13) · Volume concerné : 71 502 → (vide)
 - `2026-11-13 (constaté)` — **Maeva** (fiche du 2026-05-15) · Volume concerné : 4 500 000 → (vide)
 - `2026-11-13 (constaté)` — **Leroy Merlin** (fiche du 2025-12-02) · Volume concerné : 367 462 → (vide)
