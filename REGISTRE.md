@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**586** entrées ajoutées · **6** retirées · **708** corrections individuelles · **13** révisions groupées (945 fiches)
+**586** entrées ajoutées · **6** retirées · **719** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `a1e4357ac30631275c2582f38d71dff35ef83d52e569e9351976c548a64ed2aa`
+Empreinte de tête : `09d16793d712844db4a8e533635e0598cb85a4bc65300b7f302b094bcdb13a48`
 
 > **6 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,17 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-13 (constaté)` — **Therapeutes.com** (fiche du 2026-03-13) · Volume concerné : 71 502 → (vide)
+- `2026-11-13 (constaté)` — **Maeva** (fiche du 2026-05-15) · Volume concerné : 4 500 000 → (vide)
+- `2026-11-13 (constaté)` — **Leroy Merlin** (fiche du 2025-12-02) · Volume concerné : 367 462 → (vide)
+- `2026-11-13 (constaté)` — **Le Temps des Cerises** (fiche du 2026-03-08) · Volume concerné : 853 740 → (vide)
+- `2026-11-13 (constaté)` — **Le Temps des Cerises** (fiche du 2026-03-08) · Description publique réécrite — texte non reproduit (empreinte 145a441924fdcd46 → 715179c422e3e76a)
+- `2026-11-13 (constaté)` — **Fédération Omnisports ASPTT** (fiche du 2026-03-09) · Volume concerné : 1 005 361 → (vide)
+- `2026-11-13 (constaté)` — **Fédération Française Handisport** (fiche du 2026-03-28) · Volume concerné : 197 276 → (vide)
+- `2026-11-13 (constaté)` — **France Services** (fiche du 2026-06-12) · Volume concerné : 11 569 → (vide)
+- `2026-11-13 (constaté)` — **Cegid** (fiche du 2026-02-24) · Volume concerné : 74 312 → (vide)
+- `2026-11-13 (constaté)` — **Cegid** (fiche du 2026-02-24) · Description publique réécrite — texte non reproduit (empreinte 02daa71d5b7e4bea → e153115afc6f7b83)
+- `2026-11-13 (constaté)` — **Bioserveur** (fiche du 2026-03-02) · Volume concerné : 2 200 → (vide)
 - `2026-11-12 (constaté)` — **Geofixe** (fiche du 2026-11-10) · Statut : Revendiquée → Confirmée
 - `2026-11-12 (constaté)` — **Geofixe** (fiche du 2026-11-10) · Description publique réécrite — texte non reproduit (empreinte b624b3fbc9bc8c12 → 3fe30498a3050da3)
 - `2026-11-12 (constaté)` — **LaSante.net** (fiche du 2026-08-12) · Description publique réécrite — texte non reproduit (empreinte 99160150308dfc16 → 7b9bbe0d6c96c7c0)
