@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**595** entrées ajoutées · **6** retirées · **725** corrections individuelles · **13** révisions groupées (945 fiches)
+**596** entrées ajoutées · **6** retirées · **727** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `d4f116981b10c0b5bb69713765e12eb400dab96886567e4bff1e0a8621a215a7`
+Empreinte de tête : `ce21be679056c35c1499a79defdd3806c6ed5363f31219f34696386f23870413`
 
 > **6 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,9 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-14 (constaté)` — **SGS** (fiche du 2026-11-08) · Statut : Revendiquée → Confirmée
+- `2026-11-14 (constaté)` — **SGS** (fiche du 2026-11-08) · Description publique réécrite — texte non reproduit (empreinte 988058dcaf7c4cd2 → 5a7c102d14ab672f)
+- `2026-11-14` — **Ninkasi** (fiche du 2026-11-14) · **entrée ajoutée**
 - `2026-11-14` — **Maileva** (fiche du 2026-10-09) · Volume concerné : (vide) → 22 000 000
 - `2026-11-14` — **Maileva** (fiche du 2026-10-09) · Description publique réécrite — texte non reproduit (empreinte 9325278131a504fc → e6afc121f538b9d7)
 - `2026-11-14` — **The Bradery** (fiche du 2026-11-13) · **entrée ajoutée**
