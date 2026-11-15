@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**598** entrées ajoutées · **6** retirées · **729** corrections individuelles · **13** révisions groupées (945 fiches)
+**599** entrées ajoutées · **6** retirées · **729** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `ce275d9b0c4a9503235c5ca42e504a8aadf07cb4fea546796fe7445f5cf6b312`
+Empreinte de tête : `85339325c3677011ab12180d971a646beb3079c6d25df84a76dcfa021ee662eb`
 
 > **6 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-15` — **CodinGame** (fiche du 2026-11-15) · **entrée ajoutée**
 - `2026-11-15` — **FIC Expertise** (fiche du 2026-11-14) · **entrée ajoutée**
 - `2026-11-15 (constaté)` — **1001RDV** (fiche du 2026-11-12) · Description publique réécrite — texte non reproduit (empreinte 86d7e0e4ca2d3726 → c2157c018fc701f8)
 - `2026-11-15 (constaté)` — **1001RDV** (fiche du 2026-11-12) · Nature des données : ajouté Adresse IP, Cookie de session, Données d'appareil, Données de mineurs, Situation familiale
