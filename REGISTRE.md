@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**599** entrées ajoutées · **6** retirées · **733** corrections individuelles · **13** révisions groupées (945 fiches)
+**600** entrées ajoutées · **6** retirées · **733** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `4c530b2e4d554ef8c7a8a2cd3de9675a17ecabecb952e3e30a4bb15c339b2a96`
+Empreinte de tête : `8d2aa35785decc3bbf0032de78ef5951d8ae0f9c2b5bb764891f9254a6dc02b1`
 
 > **6 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-15` — **Trynet** (fiche du 2026-11-15) · **entrée ajoutée**
 - `2026-11-15 (constaté)` — **Communauté de communes Entre Bièvre et Rhône** (fiche du 2026-11-13) · Statut : Revendiquée → Confirmée
 - `2026-11-15 (constaté)` — **Communauté de communes Entre Bièvre et Rhône** (fiche du 2026-11-13) · Description publique réécrite — texte non reproduit (empreinte 01aa2bd3406510f3 → 75ebdebd69285024)
 - `2026-11-15 (constaté)` — **ARTE** (fiche du 2026-11-11) · Statut : Revendiquée → Confirmée
