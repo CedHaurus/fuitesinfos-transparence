@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**599** entrées ajoutées · **6** retirées · **729** corrections individuelles · **13** révisions groupées (945 fiches)
+**599** entrées ajoutées · **6** retirées · **731** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `85339325c3677011ab12180d971a646beb3079c6d25df84a76dcfa021ee662eb`
+Empreinte de tête : `9d4cbfa1a571b1c0f83d8a6c6e3dc02c6939b6eaa1c7f717a9a3150615c555bf`
 
 > **6 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-15 (constaté)` — **ARTE** (fiche du 2026-11-11) · Statut : Revendiquée → Confirmée
+- `2026-11-15 (constaté)` — **ARTE** (fiche du 2026-11-11) · Description publique réécrite — texte non reproduit (empreinte 62b61c67e0ff56b3 → 03a225d3cc8badeb)
 - `2026-11-15` — **CodinGame** (fiche du 2026-11-15) · **entrée ajoutée**
 - `2026-11-15` — **FIC Expertise** (fiche du 2026-11-14) · **entrée ajoutée**
 - `2026-11-15 (constaté)` — **1001RDV** (fiche du 2026-11-12) · Description publique réécrite — texte non reproduit (empreinte 86d7e0e4ca2d3726 → c2157c018fc701f8)
