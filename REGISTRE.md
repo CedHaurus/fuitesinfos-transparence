@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**596** entrées ajoutées · **6** retirées · **727** corrections individuelles · **13** révisions groupées (945 fiches)
+**597** entrées ajoutées · **6** retirées · **729** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `ce21be679056c35c1499a79defdd3806c6ed5363f31219f34696386f23870413`
+Empreinte de tête : `461b5180ec4395928d8cd419c7d47b3990a56f86c6698287a769554187162638`
 
 > **6 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,9 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-15 (constaté)` — **1001RDV** (fiche du 2026-11-12) · Description publique réécrite — texte non reproduit (empreinte 86d7e0e4ca2d3726 → c2157c018fc701f8)
+- `2026-11-15 (constaté)` — **1001RDV** (fiche du 2026-11-12) · Nature des données : ajouté Adresse IP, Cookie de session, Données d'appareil, Données de mineurs, Situation familiale
+- `2026-11-15` — **Essilor** (fiche du 2026-11-14) · **entrée ajoutée**
 - `2026-11-14 (constaté)` — **SGS** (fiche du 2026-11-08) · Statut : Revendiquée → Confirmée
 - `2026-11-14 (constaté)` — **SGS** (fiche du 2026-11-08) · Description publique réécrite — texte non reproduit (empreinte 988058dcaf7c4cd2 → 5a7c102d14ab672f)
 - `2026-11-14` — **Ninkasi** (fiche du 2026-11-14) · **entrée ajoutée**
