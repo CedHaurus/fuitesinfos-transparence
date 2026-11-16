@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**609** entrées ajoutées · **6** retirées · **734** corrections individuelles · **13** révisions groupées (945 fiches)
+**611** entrées ajoutées · **6** retirées · **734** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `66402e30f59b355ba6a1814530493ec4fdcb913ed980814eb7c3997ee7f9d1cc`
+Empreinte de tête : `ac66e27a85c2479a3dbb603647be8e5107fcc1419bb63c0fbdc757693baa43db`
 
 > **6 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-16` — **L'As Demarque** (fiche du 2026-11-16) · **entrée ajoutée**
+- `2026-11-16` — **Fournishop** (fiche du 2026-11-16) · **entrée ajoutée**
 - `2026-11-16` — **Ipsos** (fiche du 2026-11-16) · **entrée ajoutée**
 - `2026-11-16` — **Interservices** (fiche du 2026-11-16) · **entrée ajoutée**
 - `2026-11-16` — **Fédération Française du Sport Universitaire** (fiche du 2026-11-16) · **entrée ajoutée**
