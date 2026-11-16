@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**607** entrées ajoutées · **6** retirées · **734** corrections individuelles · **13** révisions groupées (945 fiches)
+**608** entrées ajoutées · **6** retirées · **734** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `0eaeaeb4bfb88feed75d2375ba8738c6ce9f14be488788f4ab6e3eebeb341740`
+Empreinte de tête : `19c6aa0b17f2877114ff0a1b068dd37a58bdc28f5c52f1b3090ffe47926cdb1e`
 
 > **6 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-16` — **Interservices** (fiche du 2026-11-16) · **entrée ajoutée**
 - `2026-11-16` — **Fédération Française du Sport Universitaire** (fiche du 2026-11-16) · **entrée ajoutée**
 - `2026-11-16` — **Trezor** (fiche du 2026-11-16) · **entrée ajoutée**
 - `2026-11-16` — **La Fabrique à Filets** (fiche du 2026-11-16) · **entrée ajoutée**
