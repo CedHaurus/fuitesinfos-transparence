@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**604** entrées ajoutées · **6** retirées · **734** corrections individuelles · **13** révisions groupées (945 fiches)
+**606** entrées ajoutées · **6** retirées · **734** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `09790f49664baf0fc0fbc3cbd84f98a26d1304b2decdd350399cba1a97c4d082`
+Empreinte de tête : `5096899c3be12bdb86ee2ce203beca603174f21ad97f3b793690bd4a52f91e67`
 
 > **6 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-16` — **Trezor** (fiche du 2026-11-16) · **entrée ajoutée**
+- `2026-11-16` — **La Fabrique à Filets** (fiche du 2026-11-16) · **entrée ajoutée**
 - `2026-11-16` — **Groupe T2MC** (fiche du 2026-11-16) · **entrée ajoutée**
 - `2026-11-16` — **Imagerie des 3 Rivières** (fiche du 2026-11-12) · **entrée ajoutée**
 - `2026-11-16` — **GRIM** (fiche du 2026-11-10) · **entrée ajoutée**
