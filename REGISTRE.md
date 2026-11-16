@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**600** entrées ajoutées · **6** retirées · **734** corrections individuelles · **13** révisions groupées (945 fiches)
+**601** entrées ajoutées · **6** retirées · **734** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `d82cde532679c21b6ecb684962942d8a9ee2bde9025e21001ef660f770f80762`
+Empreinte de tête : `e38228355133f3ecc9aa7d11c803f351e9edf03b8b35950d8f4698dc44fd252a`
 
 > **6 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-15` — **Dagier** (fiche du 2026-11-15) · **entrée ajoutée**
 - `2026-11-15 (constaté)` — **JASP K9** (fiche du 2026-11-03) · Description publique réécrite — texte non reproduit (empreinte ba5a65a176805818 → ca82029d985ab130)
 - `2026-11-15` — **Trynet** (fiche du 2026-11-15) · **entrée ajoutée**
 - `2026-11-15 (constaté)` — **Communauté de communes Entre Bièvre et Rhône** (fiche du 2026-11-13) · Statut : Revendiquée → Confirmée
