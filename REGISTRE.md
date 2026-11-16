@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**603** entrées ajoutées · **6** retirées · **734** corrections individuelles · **13** révisions groupées (945 fiches)
+**604** entrées ajoutées · **6** retirées · **734** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `901aacbe0c5f6e183711d16f1267e3558671bcad0dd5510772668011bf93151a`
+Empreinte de tête : `09790f49664baf0fc0fbc3cbd84f98a26d1304b2decdd350399cba1a97c4d082`
 
 > **6 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-16` — **Groupe T2MC** (fiche du 2026-11-16) · **entrée ajoutée**
 - `2026-11-16` — **Imagerie des 3 Rivières** (fiche du 2026-11-12) · **entrée ajoutée**
 - `2026-11-16` — **GRIM** (fiche du 2026-11-10) · **entrée ajoutée**
 - `2026-11-15` — **Dagier** (fiche du 2026-11-15) · **entrée ajoutée**
