@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**611** entrées ajoutées · **6** retirées · **734** corrections individuelles · **13** révisions groupées (945 fiches)
+**612** entrées ajoutées · **6** retirées · **737** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `ac66e27a85c2479a3dbb603647be8e5107fcc1419bb63c0fbdc757693baa43db`
+Empreinte de tête : `60e7106de00aeda0052ffd160ba7a8a5259e007f39d7f5fdc5ea0b6bfe0416f1`
 
 > **6 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,10 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-16 (constaté)` — **Fédération Française de Cardiologie** (fiche du 2025-11-11) · Volume concerné : 125 000 → 29 232
+- `2026-11-16 (constaté)` — **Fédération Française de Cardiologie** (fiche du 2025-11-11) · Description publique réécrite — texte non reproduit (empreinte c7aa1aa317a49455 → ae14d8585716c885)
+- `2026-11-16 (constaté)` — **Fédération Française de Cardiologie** (fiche du 2025-11-11) · Nature des données : ajouté Code postal, Date de naissance, Données professionnelles, Identifiant de connexion, Jeton d'authentification, Rôle ou droits d'accès, Ville ; retiré Historique de transactions, Mot de passe
+- `2026-11-16` — **France Projecteurs** (fiche du 2026-11-16) · **entrée ajoutée**
 - `2026-11-16` — **L'As Demarque** (fiche du 2026-11-16) · **entrée ajoutée**
 - `2026-11-16` — **Fournishop** (fiche du 2026-11-16) · **entrée ajoutée**
 - `2026-11-16` — **Ipsos** (fiche du 2026-11-16) · **entrée ajoutée**
