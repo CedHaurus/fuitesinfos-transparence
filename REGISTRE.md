@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**615** entrées ajoutées · **6** retirées · **739** corrections individuelles · **13** révisions groupées (945 fiches)
+**617** entrées ajoutées · **6** retirées · **739** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `6d6f21200c7c4604c9b1b9d0ceb6c7fba40a95b7f04075832c86c0d2db2e5b3c`
+Empreinte de tête : `891a485e80227ffb2885def73159b644cd7caf3ccf9d3b678b9d138f02327e79`
 
 > **6 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-17` — **Izilo** (fiche du 2026-11-17) · **entrée ajoutée**
+- `2026-11-17` — **Decoset** (fiche du 2026-11-17) · **entrée ajoutée**
 - `2026-11-17 (constaté)` — **Delatad** (fiche du 2026-10-25) · Description publique réécrite — texte non reproduit (empreinte 1c10b4edf8667d11 → 736a04f54aec1a76)
 - `2026-11-17 (constaté)` — **Delatad** (fiche du 2026-10-25) · Nature des données : retiré Identifiant de connexion
 - `2026-11-17` — **Nord Chauffage Services** (fiche du 2026-11-09) · **entrée ajoutée**
