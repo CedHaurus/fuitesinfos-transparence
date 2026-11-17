@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**617** entrées ajoutées · **6** retirées · **739** corrections individuelles · **13** révisions groupées (945 fiches)
+**618** entrées ajoutées · **6** retirées · **739** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `891a485e80227ffb2885def73159b644cd7caf3ccf9d3b678b9d138f02327e79`
+Empreinte de tête : `44067937add77752b8383a6a553ad466fd328d1d08a8c2f517af74471a79a5af`
 
 > **6 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -139,6 +139,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 - `2026-11-11 (constaté)` — **Mistertemp' group** (fiche du 2026-08-26) · Nature des données : ajouté Adresse email, Nationalité, Nom, Numéro de téléphone, Prénom
 - `2026-11-11` — **Effy** (fiche du 2026-11-11) · **entrée ajoutée**
 - `2026-11-11 (constaté)` — **Révision groupée** · champ « Description publique » : 100 fiches modifiées dans le même lot (détail par fiche dans `registre.jsonl`)
+- `2026-11-10` — **Softway Medical** (fiche du 2026-11-08) · **entrée ajoutée**
 - `2026-11-10` — **Geofixe** (fiche du 2026-11-10) · **entrée ajoutée**
 - `2026-11-10` — **EduGroupe** (fiche du 2026-11-10) · **entrée ajoutée**
 - `2026-11-10 (constaté)` — **Brico Dépôt** (fiche du 2026-11-02) · Statut : Revendiquée → Confirmée
