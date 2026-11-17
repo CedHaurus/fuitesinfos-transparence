@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**614** entrées ajoutées · **6** retirées · **737** corrections individuelles · **13** révisions groupées (945 fiches)
+**615** entrées ajoutées · **6** retirées · **737** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `045f2b0883201cb4b1a271785a84c6836f646c52c1ea926f2f6a3a50ec51ea22`
+Empreinte de tête : `f015e818bdaabb9b1c25e355d89f391549cb4cd7acc72750e96151d5f95bcfd3`
 
 > **6 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-17` — **Nord Chauffage Services** (fiche du 2026-11-09) · **entrée ajoutée**
 - `2026-11-17` — **Fishipedia** (fiche du 2026-11-17) · **entrée ajoutée**
 - `2026-11-17` — **Rassemblement National** (fiche du 2026-11-17) · **entrée ajoutée**
 - `2026-11-16 (constaté)` — **Fédération Française de Cardiologie** (fiche du 2025-11-11) · Volume concerné : 125 000 → 29 232
