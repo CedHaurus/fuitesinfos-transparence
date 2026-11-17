@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**615** entrées ajoutées · **6** retirées · **737** corrections individuelles · **13** révisions groupées (945 fiches)
+**615** entrées ajoutées · **6** retirées · **739** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `f015e818bdaabb9b1c25e355d89f391549cb4cd7acc72750e96151d5f95bcfd3`
+Empreinte de tête : `6d6f21200c7c4604c9b1b9d0ceb6c7fba40a95b7f04075832c86c0d2db2e5b3c`
 
 > **6 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-17 (constaté)` — **Delatad** (fiche du 2026-10-25) · Description publique réécrite — texte non reproduit (empreinte 1c10b4edf8667d11 → 736a04f54aec1a76)
+- `2026-11-17 (constaté)` — **Delatad** (fiche du 2026-10-25) · Nature des données : retiré Identifiant de connexion
 - `2026-11-17` — **Nord Chauffage Services** (fiche du 2026-11-09) · **entrée ajoutée**
 - `2026-11-17` — **Fishipedia** (fiche du 2026-11-17) · **entrée ajoutée**
 - `2026-11-17` — **Rassemblement National** (fiche du 2026-11-17) · **entrée ajoutée**
