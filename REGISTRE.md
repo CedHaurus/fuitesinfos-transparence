@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**618** entrées ajoutées · **6** retirées · **739** corrections individuelles · **13** révisions groupées (945 fiches)
+**619** entrées ajoutées · **6** retirées · **739** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `44067937add77752b8383a6a553ad466fd328d1d08a8c2f517af74471a79a5af`
+Empreinte de tête : `8d3c5cdd024fddb64a1677c847827af010256c50f62f6c0f14f76a0c8567cece`
 
 > **6 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-17` — **Bexter** (fiche du 2026-11-17) · **entrée ajoutée**
 - `2026-11-17` — **Izilo** (fiche du 2026-11-17) · **entrée ajoutée**
 - `2026-11-17` — **Decoset** (fiche du 2026-11-17) · **entrée ajoutée**
 - `2026-11-17 (constaté)` — **Delatad** (fiche du 2026-10-25) · Description publique réécrite — texte non reproduit (empreinte 1c10b4edf8667d11 → 736a04f54aec1a76)
