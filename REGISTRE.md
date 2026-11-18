@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**622** entrées ajoutées · **6** retirées · **742** corrections individuelles · **13** révisions groupées (945 fiches)
+**622** entrées ajoutées · **6** retirées · **744** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `eb64d9c2aef1bb5f58044819d369621d162f91930c0bb69d042c0e14a80a92ec`
+Empreinte de tête : `0d5c9d9a71e435f244e0ea3236294e4be4b0adf8f8abd852ea0916912b83d459`
 
 > **6 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-18 (constaté)` — **France Travail** (fiche du 2025-12-01) · Description publique réécrite — texte non reproduit (empreinte 8c1d5cb431cb8e7e → 92dc6180a96462b7)
+- `2026-11-18 (constaté)` — **France Travail** (fiche du 2025-12-01) · Nature des données : ajouté Civilité, Données d'emploi, Identifiant utilisateur ; retiré Données scolaires
 - `2026-11-18` — **Chargemap** (fiche du 2026-11-18) · **entrée ajoutée**
 - `2026-11-18` — **Snowleader** (fiche du 2026-11-18) · **entrée ajoutée**
 - `2026-11-18 (constaté)` — **Made in Bébé** (fiche du 2026-08-21) · Statut : Revendiquée → Confirmée
