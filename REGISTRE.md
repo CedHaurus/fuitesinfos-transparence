@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**620** entrées ajoutées · **6** retirées · **742** corrections individuelles · **13** révisions groupées (945 fiches)
+**621** entrées ajoutées · **6** retirées · **742** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `f952fd6681d48772e05f882c07c715a31a54fb35d79c07de384d29e8761e3e92`
+Empreinte de tête : `a568110f5cb229031cd262d18c208b0ea95da140ca1efdd46c9f61c241db6ea3`
 
 > **6 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-18` — **Snowleader** (fiche du 2026-11-18) · **entrée ajoutée**
 - `2026-11-18 (constaté)` — **Made in Bébé** (fiche du 2026-08-21) · Statut : Revendiquée → Confirmée
 - `2026-11-18 (constaté)` — **Made in Bébé** (fiche du 2026-08-21) · Description publique réécrite — texte non reproduit (empreinte cd479f487887da41 → 008ea433c5056187)
 - `2026-11-18 (constaté)` — **Made in Bébé** (fiche du 2026-08-21) · Nature des données : ajouté Adresse email, Numéro de téléphone
