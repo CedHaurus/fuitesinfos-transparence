@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**622** entrées ajoutées · **6** retirées · **744** corrections individuelles · **13** révisions groupées (945 fiches)
+**623** entrées ajoutées · **6** retirées · **744** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `0d5c9d9a71e435f244e0ea3236294e4be4b0adf8f8abd852ea0916912b83d459`
+Empreinte de tête : `61eebcf3f89bfc4434fc70cac3f4afdac1afed41f2fc22daa2288a322a2a6a24`
 
 > **6 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-19` — **Rahma TV** (fiche du 2026-11-18) · **entrée ajoutée**
 - `2026-11-18 (constaté)` — **France Travail** (fiche du 2025-12-01) · Description publique réécrite — texte non reproduit (empreinte 8c1d5cb431cb8e7e → 92dc6180a96462b7)
 - `2026-11-18 (constaté)` — **France Travail** (fiche du 2025-12-01) · Nature des données : ajouté Civilité, Données d'emploi, Identifiant utilisateur ; retiré Données scolaires
 - `2026-11-18` — **Chargemap** (fiche du 2026-11-18) · **entrée ajoutée**
