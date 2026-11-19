@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**623** entrées ajoutées · **6** retirées · **744** corrections individuelles · **13** révisions groupées (945 fiches)
+**623** entrées ajoutées · **6** retirées · **747** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `61eebcf3f89bfc4434fc70cac3f4afdac1afed41f2fc22daa2288a322a2a6a24`
+Empreinte de tête : `c39e4e8760f102a4fe14dfcd3610ec34eb3de11d7e4b4c5dd5f66021b49a8866`
 
 > **6 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,9 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-19 (constaté)` — **Allobébé** (fiche du 2026-08-21) · Statut : Revendiquée → Confirmée
+- `2026-11-19 (constaté)` — **Allobébé** (fiche du 2026-08-21) · Description publique réécrite — texte non reproduit (empreinte 53ab88e18f0ce0be → 0b049dcba9a121c9)
+- `2026-11-19 (constaté)` — **Allobébé** (fiche du 2026-08-21) · Nature des données : ajouté Facture
 - `2026-11-19` — **Rahma TV** (fiche du 2026-11-18) · **entrée ajoutée**
 - `2026-11-18 (constaté)` — **France Travail** (fiche du 2025-12-01) · Description publique réécrite — texte non reproduit (empreinte 8c1d5cb431cb8e7e → 92dc6180a96462b7)
 - `2026-11-18 (constaté)` — **France Travail** (fiche du 2025-12-01) · Nature des données : ajouté Civilité, Données d'emploi, Identifiant utilisateur ; retiré Données scolaires
