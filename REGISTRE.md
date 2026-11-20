@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**624** entrées ajoutées · **6** retirées · **747** corrections individuelles · **13** révisions groupées (945 fiches)
+**625** entrées ajoutées · **6** retirées · **747** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `e32759ecdc092fdec4ae39db8684eafd23c41b96721ba93634bb2492c95d8984`
+Empreinte de tête : `970f265238e2b0a1e3a527dfac4879ba1fb54f1faa3c481b25bb2c6bc32271a4`
 
 > **6 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-20` — **France Travail** (fiche du 2026-11-19) · **entrée ajoutée**
 - `2026-11-19` — **Tsume** (fiche du 2026-11-19) · **entrée ajoutée**
 - `2026-11-19 (constaté)` — **Allobébé** (fiche du 2026-08-21) · Statut : Revendiquée → Confirmée
 - `2026-11-19 (constaté)` — **Allobébé** (fiche du 2026-08-21) · Description publique réécrite — texte non reproduit (empreinte 53ab88e18f0ce0be → 0b049dcba9a121c9)
