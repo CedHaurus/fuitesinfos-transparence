@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**626** entrées ajoutées · **6** retirées · **747** corrections individuelles · **13** révisions groupées (945 fiches)
+**627** entrées ajoutées · **6** retirées · **747** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `4337d627f7511465e6b74277a10aff4f54fbacc8f8367eef1811464b81317dcb`
+Empreinte de tête : `39dbbdb9e46fff289fc335c0507c9614ba1313198a9dbfee628ab5704f5c0f58`
 
 > **6 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-20` — **Nexway** (fiche du 2026-11-20) · **entrée ajoutée**
 - `2026-11-20` — **Seazon** (fiche du 2026-11-20) · **entrée ajoutée**
 - `2026-11-20` — **France Travail** (fiche du 2026-11-19) · **entrée ajoutée**
 - `2026-11-19` — **Tsume** (fiche du 2026-11-19) · **entrée ajoutée**
