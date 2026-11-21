@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**630** entrées ajoutées · **6** retirées · **747** corrections individuelles · **13** révisions groupées (945 fiches)
+**632** entrées ajoutées · **6** retirées · **747** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `e6079d5d0bb988c1549c227cac8d37db4d72c6d0600d254838a206df7e8ad7ff`
+Empreinte de tête : `c6163f99e745bd7f70d99b03d3d693e3840f24b36ae795a083cbd1a61993639a`
 
 > **6 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-21` — **Robot Advance** (fiche du 2026-11-21) · **entrée ajoutée**
+- `2026-11-21` — **Gotronic** (fiche du 2026-11-21) · **entrée ajoutée**
 - `2026-11-21` — **Clevermate** (fiche du 2026-11-21) · **entrée ajoutée**
 - `2026-11-20` — **Voyages Rive Gauche** (fiche du 2026-11-20) · **entrée ajoutée**
 - `2026-11-20` — **LocService** (fiche du 2026-11-19) · **entrée ajoutée**
