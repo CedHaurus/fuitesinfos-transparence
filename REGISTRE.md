@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**633** entrées ajoutées · **6** retirées · **747** corrections individuelles · **13** révisions groupées (945 fiches)
+**633** entrées ajoutées · **6** retirées · **763** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `c862515820803c6ded41e9f527cbf1f0956433d60a80706cbf455fbf14cb7580`
+Empreinte de tête : `97f9cc71146cc5e0a503ce6ba078659a3eb94ce0e01bbf82cbbd4b4316842cdf`
 
 > **6 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,22 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-21 (constaté)` — **Trynet** (fiche du 2026-11-15) · Description publique réécrite — texte non reproduit (empreinte 809bcc29d2ea16b6 → 74eb84859ae4b9fd)
+- `2026-11-21 (constaté)` — **Robot Advance** (fiche du 2026-11-21) · Description publique réécrite — texte non reproduit (empreinte cea16fb600592558 → 39191670b746b09c)
+- `2026-11-21 (constaté)` — **Rassemblement National** (fiche du 2026-11-17) · Description publique réécrite — texte non reproduit (empreinte c594089744ce659a → 10b77ca647a92b4a)
+- `2026-11-21 (constaté)` — **L'As Demarque** (fiche du 2026-11-16) · Description publique réécrite — texte non reproduit (empreinte 511dfd72c3e704a6 → 4235f17a8b0a1c02)
+- `2026-11-21 (constaté)` — **HomeMaison** (fiche du 2026-11-12) · Description publique réécrite — texte non reproduit (empreinte 702415d56777cb87 → 96269a86bd8f7f86)
+- `2026-11-21 (constaté)` — **Groupe T2MC** (fiche du 2026-11-16) · Description publique réécrite — texte non reproduit (empreinte 4b4d3b8037a89ae5 → afbb22564a6a4013)
+- `2026-11-21 (constaté)` — **Grand Est Automobiles** (fiche du 2026-11-13) · Description publique réécrite — texte non reproduit (empreinte e24cd6ec81e90e7d → ed44e66bdc4d8d9f)
+- `2026-11-21 (constaté)` — **Gotronic** (fiche du 2026-11-21) · Description publique réécrite — texte non reproduit (empreinte 3ed29e58cc8ce1d5 → 2453fbd012400336)
+- `2026-11-21 (constaté)` — **Gestool** (fiche du 2026-11-11) · Description publique réécrite — texte non reproduit (empreinte a1a5d2070f4ea040 → e78e5afafe72f5fd)
+- `2026-11-21 (constaté)` — **Fédération Française du Sport Universitaire** (fiche du 2026-11-16) · Description publique réécrite — texte non reproduit (empreinte 337fb0988a5b15ac → 0fcc2c55d324f6ac)
+- `2026-11-21 (constaté)` — **France Travail** (fiche du 2026-11-19) · Description publique réécrite — texte non reproduit (empreinte 2fd874ec428a0e61 → 0d0fd75f5ffdd648)
+- `2026-11-21 (constaté)` — **France Projecteurs** (fiche du 2026-11-16) · Description publique réécrite — texte non reproduit (empreinte e8663f703735e982 → cb4b59f03e1d3d20)
+- `2026-11-21 (constaté)` — **FIC Expertise** (fiche du 2026-11-14) · Description publique réécrite — texte non reproduit (empreinte c0a12e292c17dd46 → 99b2bf31be3e0d53)
+- `2026-11-21 (constaté)` — **Essilor** (fiche du 2026-11-14) · Description publique réécrite — texte non reproduit (empreinte 8513f9910eaaecb0 → 6cb2ab0b77a629f3)
+- `2026-11-21 (constaté)` — **Dagier** (fiche du 2026-11-15) · Description publique réécrite — texte non reproduit (empreinte bb7b8737d2fbfd41 → 9459b348fe24bd3d)
+- `2026-11-21 (constaté)` — **Chargemap** (fiche du 2026-11-18) · Description publique réécrite — texte non reproduit (empreinte 7d36cabcd31925e5 → 2f6dbf25db323d7e)
 - `2026-11-21` — **Robot Advance** (fiche du 2026-11-21) · **entrée ajoutée**
 - `2026-11-21` — **La Maison des Travaux** (fiche du 2026-11-21) · **entrée ajoutée**
 - `2026-11-21` — **Gotronic** (fiche du 2026-11-21) · **entrée ajoutée**
