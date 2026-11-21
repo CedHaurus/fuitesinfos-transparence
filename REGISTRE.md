@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**633** entrées ajoutées · **6** retirées · **763** corrections individuelles · **13** révisions groupées (945 fiches)
+**633** entrées ajoutées · **6** retirées · **764** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `97f9cc71146cc5e0a503ce6ba078659a3eb94ce0e01bbf82cbbd4b4316842cdf`
+Empreinte de tête : `ae7e7438b40003e847a70a210dbf9f7fd93432ed5113e076c5fab1a133a94205`
 
 > **6 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-21 (constaté)` — **ManyFics** (fiche du 2026-11-12) · Description publique réécrite — texte non reproduit (empreinte 66515bddba400cf5 → f80baff862701acc)
 - `2026-11-21 (constaté)` — **Trynet** (fiche du 2026-11-15) · Description publique réécrite — texte non reproduit (empreinte 809bcc29d2ea16b6 → 74eb84859ae4b9fd)
 - `2026-11-21 (constaté)` — **Robot Advance** (fiche du 2026-11-21) · Description publique réécrite — texte non reproduit (empreinte cea16fb600592558 → 39191670b746b09c)
 - `2026-11-21 (constaté)` — **Rassemblement National** (fiche du 2026-11-17) · Description publique réécrite — texte non reproduit (empreinte c594089744ce659a → 10b77ca647a92b4a)
