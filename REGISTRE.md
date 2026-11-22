@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**633** entrées ajoutées · **6** retirées · **794** corrections individuelles · **13** révisions groupées (945 fiches)
+**633** entrées ajoutées · **6** retirées · **795** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `76b3b1ea994aba45820f6cbc955575c06584f53df520b73f53db55f020607bfa`
+Empreinte de tête : `72f32a61fd21b709380f100abbc39bee097fb3451b80a643b8bebe88a8692d6b`
 
 > **6 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-22 (constaté)` — **La Maison des Travaux** (fiche du 2026-11-21) · Description publique réécrite — texte non reproduit (empreinte 78eb752d54c31c22 → f4d2c629a779a4c1)
 - `2026-11-22 (constaté)` — **Transporteur.com** (fiche du 2026-10-20) · Description publique réécrite — texte non reproduit (empreinte 057e6ed71744f1c4 → 3f1e256a900576bf)
 - `2026-11-22 (constaté)` — **Frenchy Sushi** (fiche du 2026-10-20) · Description publique réécrite — texte non reproduit (empreinte 822d4e548abe5e7c → 33cda7239ecb91a6)
 - `2026-11-22 (constaté)` — **SOS Oxygène** (fiche du 2026-11-10) · Volume concerné : (vide) → 14 832
