@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**633** entrées ajoutées · **6** retirées · **786** corrections individuelles · **13** révisions groupées (945 fiches)
+**633** entrées ajoutées · **6** retirées · **788** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `ee1e6a9a191d9b0a197c0b305bba2a46e3c83ecc21b240788f1800019b12b362`
+Empreinte de tête : `82509ba12308c3d2fe22690f1e933464ddbcd9abd0d6cabb9421878521d98df3`
 
 > **6 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-22 (constaté)` — **Solutions30** (fiche du 2026-10-12) · Statut : Revendiquée → Confirmée
+- `2026-11-22 (constaté)` — **Solutions30** (fiche du 2026-10-12) · Description publique réécrite — texte non reproduit (empreinte 7f4f9a7f34b10ef3 → 52c2a27b5d53cdc6)
 - `2026-11-22 (constaté)` — **AFPA** (fiche du 2026-09-16) · Volume concerné : (vide) → 1 732 703
 - `2026-11-22 (constaté)` — **AFPA** (fiche du 2026-09-15) · Description publique réécrite — texte non reproduit (empreinte 0ac78e70c2f551c5 → fe44b55fe15e4a3c)
 - `2026-11-22 (constaté)` — **AFPA** (fiche du 2026-09-16) · Description publique réécrite — texte non reproduit (empreinte 775f360b816c4333 → 3e6c3be5f7fdb1bf)
