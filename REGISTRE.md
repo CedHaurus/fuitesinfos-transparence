@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**633** entrées ajoutées · **6** retirées · **797** corrections individuelles · **13** révisions groupées (945 fiches)
+**636** entrées ajoutées · **6** retirées · **797** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `8cfcfc79dfcc58a98e309ae682f64d51df615fd731546f692e8438fa3fee6096`
+Empreinte de tête : `f277609d00760e358a217a66671ac9c29d249a17e2d6e1c02246d741bb52656e`
 
 > **6 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,9 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-22` — **Wanda Collection** (fiche du 2026-11-22) · **entrée ajoutée**
+- `2026-11-22` — **Subtil Diamant** (fiche du 2026-11-22) · **entrée ajoutée**
+- `2026-11-22` — **La Chouette Mauve** (fiche du 2026-11-22) · **entrée ajoutée**
 - `2026-11-22 (constaté)` — **Comptoir du Rêve** (fiche du 2026-04-18) · Statut : Revendiquée → Confirmée
 - `2026-11-22 (constaté)` — **Comptoir du Rêve** (fiche du 2026-04-18) · Description publique réécrite — texte non reproduit (empreinte 5900f67edc50021c → f34e12a0eb67c7b0)
 - `2026-11-22 (constaté)` — **La Maison des Travaux** (fiche du 2026-11-21) · Description publique réécrite — texte non reproduit (empreinte 78eb752d54c31c22 → f4d2c629a779a4c1)
