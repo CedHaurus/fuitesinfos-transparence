@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**633** entrées ajoutées · **6** retirées · **764** corrections individuelles · **13** révisions groupées (945 fiches)
+**633** entrées ajoutées · **6** retirées · **775** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `ae7e7438b40003e847a70a210dbf9f7fd93432ed5113e076c5fab1a133a94205`
+Empreinte de tête : `28946b2bc3161d00e66ddc35ae83a31c6abcce6c5932764b5f126dcc2fe1bbfa`
 
 > **6 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,17 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-22` — **Ecologic** (fiche du 2026-10-13) · Statut : Revendiquée → Confirmée
+- `2026-11-22` — **Ecologic** (fiche du 2026-10-13) · Description publique réécrite — texte non reproduit (empreinte 80268437e0a208b7 → 1ca4a18e2d190b60)
+- `2026-11-22` — **Doinsport** (fiche du 2026-09-24) · Statut : Revendiquée → Confirmée
+- `2026-11-22` — **Doinsport** (fiche du 2026-09-24) · Description publique réécrite — texte non reproduit (empreinte e7ccb772966ec658 → 65bd9aa3ffcdce45)
+- `2026-11-22` — **Djaboo** (fiche du 2026-05-15) · Description publique réécrite — texte non reproduit (empreinte 260444548af1691c → d8e5ed2bb1d26f59)
+- `2026-11-22` — **Conservatoire national des arts et métiers (Cnam)** (fiche du 2026-10-02) · Statut : Revendiquée → Confirmée
+- `2026-11-22` — **Conservatoire national des arts et métiers (Cnam)** (fiche du 2026-10-02) · Description publique réécrite — texte non reproduit (empreinte bc9da86a626d32b1 → 541a25473137b1e7)
+- `2026-11-22` — **ADMR** (fiche du 2026-10-23) · Statut : Revendiquée → Confirmée
+- `2026-11-22` — **ADMR** (fiche du 2026-10-23) · Description publique réécrite — texte non reproduit (empreinte a0e00a61a63a457c → 500e6c8ca6900ff7)
+- `2026-11-22` — **1001RDV** (fiche du 2026-11-12) · Statut : Revendiquée → Confirmée
+- `2026-11-22` — **1001RDV** (fiche du 2026-11-12) · Description publique réécrite — texte non reproduit (empreinte c2157c018fc701f8 → 9751845c22dbe5d2)
 - `2026-11-21 (constaté)` — **ManyFics** (fiche du 2026-11-12) · Description publique réécrite — texte non reproduit (empreinte 66515bddba400cf5 → f80baff862701acc)
 - `2026-11-21 (constaté)` — **Trynet** (fiche du 2026-11-15) · Description publique réécrite — texte non reproduit (empreinte 809bcc29d2ea16b6 → 74eb84859ae4b9fd)
 - `2026-11-21 (constaté)` — **Robot Advance** (fiche du 2026-11-21) · Description publique réécrite — texte non reproduit (empreinte cea16fb600592558 → 39191670b746b09c)
