@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**633** entrées ajoutées · **6** retirées · **781** corrections individuelles · **13** révisions groupées (945 fiches)
+**633** entrées ajoutées · **6** retirées · **783** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `8d0f057fd70fd9bba88435649d866ca0d18ab91803f2f85551cece69ad7808a8`
+Empreinte de tête : `9af0eb806b558a680a3b759782043d8660d433423205ac4cb5c48770c869f717`
 
 > **6 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-22 (constaté)` — **PRREL Ambition** (fiche du 2026-10-17) · Statut : Revendiquée → Confirmée
+- `2026-11-22 (constaté)` — **PRREL Ambition** (fiche du 2026-10-17) · Description publique réécrite — texte non reproduit (empreinte 84000b3214f2e054 → 678534e0704c997c)
 - `2026-11-22 (constaté)` — **Nantes Métropole** (fiche du 2026-06-09) · Statut : Revendiquée → Confirmée
 - `2026-11-22 (constaté)` — **Nantes Métropole** (fiche du 2026-06-09) · Description publique réécrite — texte non reproduit (empreinte 593f98be7f0ede50 → eb6c8edbf08cd278)
 - `2026-11-22 (constaté)` — **Géofoncier** (fiche du 2026-09-01) · Statut : Revendiquée → Confirmée
