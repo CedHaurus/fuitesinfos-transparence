@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**633** entrées ajoutées · **6** retirées · **790** corrections individuelles · **13** révisions groupées (945 fiches)
+**633** entrées ajoutées · **6** retirées · **792** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `7e1665d6feff80051e61f7b5f1f5a753b40b32338c1743ce727ff7c2d40b3cdd`
+Empreinte de tête : `a8d6521cc87759c6e2f5e937efea285372e76ed5b4bac17734dfeabc24505c9e`
 
 > **6 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-22 (constaté)` — **SOS Oxygène** (fiche du 2026-11-10) · Volume concerné : (vide) → 14 832
+- `2026-11-22 (constaté)` — **SOS Oxygène** (fiche du 2026-11-10) · Description publique réécrite — texte non reproduit (empreinte 6b56e862f519b1cf → 40d4af7db811fb07)
 - `2026-11-22 (constaté)` — **École nationale vétérinaire d'Alfort (EnvA)** (fiche du 2026-09-30) · Statut : Revendiquée → Confirmée
 - `2026-11-22 (constaté)` — **École nationale vétérinaire d'Alfort (EnvA)** (fiche du 2026-09-30) · Description publique réécrite — texte non reproduit (empreinte bffa7a8a6d9ad31a → 45e3fc9c719eb613)
 - `2026-11-22 (constaté)` — **Solutions30** (fiche du 2026-10-12) · Statut : Revendiquée → Confirmée
