@@ -2,12 +2,12 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**640** entrées ajoutées · **6** retirées · **800** corrections individuelles · **13** révisions groupées (945 fiches)
+**640** entrées ajoutées · **7** retirées · **802** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `cf1cedbc23cb3a9c6be834d782a56fdc3c032fffd37727e461462d90a0e72d7f`
+Empreinte de tête : `9aae4635d67ece13aa1bc3bfad8bb818688314e7365688a90887c98493148232`
 
-> **6 entrée(s) retirée(s) depuis le début de cette période.**
-> Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
+> **7 entrée(s) retirée(s) depuis le début de cette période.**
+> Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée · 1 information devenue inexacte. Chaque retrait est détaillé ci-dessous.
 
 Les changements sont classés du plus récent au plus ancien. La portée exacte de ce registre et ses limites sont décrites dans le [README](README.md).
 
@@ -15,6 +15,9 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-23 (constaté)` — **Woop** (fiche du 2026-05-13) · **ENTRÉE RETIRÉE** — motif : Information devenue inexacte (La fiche rapportait la mise en vente, le 13 mai 2026 sur un forum cybercriminel, d'une base de 256 319 lignes présentée comme issue de la plateforme de livraison Woop. Le vendeur, sans réputation sur le forum, n'en avait diffusé qu'un extrait partiel. Sollicitée le 22 novembre 2026, Woop a démenti la revendication le lendemain : l'entreprise indique n'avoir trouvé aucune correspondance entre l'extrait et ses bases de données, ni dans ses journaux ou sur sa surface d'exposition, et ne pas collecter les données d'état civil et bancaires annoncées. Aucun élément ne contredit ce démenti. La fiche sort de l'accès public et reste au catalogue professionnel, avec la revendication et le démenti.)
+- `2026-11-23 (constaté)` — **Snowleader** (fiche du 2026-11-18) · Description publique réécrite — texte non reproduit (empreinte 8decdc11491523bf → 375bee86baafc9ce)
+- `2026-11-23 (constaté)` — **Snowleader** (fiche du 2026-11-18) · Nature des données : ajouté Adresse email, Adresse postale, Carte de paiement, Historique de commandes, Mot de passe (haché), Nom complet, Numéro de téléphone
 - `2026-11-23 (constaté)` — **Cigusto** (fiche du 2026-09-26) · Statut : Revendiquée → Confirmée
 - `2026-11-23 (constaté)` — **Cigusto** (fiche du 2026-09-26) · Description publique réécrite — texte non reproduit (empreinte 07a5013fe1e8100a → e31f59007efc73b2)
 - `2026-11-23 (constaté)` — **Cigusto** (fiche du 2026-09-26) · Description publique réécrite — texte non reproduit (empreinte 2ed4be55e9d4ae63 → 07a5013fe1e8100a)
