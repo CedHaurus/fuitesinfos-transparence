@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**640** entrées ajoutées · **7** retirées · **804** corrections individuelles · **13** révisions groupées (945 fiches)
+**640** entrées ajoutées · **7** retirées · **806** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `0040a8e6ac34789bb172d92ba5a7c72fd578ac65e806f51e5b947a548d0f44e7`
+Empreinte de tête : `525d84c207cc3a45bd14d4953573baa3fee10b7d9e044caa385878092c7f99fb`
 
 > **7 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée · 1 information devenue inexacte. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-23 (constaté)` — **Docurba** (fiche du 2026-08-25) · Statut : Revendiquée → Confirmée
+- `2026-11-23 (constaté)` — **Docurba** (fiche du 2026-08-25) · Description publique réécrite — texte non reproduit (empreinte 26efff37d6e337e6 → bddcff22d2e60097)
 - `2026-11-23 (constaté)` — **Be-in-Home** (fiche du 2026-10-17) · Statut : Revendiquée → Confirmée
 - `2026-11-23 (constaté)` — **Be-in-Home** (fiche du 2026-10-17) · Description publique réécrite — texte non reproduit (empreinte cd8fe4dab42a9ee5 → 1f39e09b5be62783)
 - `2026-11-23 (constaté)` — **Woop** (fiche du 2026-05-13) · **ENTRÉE RETIRÉE** — motif : Information devenue inexacte (La fiche rapportait la mise en vente, le 13 mai 2026 sur un forum cybercriminel, d'une base de 256 319 lignes présentée comme issue de la plateforme de livraison Woop. Le vendeur, sans réputation sur le forum, n'en avait diffusé qu'un extrait partiel. Sollicitée le 22 novembre 2026, Woop a démenti la revendication le lendemain : l'entreprise indique n'avoir trouvé aucune correspondance entre l'extrait et ses bases de données, ni dans ses journaux ou sur sa surface d'exposition, et ne pas collecter les données d'état civil et bancaires annoncées. Aucun élément ne contredit ce démenti. La fiche sort de l'accès public et reste au catalogue professionnel, avec la revendication et le démenti.)
