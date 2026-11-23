@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**643** entrées ajoutées · **7** retirées · **810** corrections individuelles · **13** révisions groupées (945 fiches)
+**643** entrées ajoutées · **7** retirées · **811** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `c18b0893a810383278191f93378da0bac641c1d44fdd9818867863622b4b3933`
+Empreinte de tête : `0fdf4af91cc764aa108026b2f72e2266cf4376cddbe1f57c9cb86fd7c57f6234`
 
 > **7 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée · 1 information devenue inexacte. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-23 (constaté)` — **HomePad** (fiche du 2026-06-12) · Description publique réécrite — texte non reproduit (empreinte 92a762f19a6a42ef → ad0579f76fafda58)
 - `2026-11-23 (constaté)` — **Certificat CléA** (fiche du 2026-05-27) · Statut : Revendiquée → Confirmée
 - `2026-11-23 (constaté)` — **Certificat CléA** (fiche du 2026-05-27) · Description publique réécrite — texte non reproduit (empreinte d3b4966b3d10d4fc → 248cc24c640a687a)
 - `2026-11-23` — **LWS** (fiche du 2026-11-23) · **entrée ajoutée**
