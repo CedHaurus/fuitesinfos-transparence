@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**643** entrées ajoutées · **7** retirées · **813** corrections individuelles · **13** révisions groupées (945 fiches)
+**643** entrées ajoutées · **7** retirées · **815** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `d5e5e573a0452ed6da0b1b162e7ae0e732bf57ab141f23063ea26f859ac5ddb8`
+Empreinte de tête : `3f9c1338968dfe5208baea0aef76f582d2614c43eb5f9c83072113adf10a83ca`
 
 > **7 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée · 1 information devenue inexacte. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-23 (constaté)` — **Vackelys** (fiche du 2026-10-17) · Statut : Revendiquée → Confirmée
+- `2026-11-23 (constaté)` — **Vackelys** (fiche du 2026-10-17) · Description publique réécrite — texte non reproduit (empreinte a05890556b98b0e8 → 59452609bc7590ec)
 - `2026-11-23 (constaté)` — **Gotronic** (fiche du 2026-11-21) · Statut : Revendiquée → Confirmée
 - `2026-11-23 (constaté)` — **Gotronic** (fiche du 2026-11-21) · Description publique réécrite — texte non reproduit (empreinte 2453fbd012400336 → e207acf52330ee33)
 - `2026-11-23 (constaté)` — **HomePad** (fiche du 2026-06-12) · Description publique réécrite — texte non reproduit (empreinte 92a762f19a6a42ef → ad0579f76fafda58)
