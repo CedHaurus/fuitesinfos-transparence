@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**643** entrées ajoutées · **7** retirées · **819** corrections individuelles · **13** révisions groupées (945 fiches)
+**644** entrées ajoutées · **7** retirées · **819** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `9ac59db8449276a2fa94996e5eb610eabd8a3adcf547bcac23ed33b9e520c667`
+Empreinte de tête : `3c49274aab5c3694c91c825989f131056d4ea5d56d02e772ab1ee080bb70f7d5`
 
 > **7 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée · 1 information devenue inexacte. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-23` — **Banque Delubac & Cie** (fiche du 2026-11-23) · **entrée ajoutée**
 - `2026-11-23 (constaté)` — **Assoclub** (fiche du 2026-10-31) · Statut : Revendiquée → Confirmée
 - `2026-11-23 (constaté)` — **Assoclub** (fiche du 2026-10-31) · Description publique réécrite — texte non reproduit (empreinte f90eccc625dd0c95 → 7464c833c11c0af8)
 - `2026-11-23 (constaté)` — **Score'n'co** (fiche du 2026-09-27) · Statut : Revendiquée → Confirmée
