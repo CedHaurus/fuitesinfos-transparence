@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**640** entrées ajoutées · **7** retirées · **806** corrections individuelles · **13** révisions groupées (945 fiches)
+**640** entrées ajoutées · **7** retirées · **808** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `525d84c207cc3a45bd14d4953573baa3fee10b7d9e044caa385878092c7f99fb`
+Empreinte de tête : `2521a0331819318f23d32fc04c67e6e540ddd23c14556f4822d2abbfe9983fc8`
 
 > **7 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée · 1 information devenue inexacte. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-23 (constaté)` — **Predige** (fiche du 2026-10-04) · Statut : Revendiquée → Confirmée
+- `2026-11-23 (constaté)` — **Predige** (fiche du 2026-10-04) · Description publique réécrite — texte non reproduit (empreinte 4fce5d6f1a34acd3 → 4bb44130215a60a8)
 - `2026-11-23 (constaté)` — **Docurba** (fiche du 2026-08-25) · Statut : Revendiquée → Confirmée
 - `2026-11-23 (constaté)` — **Docurba** (fiche du 2026-08-25) · Description publique réécrite — texte non reproduit (empreinte 26efff37d6e337e6 → bddcff22d2e60097)
 - `2026-11-23 (constaté)` — **Be-in-Home** (fiche du 2026-10-17) · Statut : Revendiquée → Confirmée
