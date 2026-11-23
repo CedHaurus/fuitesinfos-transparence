@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**642** entrées ajoutées · **7** retirées · **808** corrections individuelles · **13** révisions groupées (945 fiches)
+**643** entrées ajoutées · **7** retirées · **808** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `2c073ade533403a1eb624400eb599da432f56e124fb49aac1e57766afa63b577`
+Empreinte de tête : `b72842fc5bd8a6e2ea977ddb5a1f98bb06ce7e4461cb84231a46adeab9f75519`
 
 > **7 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée · 1 information devenue inexacte. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-23` — **LWS** (fiche du 2026-11-23) · **entrée ajoutée**
 - `2026-11-23` — **OC Sport** (fiche du 2026-11-20) · **entrée ajoutée**
 - `2026-11-23` — **Arobases** (fiche du 2026-11-17) · **entrée ajoutée**
 - `2026-11-23 (constaté)` — **Predige** (fiche du 2026-10-04) · Statut : Revendiquée → Confirmée
