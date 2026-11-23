@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**640** entrées ajoutées · **6** retirées · **798** corrections individuelles · **13** révisions groupées (945 fiches)
+**640** entrées ajoutées · **6** retirées · **800** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `022f657732b7497a6d1b3aadd068c04dfdcd6526c5adfedc8afe895cd821ea3a`
+Empreinte de tête : `cf1cedbc23cb3a9c6be834d782a56fdc3c032fffd37727e461462d90a0e72d7f`
 
 > **6 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-23 (constaté)` — **Cigusto** (fiche du 2026-09-26) · Statut : Revendiquée → Confirmée
+- `2026-11-23 (constaté)` — **Cigusto** (fiche du 2026-09-26) · Description publique réécrite — texte non reproduit (empreinte 07a5013fe1e8100a → e31f59007efc73b2)
 - `2026-11-23 (constaté)` — **Cigusto** (fiche du 2026-09-26) · Description publique réécrite — texte non reproduit (empreinte 2ed4be55e9d4ae63 → 07a5013fe1e8100a)
 - `2026-11-23` — **Decathlon** (fiche du 2026-11-23) · **entrée ajoutée**
 - `2026-11-23` — **AAAEP** (fiche du 2026-11-23) · **entrée ajoutée**
