@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**638** entrées ajoutées · **6** retirées · **797** corrections individuelles · **13** révisions groupées (945 fiches)
+**640** entrées ajoutées · **6** retirées · **797** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `79489c705c86b063383d2d527399a41b420884a1a55d11f35c403c1a8dddd1c0`
+Empreinte de tête : `f2ce81929b38e1707788f96bb85f213aa80a3d49c6fb3b49cfdf4501f7e28f55`
 
 > **6 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-23` — **Decathlon** (fiche du 2026-11-23) · **entrée ajoutée**
+- `2026-11-23` — **AAAEP** (fiche du 2026-11-23) · **entrée ajoutée**
 - `2026-11-23` — **Fondation des Femmes** (fiche du 2026-11-23) · **entrée ajoutée**
 - `2026-11-23` — **LAPSA** (fiche du 2026-11-23) · **entrée ajoutée**
 - `2026-11-22` — **Wanda Collection** (fiche du 2026-11-22) · **entrée ajoutée**
