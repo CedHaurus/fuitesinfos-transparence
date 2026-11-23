@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**636** entrées ajoutées · **6** retirées · **797** corrections individuelles · **13** révisions groupées (945 fiches)
+**637** entrées ajoutées · **6** retirées · **797** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `f277609d00760e358a217a66671ac9c29d249a17e2d6e1c02246d741bb52656e`
+Empreinte de tête : `78d6f27be73a7d20ad3ee91eb16b801e2d12d319345663b442a9ba8a6e8d3d43`
 
 > **6 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-23` — **LAPSA** (fiche du 2026-11-23) · **entrée ajoutée**
 - `2026-11-22` — **Wanda Collection** (fiche du 2026-11-22) · **entrée ajoutée**
 - `2026-11-22` — **Subtil Diamant** (fiche du 2026-11-22) · **entrée ajoutée**
 - `2026-11-22` — **La Chouette Mauve** (fiche du 2026-11-22) · **entrée ajoutée**
