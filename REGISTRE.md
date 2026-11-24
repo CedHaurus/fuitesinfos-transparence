@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**649** entrées ajoutées · **7** retirées · **820** corrections individuelles · **13** révisions groupées (945 fiches)
+**649** entrées ajoutées · **7** retirées · **822** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `e9013644bc00aca92cd799960c3e8d8d81cde12f85c0b3b09d0fddf620fd6d1a`
+Empreinte de tête : `8556c953108342130c1c624ced381f5bfe12e4736274412fcb38a58dd37886b3`
 
 > **7 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée · 1 information devenue inexacte. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-24` — **LocService** (fiche du 2026-11-19) · Description publique réécrite — texte non reproduit (empreinte 1678251fb5b1cabf → ae1f07ee4b0892cc)
+- `2026-11-24` — **LocService** (fiche du 2026-11-19) · Nature des données : ajouté Adresse IP, Adresses web, Numéro de téléphone
 - `2026-11-23 (constaté)` — **Arobases** (fiche du 2026-11-17) · Description publique réécrite — texte non reproduit (empreinte f7e3c3de5ff4a2e5 → 2357b5bf81a62568)
 - `2026-11-23` — **Les Gazons Parisiens** (fiche du 2026-11-23) · **entrée ajoutée**
 - `2026-11-23` — **La Fabrique d'écharpe** (fiche du 2026-11-23) · **entrée ajoutée**
