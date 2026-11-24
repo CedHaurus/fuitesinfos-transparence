@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**654** entrées ajoutées · **7** retirées · **825** corrections individuelles · **13** révisions groupées (945 fiches)
+**654** entrées ajoutées · **7** retirées · **827** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `081663bc483ec7bb4de818b7e3f71de6bea6f7409b93954b7ce0e72937905fd0`
+Empreinte de tête : `a6183ee52c3ca933b95b877010f0d2ebebe3464645762a2539fe519ed8c63354`
 
 > **7 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée · 1 information devenue inexacte. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-24 (constaté)` — **FranceBourse** (fiche du 2026-10-10) · Statut : Revendiquée → Confirmée
+- `2026-11-24 (constaté)` — **FranceBourse** (fiche du 2026-10-10) · Description publique réécrite — texte non reproduit (empreinte 016b280db3ee5966 → 861d3a6017be8409)
 - `2026-11-24 (constaté)` — **Love and Vibes** (fiche du 2026-11-02) · Description publique réécrite — texte non reproduit (empreinte 05b52b6bb18c79c2 → 6be30b16d468131d)
 - `2026-11-24 (constaté)` — **Love and Vibes** (fiche du 2026-11-02) · Nature des données : ajouté Champs libres, Identifiant interne, Pays
 - `2026-11-24 (constaté)` — **Arobases** (fiche du 2026-11-17) · Description publique réécrite — texte non reproduit (empreinte 2357b5bf81a62568 → e2cd7c0c9f4e7c5e)
