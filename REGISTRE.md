@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**659** entrées ajoutées · **7** retirées · **836** corrections individuelles · **13** révisions groupées (945 fiches)
+**660** entrées ajoutées · **7** retirées · **836** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `5bd81338769659736ce3c66ae30982ca6e2eb3f816541905d80ca98d369dd3c7`
+Empreinte de tête : `1d87d27efe368ce52a95751bfc4925cedaf05ef9c10e92b2c72d1f79fefd57f0`
 
 > **7 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée · 1 information devenue inexacte. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-25` — **Snipes** (fiche du 2026-11-24) · **entrée ajoutée**
 - `2026-11-25` — **Inmac Wstore** (fiche du 2026-11-25) · **entrée ajoutée**
 - `2026-11-25` — **Septeo IT Solutions** (fiche du 2026-11-24) · **entrée ajoutée**
 - `2026-11-25 (constaté)` — **Arobases** (fiche du 2026-11-17) · Description publique réécrite — texte non reproduit (empreinte e2cd7c0c9f4e7c5e → 568efd38dba11da1)
