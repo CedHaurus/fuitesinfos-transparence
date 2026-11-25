@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**661** entrées ajoutées · **7** retirées · **836** corrections individuelles · **13** révisions groupées (945 fiches)
+**667** entrées ajoutées · **7** retirées · **837** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `08c47746bd86d6dc0870abe05089f0c805ca568d6c460beb36267c8870471cde`
+Empreinte de tête : `94f66a79a9bb5aca84e9c22393043fc6060cc3f2293af951f37d455c1a6c1752`
 
 > **7 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée · 1 information devenue inexacte. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,13 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-25 (constaté)` — **Arobases** (fiche du 2026-11-17) · Description publique réécrite — texte non reproduit (empreinte 568efd38dba11da1 → f5155e1f9207e2cb)
+- `2026-11-25` — **Technimusic** (fiche du 2026-11-25) · **entrée ajoutée**
+- `2026-11-25` — **Stickers-Folies** (fiche du 2026-11-25) · **entrée ajoutée**
+- `2026-11-25` — **Laboratoires Lehning** (fiche du 2026-11-25) · **entrée ajoutée**
+- `2026-11-25` — **Idéa Bois Nicolas** (fiche du 2026-11-25) · **entrée ajoutée**
+- `2026-11-25` — **Creativ'Sign** (fiche du 2026-11-25) · **entrée ajoutée**
+- `2026-11-25` — **Alexandre de Paris** (fiche du 2026-11-25) · **entrée ajoutée**
 - `2026-11-25` — **Ligue Nationale de Basket** (fiche du 2026-11-25) · **entrée ajoutée**
 - `2026-11-25` — **Snipes** (fiche du 2026-11-24) · **entrée ajoutée**
 - `2026-11-25` — **Inmac Wstore** (fiche du 2026-11-25) · **entrée ajoutée**
