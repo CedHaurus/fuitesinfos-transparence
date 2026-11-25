@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**657** entrées ajoutées · **7** retirées · **836** corrections individuelles · **13** révisions groupées (945 fiches)
+**658** entrées ajoutées · **7** retirées · **836** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `df39d4b2f8a89e76efa2fc85c4780d8381e759a42e9ec3544f91e9afe7e1a5ea`
+Empreinte de tête : `897b1f9e4b80d53645326eaa8cb5c46d192356399679fde0d7cf1d901f1466b3`
 
 > **7 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée · 1 information devenue inexacte. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-25` — **Septeo IT Solutions** (fiche du 2026-11-24) · **entrée ajoutée**
 - `2026-11-25 (constaté)` — **Arobases** (fiche du 2026-11-17) · Description publique réécrite — texte non reproduit (empreinte e2cd7c0c9f4e7c5e → 568efd38dba11da1)
 - `2026-11-25` — **Univers du Cuir** (fiche du 2026-11-23) · **entrée ajoutée**
 - `2026-11-25 (constaté)` — **Timer Immobilier** (fiche du 2026-06-18) · Description publique réécrite — texte non reproduit (empreinte a87635175804b4d1 → 6a73eb20764b3faf)
