@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**656** entrées ajoutées · **7** retirées · **834** corrections individuelles · **13** révisions groupées (945 fiches)
+**656** entrées ajoutées · **7** retirées · **835** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `dd01c60f7eed78e79cf3d7c75b4229ef9f93cfceb7f8b385648412e55ce7aa33`
+Empreinte de tête : `fc0dedda2b5271bf5c7f0b22220c921089fec770939cc0a0e7fcd0acc3d9ac01`
 
 > **7 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée · 1 information devenue inexacte. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-25 (constaté)` — **Timer Immobilier** (fiche du 2026-06-18) · Description publique réécrite — texte non reproduit (empreinte a87635175804b4d1 → 6a73eb20764b3faf)
 - `2026-11-25 (constaté)` — **Cours Thalès** (fiche du 2026-10-03) · Statut : Revendiquée → Confirmée
 - `2026-11-25 (constaté)` — **Cours Thalès** (fiche du 2026-10-03) · Description publique réécrite — texte non reproduit (empreinte 12fac87e2ee562a7 → 33f427d697b64d8a)
 - `2026-11-25 (constaté)` — **Bebeboutik** (fiche du 2026-07-10) · Statut : Revendiquée → Confirmée
