@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**660** entrées ajoutées · **7** retirées · **836** corrections individuelles · **13** révisions groupées (945 fiches)
+**661** entrées ajoutées · **7** retirées · **836** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `1d87d27efe368ce52a95751bfc4925cedaf05ef9c10e92b2c72d1f79fefd57f0`
+Empreinte de tête : `08c47746bd86d6dc0870abe05089f0c805ca568d6c460beb36267c8870471cde`
 
 > **7 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée · 1 information devenue inexacte. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-25` — **Ligue Nationale de Basket** (fiche du 2026-11-25) · **entrée ajoutée**
 - `2026-11-25` — **Snipes** (fiche du 2026-11-24) · **entrée ajoutée**
 - `2026-11-25` — **Inmac Wstore** (fiche du 2026-11-25) · **entrée ajoutée**
 - `2026-11-25` — **Septeo IT Solutions** (fiche du 2026-11-24) · **entrée ajoutée**
