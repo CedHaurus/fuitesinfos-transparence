@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**656** entrées ajoutées · **7** retirées · **832** corrections individuelles · **13** révisions groupées (945 fiches)
+**656** entrées ajoutées · **7** retirées · **834** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `818dd68e9214cb6e93b869a0121d104bf393425cb2d04705ba396c9803b67d04`
+Empreinte de tête : `dd01c60f7eed78e79cf3d7c75b4229ef9f93cfceb7f8b385648412e55ce7aa33`
 
 > **7 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée · 1 information devenue inexacte. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-25 (constaté)` — **Cours Thalès** (fiche du 2026-10-03) · Statut : Revendiquée → Confirmée
+- `2026-11-25 (constaté)` — **Cours Thalès** (fiche du 2026-10-03) · Description publique réécrite — texte non reproduit (empreinte 12fac87e2ee562a7 → 33f427d697b64d8a)
 - `2026-11-25 (constaté)` — **Bebeboutik** (fiche du 2026-07-10) · Statut : Revendiquée → Confirmée
 - `2026-11-25 (constaté)` — **Bebeboutik** (fiche du 2026-07-10) · Description publique réécrite — texte non reproduit (empreinte 598751d605d769ca → e1b49a712035c7d8)
 - `2026-11-24` — **Macadam** (fiche du 2026-11-24) · **entrée ajoutée**
