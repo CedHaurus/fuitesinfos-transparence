@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**656** entrées ajoutées · **7** retirées · **830** corrections individuelles · **13** révisions groupées (945 fiches)
+**656** entrées ajoutées · **7** retirées · **832** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `53757f110e9120d7ab2af69d518bcd579e8c1a1f51d12b9fdd28108cbb69549d`
+Empreinte de tête : `818dd68e9214cb6e93b869a0121d104bf393425cb2d04705ba396c9803b67d04`
 
 > **7 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée · 1 information devenue inexacte. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-25 (constaté)` — **Bebeboutik** (fiche du 2026-07-10) · Statut : Revendiquée → Confirmée
+- `2026-11-25 (constaté)` — **Bebeboutik** (fiche du 2026-07-10) · Description publique réécrite — texte non reproduit (empreinte 598751d605d769ca → e1b49a712035c7d8)
 - `2026-11-24` — **Macadam** (fiche du 2026-11-24) · **entrée ajoutée**
 - `2026-11-24 (constaté)` — **Decathlon** (fiche du 2026-11-23) · Statut : Revendiquée → Confirmée
 - `2026-11-24 (constaté)` — **Decathlon** (fiche du 2026-11-23) · Description publique réécrite — texte non reproduit (empreinte ac6639943554d79c → 216528481fba8ddb)
