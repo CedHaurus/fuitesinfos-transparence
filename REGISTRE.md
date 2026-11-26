@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**669** entrées ajoutées · **7** retirées · **837** corrections individuelles · **13** révisions groupées (945 fiches)
+**669** entrées ajoutées · **7** retirées · **839** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `9069c0bd114fdc50fd834c4377d6913bd3ed3d613b68959c7720f5b424c06145`
+Empreinte de tête : `74f24e197e6006b9baadd117aadb3916626f4599a49351ec271ed6d2aad2f707`
 
 > **7 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée · 1 information devenue inexacte. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,8 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-26 (constaté)` — **Celinni** (fiche du 2026-09-26) · Statut : Revendiquée → Confirmée
+- `2026-11-26 (constaté)` — **Celinni** (fiche du 2026-09-26) · Description publique réécrite — texte non reproduit (empreinte ebaa21886be60137 → 9e545634f03af2e7)
 - `2026-11-26` — **Intelcia** (fiche du 2026-11-26) · **entrée ajoutée**
 - `2026-11-26` — **Todoist** (fiche du 2026-11-24) · **entrée ajoutée**
 - `2026-11-25 (constaté)` — **Arobases** (fiche du 2026-11-17) · Description publique réécrite — texte non reproduit (empreinte 568efd38dba11da1 → f5155e1f9207e2cb)
