@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**668** entrées ajoutées · **7** retirées · **837** corrections individuelles · **13** révisions groupées (945 fiches)
+**669** entrées ajoutées · **7** retirées · **837** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `583296e8bbd706cabcbfd290bd93110162fb2417cd40d1ff2ae59b9ffddcd611`
+Empreinte de tête : `9069c0bd114fdc50fd834c4377d6913bd3ed3d613b68959c7720f5b424c06145`
 
 > **7 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée · 1 information devenue inexacte. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-26` — **Intelcia** (fiche du 2026-11-26) · **entrée ajoutée**
 - `2026-11-26` — **Todoist** (fiche du 2026-11-24) · **entrée ajoutée**
 - `2026-11-25 (constaté)` — **Arobases** (fiche du 2026-11-17) · Description publique réécrite — texte non reproduit (empreinte 568efd38dba11da1 → f5155e1f9207e2cb)
 - `2026-11-25` — **Technimusic** (fiche du 2026-11-25) · **entrée ajoutée**
