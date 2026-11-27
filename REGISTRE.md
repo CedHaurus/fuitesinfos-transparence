@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**673** entrées ajoutées · **7** retirées · **840** corrections individuelles · **13** révisions groupées (945 fiches)
+**673** entrées ajoutées · **7** retirées · **845** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `760703d92b03b16570c2d020e20051d784daad6f27e54eb51d96bbd21b01eb55`
+Empreinte de tête : `c5878961b8ee4c4fc636dc806a3b3880354f88b4a456cf5e1aa9c4f6aa5052c5`
 
 > **7 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée · 1 information devenue inexacte. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,11 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-27 (constaté)` — **Pixartprinting** (fiche du 2026-07-07) · Statut : Revendiquée → Confirmée
+- `2026-11-27 (constaté)` — **Pixartprinting** (fiche du 2026-07-07) · Description publique réécrite — texte non reproduit (empreinte 89babd8022ba7f26 → ffacc4a5f3b26d3e)
+- `2026-11-27 (constaté)` — **Pagès** (fiche du 2026-11-27) · Description publique réécrite — texte non reproduit (empreinte a5c0f630fc8072c4 → 4029054157fc37e7)
+- `2026-11-27 (constaté)` — **GeoNat'îdF** (fiche du 2026-09-25) · Statut : Revendiquée → Confirmée
+- `2026-11-27 (constaté)` — **GeoNat'îdF** (fiche du 2026-09-25) · Description publique réécrite — texte non reproduit (empreinte 6f42c9bed4bc451a → f8cadc81d9f6476e)
 - `2026-11-27` — **Gold Union** (fiche du 2026-04-02) · Site de l'entité : https://gold-union.com/fr → https://goldunion.fr/
 - `2026-11-27` — **StoragePal** (fiche du 2026-11-26) · **entrée ajoutée**
 - `2026-11-27` — **Pagès** (fiche du 2026-11-27) · **entrée ajoutée**
