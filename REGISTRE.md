@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**673** entrées ajoutées · **7** retirées · **847** corrections individuelles · **13** révisions groupées (945 fiches)
+**673** entrées ajoutées · **7** retirées · **848** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `8624301de800e61816499aac38b178d95a4a2ef8398b7acab15b17f4b498b700`
+Empreinte de tête : `d2fdfbfbc2a8f112c3320a39bdbd750485e0774aba2f818db693a4a3298ba900`
 
 > **7 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée · 1 information devenue inexacte. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,7 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-28 (constaté)` — **Softway Medical** (fiche du 2026-11-08) · Description publique réécrite — texte non reproduit (empreinte d1db7d277cc13d67 → 0147b0d6ad849bd3)
 - `2026-11-28` — **Softway Medical** (fiche du 2026-11-08) · Volume concerné : (vide) → 11 000 000
 - `2026-11-28` — **Softway Medical** (fiche du 2026-11-08) · Description publique réécrite — texte non reproduit (empreinte 2eea4e83b3b45f4c → d1db7d277cc13d67)
 - `2026-11-27 (constaté)` — **Pixartprinting** (fiche du 2026-07-07) · Statut : Revendiquée → Confirmée
