@@ -2,9 +2,9 @@
 
 Période couverte : du 2026-07-05 à aujourd'hui.
 
-**673** entrées ajoutées · **7** retirées · **848** corrections individuelles · **13** révisions groupées (945 fiches)
+**674** entrées ajoutées · **7** retirées · **851** corrections individuelles · **13** révisions groupées (945 fiches)
 
-Empreinte de tête : `d2fdfbfbc2a8f112c3320a39bdbd750485e0774aba2f818db693a4a3298ba900`
+Empreinte de tête : `ddd6dba2e4bd40ee39a5fae5f1b2475bfc90b7e6bfd24b38f48a0ab80d7c4bea`
 
 > **7 entrée(s) retirée(s) depuis le début de cette période.**
 > Répartition par motif : 3 doublon ou regroupement de fiches · 2 erreur de notre part · 1 retrait sur demande, sans erreur constatée · 1 information devenue inexacte. Chaque retrait est détaillé ci-dessous.
@@ -15,6 +15,10 @@ Les changements sont classés du plus récent au plus ancien. La portée exacte 
 
 ## Novembre 2026
 
+- `2026-11-28 (constaté)` — **Interservices** (fiche du 2026-11-16) · Statut : Revendiquée → Confirmée
+- `2026-11-28 (constaté)` — **Interservices** (fiche du 2026-11-16) · Description publique réécrite — texte non reproduit (empreinte c83fcc7c6c2e89a3 → b0b52df6c351f97a)
+- `2026-11-28 (constaté)` — **Interservices** (fiche du 2026-11-16) · Nature des données : ajouté Documents
+- `2026-11-28` — **ParuVendu** (fiche du 2026-11-28) · **entrée ajoutée**
 - `2026-11-28 (constaté)` — **Softway Medical** (fiche du 2026-11-08) · Description publique réécrite — texte non reproduit (empreinte d1db7d277cc13d67 → 0147b0d6ad849bd3)
 - `2026-11-28` — **Softway Medical** (fiche du 2026-11-08) · Volume concerné : (vide) → 11 000 000
 - `2026-11-28` — **Softway Medical** (fiche du 2026-11-08) · Description publique réécrite — texte non reproduit (empreinte 2eea4e83b3b45f4c → d1db7d277cc13d67)
